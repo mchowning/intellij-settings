@@ -5,14 +5,17 @@
     <filemarks>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/service/web/entitlements/diagnostics/VehicleStatusEntitlement.java" timestamp="1460128489013" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1460125100421" />
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OdometerInfoBlockPresenter.java" timestamp="1460138680011">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OdometerInfoBlockPresenter.java" timestamp="1460138941982">
+        <mark key="'" line="89" column="16" />
         <mark key="[" line="76" column="54" />
         <mark key="]" line="76" column="86" />
         <mark key="^" line="76" column="86" />
         <mark key="." line="76" column="86" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="89" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OdometerInfoBlockPresenter.java" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
