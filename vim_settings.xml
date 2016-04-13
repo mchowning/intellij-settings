@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1460473116258">
         <mark key="'" line="722" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
+        <mark key="[" line="96" column="61" />
+        <mark key="]" line="96" column="61" />
+        <mark key="." line="96" column="73" />
+        <mark key="^" line="95" column="68" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/dimens.xml" timestamp="1460471614409">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
@@ -50,10 +56,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@dimen/my_padding</text>
+        <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>@dimen/my_padding</text>
+        <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbml0aWFsQXV0aGVudGljYXRpb25TdWNjZXNzRXZlbnRcPg==</text>
@@ -62,31 +68,31 @@
         <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJteV9wYWRkaW5nIj41ZHA8L2RpbWVuPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>@dimen/my_padding</text>
+        <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text>@dimen/my_padding</text>
       </register>
       <register name="4" type="4">
-        <text>android</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>dimen</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text>dimen</text>
+        <text>android</text>
       </register>
       <register name="7" type="4">
-        <text>header_height</text>
+        <text>dimen</text>
       </register>
       <register name="8" type="4">
-        <text>info_block_margin</text>
+        <text>dimen</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>header_height</text>
       </register>
     </registers>
     <search>
