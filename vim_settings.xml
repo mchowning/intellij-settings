@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1460473116258">
         <mark key="'" line="722" column="21" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.1.0-SNAPSHOT/ceeae646c3a86295ae142ba5aaf94b8f4b8d4b2/gemini-core-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460636977123" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
         <mark key="]" line="23" column="37" />
@@ -25,8 +24,12 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460643929491">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460645945124">
         <mark key="'" line="40" column="4" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="31" column="44" />
+        <mark key="^" line="31" column="44" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/preferred_dealer_info_block_header.xml" timestamp="1460641353881">
         <mark key="[" line="66" column="31" />
@@ -51,10 +54,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/ui/fullscreen/AccountDetailsInfoBlock.java" timestamp="1460638550973">
         <mark key="'" line="39" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1460643939861">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1460645979183">
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="46" column="50" />
+        <mark key="." line="46" column="50" />
+        <mark key="^" line="46" column="50" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
         <mark key="[" line="95" column="61" />
@@ -122,11 +126,11 @@
       <jump line="41" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGluZWFyTGF5b3V0IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>Top</text>
@@ -134,32 +138,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBUZXh0VmlldyBnZXRIZWFkZXJUb3BUZXh0KCkgewogICAgICAgIHJldHVybiBoZWFkZXJUb3BUZXh0OwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>h</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIExpbmVhckxheW91dCBnZXRIZWFkZXJUZXh0TGF5b3V0KCkgewogICAgICAgIAogICAgfQo=</text>
+      <register name="2" type="4">
+        <text>h</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGluZWFyTGF5b3V0IHRleHRMYXlvdXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQgaGVhZGVyVGV4dExheW91dCA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcl90ZXh0KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">TGluZWFyTGF5b3V0IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBoZWFkZXJUZXh0TGF5b3V0ID0gKExpbmVhckxheW91dCkgZmluZFZpZXdCeUlkKFIuaWQuaGVhZGVyX3RleHQpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>void</text>
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ImhoLSIgKyA=</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ImdnLSIgKyA=</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ImZmLSIgKyA=</text>
+        <text encoding="base64">TGluZWFyTGF5b3V0IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
