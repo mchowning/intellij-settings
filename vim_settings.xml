@@ -19,6 +19,12 @@
         <mark key="^" line="74" column="20" />
         <mark key="." line="91" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/res/layout/vehicle_vin_textview.xml" timestamp="1460652899853">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/dimens.xml" timestamp="1460471614409">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
@@ -54,11 +60,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/ui/fullscreen/AccountDetailsInfoBlock.java" timestamp="1460638550973">
         <mark key="'" line="39" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1460645979183">
-        <mark key="[" line="46" column="49" />
-        <mark key="]" line="46" column="50" />
-        <mark key="." line="46" column="50" />
-        <mark key="^" line="46" column="50" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1460652977066">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="50" column="50" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
         <mark key="[" line="95" column="61" />
@@ -126,8 +132,8 @@
       <jump line="41" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2aW5MYWJlbC5zZXRUZXh0SXNTZWxlY3RhYmxlKHRydWUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -138,20 +144,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBUZXh0VmlldyBnZXRIZWFkZXJUb3BUZXh0KCkgewogICAgICAgIHJldHVybiBoZWFkZXJUb3BUZXh0OwogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>h</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2aW5MYWJlbC5zZXRUZXh0SXNTZWxlY3RhYmxlKHRydWUpOwo=</text>
       </register>
       <register name="2" type="4">
         <text>h</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQgaGVhZGVyVGV4dExheW91dCA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcl90ZXh0KTsK</text>
+      <register name="3" type="4">
+        <text>h</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBoZWFkZXJUZXh0TGF5b3V0ID0gKExpbmVhckxheW91dCkgZmluZFZpZXdCeUlkKFIuaWQuaGVhZGVyX3RleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQgaGVhZGVyVGV4dExheW91dCA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcl90ZXh0KTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>t</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBoZWFkZXJUZXh0TGF5b3V0ID0gKExpbmVhckxheW91dCkgZmluZFZpZXdCeUlkKFIuaWQuaGVhZGVyX3RleHQpOwo=</text>
       </register>
       <register name="6" type="4">
         <text>t</text>
@@ -163,7 +169,7 @@
         <text>t</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">TGluZWFyTGF5b3V0IA==</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
