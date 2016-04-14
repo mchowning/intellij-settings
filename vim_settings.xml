@@ -13,17 +13,20 @@
         <mark key="'" line="722" column="21" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
-        <mark key="[" line="96" column="61" />
-        <mark key="]" line="96" column="61" />
-        <mark key="." line="96" column="73" />
+        <mark key="[" line="95" column="61" />
+        <mark key="]" line="95" column="61" />
+        <mark key="." line="95" column="73" />
         <mark key="^" line="95" column="68" />
+      </file>
+      <file name="/a.dummy" timestamp="1460635349146">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/dimens.xml" timestamp="1460471614409">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1460471637019">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1460635236744">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -48,11 +51,15 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" timestamp="1460635365048">
+        <mark key="'" line="53" column="49" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="89" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OdometerInfoBlockPresenter.java" />
       <jump line="544" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="722" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" />
+      <jump line="53" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -62,7 +69,7 @@
         <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbml0aWFsQXV0aGVudGljYXRpb25TdWNjZXNzRXZlbnRcPg==</text>
+        <text>alskdfj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJteV9wYWRkaW5nIj41ZHA8L2RpbWVuPgo=</text>
@@ -96,15 +103,18 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbml0aWFsQXV0aGVudGljYXRpb25TdWNjZXNzRXZlbnRcPg==</last-search>
+      <last-search>alskdfj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbml0aWFsQXV0aGVudGljYXRpb25TdWNjZXNzRXZlbnRcPg==</last-pattern>
+      <last-pattern>alskdfj</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxJbml0aWFsQXV0aGVudGljYXRpb25TdWNjZXNzRXZlbnRcPg==</entry>
+        <entry>pdf</entry>
+        <entry>attach</entry>
+        <entry>alskdfj</entry>
       </history-search>
       <history-cmd />
       <history-expr />
