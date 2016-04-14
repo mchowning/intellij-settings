@@ -3,20 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1460473116258">
         <mark key="'" line="722" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
-        <mark key="[" line="95" column="61" />
-        <mark key="]" line="95" column="61" />
-        <mark key="." line="95" column="73" />
-        <mark key="^" line="95" column="68" />
       </file>
       <file name="/a.dummy" timestamp="1460635349146">
         <mark key="[" line="0" column="0" />
@@ -25,6 +13,21 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" timestamp="1460635365048">
+        <mark key="'" line="53" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
+        <mark key="[" line="95" column="61" />
+        <mark key="]" line="95" column="61" />
+        <mark key="." line="95" column="73" />
+        <mark key="^" line="95" column="68" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1460635236744">
         <mark key="[" line="20" column="1" />
@@ -51,8 +54,8 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" timestamp="1460635365048">
-        <mark key="'" line="53" column="49" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" timestamp="1460636371705">
+        <mark key="'" line="45" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -60,6 +63,21 @@
       <jump line="544" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="722" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="53" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" />
+      <jump line="49" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="66" column="60" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="74" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="81" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="85" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="86" column="36" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="91" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="95" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="114" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="122" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="128" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="149" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="14" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="30" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
+      <jump line="45" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -69,7 +87,7 @@
         <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>alskdfj</text>
+        <text encoding="base64">XDxzZWFyY2hWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJteV9wYWRkaW5nIj41ZHA8L2RpbWVuPgo=</text>
@@ -103,9 +121,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alskdfj</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern>alskdfj</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hWaWV3XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -115,6 +133,7 @@
         <entry>pdf</entry>
         <entry>attach</entry>
         <entry>alskdfj</entry>
+        <entry encoding="base64">XDxzZWFyY2hWaWV3XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
