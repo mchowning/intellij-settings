@@ -13,10 +13,28 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" timestamp="1460641800484">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="91" column="40" />
+        <mark key="]" line="91" column="40" />
+        <mark key="^" line="74" column="20" />
+        <mark key="." line="91" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/dimens.xml" timestamp="1460471614409">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/preferred_dealer_info_block_header.xml" timestamp="1460641353881">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="67" column="37" />
+        <mark key="^" line="67" column="37" />
+        <mark key="." line="67" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/fragment_preferred_dealer.xml" timestamp="1460640541308">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" timestamp="1460635365048">
         <mark key="'" line="53" column="49" />
@@ -42,12 +60,6 @@
         <mark key="." line="95" column="73" />
         <mark key="^" line="95" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/ui/fullscreen/AccountDetailView.java" timestamp="1460638622587">
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="30" />
-        <mark key="^" line="55" column="30" />
-        <mark key="." line="55" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1460635236744">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="0" />
@@ -59,13 +71,6 @@
         <mark key="]" line="17" column="57" />
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OdometerInfoBlockPresenter.java" timestamp="1460138941982">
-        <mark key="'" line="89" column="16" />
-        <mark key="[" line="76" column="54" />
-        <mark key="]" line="76" column="86" />
-        <mark key="^" line="76" column="86" />
-        <mark key="." line="76" column="86" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
         <mark key="[" line="11" column="31" />
@@ -98,52 +103,66 @@
       <jump line="30" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
       <jump line="45" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
       <jump line="39" column="60" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/ui/fullscreen/AccountDetailsInfoBlock.java" />
+      <jump line="74" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="66" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="67" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="71" column="47" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="75" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="79" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="83" column="45" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="87" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="91" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="100" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="104" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">ImhoLSIgKyA=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">ImhoLSIgKyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NvdW50TmFtZVw+</text>
+        <text>asdlfjk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWxWYWx1ZS5zZXRUZXh0SXNTZWxlY3RhYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9kYXNoYm9hcmQucHJlZmVycmVkLmRlYWxlci5idXR0b24uZmluZC5uZWFyZXN0LmRlYWxlcnMiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>a</text>
+        <text encoding="base64">ImhoLSIgKyA=</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text encoding="base64">ImdnLSIgKyA=</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text encoding="base64">ImZmLSIgKyA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aW5MYWJlbC5zZXRCYWNrCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ImVlLSIgKyA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ImRkLSIgKyA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aW5MYWJlbC5zZXRUZXh0Q29sb3IoKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ImNjLSIgKyA=</text>
       </register>
       <register name="7" type="4">
-        <text>header_top_text</text>
+        <text encoding="base64">ImJiLSIgKyA=</text>
       </register>
       <register name="8" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text encoding="base64">ImFhLSIgKyA=</text>
       </register>
-      <register name="9" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHNqdHJpbmcvZGFzaGJvYXJkZGVhbGVyIiAvPgo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2NvdW50TmFtZVw+</last-search>
+      <last-search>asdlfjk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NvdW50TmFtZVw+</last-pattern>
+      <last-pattern>asdlfjk</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -156,6 +175,15 @@
         <entry encoding="base64">XDxzZWFyY2hWaWV3XD4=</entry>
         <entry>focus</entry>
         <entry encoding="base64">XDxhY2NvdW50TmFtZVw+</entry>
+        <entry>&quot;**-&quot;</entry>
+        <entry>\&quot;*-&quot;</entry>
+        <entry>asdflj</entry>
+        <entry>\*</entry>
+        <entry encoding="base64">XDxp</entry>
+        <entry>\i*w</entry>
+        <entry>\i*w\</entry>
+        <entry>\i.w</entry>
+        <entry>asdlfjk</entry>
       </history-search>
       <history-cmd />
       <history-expr />
