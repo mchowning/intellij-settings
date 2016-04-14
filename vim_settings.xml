@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1460473116258">
         <mark key="'" line="722" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.1.0-SNAPSHOT/ceeae646c3a86295ae142ba5aaf94b8f4b8d4b2/gemini-core-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460636977123" />
       <file name="/a.dummy" timestamp="1460635349146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,6 +23,12 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1460636937919">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="54" />
+        <mark key="^" line="36" column="54" />
+        <mark key="." line="36" column="54" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
         <mark key="[" line="95" column="61" />
@@ -81,43 +88,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text>header_top_text</text>
       </register>
       <register name="-" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text>header_top_text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJteV9wYWRkaW5nIj41ZHA8L2RpbWVuPgo=</text>
+        <text encoding="base64">ICAgICAgICAoKFRleHRWaWV3KWZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcl90b3BfdGV4dCkpLnNldFRleHRJc1NlbGVjdGFibGUodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text>header_top_text</text>
       </register>
       <register name="2" type="4">
         <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="3" type="4">
-        <text>@dimen/my_padding</text>
+        <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>@dimen/my_padding</text>
       </register>
       <register name="5" type="4">
-        <text>:</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>android</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>dimen</text>
+        <text>android</text>
       </register>
       <register name="8" type="4">
         <text>dimen</text>
       </register>
       <register name="9" type="4">
-        <text>header_height</text>
+        <text>dimen</text>
       </register>
     </registers>
     <search>
