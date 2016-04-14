@@ -25,6 +25,9 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460643929491">
+        <mark key="'" line="40" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/preferred_dealer_info_block_header.xml" timestamp="1460641353881">
         <mark key="[" line="66" column="31" />
         <mark key="]" line="67" column="37" />
@@ -48,11 +51,10 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/ui/fullscreen/AccountDetailsInfoBlock.java" timestamp="1460638550973">
         <mark key="'" line="39" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1460637684026">
-        <mark key="[" line="37" column="84" />
-        <mark key="]" line="38" column="17" />
-        <mark key="." line="38" column="17" />
-        <mark key="^" line="38" column="17" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1460643939861">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460563655291">
         <mark key="[" line="95" column="61" />
@@ -117,52 +119,58 @@
       <jump line="104" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ImhoLSIgKyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ImhoLSIgKyA=</text>
+        <text encoding="base64">TGluZWFyTGF5b3V0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfjk</text>
+        <text>Top</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9kYXNoYm9hcmQucHJlZmVycmVkLmRlYWxlci5idXR0b24uZmluZC5uZWFyZXN0LmRlYWxlcnMiIC8+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXh0VmlldyBnZXRIZWFkZXJUb3BUZXh0KCkgewogICAgICAgIHJldHVybiBoZWFkZXJUb3BUZXh0OwogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ImhoLSIgKyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ImdnLSIgKyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAogICAgcHVibGljIExpbmVhckxheW91dCBnZXRIZWFkZXJUZXh0TGF5b3V0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ImZmLSIgKyA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGluZWFyTGF5b3V0IHRleHRMYXlvdXQ7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ImVlLSIgKyA=</text>
+        <text encoding="base64">TGluZWFyTGF5b3V0IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ImRkLSIgKyA=</text>
+        <text>void</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ImNjLSIgKyA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ImJiLSIgKyA=</text>
+        <text encoding="base64">ImhoLSIgKyA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ImFhLSIgKyA=</text>
+        <text encoding="base64">ImdnLSIgKyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHNqdHJpbmcvZGFzaGJvYXJkZGVhbGVyIiAvPgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ImZmLSIgKyA=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
       </register>
     </registers>
     <search>
       <last-search>asdlfjk</last-search>
       <last-offset />
-      <last-pattern>asdlfjk</last-pattern>
+      <last-pattern>Top</last-pattern>
+      <last-replace>Bottom</last-replace>
+      <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -184,8 +192,11 @@
         <entry>\i*w\</entry>
         <entry>\i.w</entry>
         <entry>asdlfjk</entry>
+        <entry>Top</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
