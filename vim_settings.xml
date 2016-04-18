@@ -69,11 +69,15 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="50" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1460656172537">
-        <mark key="[" line="95" column="61" />
-        <mark key="]" line="95" column="61" />
-        <mark key="." line="95" column="73" />
-        <mark key="^" line="95" column="68" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/AndroidManifest.xml" timestamp="1461002729857">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461002714895">
+        <mark key="[" line="81" column="36" />
+        <mark key="]" line="81" column="36" />
+        <mark key="." line="81" column="36" />
+        <mark key="^" line="81" column="36" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1460635236744">
         <mark key="[" line="20" column="1" />
@@ -98,6 +102,11 @@
       </file>
       <file name="/fragment.java" timestamp="1460990903308">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/app/src/main/AndroidManifest.xml" timestamp="1461002737556">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" timestamp="1460655794984">
         <mark key="'" line="45" column="52" />
@@ -155,7 +164,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2aW5MYWJlbC5zZXRUZXh0SXNTZWxlY3RhYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -164,25 +173,25 @@
         <text encoding="base64">XDxyZW9yZGVyQ3JpdGljYWxJbmZvQmxvY2tzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXh0VmlldyBnZXRIZWFkZXJUb3BUZXh0KCkgewogICAgICAgIHJldHVybiBoZWFkZXJUb3BUZXh0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuTEFVTkNIRVIiIC8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aW5MYWJlbC5zZXRUZXh0SXNTZWxlY3RhYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>h</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2aW5MYWJlbC5zZXRUZXh0SXNTZWxlY3RhYmxlKHRydWUpOwo=</text>
       </register>
       <register name="3" type="4">
         <text>h</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQgaGVhZGVyVGV4dExheW91dCA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcl90ZXh0KTsK</text>
+      <register name="4" type="4">
+        <text>h</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBoZWFkZXJUZXh0TGF5b3V0ID0gKExpbmVhckxheW91dCkgZmluZFZpZXdCeUlkKFIuaWQuaGVhZGVyX3RleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQgaGVhZGVyVGV4dExheW91dCA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcl90ZXh0KTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBoZWFkZXJUZXh0TGF5b3V0ID0gKExpbmVhckxheW91dCkgZmluZFZpZXdCeUlkKFIuaWQuaGVhZGVyX3RleHQpOwo=</text>
       </register>
       <register name="7" type="4">
         <text>t</text>
