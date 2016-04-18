@@ -44,6 +44,9 @@
   <action id="Macro.Terminal -&gt; Editor">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ReloadGfmPreviewAction" />
   <action id="ReplaceInPath" />
   <action id="RunClass">
