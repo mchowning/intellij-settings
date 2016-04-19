@@ -44,12 +44,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461005227967">
         <mark key="'" line="109" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461078075083">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461079016037">
         <mark key="'" line="86" column="13" />
-        <mark key="[" line="48" column="65" />
-        <mark key="]" line="49" column="90" />
-        <mark key="." line="49" column="90" />
-        <mark key="^" line="49" column="90" />
+        <mark key="[" line="102" column="43" />
+        <mark key="]" line="102" column="46" />
+        <mark key="." line="102" column="46" />
+        <mark key="^" line="102" column="46" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/AndroidManifest.xml" timestamp="1461002729857">
         <mark key="[" line="25" column="0" />
@@ -76,12 +76,12 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461078315504">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461079786203">
         <mark key="'" line="168" column="20" />
-        <mark key="[" line="146" column="35" />
-        <mark key="]" line="146" column="43" />
-        <mark key="." line="146" column="43" />
-        <mark key="^" line="146" column="43" />
+        <mark key="[" line="142" column="82" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="^" line="168" column="3" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
         <mark key="[" line="11" column="31" />
@@ -243,39 +243,62 @@
       <jump line="168" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlSW5mb0Jsb2NrVG9Ub3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSW5mb0Jsb2NrcyBmb3IgZWFjaCA8Y29kZT5Dcml0aWNhbERpYWdub3N0aWNUeXBlPC9jb2RlPiB3aWxsIGJlCiAgICAgKiBtb3ZlZCB0byB0aGUgdG9wIG9mIHRoZSBzY3JlZW4sIHdpdGggdGhlIGZpcnN0IHR5cGUgYXQgdGhlIHRvcCwKICAgICAqIHRoZSBzZWNvbmQgdHlwZSBzZWNvbmQgZnJvbSB0aGUgdG9wLCBldGMuIElmIHRoZXJlIGFyZSB0d28KICAgICAqIDxjb2RlPkNyaXRpY2FsRGlhZ25vc3RpY1R5cGU8L2NvZGU+IHRoYXQgbWF0Y2ggdGhlIHNhbWUgSW5mb0Jsb2NrLAogICAgICogdGhlbiB0aGUgSW5mb0Jsb2NrIHdpbGwgYmUgcG9zaXRpb25lZCBhY2NvcmRpbmcgdG8gdGhlIGhpZ2hlcgogICAgICogcHJpb3JpdHkgbWF0Y2hpbmcgPGNvZGU+Q3JpdGljYWxEaWFnbm9zdGljVHlwZTwvY29kZT4uCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBnZXRDcml0aWNhbEluZm9CbG9jayhATm9uTnVsbCBDcml0aWNhbEluZm9CbG9ja1R5cGUgY3JpdGljYWxJbmZvQmxvY2tUeXBlKSB7CiAgICAgICAgICAgIHN3aXRjaCAoY3JpdGljYWxJbmZvQmxvY2tUeXBlKSB7CiAgICAgICAgICAgICAgICBjYXNlIFRJUkVfUFJFU1NVUkU6ICAgICAgICAgcmV0dXJuIHRpcmVQcmVzc3VyZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIGNhc2UgRlVFTF9MRVZFTDogICAgICAgICAgICByZXR1cm4gZnVlbExldmVsSW5mb0Jsb2NrOwogICAgICAgICAgICAgICAgY2FzZSBCQVRURVJZX0ZVRUxfUkFOR0U6ICAgIHJldHVybiBiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrOwogICAgICAgICAgICAgICAgY2FzZSBCQVRURVJZX1JBTkdFOiAgICAgICAgIHJldHVybiBiYXR0ZXJ5UmFuZ2VJbmZvQmxvY2s7CiAgICAgICAgICAgICAgICBkZWZhdWx0OiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7IC8vIHNob3VsZCBuZXZlciBoYXBwZW4KICAgICAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
           <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="66" code="0" mods="0" />
           <key char="108" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -283,25 +306,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAvL3B1YmxpYyB2b2lkIG1vdmVJbmZvQmxvY2tUb1RvcChATm9uTnVsbCBDcml0aWNhbEluZm9CbG9ja1R5cGUgY3JpdGljYWxJbmZvQmxvY2tUeXBlKSB7CiAgICAvLyAgICBWaWV3IGluZm9CbG9jayA9IGdldENyaXRpY2FsSW5mb0Jsb2NrKGNyaXRpY2FsSW5mb0Jsb2NrVHlwZSk7CiAgICAvLyAgICBtb3ZlSW5mb0Jsb2NrVG9Ub3AoaW5mb0Jsb2NrKTsKICAgIC8vfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOyAvLyBzaG91bGQgbmV2ZXIgaGFwcGVuCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
