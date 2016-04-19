@@ -44,11 +44,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461005227967">
         <mark key="'" line="109" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461004566803">
-        <mark key="'" line="94" column="13" />
-        <mark key="]" line="97" column="114" />
-        <mark key="." line="97" column="114" />
-        <mark key="^" line="97" column="114" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461078075083">
+        <mark key="'" line="86" column="13" />
+        <mark key="[" line="48" column="65" />
+        <mark key="]" line="49" column="90" />
+        <mark key="." line="49" column="90" />
+        <mark key="^" line="49" column="90" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/AndroidManifest.xml" timestamp="1461002729857">
         <mark key="[" line="25" column="0" />
@@ -75,12 +76,12 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461077208156">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461078315504">
         <mark key="'" line="168" column="20" />
-        <mark key="[" line="161" column="32" />
-        <mark key="]" line="161" column="49" />
-        <mark key="." line="161" column="49" />
-        <mark key="^" line="161" column="49" />
+        <mark key="[" line="146" column="35" />
+        <mark key="]" line="146" column="43" />
+        <mark key="." line="146" column="43" />
+        <mark key="^" line="146" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
         <mark key="[" line="11" column="31" />
@@ -242,20 +243,20 @@
       <jump line="168" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>Fuel</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlSW5mb0Jsb2NrVG9Ub3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb3ZlQ3JpdGljYWxEaWFnbm9zdGljVHlwZVRvVG9wKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUgY3JpdGljYWxEaWFnbm9zdGljVHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVyZXZFbnRpdGxlbWVudCBlcmV2RW50aXRsZW1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCZXZFbnRpdGxlbWVudCBiZXZFbnRpdGxlbWVudCkgewogICAgICAgIHN3aXRjaCAoY3JpdGljYWxEaWFnbm9zdGljVHlwZSkgewogICAgICAgICAgICBjYXNlIFRJUkVfUFJFU1NVUkU6CiAgICAgICAgICAgICAgICBtb3ZlSW5mb0Jsb2NrVG9Ub3AodGlyZVByZXNzdXJlSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEZVRUw6CiAgICAgICAgICAgICAgICBpZiAoZXJldkVudGl0bGVtZW50LmlzRW50aXRsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcChiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKGZ1ZWxMZXZlbEluZm9CbG9jayk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBCQVRURVJZOgogICAgICAgICAgICAgICAgaWYgKGVyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBtb3ZlSW5mb0Jsb2NrVG9Ub3AoYmF0dGVyeUZ1ZWxSYW5nZUluZm9CbG9jayk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGJldkVudGl0bGVtZW50LmlzRW50aXRsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcChiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSW5mb0Jsb2NrcyBmb3IgZWFjaCA8Y29kZT5Dcml0aWNhbERpYWdub3N0aWNUeXBlPC9jb2RlPiB3aWxsIGJlCiAgICAgKiBtb3ZlZCB0byB0aGUgdG9wIG9mIHRoZSBzY3JlZW4sIHdpdGggdGhlIGZpcnN0IHR5cGUgYXQgdGhlIHRvcCwKICAgICAqIHRoZSBzZWNvbmQgdHlwZSBzZWNvbmQgZnJvbSB0aGUgdG9wLCBldGMuIElmIHRoZXJlIGFyZSB0d28KICAgICAqIDxjb2RlPkNyaXRpY2FsRGlhZ25vc3RpY1R5cGU8L2NvZGU+IHRoYXQgbWF0Y2ggdGhlIHNhbWUgSW5mb0Jsb2NrLAogICAgICogdGhlbiB0aGUgSW5mb0Jsb2NrIHdpbGwgYmUgcG9zaXRpb25lZCBhY2NvcmRpbmcgdG8gdGhlIGhpZ2hlcgogICAgICogcHJpb3JpdHkgbWF0Y2hpbmcgPGNvZGU+Q3JpdGljYWxEaWFnbm9zdGljVHlwZTwvY29kZT4uCiAgICAgKi8K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -279,28 +280,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKGluZm9CbG9jayk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Fuel</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgKg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgKiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
