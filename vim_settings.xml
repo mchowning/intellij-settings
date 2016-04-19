@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" timestamp="1460641800484">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="91" column="40" />
+        <mark key="]" line="91" column="40" />
+        <mark key="^" line="74" column="20" />
+        <mark key="." line="91" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/dimens.xml" timestamp="1460471614409">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
@@ -37,11 +44,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461005227967">
         <mark key="'" line="109" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461082140292">
-        <mark key="[" line="138" column="56" />
-        <mark key="]" line="138" column="68" />
-        <mark key="^" line="138" column="68" />
-        <mark key="." line="138" column="68" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461084301831">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/AndroidManifest.xml" timestamp="1461002729857">
         <mark key="[" line="25" column="0" />
@@ -68,12 +75,12 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461082554738">
-        <mark key="'" line="34" column="49" />
-        <mark key="[" line="149" column="83" />
-        <mark key="]" line="150" column="66" />
-        <mark key="." line="150" column="66" />
-        <mark key="^" line="150" column="66" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461084289470">
+        <mark key="'" line="31" column="49" />
+        <mark key="[" line="147" column="45" />
+        <mark key="]" line="147" column="53" />
+        <mark key="^" line="147" column="53" />
+        <mark key="." line="147" column="53" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
         <mark key="[" line="11" column="31" />
@@ -118,6 +125,13 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/src.zip!/java/lang/Boolean.java" timestamp="1461064092914">
         <mark key="'" line="147" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460645945124">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="31" column="44" />
+        <mark key="^" line="31" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="10" />
@@ -144,6 +158,12 @@
       </file>
       <file name="/fragment.java" timestamp="1461082296506">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1461084621305">
+        <mark key="[" line="208" column="59" />
+        <mark key="]" line="208" column="58" />
+        <mark key="^" line="208" column="58" />
+        <mark key="." line="208" column="58" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" timestamp="1460655794984">
         <mark key="'" line="45" column="52" />
@@ -240,19 +260,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ment</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ment</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fragment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBnZXRDcml0aWNhbEluZm9CbG9jayhATm9uTnVsbCBDcml0aWNhbEluZm9CbG9ja1R5cGUgY3JpdGljYWxJbmZvQmxvY2tUeXBlKSB7CiAgICAgICAgICAgIHN3aXRjaCAoY3JpdGljYWxJbmZvQmxvY2tUeXBlKSB7CiAgICAgICAgICAgICAgICBjYXNlIFRJUkVfUFJFU1NVUkU6ICAgICAgICAgcmV0dXJuIHRpcmVQcmVzc3VyZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIGNhc2UgRlVFTF9MRVZFTDogICAgICAgICAgICByZXR1cm4gZnVlbExldmVsSW5mb0Jsb2NrOwogICAgICAgICAgICAgICAgY2FzZSBCQVRURVJZX0ZVRUxfUkFOR0U6ICAgIHJldHVybiBiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrOwogICAgICAgICAgICAgICAgY2FzZSBCQVRURVJZX1JBTkdFOiAgICAgICAgIHJldHVybiBiYXR0ZXJ5UmFuZ2VJbmZvQmxvY2s7CiAgICAgICAgICAgICAgICBkZWZhdWx0OiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7IC8vIHNob3VsZCBuZXZlciBoYXBwZW4KICAgICAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGNyaXRpY2FsRGlhZ25vc3RpY1R5cGUpIHsKICAgICAgICAgICAgY2FzZSBUSVJFX1BSRVNTVVJFOgogICAgICAgICAgICAgICAgcmV0dXJuIHRpcmVQcmVzc3VyZUluZm9CbG9jazsKICAgICAgICAgICAgY2FzZSBGVUVMOgogICAgICAgICAgICAgICAgaWYgKGVyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYmF0dGVyeUZ1ZWxSYW5nZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZ1ZWxMZXZlbEluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgY2FzZSBCQVRURVJZOgogICAgICAgICAgICAgICAgaWYgKGVyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYmF0dGVyeUZ1ZWxSYW5nZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGJhdHRlcnlSYW5nZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>ment</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -299,28 +319,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>ment</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>bevEntitlement</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>erevEntitlement</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBldmVudC4K</text>
       </register>
-      <register name="5" type="4">
-        <text>bevEntitlement.isEntitled()</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>erevEntitlement.isEntitled()</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>isErevEntitlement</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>ment</text>
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>ment</text>
+        <text>T</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
