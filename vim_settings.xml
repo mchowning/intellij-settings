@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.1.0-SNAPSHOT/ceeae646c3a86295ae142ba5aaf94b8f4b8d4b2/gemini-core-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/util/CriticalDiagnosticUtil.java" timestamp="1461096709996" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" timestamp="1460641800484">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="91" column="40" />
@@ -159,11 +160,12 @@
       <file name="/fragment.java" timestamp="1461082296506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1461084621305">
-        <mark key="[" line="208" column="59" />
-        <mark key="]" line="208" column="58" />
-        <mark key="^" line="208" column="58" />
-        <mark key="." line="208" column="58" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1461096675722">
+        <mark key="'" line="210" column="50" />
+        <mark key="[" line="215" column="141" />
+        <mark key="]" line="215" column="141" />
+        <mark key="." line="215" column="141" />
+        <mark key="^" line="215" column="141" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" timestamp="1460655794984">
         <mark key="'" line="45" column="52" />
@@ -257,22 +259,23 @@
       <jump line="24" column="73" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="25" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="34" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
+      <jump line="209" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">PD4oKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">PD4oKTs=</text>
       </register>
       <register name="/" type="4">
         <text>fragment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGNyaXRpY2FsRGlhZ25vc3RpY1R5cGUpIHsKICAgICAgICAgICAgY2FzZSBUSVJFX1BSRVNTVVJFOgogICAgICAgICAgICAgICAgcmV0dXJuIHRpcmVQcmVzc3VyZUluZm9CbG9jazsKICAgICAgICAgICAgY2FzZSBGVUVMOgogICAgICAgICAgICAgICAgaWYgKGVyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYmF0dGVyeUZ1ZWxSYW5nZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZ1ZWxMZXZlbEluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgY2FzZSBCQVRURVJZOgogICAgICAgICAgICAgICAgaWYgKGVyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYmF0dGVyeUZ1ZWxSYW5nZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGJhdHRlcnlSYW5nZUluZm9CbG9jazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGV2ZW50LmdldE1lc3NhZ2VzKCkpLnRoZW5SZXR1cm4oQXJyYXlzLmFzTGlzdChnZXRNZXNzYWdlSG9sZGVyKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuRlVFTCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2V0TWVzc2FnZUhvbGRlcigpKSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text encoding="base64">PD4oKTs=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -319,28 +322,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>ArrayList</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC4K</text>
+      <register name="4" type="4">
+        <text>expectedCriticalDiagnosticTypes, mockErevEntitlement, mockBevEntitlement</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>mock(List.class)</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>T</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
