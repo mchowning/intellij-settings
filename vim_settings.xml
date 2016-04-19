@@ -75,12 +75,12 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461075996728">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461077208156">
         <mark key="'" line="168" column="20" />
-        <mark key="[" line="142" column="44" />
-        <mark key="]" line="144" column="55" />
-        <mark key="." line="144" column="55" />
-        <mark key="^" line="144" column="55" />
+        <mark key="[" line="161" column="32" />
+        <mark key="]" line="161" column="49" />
+        <mark key="." line="161" column="49" />
+        <mark key="^" line="161" column="49" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
         <mark key="[" line="11" column="31" />
@@ -242,11 +242,11 @@
       <jump line="168" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cw be sorted from highest to lowest priority</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cw be sorted from highest to lowest priority</text>
+        <text>Fuel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlSW5mb0Jsb2NrVG9Ub3BcPg==</text>
@@ -254,8 +254,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb3ZlQ3JpdGljYWxEaWFnbm9zdGljVHlwZVRvVG9wKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUgY3JpdGljYWxEaWFnbm9zdGljVHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVyZXZFbnRpdGxlbWVudCBlcmV2RW50aXRsZW1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCZXZFbnRpdGxlbWVudCBiZXZFbnRpdGxlbWVudCkgewogICAgICAgIHN3aXRjaCAoY3JpdGljYWxEaWFnbm9zdGljVHlwZSkgewogICAgICAgICAgICBjYXNlIFRJUkVfUFJFU1NVUkU6CiAgICAgICAgICAgICAgICBtb3ZlSW5mb0Jsb2NrVG9Ub3AodGlyZVByZXNzdXJlSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEZVRUw6CiAgICAgICAgICAgICAgICBpZiAoZXJldkVudGl0bGVtZW50LmlzRW50aXRsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcChiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKGZ1ZWxMZXZlbEluZm9CbG9jayk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBCQVRURVJZOgogICAgICAgICAgICAgICAgaWYgKGVyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBtb3ZlSW5mb0Jsb2NrVG9Ub3AoYmF0dGVyeUZ1ZWxSYW5nZUluZm9CbG9jayk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGJldkVudGl0bGVtZW50LmlzRW50aXRsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcChiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>cw be sorted from highest to lowest priority</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -278,29 +278,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>should</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKGluZm9CbG9jayk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Fuel</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FIGNoYW5nZSB0aGlzIG1ldGhvZCB0byBnZXQgaW5mb2Jsb2NrIGZvciB0eXBlIG1ldGhvZAogICAgcHJpdmF0ZSB2b2lkIG1vdmVDcml0aWNhbERpYWdub3N0aWNUeXBlVG9Ub3AoQ3JpdGljYWxEaWFnbm9zdGljVHlwZSBjcml0aWNhbERpYWdub3N0aWNUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRXJldkVudGl0bGVtZW50IGVyZXZFbnRpdGxlbWVudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJldkVudGl0bGVtZW50IGJldkVudGl0bGVtZW50KSB7CiAgICAgICAgc3dpdGNoIChjcml0aWNhbERpYWdub3N0aWNUeXBlKSB7CiAgICAgICAgICAgIGNhc2UgVElSRV9QUkVTU1VSRToKICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcCh0aXJlUHJlc3N1cmVJbmZvQmxvY2spOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgRlVFTDoKICAgICAgICAgICAgICAgIGlmIChlcmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKGJhdHRlcnlGdWVsUmFuZ2VJbmZvQmxvY2spOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBtb3ZlSW5mb0Jsb2NrVG9Ub3AoZnVlbExldmVsSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEJBVFRFUlk6CiAgICAgICAgICAgICAgICBpZiAoZXJldkVudGl0bGVtZW50LmlzRW50aXRsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcChiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKGJhdHRlcnlGdWVsUmFuZ2VJbmZvQmxvY2spOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9tb3ZlQ3JpdGljYWxEaWFnbm9zdGljVHlwZVRvVG9wKGNyaXRpY2FsRGlhZ25vc3RpY1R5cGUsIGVyZXZFbnRpdGxlbWVudCwgYmV2RW50aXRsZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogcmV0dXJuIG51bGw7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgKg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYgKGVyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpIHsKICAgICAgICAgICAgICAgIC8vICAgIHJldHVybiBiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrOwogICAgICAgICAgICAgICAgLy99IGVsc2UgewogICAgICAgICAgICAgICAgLy8gICAgcmV0dXJuIGZ1ZWxMZXZlbEluZm9CbG9jazsKICAgICAgICAgICAgICAgIC8vfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgKiA=</text>
       </register>
       <register name="8" type="4">
-        <text>q</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">CiAgICAgKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
