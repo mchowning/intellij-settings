@@ -9,6 +9,11 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f9" />
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -33,6 +38,11 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl meta alt u" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="ctrl meta alt j" />
   </action>
@@ -49,13 +59,21 @@
   </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
   </action>
   <action id="JumpToNextChange">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
   </action>
   <action id="Macro.Terminal -&gt; Editor">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -99,12 +117,6 @@
   </action>
   <action id="VimWindowDown">
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
-  </action>
-  <action id="VimWindowLeft">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
-  <action id="VimWindowRight">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="VimWindowUp">
     <keyboard-shortcut first-keystroke="shift alt close_bracket" />

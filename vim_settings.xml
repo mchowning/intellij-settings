@@ -45,11 +45,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461005227967">
         <mark key="'" line="109" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461084301831">
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="37" column="50" />
-        <mark key="^" line="37" column="50" />
-        <mark key="." line="37" column="50" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461097696185">
+        <mark key="'" line="129" column="51" />
+        <mark key="[" line="236" column="17" />
+        <mark key="]" line="236" column="17" />
+        <mark key="^" line="139" column="49" />
+        <mark key="." line="236" column="17" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/AndroidManifest.xml" timestamp="1461002729857">
         <mark key="[" line="25" column="0" />
@@ -160,12 +161,12 @@
       <file name="/fragment.java" timestamp="1461082296506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1461096675722">
-        <mark key="'" line="210" column="50" />
-        <mark key="[" line="215" column="141" />
-        <mark key="]" line="215" column="141" />
-        <mark key="." line="215" column="141" />
-        <mark key="^" line="215" column="141" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1461097821422">
+        <mark key="'" line="218" column="54" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="205" column="43" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" timestamp="1460655794984">
         <mark key="'" line="45" column="52" />
@@ -260,22 +261,30 @@
       <jump line="25" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="34" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="209" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" />
+      <jump line="137" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="146" column="59" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="235" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="12" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="13" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="96" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="129" column="51" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="218" column="54" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PD4oKTs=</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PD4oKTs=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>fragment</text>
+        <text>FIXME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGV2ZW50LmdldE1lc3NhZ2VzKCkpLnRoZW5SZXR1cm4oQXJyYXlzLmFzTGlzdChnZXRNZXNzYWdlSG9sZGVyKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuRlVFTCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2V0TWVzc2FnZUhvbGRlcigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tCZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwogICAgICAgIHdoZW4obW9ja0VyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PD4oKTs=</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -322,37 +331,37 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>ArrayList</text>
+        <text>CriticalDiagnosticEvent</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>expectedCriticalDiagnosticTypes, mockErevEntitlement, mockBevEntitlement</text>
+        <text>CriticalDiagnosticEvent</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>mock(List.class)</text>
+        <text>CriticalDiagnosticEvent</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text encoding="base64">PQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>fragment</last-search>
+      <last-search>FIXME</last-search>
       <last-offset />
-      <last-pattern>fragment</last-pattern>
+      <last-pattern>FIXME</last-pattern>
       <last-replace>Bottom</last-replace>
       <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
@@ -360,8 +369,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\i.w</entry>
-        <entry>asdlfjk</entry>
         <entry>Top</entry>
         <entry>range</entry>
         <entry>reorder</entry>
@@ -380,6 +387,8 @@
         <entry encoding="base64">XDxtb3ZlSW5mb0Jsb2NrVG9Ub3BcPg==</entry>
         <entry>asldkjf</entry>
         <entry>fragment</entry>
+        <entry encoding="base64">XDxDcml0aWNhbERpYWdub3N0aWNFdmVudFw+</entry>
+        <entry>FIXME</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
