@@ -70,6 +70,11 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461167900099">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="16" column="30" />
@@ -250,19 +255,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlCg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHZvaWQgcG9zaXRpb25Dcml0aWNhbEluZm9CbG9jayhDcml0aWNhbEluZm9CbG9ja1R5cGUgY3JpdGljYWxJbmZvQmxvY2tUeXBlLCBpbnQgaW5kZXgpIHsKICAgICAgICBWaWV3IGluZm9CbG9jayA9IGdldEluZm9CbG9jayhjcml0aWNhbEluZm9CbG9ja1R5cGUpOwogICAgICAgIGRpYWdJbmZvQmxvY2tQYXJlbnQucmVtb3ZlVmlldyhpbmZvQmxvY2spOwogICAgICAgIGRpYWdJbmZvQmxvY2tQYXJlbnQuYWRkVmlldyhpbmZvQmxvY2ssIGluZGV4KTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>_should</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>asldjf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50TWFpblRocmVhZF9Dcml0aWNhbERpYWdub3N0aWNFdmVudF9zaG91bGRfcHJpb3JpdGl6ZV9jcml0aWNhbF9pbmZvYmxvY2tzX3dpdGhvdXRfYmV2X29yX2VyZXYoKSB7CiAgICAgICAgc3R1YkNyaXRpY2FsU3RhdHVzZXMoQXJyYXlzLmFzTGlzdChDcml0aWNhbERpYWdub3N0aWNUeXBlLkZVRUwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbERpYWdub3N0aWNUeXBlLlRJUkVfUFJFU1NVUkUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbERpYWdub3N0aWNUeXBlLkJBVFRFUlkpKTsKICAgICAgICB3aGVuKG1vY2tCZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwogICAgICAgIHdoZW4obW9ja0VyZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwoKICAgICAgICBwcmVzZW50ZXIub25FdmVudE1haW5UaHJlYWQobmV3IENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50KCkpOwoKICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoQXJyYXlzLmFzTGlzdChDcml0aWNhbEluZm9CbG9ja1R5cGUuRlVFTF9MRVZFTCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbEluZm9CbG9ja1R5cGUuVElSRV9QUkVTU1VSRSkpOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50TWFpblRocmVhZF9Dcml0aWNhbERpYWdub3N0aWNFdmVudF9zaG91bGRfcHJpb3JpdGl6ZV9jcml0aWNhbF9pbmZvYmxvY2tzX3dpdGhfYmV2KCkgewogICAgICAgIHN0dWJDcml0aWNhbFN0YXR1c2VzKEFycmF5cy5hc0xpc3QoQ3JpdGljYWxEaWFnbm9zdGljVHlwZS5USVJFX1BSRVNTVVJFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JpdGljYWxEaWFnbm9zdGljVHlwZS5GVUVMLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JpdGljYWxEaWFnbm9zdGljVHlwZS5CQVRURVJZKSk7CiAgICAgICAgd2hlbihtb2NrQmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwoKICAgICAgICBwcmVzZW50ZXIub25FdmVudE1haW5UaHJlYWQobmV3IENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50KCkpOwoKICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoQXJyYXlzLmFzTGlzdChDcml0aWNhbEluZm9CbG9ja1R5cGUuVElSRV9QUkVTU1VSRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbEluZm9CbG9ja1R5cGUuRlVFTF9MRVZFTCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbEluZm9CbG9ja1R5cGUuQkFUVEVSWV9SQU5HRSkpOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50TWFpblRocmVhZF9Dcml0aWNhbERpYWdub3N0aWNFdmVudF9zaG91bGRfcHJpb3JpdGl6ZV9pbmZvYmxvY2tzX2FuZF9yZW1vdmVfZHVwbGljYXRlc193aXRoX2VyZXYoKSB7CiAgICAgICAgc3R1YkNyaXRpY2FsU3RhdHVzZXMoQXJyYXlzLmFzTGlzdChDcml0aWNhbERpYWdub3N0aWNUeXBlLkZVRUwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbERpYWdub3N0aWNUeXBlLkJBVFRFUlksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbERpYWdub3N0aWNUeXBlLlRJUkVfUFJFU1NVUkUpKTsKICAgICAgICB3aGVuKG1vY2tFcmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwoKICAgICAgICBwcmVzZW50ZXIub25FdmVudE1haW5UaHJlYWQobmV3IENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50KCkpOwoKICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoQXJyYXlzLmFzTGlzdChDcml0aWNhbEluZm9CbG9ja1R5cGUuQkFUVEVSWV9GVUVMX1JBTkdFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENyaXRpY2FsSW5mb0Jsb2NrVHlwZS5USVJFX1BSRVNTVVJFKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlldyBpbmZvQmxvY2sgPSBnZXRJbmZvQmxvY2soaW5mb0Jsb2NrVHlwZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlCg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHZvaWQgcG9zaXRpb25Dcml0aWNhbEluZm9CbG9jayhDcml0aWNhbEluZm9CbG9ja1R5cGUgY3JpdGljYWxJbmZvQmxvY2tUeXBlLCBpbnQgaW5kZXgpIHsKICAgICAgICBWaWV3IGluZm9CbG9jayA9IGdldEluZm9CbG9jayhjcml0aWNhbEluZm9CbG9ja1R5cGUpOwogICAgICAgIGRpYWdJbmZvQmxvY2tQYXJlbnQucmVtb3ZlVmlldyhpbmZvQmxvY2spOwogICAgICAgIGRpYWdJbmZvQmxvY2tQYXJlbnQuYWRkVmlldyhpbmZvQmxvY2ssIGluZGV4KTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -308,29 +313,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>_should</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>view</text>
       </register>
       <register name="4" type="4">
-        <text>onResume</text>
+        <text>infoBlockType</text>
       </register>
-      <register name="5" type="4">
-        <text>sticEvent_</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>onEventMainThread_CriticalDiagno</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>onEventMainThread(new CriticalDiagnosticEvent());</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBWaXNpYmxlCg==</text>
       </register>
       <register name="8" type="4">
-        <text>onEventMainThread_CriticalDiagnosticEvent_</text>
+        <text>_should</text>
       </register>
       <register name="9" type="4">
-        <text>onEventMainThread(new CriticalDiagnosticEvent());</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
