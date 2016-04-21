@@ -24,11 +24,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayout.java" timestamp="1461252644262">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="29" column="45" />
-        <mark key="." line="29" column="45" />
-        <mark key="^" line="29" column="45" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayout.java" timestamp="1461266513041">
+        <mark key="[" line="40" column="89" />
+        <mark key="]" line="40" column="92" />
+        <mark key="." line="40" column="92" />
+        <mark key="^" line="40" column="92" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461252714278">
         <mark key="'" line="109" column="32" />
@@ -82,11 +82,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461263617815">
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="24" />
-        <mark key="." line="33" column="24" />
-        <mark key="^" line="33" column="24" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461267062780">
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="42" column="46" />
+        <mark key="." line="42" column="46" />
+        <mark key="^" line="42" column="46" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/AndroidManifest.xml" timestamp="1461262067895">
         <mark key="[" line="3" column="0" />
@@ -227,7 +227,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1461262511964">
+      <file name="/fragment.java" timestamp="1461266340126">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -335,19 +335,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcml0aWNhbERpYWdub3N0aWNUeXBlc1w+</text>
+        <text>asdlfkj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0LmFkZFZpZXcoYmF0dGVyeUFuZEZ1ZWxSYW5nZUluZm9CbG9jayk7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBhZGp1c3RzX3ByaW9yaXR5KCkgewogICAgICAgIHNldFZpZXdzKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWSwKICAgICAgICAgICAgICAgICBDcml0aWNhbERpYWdub3N0aWNUeXBlLkZVRUwpOwogICAgICAgIENyaXRpY2FsRGlhZ25vc3RpY1R5cGVbXSBleHBlY3RlZFR5cGVzID0geyBDcml0aWNhbERpYWdub3N0aWNUeXBlLkZVRUwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWSB9OwoKICAgICAgICBzdWJqZWN0LnByaW9yaXRpemVDcml0aWNhbERpYWdub3N0aWNzKEFycmF5cy5hc0xpc3QoZXhwZWN0ZWRUeXBlcykpOwoKICAgICAgICB2ZXJpZnlWaWV3T3JkZXIoZXhwZWN0ZWRUeXBlcyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>r</text>
+        <text>[</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,37 +369,37 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>h</text>
+        <text>[</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>]</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>]</text>
       </register>
       <register name="6" type="4">
-        <text>otherView</text>
+        <text>1</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgVmlldyAgICAgICAgICAgICAgICAgICAgICAgICAgb3RoZXJWaWV3Owo=</text>
+      <register name="7" type="4">
+        <text>[</text>
       </register>
       <register name="8" type="4">
-        <text>batteryAndFuelRangeInfoBlock</text>
+        <text>k</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>View</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcml0aWNhbERpYWdub3N0aWNUeXBlc1w+</last-search>
+      <last-search>asdlfkj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcml0aWNhbERpYWdub3N0aWNUeXBlc1w+</last-pattern>
+      <last-pattern>asdlfkj</last-pattern>
       <last-replace>Bottom</last-replace>
       <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IEVsZW1lbnRLZXkg</entry>
         <entry>STATUS</entry>
         <entry>current</entry>
         <entry>odometer</entry>
@@ -427,6 +426,7 @@
         <entry>postauth</entry>
         <entry>reverse</entry>
         <entry encoding="base64">XDxjcml0aWNhbERpYWdub3N0aWNUeXBlc1w+</entry>
+        <entry>asdlfkj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
