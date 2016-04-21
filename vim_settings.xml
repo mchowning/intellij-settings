@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461005227967">
         <mark key="'" line="109" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461244358626">
-        <mark key="'" line="129" column="51" />
-        <mark key="[" line="161" column="67" />
-        <mark key="]" line="161" column="67" />
-        <mark key="^" line="161" column="67" />
-        <mark key="." line="161" column="67" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461247364992">
+        <mark key="'" line="93" column="21" />
+        <mark key="[" line="144" column="59" />
+        <mark key="]" line="145" column="12" />
+        <mark key="^" line="145" column="12" />
+        <mark key="." line="145" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461002714895">
         <mark key="[" line="81" column="36" />
@@ -66,8 +66,8 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461245276623">
-        <mark key="'" line="135" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461246337076">
+        <mark key="'" line="49" column="5" />
         <mark key="[" line="202" column="50" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
@@ -87,7 +87,13 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461008031463">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalInfoBlockPrioritizer.java" timestamp="1461247568021">
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="56" />
+        <mark key="." line="36" column="56" />
+        <mark key="^" line="74" column="53" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461246893423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-model/src/main/java/com/gm/gemini/model/DataAllocation.java" timestamp="1461064937603">
@@ -137,6 +143,15 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/VehicleStatusFragmentModule.java" timestamp="1461246948825">
+        <mark key="[" line="47" column="65" />
+        <mark key="]" line="51" column="70" />
+        <mark key="^" line="51" column="70" />
+        <mark key="." line="51" column="70" />
+      </file>
+      <file name="/fragment.java" timestamp="1461247216613">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1461148028575">
         <mark key="'" line="247" column="54" />
         <mark key="[" line="194" column="0" />
@@ -148,12 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
-      <jump line="66" column="60" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
-      <jump line="74" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
-      <jump line="81" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
-      <jump line="85" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
-      <jump line="86" column="36" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
       <jump line="91" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
       <jump line="95" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
       <jump line="114" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/SearchCardView.java" />
@@ -248,22 +257,28 @@
       <jump line="164" column="51" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="185" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="135" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
+      <jump line="93" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="154" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
+      <jump line="38" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
+      <jump line="47" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
+      <jump line="48" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
+      <jump line="49" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>isBevEntitled</text>
       </register>
       <register name="-" type="4">
-        <text>for</text>
+        <text>isBevEntitled</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>inject</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlldyBpbmZvQmxvY2sgPSBnZXRJbmZvQmxvY2soc29ydGVkQ3JpdGljYWxJbmZvQmxvY2tMaXN0LmdldChpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDcml0aWNhbEluZm9CbG9ja1ByaW9yaXRpemVyKExpbmVhckxheW91dCBsYXlvdXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWaWV3IHRpcmVQcmVzc3VyZUluZm9CbG9jaywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZpZXcgZnVlbExldmVsSW5mb0Jsb2NrLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlldyBiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlldyBiYXR0ZXJ5UmFuZ2VJbmZvQmxvY2spIHsKICAgICAgICB0aGlzLmxheW91dCA9IGxheW91dDsgdGhpcy50aXJlUHJlc3N1cmVJbmZvQmxvY2sgPSB0aXJlUHJlc3N1cmVJbmZvQmxvY2s7CiAgICAgICAgdGhpcy5mdWVsTGV2ZWxJbmZvQmxvY2sgPSBmdWVsTGV2ZWxJbmZvQmxvY2s7CiAgICAgICAgdGhpcy5iYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrID0gYmF0dGVyeUZ1ZWxSYW5nZUluZm9CbG9jazsKICAgICAgICB0aGlzLmJhdHRlcnlSYW5nZUluZm9CbG9jayA9IGJhdHRlcnlSYW5nZUluZm9CbG9jazsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>isBevEntitled</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -309,38 +324,42 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZm9CbG9jayAhPSBudWxsKSB7Cg==</text>
+      <register name="2" type="4">
+        <text>isErevEntitled</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgKiA=</text>
+        <text>isBevEntitled</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgKiA=</text>
+        <text>isErevEntitled</text>
       </register>
       <register name="5" type="4">
-        <text>for</text>
+        <text>, 
+                              boolean isErevEntitled, 
+                              boolean isBevEntitled</text>
       </register>
       <register name="6" type="4">
-        <text>DiagnosticType</text>
+        <text>, isErevEntitled, isBevEntitled</text>
       </register>
       <register name="7" type="4">
-        <text>sortedCriticalInfoBlockList.get(i)</text>
+        <text>, 
+                           boolean isErevEntitled, 
+                           boolean isBevEntitled</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNvcnRlZENyaXRpY2FsSW5mb0Jsb2NrTGlzdC5zaXplKCk7IGkrKykgewogICAgICAgICAgICBWaWV3IGluZm9CbG9jayA9IGdldEluZm9CbG9jayhzb3J0ZWRDcml0aWNhbEluZm9CbG9ja0xpc3QuZ2V0KGkpKTsKICAgICAgICAgICAgaWYgKGluZm9CbG9jayAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBkaWFnSW5mb0Jsb2NrUGFyZW50LnJlbW92ZVZpZXcoaW5mb0Jsb2NrKTsKICAgICAgICAgICAgICAgIGRpYWdJbmZvQmxvY2tQYXJlbnQuYWRkVmlldyhpbmZvQmxvY2ssIGkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text>layout</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>layout</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>inject</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>inject</last-pattern>
       <last-replace>Bottom</last-replace>
       <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
@@ -348,8 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdWVsTGV2ZWxJbmZvQmxvY2tcPg==</entry>
-        <entry>visibility</entry>
         <entry encoding="base64">XDxiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrXD4=</entry>
         <entry>valueof</entry>
         <entry>valueOf</entry>
@@ -368,6 +385,8 @@
         <entry>visib</entry>
         <entry encoding="base64">XDxiYXR0ZXJ5UmFuZ2VJbmZvQmxvY2tcPg==</entry>
         <entry>asdlfj</entry>
+        <entry>getC</entry>
+        <entry>inject</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
