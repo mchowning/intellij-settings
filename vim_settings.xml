@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" timestamp="1461354378478">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/PluginVehicleStatus.java" timestamp="1461354017511">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" timestamp="1460641800484">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="91" column="40" />
@@ -28,18 +39,17 @@
         <mark key="." line="87" column="53" />
         <mark key="^" line="87" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461352051043" />
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461351116161" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461353132413" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/AndroidManifest.xml" timestamp="1461002729857">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461352106517">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461354566486">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="67" />
-        <mark key="]" line="18" column="68" />
-        <mark key="." line="18" column="68" />
-        <mark key="^" line="81" column="36" />
+        <mark key="[" line="100" column="62" />
+        <mark key="]" line="100" column="73" />
+        <mark key="." line="100" column="73" />
+        <mark key="^" line="100" column="73" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1461064228612">
         <mark key="'" line="555" column="23" />
@@ -96,6 +106,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/src.zip!/java/lang/Boolean.java" timestamp="1461064092914">
         <mark key="'" line="147" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/PluginVehicleStatusController.java" timestamp="1461353242868">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460645945124">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="31" column="38" />
@@ -106,7 +121,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.1.0-SNAPSHOT/62641ff5b62072627c5affdb4603db6f20a53b6/gemini-app-shell-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/MainActivity.java" timestamp="1461350623190">
         <mark key="'" line="215" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/AndroidManifest.xml" timestamp="1461260311998" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/BatteryRangeInfoBlock.java" timestamp="1461250451052">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="72" />
@@ -164,8 +178,6 @@
         <mark key="." line="206" column="95" />
         <mark key="^" line="206" column="63" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.1.0-SNAPSHOT/ceeae646c3a86295ae142ba5aaf94b8f4b8d4b2/gemini-core-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/util/CriticalDiagnosticUtil.java" timestamp="1461096709996" />
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/context/GetVehiclesRequestContext.java" timestamp="1461251744008" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/util/EVChargeState.java" timestamp="1461069515167">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="26" />
@@ -175,7 +187,6 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" timestamp="1460635365048">
         <mark key="'" line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/main/AndroidManifest.xml" timestamp="1461260246913" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/res/layout/data_usage_info_block.xml" timestamp="1460471504497">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="17" column="57" />
@@ -188,7 +199,6 @@
         <mark key="^" line="273" column="55" />
         <mark key="." line="273" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461344967388" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticInfoBlock.java" timestamp="1461256797878">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -254,11 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="33" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="136" column="147" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="149" column="55" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="150" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="194" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="51" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="71" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
@@ -354,22 +359,27 @@
       <jump line="199" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.1.0-SNAPSHOT/62641ff5b62072627c5affdb4603db6f20a53b6/gemini-app-shell-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/MainActivity.java" />
       <jump line="215" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.1.0-SNAPSHOT/62641ff5b62072627c5affdb4603db6f20a53b6/gemini-app-shell-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="115" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="38" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="58" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="59" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmplY3QK</text>
+      <register name="&quot;" type="4">
+        <text>shellVersion</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>shellVersion</text>
       </register>
       <register name="/" type="4">
-        <text>2.10</text>
+        <text encoding="base64">XDxjb250YWluZXJDYXJkc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldEluZm9CbG9ja0J5UG9zaXRpb24oZnVlbExldmVsSW5mb0Jsb2NrKTsKICAgICAgICBlZmZpY2llbmN5SW5mb0Jsb2NrLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICBjYXJkLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewogICAgICAgICAgICAgICAgdmlldy5zZXRBbHBoYSgwLjdmKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bmplY3QK</text>
+      <register name="1" type="4">
+        <text>shellVersion</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -387,38 +397,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjYXJkLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewogICAgICAgICAgICAgICAgdmlldy5zZXRBbHBoYSgwLjdmKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>diagInfoBlockParent</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYuc2V0QWxwaGEoMC44Zik7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLnBvc3QoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>diagInfoBlockParent</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>diagInfoBlockParent</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHYuZ2V0Q29udGV4dCgpLCAiTG9hZGluZy4uLiIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dAo=</text>
       </register>
       <register name="9" type="4">
-        <text>diagInfoBlockParent</text>
+        <text>v.getContext()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>2.10</last-search>
+      <last-search encoding="base64">XDxjb250YWluZXJDYXJkc1w+</last-search>
       <last-offset />
-      <last-pattern>2.10</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWluZXJDYXJkc1w+</last-pattern>
       <last-replace>Bottom</last-replace>
       <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
@@ -426,9 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>entitl</entry>
-        <entry>visib</entry>
-        <entry encoding="base64">XDxiYXR0ZXJ5UmFuZ2VJbmZvQmxvY2tcPg==</entry>
         <entry>getC</entry>
         <entry>inject</entry>
         <entry>postauth</entry>
@@ -446,6 +453,9 @@
         <entry>odometer</entry>
         <entry>gradle</entry>
         <entry>2.10</entry>
+        <entry>getdashboard</entry>
+        <entry>footer</entry>
+        <entry encoding="base64">XDxjb250YWluZXJDYXJkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
