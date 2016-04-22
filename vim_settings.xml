@@ -24,11 +24,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayout.java" timestamp="1461266513041">
-        <mark key="[" line="40" column="89" />
-        <mark key="]" line="40" column="92" />
-        <mark key="." line="40" column="92" />
-        <mark key="^" line="40" column="92" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayout.java" timestamp="1461335851222">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461256914604" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/AndroidManifest.xml" timestamp="1461002729857">
@@ -78,11 +77,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461268336008">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="127" column="85" />
-        <mark key="^" line="81" column="44" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461336439493">
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="108" column="32" />
+        <mark key="^" line="102" column="61" />
+        <mark key="." line="108" column="32" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/AndroidManifest.xml" timestamp="1461262067895">
         <mark key="[" line="3" column="0" />
@@ -344,20 +343,26 @@
       <jump line="375" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/7.0.7/7c35f84b6ef1db120c2d5951a9a09ca48c9bec64/libphonenumber-7.0.7-sources.jar!/com/google/i18n/phonenumbers/PhoneNumberUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmYWlsKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,
+                        views[0],
+                        views[2],
+                        views[3]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>BATTERY</text>
       </register>
       <register name="/" type="4">
         <text>asdlfkj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBhZGp1c3RzX3ByaW9yaXR5KCkgewogICAgICAgIHNldFZpZXdzKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWSwKICAgICAgICAgICAgICAgICBDcml0aWNhbERpYWdub3N0aWNUeXBlLkZVRUwpOwogICAgICAgIENyaXRpY2FsRGlhZ25vc3RpY1R5cGVbXSBleHBlY3RlZFR5cGVzID0geyBDcml0aWNhbERpYWdub3N0aWNUeXBlLkZVRUwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWSB9OwoKICAgICAgICBzdWJqZWN0LnByaW9yaXRpemVDcml0aWNhbERpYWdub3N0aWNzKEFycmF5cy5hc0xpc3QoZXhwZWN0ZWRUeXBlcykpOwoKICAgICAgICB2ZXJpZnlWaWV3T3JkZXIoZXhwZWN0ZWRUeXBlcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3W10gdmlld3MgPSBzZXRWaWV3cyhudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JpdGljYWxEaWFnbm9zdGljVHlwZS5CQVRURVJZLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWSk7CgogICAgICAgIHN1YmplY3QucHJpb3JpdGl6ZUNyaXRpY2FsRGlhZ25vc3RpY3MoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChDcml0aWNhbERpYWdub3N0aWNUeXBlLkJBVFRFUlkpKTsKCiAgICAgICAgdmVyaWZ5Vmlld09yZGVyKHZpZXdzWzFdLAogICAgICAgICAgICAgICAgICAgICAgICB2aWV3c1s0XSwKICAgICAgICAgICAgICAgICAgICAgICAgdmlld3NbNV0sCiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdzWzBdLAogICAgICAgICAgICAgICAgICAgICAgICB2aWV3c1syXSwKICAgICAgICAgICAgICAgICAgICAgICAgdmlld3NbM10pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWlsKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>,
+                        views[0],
+                        views[2],
+                        views[3]</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -376,28 +381,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBWaWV3W10gdmlld3MgPSBzZXRWaWV3cyhudWxsLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>4</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcml0aWNhbERpYWdub3N0aWNUeXBlLkJBVFRFUlksCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>BATTERY</text>
       </register>
       <register name="7" type="4">
-        <text>v</text>
+        <text>BATTERY</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Zm9yIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
