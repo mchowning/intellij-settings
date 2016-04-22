@@ -100,11 +100,8 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/FuelLevelInfoBlockPresenter.java" timestamp="1461256886576">
-        <mark key="'" line="62" column="45" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlock.java" timestamp="1461348927785">
+        <mark key="'" line="29" column="13" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
@@ -241,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
       <jump line="100" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
       <jump line="104" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" />
@@ -341,6 +337,7 @@
       <jump line="65" column="57" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="129" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="130" column="23" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlock.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,7 +347,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>hide</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNldEluZm9CbG9ja0J5UG9zaXRpb24oZnVlbExldmVsSW5mb0Jsb2NrKTsKICAgICAgICBlZmZpY2llbmN5SW5mb0Jsb2NrLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
@@ -403,9 +400,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>hide</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>hide</last-pattern>
       <last-replace>Bottom</last-replace>
       <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fragment</entry>
         <entry encoding="base64">XDxDcml0aWNhbERpYWdub3N0aWNFdmVudFw+</entry>
         <entry>FIXME</entry>
         <entry>asldjf</entry>
@@ -433,6 +429,7 @@
         <entry>asdlkfj</entry>
         <entry encoding="base64">XDx2ZWhpY2xlU3RhdHVzU2Nyb2xsVmlld1w+</entry>
         <entry>asdlfj</entry>
+        <entry>hide</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
