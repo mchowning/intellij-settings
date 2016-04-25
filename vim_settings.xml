@@ -171,7 +171,7 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1461587139424">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1461598092814">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
@@ -385,11 +385,11 @@
       <jump line="23" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/FuelLevelInfoBlockPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>asldfj</text>
@@ -397,8 +397,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aXJlUHJlc3N1cmVJbmZvQmxvY2sgICAgICAgICAgICAgICA9IGFkZFZpZXdXaXRoUGFyYW1zKG5ldyBUaXJlUHJlc3N1cmVJbmZvQmxvY2soY29udGV4dCkpOwogICAgICAgIGZ1ZWxMZXZlbEluZm9CbG9jayAgICAgICAgICAgICAgICAgID0gYWRkVmlld1dpdGhQYXJhbXMobmV3IEZ1ZWxMZXZlbEluZm9CbG9jayhjb250ZXh0KSk7CiAgICAgICAgYmF0dGVyeVJhbmdlSW5mb0Jsb2NrICAgICAgICAgICAgICAgPSBhZGRWaWV3V2l0aFBhcmFtcyhuZXcgQmF0dGVyeVJhbmdlSW5mb0Jsb2NrKGNvbnRleHQpKTsKICAgICAgICBiYXR0ZXJ5RnVlbFJhbmdlSW5mb0Jsb2NrICAgICAgICAgICA9IGFkZFZpZXdXaXRoUGFyYW1zKG5ldyBCYXR0ZXJ5QW5kRnVlbFJhbmdlSW5mb0Jsb2NrKGNvbnRleHQpKTsKICAgICAgICBjaGFyZ2VTdGF0dXNJbmZvQmxvY2sgICAgICAgICAgICAgICA9IGFkZFZpZXdXaXRoUGFyYW1zKG5ldyBDaGFyZ2VTdGF0dXNJbmZvQmxvY2soY29udGV4dCkpOwogICAgICAgIGVmZmljaWVuY3lJbmZvQmxvY2sgICAgICAgICAgICAgICAgID0gYWRkVmlld1dpdGhQYXJhbXMobmV3IEVmZmljaWVuY3lJbmZvQmxvY2soY29udGV4dCkpOwogICAgICAgIGJhdHRlcnlBbmRGdWVsRWZmaWNpZW5jeUluZm9CbG9jayAgID0gYWRkVmlld1dpdGhQYXJhbXMobmV3IEJhdHRlcnlBbmRGdWVsRWZmaWNpZW5jeUluZm9CbG9jayhjb250ZXh0KSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -437,28 +437,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
-      <register name="3" type="4">
-        <text>addViewWithParams(new BatteryAndFuelEfficiencyInfoBlock(context))</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>addViewWithParams(new EfficiencyInfoBlock(context))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>addViewWithParams(new ChargeStatusInfoBlock(context))</text>
+        <text>addViewWithParams(new BatteryAndFuelEfficiencyInfoBlock(context))</text>
       </register>
       <register name="6" type="4">
-        <text>addViewWithParams(new BatteryAndFuelRangeInfoBlock(context))</text>
+        <text>addViewWithParams(new EfficiencyInfoBlock(context))</text>
       </register>
       <register name="7" type="4">
-        <text>addViewWithParams(new BatteryRangeInfoBlock(context))</text>
+        <text>addViewWithParams(new ChargeStatusInfoBlock(context))</text>
       </register>
       <register name="8" type="4">
-        <text>addViewWithParams(new FuelLevelInfoBlock(context))</text>
+        <text>addViewWithParams(new BatteryAndFuelRangeInfoBlock(context))</text>
       </register>
       <register name="9" type="4">
-        <text>addViewWithParams(new TirePressureInfoBlock(context))</text>
+        <text>addViewWithParams(new BatteryRangeInfoBlock(context))</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
