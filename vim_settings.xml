@@ -187,6 +187,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1461356916227" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1461587139424">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/util/EVChargeState.java" timestamp="1461069515167">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="26" />
@@ -383,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>gradle</text>
@@ -395,7 +401,7 @@
         <text encoding="base64">ICAgICAgICBiYXR0ZXJ5QW5kRnVlbEVmZmljaWVuY3lJbmZvQmxvY2sgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmJhdHRlcnlfYW5kX2Z1ZWxfZWZmaWNpZW5jeV9pbmZvX2Jsb2NrKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -410,25 +416,25 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>3</text>
       </register>
       <register name="4" type="4">
         <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="7" type="4">
         <text>.</text>
       </register>
+      <register name="7" type="4">
+        <text>1</text>
+      </register>
       <register name="8" type="4">
-        <text>view</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
         <text>.</text>
