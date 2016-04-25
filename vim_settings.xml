@@ -77,12 +77,12 @@
         <mark key="^" line="38" column="84" />
         <mark key="." line="38" column="84" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461590576975">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461595318951">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="128" column="38" />
-        <mark key="]" line="129" column="36" />
-        <mark key="^" line="129" column="36" />
-        <mark key="." line="129" column="36" />
+        <mark key="[" line="127" column="9" />
+        <mark key="]" line="128" column="43" />
+        <mark key="." line="128" column="43" />
+        <mark key="^" line="128" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/AndroidManifest.xml" timestamp="1461262067895">
         <mark key="[" line="3" column="0" />
@@ -387,8 +387,8 @@
       <jump line="85" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>B</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>B</text>
@@ -399,8 +399,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiYXR0ZXJ5QW5kRnVlbEVmZmljaWVuY3lJbmZvQmxvY2sgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmJhdHRlcnlfYW5kX2Z1ZWxfZWZmaWNpZW5jeV9pbmZvX2Jsb2NrKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>B</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -438,29 +438,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>I</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0LnJlc2V0SWNlSW5mb0Jsb2NrcygpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>k</text>
-      </register>
-      <register name="4" type="4">
-        <text>c</text>
-      </register>
-      <register name="5" type="4">
-        <text>o</text>
-      </register>
-      <register name="6" type="4">
-        <text>l</text>
-      </register>
-      <register name="7" type="4">
         <text>B</text>
       </register>
-      <register name="8" type="4">
+      <register name="4" type="4">
+        <text>I</text>
+      </register>
+      <register name="5" type="4">
+        <text>k</text>
+      </register>
+      <register name="6" type="4">
+        <text>c</text>
+      </register>
+      <register name="7" type="4">
         <text>o</text>
       </register>
+      <register name="8" type="4">
+        <text>l</text>
+      </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
