@@ -72,6 +72,12 @@
         <mark key="^" line="74" column="53" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/gradle/wrapper/gradle-wrapper.properties" timestamp="1461687640769">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/location/LocationFinderTest.java" timestamp="1461258986851">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="84" />
@@ -395,10 +401,10 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Lz4=</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lz4=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>alksdjf</text>
@@ -410,7 +416,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Lz4=</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -448,31 +454,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>1</text>
-      </register>
-      <register name="7" type="4">
-        <text>.</text>
-      </register>
-      <register name="8" type="4">
+      <register name="2" type="4">
         <text>2</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">Lz4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      </register>
+      <register name="8" type="4">
+        <text>1</text>
+      </register>
       <register name="9" type="4">
-        <text>,
-                                                  mockErevEntitlement,
-                                                  mockBevEntitlement</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
