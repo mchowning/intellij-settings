@@ -46,7 +46,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461689480101">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461691328159">
         <mark key="'" line="18" column="16" />
         <mark key="[" line="90" column="69" />
         <mark key="]" line="90" column="81" />
@@ -449,26 +449,26 @@
       <register name="2" type="4">
         <text>3.1.0-SNAPSHOT</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPGNvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMudWkudmlldy5DaGVja0ZvclJlY2FsbEJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NoZWNrRm9yUmVjYWxsIgogICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iQHN0eWxlL1NlY29uZGFyeUJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vc2Vjb25kYXJ5X2J1dHRvbl9oZWlnaHQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGFwdGljRmVlZGJhY2tFbmFibGVkPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmVjYWxsLmNoZWNrLmZvci5yZWNhbGwuYnV0dG9uIiAvPgo=</text>
+      <register name="3" type="4">
+        <text>:localVersion</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>$</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Lz4=</text>
+        <text>3.1.0-SNAPSHOT</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPGNvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMudWkudmlldy5DaGVja0ZvclJlY2FsbEJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NoZWNrRm9yUmVjYWxsIgogICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iQHN0eWxlL1NlY29uZGFyeUJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vc2Vjb25kYXJ5X2J1dHRvbl9oZWlnaHQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGFwdGljRmVlZGJhY2tFbmFibGVkPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmVjYWxsLmNoZWNrLmZvci5yZWNhbGwuYnV0dG9uIiAvPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+      <register name="9" type="4">
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
