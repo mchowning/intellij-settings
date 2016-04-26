@@ -218,11 +218,11 @@
         <mark key="]" line="60" column="71" />
         <mark key="." line="60" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461671374006">
-        <mark key="[" line="233" column="53" />
-        <mark key="]" line="234" column="75" />
-        <mark key="^" line="234" column="75" />
-        <mark key="." line="234" column="75" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1461672536742">
+        <mark key="[" line="144" column="91" />
+        <mark key="]" line="145" column="89" />
+        <mark key="." line="145" column="89" />
+        <mark key="^" line="145" column="89" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticInfoBlock.java" timestamp="1461256797878">
         <mark key="[" line="9" column="4" />
@@ -389,14 +389,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>visi</text>
+        <text>asldkfj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
@@ -404,8 +404,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -444,43 +444,41 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
+        <text>2</text>
+      </register>
+      <register name="5" type="4">
         <text>,
                                                   mockErevEntitlement,
                                                   mockBevEntitlement</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIEVyZXZFbnRpdGxlbWVudCBtb2NrRXJldkVudGl0bGVtZW50OwogICAgQE1vY2sKICAgIHByaXZhdGUgQmV2RW50aXRsZW1lbnQgbW9ja0JldkVudGl0bGVtZW50Owo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
                                        ErevEntitlement erevEntitlement,
                                        BevEntitlement bevEntitlement</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmVyZXZFbnRpdGxlbWVudCA9IGVyZXZFbnRpdGxlbWVudDsKICAgICAgICB0aGlzLmJldkVudGl0bGVtZW50ID0gYmV2RW50aXRsZW1lbnQ7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXJldkVudGl0bGVtZW50IGVyZXZFbnRpdGxlbWVudDsKICAgIHByaXZhdGUgZmluYWwgQmV2RW50aXRsZW1lbnQgYmV2RW50aXRsZW1lbnQ7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-                                                            mockErevEntitlement,
-                                                            mockBevEntitlement</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>visi</last-search>
+      <last-search>asldkfj</last-search>
       <last-offset />
-      <last-pattern>visi</last-pattern>
+      <last-pattern>asldkfj</last-pattern>
       <last-replace>Bottom</last-replace>
       <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
@@ -488,7 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>authmanager</entry>
         <entry>vehicle</entry>
         <entry>eventbus</entry>
         <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
@@ -508,6 +505,7 @@
         <entry>show</entry>
         <entry>hide</entry>
         <entry>visi</entry>
+        <entry>asldkfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
