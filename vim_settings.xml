@@ -215,6 +215,12 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" timestamp="1461781900134">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1461671986592">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -449,7 +455,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -457,7 +463,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>onRefreshComplete</text>
@@ -469,7 +475,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text>/</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -532,29 +538,29 @@
           <key char="99" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIHZvaWQgaW5pdGlhbGl6ZSgpIHsgaW5qZWN0RGVwZW5kZW5jaWVzKCk7CiAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
-      </register>
-      <register name="5" type="4">
-        <text>getContext</text>
-      </register>
-      <register name="6" type="4">
-        <text>.</text>
-      </register>
-      <register name="7" type="4">
         <text>this</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIHZvaWQgaW5pdGlhbGl6ZSgpIHsgaW5qZWN0RGVwZW5kZW5jaWVzKCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>)</text>
+      </register>
+      <register name="7" type="4">
+        <text>(</text>
+      </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>getContext</text>
       </register>
       <register name="9" type="4">
-        <text>context</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
