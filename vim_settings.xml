@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlocks.java" timestamp="1461777929812">
-        <mark key="[" line="38" column="63" />
-        <mark key="]" line="39" column="30" />
-        <mark key="^" line="39" column="30" />
-        <mark key="." line="39" column="30" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlocks.java" timestamp="1461784222554">
+        <mark key="[" line="66" column="56" />
+        <mark key="]" line="67" column="30" />
+        <mark key="^" line="67" column="30" />
+        <mark key="." line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1461781076866">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="12" />
-        <mark key="." line="46" column="12" />
-        <mark key="^" line="46" column="12" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1461785732336">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="76" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="30" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" timestamp="1460641800484">
         <mark key="'" line="33" column="0" />
@@ -153,12 +153,12 @@
         <mark key="^" line="45" column="24" />
         <mark key="." line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1461781342386">
-        <mark key="'" line="142" column="16" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1461785757813">
+        <mark key="'" line="139" column="16" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
@@ -437,7 +437,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>R.layout.efficiency_infoblock</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -445,19 +445,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>R.layout.efficiency_infoblock</text>
       </register>
       <register name="/" type="4">
         <text>onRefreshComplete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEcmF3YWJsZSBzcGFjZXIgPSBSZXNvdXJjZXNDb21wYXQuZ2V0RHJhd2FibGUoZ2V0UmVzb3VyY2VzKCksIFIuZHJhd2FibGUudHJhbnNwYXJlbnRfaW5mb19ibG9ja19tYXJnaW4sIG51bGwpOwo=</text>
+      <register name="0" type="4">
+        <text>R.layout.efficiency_infoblock</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>R.layout.efficiency_infoblock</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -520,29 +520,29 @@
           <key char="99" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>/</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>this</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbmplY3REZXBlbmRlbmNpZXMoY29udGV4dCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIHZvaWQgaW5pdGlhbGl6ZSgpIHsgaW5qZWN0RGVwZW5kZW5jaWVzKCk7CiAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text>private</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>private</text>
       </register>
-      <register name="7" type="4">
-        <text>(</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="4">
-        <text>getContext</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>R.layout.battery_and_fuel_efficiency_infoblock</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
