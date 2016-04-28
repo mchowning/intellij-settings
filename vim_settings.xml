@@ -50,12 +50,12 @@
         <mark key="." line="56" column="91" />
         <mark key="^" line="56" column="91" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461770900173">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1461849280956">
         <mark key="'" line="93" column="21" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="103" column="59" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="27" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/diagnostic_linear_layout.xml" timestamp="1461589070795">
         <mark key="[" line="5" column="0" />
@@ -152,12 +152,12 @@
         <mark key="^" line="45" column="24" />
         <mark key="." line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1461847271307">
-        <mark key="'" line="139" column="16" />
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="47" column="28" />
-        <mark key="." line="47" column="28" />
-        <mark key="^" line="47" column="28" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1461849185680">
+        <mark key="'" line="138" column="16" />
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
@@ -532,28 +532,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW52ZXN0aWdhdGUgZGlmZmVyZW5jZXMgYmV0d2VlbiBJbmZvQmxvY2tzIGhpZGluZyBhbmQgc2hvd2luZyB0aGVtc2VsdmVzIGFuZCB0aGUgcmVsZXZhbnQgZW50aXRsZW1lbnRzCiAgICAvLyBUT0RPIGluamVjdCB0aGUgRW50aXRsZW1lbnRzCiAgICAgICAgLy8gKGFsb25nIHdpdGggd2hhdCBmaXJlcyBvZmYgcmVzZXR0aW5nIHRoZSBpbmZvIGJsb2NrcyBhbmQgcHJpb3JpdGl6aW5nIHRoZW0pPwogICAgLy8gVE9ETyBtb3ZlIHJlc2V0SW5mb0Jsb2NrcyBsb2dpYyBpbnRvIGEgcHJlc2VudGVyPwogICAgLy8gVE9ETyBsb29rIGludG8gVmlld1N0dWJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gaW52ZXN0aWdhdGUgZGlmZmVyZW5jZXMgYmV0d2VlbiBJbmZvQmxvY2tzIGhpZGluZyBhbmQgc2hvd2luZyB0aGVtc2VsdmVzIGFuZCB0aGUgcmVsZXZhbnQgZW50aXRsZW1lbnRzCiAgICAvLyBUT0RPIGluamVjdCB0aGUgRW50aXRsZW1lbnRzCiAgICAgICAgLy8gKGFsb25nIHdpdGggd2hhdCBmaXJlcyBvZmYgcmVzZXR0aW5nIHRoZSBpbmZvIGJsb2NrcyBhbmQgcHJpb3JpdGl6aW5nIHRoZW0pPwogICAgLy8gVE9ETyBtb3ZlIHJlc2V0SW5mb0Jsb2NrcyBsb2dpYyBpbnRvIGEgcHJlc2VudGVyPwogICAgLy8gVE9ETyBsb29rIGludG8gVmlld1N0dWJzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gY291bGQgaGF2ZSBhIFZpZXdQcm92aWRlciB0aGF0IGtlcHQgc2luZ2xldG9uIGNvcGllcyBvZiBhbGwgdGhlIHJlcXVlc3RlZCB2aWV3cwogICAgICAgIC8vIHdvdWxkIHRoaXMgYWxsb3cgbWUgdG8gbW92ZSB0aGF0IGxvZ2ljIGludG8gdGhlIERpYWdub3N0aWNMaW5lYXJMYXlvdXQgY2xlYW5seT8KICAgICAgICAvLyBidXQgd2hhdCBjYXJkcyBkbyBpIHNob3cgb24gYW4gaW5pdGlhbCBsb2FkIGlmIEkgaGF2ZSBubyB2ZWhpY2xlIGRhdGEgKHdoYXQgZG9lcyBpb3MgZG8pPwogICAgLy8gVE9ETyByZW1vdmUgaGlkaW5nL3Nob3dpbmcgbG9naWMgZnJvbSBpbnNpZGUgdGhlc2UgSW5mb0Jsb2Nrcz8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>// TODO remove?</text>
-      </register>
-      <register name="7" type="4">
-        <text>s</text>
-      </register>
-      <register name="8" type="4">
-        <text>s</text>
-      </register>
       <register name="9" type="4">
-        <text>DiagnosticInfoBlocks</text>
+        <text>// TODO remove?</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
