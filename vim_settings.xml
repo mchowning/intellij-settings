@@ -125,11 +125,11 @@
         <mark key="^" line="38" column="84" />
         <mark key="." line="38" column="84" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1461958353717">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="26" column="21" />
-        <mark key="^" line="26" column="21" />
-        <mark key="." line="26" column="21" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1461958833406">
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461770579087">
         <mark key="'" line="183" column="6" />
@@ -562,7 +562,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>i</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -570,19 +570,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>hasViews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5wbHVnaW4udmVoaWNsZV9zdGF0dXMuQnVpbGRDb25maWc7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFZpZXc+IHByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoQE5vbk51bGwgTGlzdDxWaWV3PiB2aWV3cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE5vbk51bGwgTGlzdDxDcml0aWNhbERpYWdub3N0aWNUeXBlPiBzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlKSB7CiAgICAgICAgTGlzdDxDcml0aWNhbERpYWdub3N0aWNUeXBlPiBzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlQ29weSA9IG5ldyBBcnJheUxpc3Q8Pihzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlKTsKICAgICAgICBDb2xsZWN0aW9ucy5yZXZlcnNlKHNvcnRlZENyaXRpY2FsRGlhZ25vc3RpY1R5cGVDb3B5KTsKICAgICAgICBmb3IgKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUgY3JpdGljYWxEaWFnbm9zdGljVHlwZSA6IHNvcnRlZENyaXRpY2FsRGlhZ25vc3RpY1R5cGVDb3B5KSB7CiAgICAgICAgICAgIG1vdmVUb1RvcChjcml0aWNhbERpYWdub3N0aWNUeXBlKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>i</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,29 +645,29 @@
           <key char="99" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBmaW5hbCBWaWV3R3JvdXAgcGFyZW50TGF5b3V0Owo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>addView</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text>parentLayout</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBhcmVudExheW91dCA9IHBhcmVudExheW91dDsK</text>
+      <register name="5" type="4">
+        <text>removeView</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplcihWaWV3R3JvdXAgcGFyZW50TGF5b3V0KSB7Cg==</text>
+      <register name="6" type="4">
+        <text>parentLayout</text>
       </register>
-      <register name="7" type="4">
-        <text>void</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFZpZXc+IHJlc3VsdHMgPSBuZXcgQXJyYXlMaXN0PD4odmlld3MpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFZpZXc+IHByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoQE5vbk51bGwgTGlzdDxWaWV3PiB2aWV3cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE5vbk51bGwgTGlzdDxDcml0aWNhbERpYWdub3N0aWNUeXBlPiBzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlKSB7CiAgICB9Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>View</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFZpZXc+IGlucHV0Vmlld3MgPSBuZXcgQXJyYXlMaXN0PD4odmlld3MpOwogICAgICAgIExpc3Q8Vmlldz4gcmVzdWx0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoQ3JpdGljYWxEaWFnbm9zdGljVHlwZSBjcml0aWNhbERpYWdub3N0aWNUeXBlIDogc29ydGVkQ3JpdGljYWxEaWFnbm9zdGljVHlwZSkgewogICAgICAgICAgICBmb3IgKFZpZXcgdiA6IGlucHV0Vmlld3MpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
