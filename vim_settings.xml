@@ -125,11 +125,11 @@
         <mark key="^" line="38" column="84" />
         <mark key="." line="38" column="84" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1461955649273">
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="49" column="51" />
-        <mark key="." line="49" column="51" />
-        <mark key="^" line="49" column="51" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1461958353717">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461770579087">
         <mark key="'" line="183" column="6" />
@@ -447,11 +447,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1461956751617">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1461958265124">
         <mark key="'" line="75" column="17" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="144" column="28" />
+        <mark key="]" line="144" column="37" />
+        <mark key="." line="144" column="37" />
+        <mark key="^" line="144" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -560,8 +561,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDaGlsZFYK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -569,7 +570,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>hasViews</text>
@@ -580,8 +581,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDaGlsZFYK</text>
+      <register name="1" type="4">
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,28 +646,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaGFzVmlld3MoQ2xhc3MuLi4gY2xhc3NlcykgewogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgY2xhc3Nlcy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBDbGFzcyBjID0gY2xhc3Nlc1tpXTsKICAgICAgICAgICAgVmlldyAgdiA9IHZpZXdHcm91cC5nZXRDaGlsZEF0KGkpOwogICAgICAgICAgICBhc3NlcnRUcnVlKGMuaXNJbnN0YW5jZSh2KSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBmaW5hbCBWaWV3R3JvdXAgcGFyZW50TGF5b3V0Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text>u</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>mockLayout</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>mockLayout</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnBhcmVudExheW91dCA9IHBhcmVudExheW91dDsK</text>
       </register>
-      <register name="6" type="4">
-        <text>mockLayout</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBDcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplcihWaWV3R3JvdXAgcGFyZW50TGF5b3V0KSB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBNb2NrICAgICAgICBWaWV3R3JvdXAgICAgICAgICAgICAgICAgICAgICBtb2NrTGF5b3V0Owo=</text>
+      <register name="7" type="4">
+        <text>void</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">SW5qZWN0TW9ja3Mg</text>
+        <text encoding="base64">PiA=</text>
       </register>
       <register name="9" type="4">
-        <text>@</text>
+        <text>View</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
