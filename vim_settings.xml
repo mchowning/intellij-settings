@@ -292,10 +292,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1461956438909">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462049139868">
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="93" />
+        <mark key="." line="84" column="93" />
+        <mark key="^" line="84" column="93" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlock.java" timestamp="1461697059053">
         <mark key="'" line="57" column="44" />
@@ -447,12 +448,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1461958265124">
-        <mark key="'" line="75" column="17" />
-        <mark key="[" line="144" column="28" />
-        <mark key="]" line="144" column="37" />
-        <mark key="." line="144" column="37" />
-        <mark key="^" line="144" column="37" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1462049146287">
+        <mark key="'" line="73" column="17" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="142" column="37" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -561,8 +562,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -570,7 +571,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hasViews</text>
@@ -581,8 +582,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>i</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,29 +646,29 @@
           <key char="99" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSBEaWFnbm9zdGljSW5mb0Jsb2NrTGF5b3V0LmNsYXNzLmdldFNpbXBsZU5hbWUoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>addView</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQ3JpdGljYWxEaWFnbm9zdGljUHJpb3JpdGl6ZXIgICAgICAgIG1vY2tDcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplcjsK</text>
       </register>
       <register name="4" type="4">
-        <text>parentLayout</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>removeView</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">LCA=</text>
+      </register>
+      <register name="7" type="4">
+        <text>addView</text>
+      </register>
+      <register name="8" type="4">
         <text>parentLayout</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFZpZXc+IHJlc3VsdHMgPSBuZXcgQXJyYXlMaXN0PD4odmlld3MpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFZpZXc+IHByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoQE5vbk51bGwgTGlzdDxWaWV3PiB2aWV3cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE5vbk51bGwgTGlzdDxDcml0aWNhbERpYWdub3N0aWNUeXBlPiBzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlKSB7CiAgICB9Cgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFZpZXc+IGlucHV0Vmlld3MgPSBuZXcgQXJyYXlMaXN0PD4odmlld3MpOwogICAgICAgIExpc3Q8Vmlldz4gcmVzdWx0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoQ3JpdGljYWxEaWFnbm9zdGljVHlwZSBjcml0aWNhbERpYWdub3N0aWNUeXBlIDogc29ydGVkQ3JpdGljYWxEaWFnbm9zdGljVHlwZSkgewogICAgICAgICAgICBmb3IgKFZpZXcgdiA6IGlucHV0Vmlld3MpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>removeView</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
