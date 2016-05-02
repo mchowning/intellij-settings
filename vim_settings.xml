@@ -46,10 +46,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" timestamp="1462201320335">
         <mark key="'" line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenterTest.java" timestamp="1462195665227">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenterTest.java" timestamp="1462215118823">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="76" column="32" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1462207725930">
         <mark key="'" line="3" column="32" />
@@ -66,12 +67,6 @@
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeSettingsInfoBlockPresenter.java" timestamp="1462201156877">
         <mark key="'" line="76" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1462212906668">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/diagnostic_linear_layout.xml" timestamp="1461589070795">
         <mark key="[" line="5" column="0" />
@@ -445,11 +440,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" timestamp="1462195671330">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" timestamp="1462215165985">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="78" />
         <mark key="^" line="51" column="11" />
-        <mark key="." line="65" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1462213481084">
         <mark key="[" line="0" column="0" />
@@ -459,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" />
       <jump line="158" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" />
       <jump line="99" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="149" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/BatteryRangeInfoBlock.java" />
@@ -559,13 +554,14 @@
       <jump line="49" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="56" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="11" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
+      <jump line="52" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2hhcmdlIGZ1bmN0aW9ucyB3aXRoIHRoZSB0YXAgb2YgYSBmaW5nZXIuIFxuXG4gV2l0aCBWZWhpY2xlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3LnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoZ2V0U29ydGVkQ3JpdGljYWxEaWFnbm9zdGljVHlwZXMoKSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -573,10 +569,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.gm.gemini.plugin_common_resources.UpsellInfoBlock</text>
+        <text>emptyList</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>sdfljg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDwhLS14bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiLS0+CiAgICA8IS0teG1sbnM6Z209Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byItLT4K</text>
@@ -584,8 +580,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>com.gm.gemini.plugin_common_resources.UpsellInfoBlock</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3LnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoZ2V0U29ydGVkQ3JpdGljYWxEaWFnbm9zdGljVHlwZXMoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -627,38 +623,38 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3Moc29ydGVkQ3JpdGljYWxEaWFnbm9zdGljcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3Moc29ydGVkQ3JpdGljYWxEaWFnbm9zdGljcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbk9yZGVyIGluT3JkZXIgPSBpbk9yZGVyKG1vY2tWaWV3KTsKICAgICAgICBpbk9yZGVyLnZlcmlmeShtb2NrVmlldykuc2hvd0ljZUluZm9CbG9ja3MoKTsKICAgICAgICBpbk9yZGVyLnZlcmlmeShtb2NrVmlldykucHJpb3JpdGl6ZUNyaXRpY2FsSW5mb0Jsb2Nrcyhzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNzKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0xpc3Q8Q3JpdGljYWxEaWFnbm9zdGljRXZlbnQuQ3JpdGljYWxEaWFnbm9zdGljVHlwZT4gZW1wdHlMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgLy93aGVuKG1vY2tDcml0aWNhbERpYWdub3N0aWNVdGlsLmdldFNvcnRlZERpYWdub3N0aWNUeXBlcyhhbnlMaXN0T2YoQ3JpdGljYWxEaWFnbm9zdGljRXZlbnQuTWVzc2FnZUhvbGRlci5jbGFzcykpKQogICAgICAgIC8vICAgICAgICAudGhlblJldHVybihudWxsKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGV4dHJhY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyBGSVhNRSBnZXQgcmlkIG9mIHRoaXM/CiAgICBwdWJsaWMgdm9pZCBzZXRWaWV3KEBOb25OdWxsIFZpZXcgdmlldykgewogICAgICAgIHRoaXMudmlldyA9IHZpZXc7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3Moc29ydGVkQ3JpdGljYWxEaWFnbm9zdGljcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>sdfljg</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
+      <last-pattern>sdfljg</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -666,8 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chargeStatus</entry>
-        <entry>countryconfig</entry>
         <entry>asdlfj</entry>
         <entry>hasViews</entry>
         <entry>click</entry>
@@ -686,6 +680,8 @@
         <entry>inject</entry>
         <entry>asdlkjf</entry>
         <entry>router</entry>
+        <entry encoding="base64">XDxyZXNldEluZm9CbG9ja3NcPg==</entry>
+        <entry>sdfljg</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
