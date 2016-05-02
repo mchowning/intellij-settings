@@ -44,11 +44,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" timestamp="1461694418572">
         <mark key="'" line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenterTest.java" timestamp="1461874668400">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="67" column="3" />
-        <mark key="]" line="74" column="7" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenterTest.java" timestamp="1462193506777">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1461870618893">
         <mark key="'" line="3" column="32" />
@@ -440,11 +440,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" timestamp="1462188975597">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="70" column="71" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" timestamp="1462193494753">
+        <mark key="[" line="69" column="80" />
+        <mark key="]" line="70" column="59" />
+        <mark key="^" line="70" column="59" />
+        <mark key="." line="70" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1462188833327">
         <mark key="[" line="0" column="0" />
@@ -566,7 +566,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -586,7 +586,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -628,29 +628,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vQFByb3ZpZGVzCiAgICAvL3B1YmxpYyBDcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplciBjcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplcigpIHsKICAgIC8vICAgIHJldHVybiBuZXcgQ3JpdGljYWxEaWFnbm9zdGljUHJpb3JpdGl6ZXIodmlldyk7CiAgICAvL30K</text>
-      </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>// TODO don't inject this?</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAg</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">SW5qZWN0IA==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="7" type="4">
-        <text>@</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QgRGlhZ25vc3RpY0luZm9CbG9ja0xheW91dFByZXNlbnRlciBwcmVzZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgIC8vQFByb3ZpZGVzCiAgICAvL3B1YmxpYyBDcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplciBjcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplcigpIHsKICAgIC8vICAgIHJldHVybiBuZXcgQ3JpdGljYWxEaWFnbm9zdGljUHJpb3JpdGl6ZXIodmlldyk7CiAgICAvL30K</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
