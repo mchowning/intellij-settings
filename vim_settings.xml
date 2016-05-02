@@ -25,9 +25,10 @@
         <mark key="^" line="74" column="20" />
         <mark key="." line="91" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1461866151485">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="39" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1462200270742">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/preferred_dealer_info_block_header.xml" timestamp="1460641353881">
         <mark key="[" line="66" column="31" />
@@ -252,10 +253,6 @@
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" timestamp="1461853478282">
         <mark key="'" line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentInfoComponent.java" timestamp="1461860809195">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" timestamp="1461781900134">
         <mark key="[" line="29" column="26" />
@@ -568,7 +565,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSAoR2VtaW5pSGVhZGVyKSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1Jlc291cmNlVXRpbE1vZHVsZS5jbGFzcywK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -588,7 +585,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSAoR2VtaW5pSGVhZGVyKSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1Jlc291cmNlVXRpbE1vZHVsZS5jbGFzcywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -631,29 +628,29 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSAoR2VtaW5pSGVhZGVyKSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmhlYWRlcik7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgR2VtaW5pSGVhZGVyICAgICAgICBoZWFkZXI7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>,
                                                                             OnStarDataRefreshHandlerCallback</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICAvL0BPdmVycmlkZQogICAgLy9wdWJsaWMgdm9pZCBvblJlZnJlc2hDb21wbGV0ZSgpIHsKICAgIC8vICAgIHZpZXcub25SZWZyZXNoQ29tcGxldGUoKTsKICAgIC8vfQogICAgLy8KICAgIC8vQE92ZXJyaWRlCiAgICAvL3B1YmxpYyB2b2lkIHNldFJlZnJlc2hpbmcoYm9vbGVhbiByZWZyZXNoaW5nKSB7CiAgICAvLyAgICB2aWV3LnNldFJlZnJlc2hpbmcocmVmcmVzaGluZyk7CiAgICAvL30KICAgIC8vCiAgICAvL0BPdmVycmlkZQogICAgLy9wdWJsaWMgdm9pZCBzZXRSZWZyZXNoRW5hYmxlZChib29sZWFuIGVuYWJsZWQpIHsKICAgIC8vICAgIHZpZXcuc2V0UmVmcmVzaEVuYWJsZWQoZW5hYmxlZCk7CiAgICAvL30K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vQE92ZXJyaWRlCiAgICAvL3B1YmxpYyB2b2lkIG9uUmVmcmVzaENvbXBsZXRlKCkgewogICAgLy8gICAgdmlldy5vblJlZnJlc2hDb21wbGV0ZSgpOwogICAgLy99CiAgICAvLwogICAgLy9AT3ZlcnJpZGUKICAgIC8vcHVibGljIHZvaWQgc2V0UmVmcmVzaGluZyhib29sZWFuIHJlZnJlc2hpbmcpIHsKICAgIC8vICAgIHZpZXcuc2V0UmVmcmVzaGluZyhyZWZyZXNoaW5nKTsKICAgIC8vfQogICAgLy8KICAgIC8vQE92ZXJyaWRlCiAgICAvL3B1YmxpYyB2b2lkIHNldFJlZnJlc2hFbmFibGVkKGJvb2xlYW4gZW5hYmxlZCkgewogICAgLy8gICAgdmlldy5zZXRSZWZyZXNoRW5hYmxlZChlbmFibGVkKTsKICAgIC8vfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vQE92ZXJyaWRlCiAgICAvL3B1YmxpYyB2b2lkIG9uUmVmcmVzaENvbXBsZXRlKCkgewogICAgLy8gICAgdmlldy5vblJlZnJlc2hDb21wbGV0ZSgpOwogICAgLy99CiAgICAvLwogICAgLy9AT3ZlcnJpZGUKICAgIC8vcHVibGljIHZvaWQgc2V0UmVmcmVzaGluZyhib29sZWFuIHJlZnJlc2hpbmcpIHsKICAgIC8vICAgIHZpZXcuc2V0UmVmcmVzaGluZyhyZWZyZXNoaW5nKTsKICAgIC8vfQogICAgLy8KICAgIC8vQE92ZXJyaWRlCiAgICAvL3B1YmxpYyB2b2lkIHNldFJlZnJlc2hFbmFibGVkKGJvb2xlYW4gZW5hYmxlZCkgewogICAgLy8gICAgdmlldy5zZXRSZWZyZXNoRW5hYmxlZChlbmFibGVkKTsKICAgIC8vfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25SZWZyZXNoQ29tcGxldGUoKSB7CiAgICAgICAgdmlldy5vblJlZnJlc2hDb21wbGV0ZSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0UmVmcmVzaGluZyhib29sZWFuIHJlZnJlc2hpbmcpIHsKICAgICAgICB2aWV3LnNldFJlZnJlc2hpbmcocmVmcmVzaGluZyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzZXRSZWZyZXNoRW5hYmxlZChib29sZWFuIGVuYWJsZWQpIHsKICAgICAgICB2aWV3LnNldFJlZnJlc2hFbmFibGVkKGVuYWJsZWQpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>this</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25SZWZyZXNoQ29tcGxldGUoKSB7CiAgICAgICAgdmlldy5vblJlZnJlc2hDb21wbGV0ZSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0UmVmcmVzaGluZyhib29sZWFuIHJlZnJlc2hpbmcpIHsKICAgICAgICB2aWV3LnNldFJlZnJlc2hpbmcocmVmcmVzaGluZyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzZXRSZWZyZXNoRW5hYmxlZChib29sZWFuIGVuYWJsZWQpIHsKICAgICAgICB2aWV3LnNldFJlZnJlc2hFbmFibGVkKGVuYWJsZWQpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
