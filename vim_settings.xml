@@ -292,11 +292,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462049139868">
-        <mark key="[" line="84" column="15" />
-        <mark key="]" line="84" column="93" />
-        <mark key="." line="84" column="93" />
-        <mark key="^" line="84" column="93" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
+        <mark key="[" line="37" column="78" />
+        <mark key="]" line="37" column="78" />
+        <mark key="." line="37" column="78" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlock.java" timestamp="1461697059053">
         <mark key="'" line="57" column="44" />
@@ -448,20 +447,15 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1462049146287">
-        <mark key="'" line="73" column="17" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="142" column="37" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1462185856800">
+        <mark key="'" line="69" column="17" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="49" column="6" />
+        <mark key="." line="128" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
-      <jump line="66" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
-      <jump line="67" column="54" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
-      <jump line="69" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
-      <jump line="73" column="62" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
       <jump line="74" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
       <jump line="75" column="68" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
       <jump line="77" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" />
@@ -557,6 +551,11 @@
       <jump line="80" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" />
       <jump line="106" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizerTest.java" />
       <jump line="119" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizerTest.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" />
+      <jump line="34" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -571,13 +570,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>hasViews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFZpZXc+IHByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoQE5vbk51bGwgTGlzdDxWaWV3PiB2aWV3cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE5vbk51bGwgTGlzdDxDcml0aWNhbERpYWdub3N0aWNUeXBlPiBzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlKSB7CiAgICAgICAgTGlzdDxDcml0aWNhbERpYWdub3N0aWNUeXBlPiBzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlQ29weSA9IG5ldyBBcnJheUxpc3Q8Pihzb3J0ZWRDcml0aWNhbERpYWdub3N0aWNUeXBlKTsKICAgICAgICBDb2xsZWN0aW9ucy5yZXZlcnNlKHNvcnRlZENyaXRpY2FsRGlhZ25vc3RpY1R5cGVDb3B5KTsKICAgICAgICBmb3IgKENyaXRpY2FsRGlhZ25vc3RpY1R5cGUgY3JpdGljYWxEaWFnbm9zdGljVHlwZSA6IHNvcnRlZENyaXRpY2FsRGlhZ25vc3RpY1R5cGVDb3B5KSB7CiAgICAgICAgICAgIG1vdmVUb1RvcChjcml0aWNhbERpYWdub3N0aWNUeXBlKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0ID0gc3B5KG5ldyBEaWFnbm9zdGljSW5mb0Jsb2NrTGF5b3V0KFJ1bnRpbWVFbnZpcm9ubWVudC5hcHBsaWNhdGlvbikpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -647,28 +646,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSBEaWFnbm9zdGljSW5mb0Jsb2NrTGF5b3V0LmNsYXNzLmdldFNpbXBsZU5hbWUoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFZpZXc+IGdldFZpZXdzKCkgewogICAgICAgIExpc3Q8Vmlldz4gcmVzdWx0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZ2V0Q2hpbGRDb3VudCgpOyBpKyspIHsKICAgICAgICAgICAgcmVzdWx0cy5hZGQoZ2V0Q2hpbGRBdChpKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFZpZXdzKExpc3Q8Vmlldz4gdmlld3MpIHsKICAgICAgICByZW1vdmVBbGxWaWV3cygpOwogICAgICAgIGZvciAoVmlldyB2IDogdmlld3MpIGFkZFZpZXcodik7CiAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQ3JpdGljYWxEaWFnbm9zdGljUHJpb3JpdGl6ZXIgICAgICAgIG1vY2tDcml0aWNhbERpYWdub3N0aWNQcmlvcml0aXplcjsK</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>spy</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>protected</text>
       </register>
       <register name="7" type="4">
-        <text>addView</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>parentLayout</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>removeView</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIEZJWE1FIGFkZCB0ZXN0cwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
