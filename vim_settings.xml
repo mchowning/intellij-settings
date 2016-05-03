@@ -35,6 +35,9 @@
         <mark key="^" line="67" column="37" />
         <mark key="." line="67" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" timestamp="1462300775087">
+        <mark key="'" line="408" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayout.java" timestamp="1461777838825">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -172,9 +175,9 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1462280686165">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1462300268556">
         <mark key="'" line="133" column="16" />
-        <mark key="[" line="45" column="0" />
+        <mark key="[" line="27" column="13" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
@@ -287,7 +290,14 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" timestamp="1462195700746">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresetnerTest.java" timestamp="1462300336047">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" timestamp="1462300253171">
+        <mark key="'" line="41" column="35" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="109" column="10" />
@@ -302,6 +312,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build/intermediates/exploded-aar/com.gm.gemini.translations/android-base/0.0.1-SNAPSHOT/res/values/vehicle_status-strings.xml" timestamp="1462213784598">
         <mark key="[" line="62" column="364" />
         <mark key="]" line="62" column="424" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenterTest.java" timestamp="1462300338835">
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="50" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlockPresenter.java" timestamp="1462274783318">
         <mark key="[" line="62" column="0" />
@@ -422,24 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
-      <jump line="149" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/BatteryRangeInfoBlock.java" />
-      <jump line="163" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="177" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="178" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="179" column="72" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="18" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="75" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="129" column="76" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="176" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="42" column="142" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="9" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="14" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="15" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="21" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="22" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="23" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="109" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="135" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="0" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" />
       <jump line="63" column="65" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" />
@@ -522,13 +519,31 @@
       <jump line="11" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="52" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" />
       <jump line="34" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/SharedPrefAuthVault.java" />
+      <jump line="6" column="61" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" />
+      <jump line="21" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" />
+      <jump line="41" column="35" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" />
+      <jump line="178" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="204" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="212" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="226" column="50" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="256" column="35" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="279" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="289" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="302" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="312" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="332" column="30" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="351" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="370" column="80" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="387" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="402" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="408" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBlODkwMzI1OTQwOGNiMjQ1YTc5ZjZhNDRhZmY2MjVjOTc4OGY1MGMxCj09PT09PT0K</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -536,10 +551,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DiagnosticDataModule</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>secureKeyChain</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDwhLS14bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiLS0+CiAgICA8IS0teG1sbnM6Z209Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byItLT4K</text>
@@ -547,8 +562,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBlODkwMzI1OTQwOGNiMjQ1YTc5ZjZhNDRhZmY2MjVjOTc4OGY1MGMxCj09PT09PT0K</text>
+      <register name="1" type="4">
+        <text>n</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -591,37 +606,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNQyB8IElRQyB8IGV4dHJhY3QgbG9naWMgZm9yIG9yZGVyaW5nIGRpYWdub3N0aWMgSW5mb0Jsb2Nrcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBlODkwMzI1OTQwOGNiMjQ1YTc5ZjZhNDRhZmY2MjVjOTc4OGY1MGMxCj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBjY2MyMzg2NTM1NDU2YzI4MDI4YjlhOGQzMWY3YTQzMDBjMTA2OWVjCj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBNQyB8IElRQyB8IGV4dHJhY3QgbG9naWMgZm9yIG9yZGVyaW5nIGRpYWdub3N0aWMgSW5mb0Jsb2Nrcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNQyB8IElRQyB8IGV4dHJhY3QgbG9naWMgZm9yIG9yZGVyaW5nIGRpYWdub3N0aWMgSW5mb0Jsb2Nrcwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBjY2MyMzg2NTM1NDU2YzI4MDI4YjlhOGQzMWY3YTQzMDBjMTA2OWVjCj09PT09PT0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBNQyB8IElRQyB8IGV4dHJhY3QgbG9naWMgZm9yIG9yZGVyaW5nIGRpYWdub3N0aWMgSW5mb0Jsb2Nrcwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBjY2MyMzg2NTM1NDU2YzI4MDI4YjlhOGQzMWY3YTQzMDBjMTA2OWVjCj09PT09PT0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBNQyB8IElRQyB8IGV4dHJhY3QgbG9naWMgZm9yIG9yZGVyaW5nIGRpYWdub3N0aWMgSW5mb0Jsb2Nrcwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NyaXRpY2FsRGlhZ25vc3RpY0xpc3RlbmVyID0gbmV3IENyaXRpY2FsRGlhZ25vc3RpY0xpc3RlbmVyKGdlbWluaUFwcGxpY2F0aW9uQ29tcG9uZW50LmdldEV2ZW50QnVzKCksIG5ldyBEaWFnbm9zdGljU3RyYXRlZ3lGYWN0b3J5KHRoaXMpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>secureKeyChain</last-search>
+      <last-search encoding="base64">bmV3IA==</last-search>
       <last-offset />
-      <last-pattern>secureKeyChain</last-pattern>
+      <last-pattern encoding="base64">bmV3IA==</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -629,8 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addUpsel</entry>
-        <entry>onClick</entry>
         <entry>View</entry>
         <entry>asdlkfj</entry>
         <entry>isSHowing</entry>
@@ -649,6 +662,8 @@
         <entry>share</entry>
         <entry>asdflkj</entry>
         <entry>secureKeyChain</entry>
+        <entry encoding="base64">XDxFZmZpY2llbmN5SW5mb0Jsb2NrXD4=</entry>
+        <entry encoding="base64">bmV3IA==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
