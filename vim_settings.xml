@@ -62,6 +62,11 @@
         <mark key="." line="56" column="91" />
         <mark key="^" line="56" column="91" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" timestamp="1462274278513">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/diagnostic_linear_layout.xml" timestamp="1461589070795">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="66" column="47" />
@@ -331,6 +336,11 @@
         <mark key="[" line="62" column="364" />
         <mark key="]" line="62" column="424" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlockPresenter.java" timestamp="1462274783318">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/res/layout/data_usage_info_block.xml" timestamp="1460471504497">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="17" column="57" />
@@ -578,7 +588,7 @@
         <text>DiagnosticDataModule</text>
       </register>
       <register name="/" type="4">
-        <text>share</text>
+        <text>secureKeyChain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDwhLS14bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiLS0+CiAgICA8IS0teG1sbnM6Z209Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byItLT4K</text>
@@ -633,34 +643,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvL0BQcm92aWRlcwogICAgLy9GdWVsRWZmaWNpZW5jeURhdGFVdGlsIGZ1ZWxFZmZpY2llbmN5RGF0YVV0aWwoRGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGUgZGF0YURlbGVnYXRlKSB7CiAgICAvLyAgICByZXR1cm4gbmV3IEZ1ZWxFZmZpY2llbmN5RGF0YVV0aWwoZGF0YURlbGVnYXRlKTsKICAgIC8vfQogICAgLy8KICAgIC8vQFByb3ZpZGVzCiAgICAvL1RpcmVQcmVzc3VyZURhdGFVdGlsIHRpcmVQcmVzc3VyZURhdGFVdGlsKERpYWdub3N0aWNFbGVtZW50RGF0YURlbGVnYXRlIGRhdGFEZWxlZ2F0ZSl7CiAgICAvLyAgICByZXR1cm4gbmV3IFRpcmVQcmVzc3VyZURhdGFVdGlsKGRhdGFEZWxlZ2F0ZSk7CiAgICAvL30KICAgIC8vCiAgICAvL0BQcm92aWRlcwogICAgLy9EaWFnbm9zdGljRWxlbWVudERhdGFEZWxlZ2F0ZSBkaWFnbm9zdGljRWxlbWVudERhdGFEZWxlZ2F0ZShEYXRhU291cmNlIGRhdGFTb3VyY2UpIHsKICAgIC8vICAgIHJldHVybiBuZXcgRGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGUoZGF0YVNvdXJjZSk7CiAgICAvL30K</text>
+        <text encoding="base64">ICAgICAgICAvL2NyaXRpY2FsRGlhZ25vc3RpY0xpc3RlbmVyID0gbmV3IENyaXRpY2FsRGlhZ25vc3RpY0xpc3RlbmVyKGdlbWluaUFwcGxpY2F0aW9uQ29tcG9uZW50LmdldEV2ZW50QnVzKCksIG5ldyBEaWFnbm9zdGljU3RyYXRlZ3lGYWN0b3J5KHRoaXMpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZENvbmZpZ3VyYXRpb25Nb2R1bGUobmV3IEJ1aWxkQ29uZmlndXJhdGlvbk1vZHVsZShidWlsZENvbmZpZ3VyYXRpb24pKQo=</text>
+        <text encoding="base64">CiAgICAvL0BJbmplY3QKICAgIC8vU2VjdXJlS2V5Q2hhaW5CYWNrZWRDcnlwdG8gc2VjdXJlS2V5Q2hhaW5CYWNrZWRDcnlwdG87Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>DiagnosticDataModule</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBDcml0aWNhbERpYWdub3N0aWNMaXN0ZW5lciBjcml0aWNhbERpYWdub3N0aWNMaXN0ZW5lcjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3MoZ2V0U29ydGVkQ3JpdGljYWxEaWFnbm9zdGljVHlwZXMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3Moc29ydGVkQ3JpdGljYWxEaWFnbm9zdGljcyk7Cg==</text>
+        <text encoding="base64">CiAgICAvL0BQcm92aWRlcwogICAgLy9GdWVsRWZmaWNpZW5jeURhdGFVdGlsIGZ1ZWxFZmZpY2llbmN5RGF0YVV0aWwoRGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGUgZGF0YURlbGVnYXRlKSB7CiAgICAvLyAgICByZXR1cm4gbmV3IEZ1ZWxFZmZpY2llbmN5RGF0YVV0aWwoZGF0YURlbGVnYXRlKTsKICAgIC8vfQogICAgLy8KICAgIC8vQFByb3ZpZGVzCiAgICAvL1RpcmVQcmVzc3VyZURhdGFVdGlsIHRpcmVQcmVzc3VyZURhdGFVdGlsKERpYWdub3N0aWNFbGVtZW50RGF0YURlbGVnYXRlIGRhdGFEZWxlZ2F0ZSl7CiAgICAvLyAgICByZXR1cm4gbmV3IFRpcmVQcmVzc3VyZURhdGFVdGlsKGRhdGFEZWxlZ2F0ZSk7CiAgICAvL30KICAgIC8vCiAgICAvL0BQcm92aWRlcwogICAgLy9EaWFnbm9zdGljRWxlbWVudERhdGFEZWxlZ2F0ZSBkaWFnbm9zdGljRWxlbWVudERhdGFEZWxlZ2F0ZShEYXRhU291cmNlIGRhdGFTb3VyY2UpIHsKICAgIC8vICAgIHJldHVybiBuZXcgRGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGUoZGF0YVNvdXJjZSk7CiAgICAvL30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnByaW9yaXRpemVDcml0aWNhbEluZm9CbG9ja3Moc29ydGVkQ3JpdGljYWxEaWFnbm9zdGljcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZENvbmZpZ3VyYXRpb25Nb2R1bGUobmV3IEJ1aWxkQ29uZmlndXJhdGlvbk1vZHVsZShidWlsZENvbmZpZ3VyYXRpb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>share</last-search>
+      <last-search>secureKeyChain</last-search>
       <last-offset />
-      <last-pattern>share</last-pattern>
+      <last-pattern>secureKeyChain</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -668,8 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry>datasource</entry>
         <entry>addUpsel</entry>
         <entry>onClick</entry>
         <entry>View</entry>
@@ -688,6 +696,8 @@
         <entry encoding="base64">XDxDcml0aWNhbERpYWdub3N0aWNMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxzZWN1cmVDcnlwdG9cPg==</entry>
         <entry>share</entry>
+        <entry>asdflkj</entry>
+        <entry>secureKeyChain</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
