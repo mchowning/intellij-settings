@@ -155,11 +155,11 @@
         <mark key="^" line="48" column="14" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462375831309">
-        <mark key="[" line="78" column="72" />
-        <mark key="]" line="79" column="49" />
-        <mark key="^" line="79" column="49" />
-        <mark key="." line="79" column="49" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462391683272">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="51" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenterTest.java" timestamp="1462390946893">
         <mark key="[" line="24" column="13" />
@@ -413,11 +413,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostAuthSequenceFactoryTest.java" timestamp="1462304617456">
         <mark key="'" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenter.java" timestamp="1462391011325">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="69" column="4" />
-        <mark key="." line="69" column="4" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenter.java" timestamp="1462391827264">
+        <mark key="'" line="35" column="15" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="69" column="4" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyViewProvider.java" timestamp="1461760740119">
@@ -562,7 +562,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyB2aWV3OwogICAgcHJpdmF0ZSBmaW5hbCBFdmVudEJ1cyBldmVudEJ1czsKICAgIHByaXZhdGUgZmluYWwgTGlmZXRpbWVBbmRUcmlwSW5mb0Rpc3BsYXkgbGlmZXRpbWVBbmRUcmlwSW5mb0Rpc3BsYXk7CiAgICBwcml2YXRlIGZpbmFsIExhc3RUcmlwRW50aXRsZW1lbnQgbGFzdFRyaXBFbnRpdGxlbWVudDsKICAgIHByaXZhdGUgZmluYWwgRGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGUgZGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGU7Cgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -582,7 +582,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyB2aWV3OwogICAgcHJpdmF0ZSBmaW5hbCBFdmVudEJ1cyBldmVudEJ1czsKICAgIHByaXZhdGUgZmluYWwgTGlmZXRpbWVBbmRUcmlwSW5mb0Rpc3BsYXkgbGlmZXRpbWVBbmRUcmlwSW5mb0Rpc3BsYXk7CiAgICBwcml2YXRlIGZpbmFsIExhc3RUcmlwRW50aXRsZW1lbnQgbGFzdFRyaXBFbnRpdGxlbWVudDsKICAgIHByaXZhdGUgZmluYWwgRGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGUgZGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGU7Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -624,29 +624,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL3ZvaWQgc2V0VmlzaWJpbGl0eShpbnQgdmlzaWJpbGl0eSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
-      </register>
-      <register name="5" type="4">
-        <text>F</text>
-      </register>
-      <register name="6" type="4">
         <text>l</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text>e</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>u</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
         <text>F</text>
+      </register>
+      <register name="8" type="4">
+        <text>l</text>
+      </register>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
