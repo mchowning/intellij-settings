@@ -272,12 +272,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="76" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenter.java" timestamp="1462381793238">
-        <mark key="'" line="96" column="9" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="78" />
-        <mark key="^" line="18" column="76" />
-        <mark key="." line="18" column="76" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenter.java" timestamp="1462387093008">
+        <mark key="'" line="97" column="9" />
+        <mark key="[" line="50" column="63" />
+        <mark key="]" line="51" column="43" />
+        <mark key="^" line="51" column="43" />
+        <mark key="." line="51" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461856923471">
         <mark key="'" line="18" column="16" />
@@ -552,7 +552,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YWJzdHJhY3Qg</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -560,7 +560,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWJzdHJhY3Qg</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>setVisi</text>
@@ -572,7 +572,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">YWJzdHJhY3Qg</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -614,29 +614,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>FuelEfficiencyInfoBlockPresenter.View</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgVmlldyB7CiAgICAgICAgdm9pZCBzZXRFbmFibGVkKGJvb2xlYW4gZW5hYmxlZCk7CiAgICAgICAgdm9pZCByZWZyZXNoVmlldyhib29sZWFuIGRhdGFBdmFpbGFibGUpOwogICAgICAgIHZvaWQgc2hvd1RhYnMoQFN0cmluZ1JlcyBmaW5hbCBpbnQuLi50YWJSZXMpOwoKICAgICAgICB2b2lkIHNldFNlY3Rpb25MYWJlbChAU3RyaW5nUmVzIGludCBzdHJpbmdSZXMpOwogICAgICAgIHZvaWQgc2V0RHluYW1pY1RleHQoQ2hhclNlcXVlbmNlIHRleHQpOwogICAgICAgIHZvaWQgc2V0RHluYW1pY1RleHQoQFN0cmluZ1JlcyBpbnQgc3RyaW5nUmVzKTsKICAgICAgICB2b2lkIHNldEljb24oQERyYXdhYmxlUmVzIGludCBpY29uKTsKICAgICAgICB2b2lkIHNldEljb25Gb3JlZ3JvdW5kQ29sb3JSZXMoQENvbG9yUmVzIGludCBjb2xvclJlcyk7CiAgICAgICAgdm9pZCBzZXRJY29uQmFja2dyb3VuZENvbG9yUmVzKEBDb2xvclJlcyBpbnQgY29sb3JSZXMpOwogICAgICAgIHZvaWQgc2V0SWNvbkJhY2tncm91bmRDb2xvckF0dHIoQEF0dHJSZXMgaW50IGNvbG9yQXR0clJlcyk7CiAgICAgICAgdm9pZCBzZXRWaXNpYmlsaXR5KGludCB2aXNpYmlsaXR5KTsKICAgIH0K</text>
+      <register name="4" type="4">
+        <text>implements</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text encoding="base64">YWJzdHJhY3Qg</text>
       </register>
-      <register name="6" type="4">
-        <text>/</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgRWZmaWNpZW5jeUluZm9CbG9ja1ByZXNlbnRlcihFdmVudEJ1cyBldmVudEJ1cykgewogICAgICAgIHRoaXMuZXZlbnRCdXMgPSBldmVudEJ1czsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgVmlldyB7CiAgICAgICAgdm9pZCBzZXRFbmFibGVkKGJvb2xlYW4gZW5hYmxlZCk7CiAgICAgICAgdm9pZCByZWZyZXNoVmlldyhib29sZWFuIGRhdGFBdmFpbGFibGUpOwogICAgICAgIHZvaWQgc2hvd1RhYnMoQFN0cmluZ1JlcyBmaW5hbCBpbnQuLi50YWJSZXMpOwoKICAgICAgICB2b2lkIHNldFNlY3Rpb25MYWJlbChAU3RyaW5nUmVzIGludCBzdHJpbmdSZXMpOwogICAgICAgIHZvaWQgc2V0RHluYW1pY1RleHQoQ2hhclNlcXVlbmNlIHRleHQpOwogICAgICAgIHZvaWQgc2V0RHluYW1pY1RleHQoQFN0cmluZ1JlcyBpbnQgc3RyaW5nUmVzKTsKICAgICAgICB2b2lkIHNldEljb24oQERyYXdhYmxlUmVzIGludCBpY29uKTsKICAgICAgICB2b2lkIHNldEljb25Gb3JlZ3JvdW5kQ29sb3JSZXMoQENvbG9yUmVzIGludCBjb2xvclJlcyk7CiAgICAgICAgdm9pZCBzZXRJY29uQmFja2dyb3VuZENvbG9yUmVzKEBDb2xvclJlcyBpbnQgY29sb3JSZXMpOwogICAgICAgIHZvaWQgc2V0SWNvbkJhY2tncm91bmRDb2xvckF0dHIoQEF0dHJSZXMgaW50IGNvbG9yQXR0clJlcyk7CiAgICAgICAgdm9pZCBzZXRWaXNpYmlsaXR5KGludCB2aXNpYmlsaXR5KTsKICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
