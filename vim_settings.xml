@@ -102,6 +102,13 @@
         <mark key="." line="31" column="44" />
         <mark key="^" line="31" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1462374717690">
+        <mark key="'" line="126" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="47" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="10" />
@@ -167,7 +174,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/gradle.properties" timestamp="1462373455182">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/gradle.properties" timestamp="1462374040205">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
@@ -229,6 +236,12 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="54" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1462374900363">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="75" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" timestamp="1460641800484">
         <mark key="'" line="33" column="0" />
@@ -399,6 +412,12 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlock.java" timestamp="1462374763453">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" timestamp="1462302964971">
         <mark key="'" line="52" column="8" />
         <mark key="[" line="19" column="32" />
@@ -519,8 +538,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbW92ZUluZm9CbG9ja1RvVG9wKFZpZXcgaW5mb0Jsb2NrKSB7CiAgICAgICAgZGlhZ0luZm9CbG9ja1BhcmVudC5yZW1vdmVWaWV3KGluZm9CbG9jayk7CiAgICAgICAgZGlhZ0luZm9CbG9ja1BhcmVudC5hZGRWaWV3KGluZm9CbG9jaywgMCk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>R.layout.battery_and_fuel_efficiency_infoblock</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -528,19 +547,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW1pbmlOb3RpZmljYXRpb25NYW5hZ2VyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDwhLS14bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiLS0+CiAgICA8IS0teG1sbnM6Z209Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byItLT4K</text>
+      <register name="0" type="4">
+        <text>R.layout.battery_and_fuel_efficiency_infoblock</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbW92ZUluZm9CbG9ja1RvVG9wKFZpZXcgaW5mb0Jsb2NrKSB7CiAgICAgICAgZGlhZ0luZm9CbG9ja1BhcmVudC5yZW1vdmVWaWV3KGluZm9CbG9jayk7CiAgICAgICAgZGlhZ0luZm9CbG9ja1BhcmVudC5hZGRWaWV3KGluZm9CbG9jaywgMCk7CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgZ2V0TGF5b3V0UmVzKCkgewogICAgICAgIHJldHVybiAwOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -583,28 +602,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgcHVibGljIHZvaWQgcmVvcmRlckNyaXRpY2FsSW5mb0Jsb2NrcyhMaXN0PENyaXRpY2FsRGlhZ25vc3RpY1R5cGU+IGNyaXRpY2FsRGlhZ25vc3RpY1R5cGVzLCBFcmV2RW50aXRsZW1lbnQgZXJldkVudGl0bGVtZW50LCBCZXZFbnRpdGxlbWVudCBiZXZFbnRpdGxlbWVudCkgewogICAgICAgIExpc3Q8Q3JpdGljYWxEaWFnbm9zdGljVHlwZT4gY3JpdGljYWxEaWFnbm9zdGljVHlwZXNDb3B5ID0gbmV3IEFycmF5TGlzdDw+KGNyaXRpY2FsRGlhZ25vc3RpY1R5cGVzKTsKICAgICAgICBDb2xsZWN0aW9ucy5yZXZlcnNlKGNyaXRpY2FsRGlhZ25vc3RpY1R5cGVzQ29weSk7CiAgICAgICAgZm9yIChDcml0aWNhbERpYWdub3N0aWNUeXBlIGNyaXRpY2FsRGlhZ25vc3RpY1R5cGUgOiBjcml0aWNhbERpYWdub3N0aWNUeXBlc0NvcHkpIHsKICAgICAgICAgICAgc3dpdGNoIChjcml0aWNhbERpYWdub3N0aWNUeXBlKSB7CiAgICAgICAgICAgICAgICBjYXNlIFRJUkVfUFJFU1NVUkU6CiAgICAgICAgICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKHRpcmVQcmVzc3VyZUluZm9CbG9jayk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIEZVRUw6CiAgICAgICAgICAgICAgICAgICAgaWYoICFlcmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpICYmICFiZXZFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkgKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcChmdWVsTGV2ZWxJbmZvQmxvY2spOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQkFUVEVSWToKICAgICAgICAgICAgICAgICAgICBpZiggZXJldkVudGl0bGVtZW50LmlzRW50aXRsZWQoKSApIHsKICAgICAgICAgICAgICAgICAgICAgICAgbW92ZUluZm9CbG9ja1RvVG9wKGJhdHRlcnlGdWVsUmFuZ2VJbmZvQmxvY2spOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiggYmV2RW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpICl7CiAgICAgICAgICAgICAgICAgICAgICAgIG1vdmVJbmZvQmxvY2tUb1RvcChiYXR0ZXJ5UmFuZ2VJbmZvQmxvY2spOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0KPj4+Pj4+PiBvcmlnaW4vcmVsZWFzZS9yYzMuMS4wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>layout</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>layout</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>protected</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>@LayoutRes int layout</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRMYXlvdXRSZXMK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
