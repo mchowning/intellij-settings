@@ -9,13 +9,6 @@
         <mark key="^" line="67" column="30" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenterTest.java" timestamp="1462458782366">
-        <mark key="'" line="184" column="4" />
-        <mark key="[" line="108" column="27" />
-        <mark key="]" line="108" column="35" />
-        <mark key="." line="108" column="35" />
-        <mark key="^" line="108" column="35" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayout.java" timestamp="1461777838825">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -115,6 +108,12 @@
         <mark key="." line="31" column="44" />
         <mark key="^" line="31" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-recall/plugin-recall/gradle.properties" timestamp="1462468500326">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="10" />
@@ -135,13 +134,6 @@
         <mark key="]" line="56" column="57" />
         <mark key="^" line="56" column="57" />
         <mark key="." line="56" column="57" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" timestamp="1462454809782">
-        <mark key="'" line="60" column="14" />
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="48" column="96" />
-        <mark key="." line="48" column="96" />
-        <mark key="^" line="48" column="96" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1462463304514">
         <mark key="[" line="5" column="68" />
@@ -388,6 +380,12 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-recall/gradle/wrapper/gradle-wrapper.properties" timestamp="1462468517757">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/auth/GateKeeperImpl2Test.java" timestamp="1462303420462" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -606,7 +604,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -614,7 +612,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>eventbus</text>
@@ -626,7 +624,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -644,10 +642,10 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
         <text>.</text>
@@ -656,16 +654,16 @@
         <text>2</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
-      </register>
-      <register name="7" type="4">
         <text>.</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>2</text>
       </register>
+      <register name="8" type="4">
+        <text>1</text>
+      </register>
       <register name="9" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
