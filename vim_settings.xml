@@ -21,19 +21,6 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status.xml" timestamp="1462207725930">
-        <mark key="'" line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProvider.java" timestamp="1461760549249">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="56" column="91" />
-        <mark key="." line="56" column="91" />
-        <mark key="^" line="56" column="91" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" timestamp="1462307007548">
-        <mark key="'" line="182" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/diagnostic_linear_layout.xml" timestamp="1461589070795">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="66" column="47" />
@@ -75,13 +62,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutTest.java" timestamp="1461770579087">
-        <mark key="'" line="183" column="6" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="79" column="5" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="93" column="39" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/AndroidManifest.xml" timestamp="1461262067895">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -106,12 +86,10 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1460645945124">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="44" />
-        <mark key="." line="31" column="44" />
-        <mark key="^" line="31" column="44" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlock.java" timestamp="1462453067252">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
@@ -125,9 +103,6 @@
         <mark key="." line="36" column="77" />
         <mark key="^" line="36" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostLaunchSequenceFactoryTest.java" timestamp="1462304562028">
-        <mark key="'" line="205" column="53" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlock.java" timestamp="1462213014458">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="36" column="38" />
@@ -140,20 +115,13 @@
         <mark key="." line="56" column="57" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" timestamp="1462448827466">
-        <mark key="'" line="54" column="14" />
+        <mark key="'" line="57" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1461671986592">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1462451698918">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenterTest.java" timestamp="1462212810851">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="48" column="14" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462391683272">
         <mark key="[" line="30" column="42" />
@@ -178,8 +146,8 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresetnerTest.java" timestamp="1462300336047">
-        <mark key="[" line="24" column="51" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresetnerTest.java" timestamp="1462450611137">
+        <mark key="[" line="24" column="52" />
         <mark key="]" line="24" column="51" />
         <mark key="." line="24" column="51" />
         <mark key="^" line="24" column="51" />
@@ -190,10 +158,20 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenterTest.java" timestamp="1462450613594">
+        <mark key="]" line="23" column="52" />
+        <mark key="^" line="23" column="52" />
+        <mark key="." line="23" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlockPresenter.java" timestamp="1462274783318">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockSubcomponent.java" timestamp="1462453062848">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/res/layout/data_usage_info_block.xml" timestamp="1460471504497">
         <mark key="[" line="17" column="48" />
@@ -219,51 +197,17 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OdometerInfoBlock.java" timestamp="1461698207074">
-        <mark key="'" line="117" column="27" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="28" />
-        <mark key="^" line="24" column="47" />
-        <mark key="." line="39" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1462303634041">
-        <mark key="'" line="49" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlock.java" timestamp="1461762380675">
-        <mark key="'" line="15" column="29" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="25" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/SharedPrefAuthVault.java" timestamp="1462271632359">
-        <mark key="'" line="34" column="45" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/view/TirePressureContent.java" timestamp="1461350094449">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1462302128201">
-        <mark key="'" line="78" column="17" />
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="54" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1462396939746">
-        <mark key="[" line="44" column="57" />
-        <mark key="]" line="44" column="56" />
-        <mark key="^" line="44" column="56" />
-        <mark key="." line="44" column="56" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockHeader.java" timestamp="1460641800484">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="91" column="40" />
-        <mark key="]" line="91" column="40" />
-        <mark key="^" line="74" column="20" />
-        <mark key="." line="91" column="40" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1462452758248">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="^" line="32" column="33" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1462209235035">
         <mark key="[" line="12" column="8" />
@@ -277,27 +221,10 @@
         <mark key="^" line="67" column="37" />
         <mark key="." line="67" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" timestamp="1462304086882">
-        <mark key="'" line="1227" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenterTest.java" timestamp="1462215118823">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="76" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenter.java" timestamp="1462387571457">
         <mark key="'" line="99" column="9" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="102" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1461856923471">
-        <mark key="'" line="18" column="16" />
-        <mark key="[" line="96" column="61" />
-        <mark key="]" line="96" column="73" />
-        <mark key="." line="96" column="73" />
-        <mark key="^" line="96" column="73" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -373,6 +300,11 @@
         <mark key="^" line="160" column="43" />
         <mark key="." line="37" column="78" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockContainerPresenter.java" timestamp="1462303036086">
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/util/EVChargeState.java" timestamp="1461069515167">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="26" />
@@ -433,15 +365,12 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostAuthSequenceFactoryTest.java" timestamp="1462304617456">
-        <mark key="'" line="27" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenter.java" timestamp="1462391827264">
-        <mark key="'" line="35" column="15" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="69" column="4" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenter.java" timestamp="1462451018871">
+        <mark key="'" line="37" column="15" />
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="44" column="40" />
+        <mark key="." line="44" column="40" />
+        <mark key="^" line="41" column="9" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyViewProvider.java" timestamp="1461760740119">
         <mark key="[" line="9" column="17" />
@@ -449,27 +378,17 @@
         <mark key="^" line="76" column="9" />
         <mark key="." line="76" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/BatteryAndFuelRangeInfoBlock.java" timestamp="1461773253466">
-        <mark key="'" line="118" column="49" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutComponent.java" timestamp="1462303164973">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlock.java" timestamp="1462388342610">
-        <mark key="[" line="17" column="76" />
-        <mark key="]" line="17" column="76" />
-        <mark key="." line="17" column="76" />
-        <mark key="^" line="19" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutPresenter.java" timestamp="1462302964971">
-        <mark key="'" line="52" column="8" />
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="51" column="11" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlock.java" timestamp="1462452771342">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="26" column="33" />
+        <mark key="^" line="26" column="33" />
+        <mark key="." line="26" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1462448648651">
         <mark key="[" line="0" column="0" />
@@ -593,13 +512,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>R.id.circle_graph</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
-        <text>setView</text>
+        <text>asdlfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uTGlmZXRpbWVTZWxlY3RlZCgpewogICAgICAgIGZpbmFsIFN0cmluZyBkeW5hbWljVGV4dCA9IGxpZmV0aW1lQW5kVHJpcEluZm9EaXNwbGF5LmxpZmV0aW1lU3RyaW5nKCk7CiAgICAgICAgdmlldy5zZXREeW5hbWljVGV4dChkeW5hbWljVGV4dCk7CiAgICB9CgogICAgcHJvdGVjdGVkIHZvaWQgb25UcmlwQVNlbGVjdGVkKCl7CiAgICAgICAgZmluYWwgU3RyaW5nIGR5bmFtaWNUZXh0ID0gbGlmZXRpbWVBbmRUcmlwSW5mb0Rpc3BsYXkudHJpcFN0cmluZygpOwogICAgICAgIHZpZXcuc2V0RHluYW1pY1RleHQoZHluYW1pY1RleHQpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIG9uVGFiU2VsZWN0ZWQoQFN0cmluZ1JlcyBpbnQgc3RyaW5nUmVzKXsKICAgICAgICBpZiAoIWRpYWdub3N0aWNFbGVtZW50RGF0YURlbGVnYXRlLmlzRGlhZ25vc3RpY3NSZWZyZXNoSW5Qcm9ncmVzcygpKSB7CiAgICAgICAgICAgIGlmIChzdHJpbmdSZXMgPT0gUi5zdHJpbmcudmVoaWNsZV9zdGF0dXNfYnV0dG9uX2xhYmVsX2xpZmV0aW1lKSB7CiAgICAgICAgICAgICAgICBvbkxpZmV0aW1lU2VsZWN0ZWQoKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG9uVHJpcEFTZWxlY3RlZCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbmplY3REZXBlbmRlbmNpZXMoKSB7CiAgICAgICAgUm91dGVyUHJvdmlkZXIgICAgIHJvdXRlclByb3ZpZGVyICAgICA9IChSb3V0ZXJQcm92aWRlcikgdGhpcy5nZXRDb250ZXh0KCk7CiAgICAgICAgU2VydmljZUFwcGxpY2F0aW9uIHNlcnZpY2VBcHBsaWNhdGlvbiA9IChTZXJ2aWNlQXBwbGljYXRpb24pIGdldENvbnRleHQoKS5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKTsKICAgICAgICBEYXRhU291cmNlUHJvdmlkZXIgZGF0YVNvdXJjZVByb3ZpZGVyID0gKERhdGFTb3VyY2VQcm92aWRlcikgZ2V0Q29udGV4dCgpLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwoKICAgICAgICBEYWdnZXJWZWhpY2xlU3RhdHVzRnJhZ21lbnRJbmZvQ29tcG9uZW50LmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAudmVoaWNsZURhdGFTb3VyY2VNb2R1bGUobmV3IFZlaGljbGVEYXRhU291cmNlTW9kdWxlKHNlcnZpY2VBcHBsaWNhdGlvbikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53ZWJTZXJ2aWNlTW9kdWxlKG5ldyBXZWJTZXJ2aWNlTW9kdWxlKGRhdGFTb3VyY2VQcm92aWRlciwgc2VydmljZUFwcGxpY2F0aW9uLCBnZXRDb250ZXh0KCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29udGV4dE1vZHVsZShuZXcgQ29udGV4dE1vZHVsZShnZXRDb250ZXh0KCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucm91dGVyTW9kdWxlKG5ldyBSb3V0ZXJNb2R1bGUocm91dGVyUHJvdmlkZXIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0RWZmaWNpZW5jeUluZm9CbG9ja1N1YmNvbXBvbmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbmplY3QodGhpcyk7CiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -623,37 +542,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY3RpdmVhbmRyb2lkLnV0aWwuTG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RFU1RJTkcK</text>
       </register>
-      <register name="3" type="4">
-        <text>R.id.circle_graph</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRDb21wb25lbnQoKS5pbmplY3QodGhpcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>R.id.total_distance_textview</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAvLyBURVNUSU5HCiAgICB2b2lkIGluamVjdChFZmZpY2llbmN5SW5mb0Jsb2NrIHZpZXcpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>R.id.electric_distance_textview</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RFU1RJTkcK</text>
       </register>
-      <register name="6" type="4">
-        <text>R.id.circle_graph</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRDb21wb25lbnQoKS5pbmplY3QodGhpcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyB2aWV3OwogICAgcHJpdmF0ZSBmaW5hbCBFdmVudEJ1cyBldmVudEJ1czsKICAgIHByaXZhdGUgZmluYWwgTGlmZXRpbWVBbmRUcmlwSW5mb0Rpc3BsYXkgbGlmZXRpbWVBbmRUcmlwSW5mb0Rpc3BsYXk7CiAgICBwcml2YXRlIGZpbmFsIExhc3RUcmlwRW50aXRsZW1lbnQgbGFzdFRyaXBFbnRpdGxlbWVudDsKICAgIHByaXZhdGUgZmluYWwgRGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGUgZGlhZ25vc3RpY0VsZW1lbnREYXRhRGVsZWdhdGU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpbmplY3REZXBlbmRlbmNpZXMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ZvaWQgc2V0VmlzaWJpbGl0eShpbnQgdmlzaWJpbGl0eSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbmplY3REZXBlbmRlbmNpZXMoKSB7CiAgICAgICAgUm91dGVyUHJvdmlkZXIgICAgIHJvdXRlclByb3ZpZGVyICAgICA9IChSb3V0ZXJQcm92aWRlcikgdGhpcy5nZXRDb250ZXh0KCk7CiAgICAgICAgU2VydmljZUFwcGxpY2F0aW9uIHNlcnZpY2VBcHBsaWNhdGlvbiA9IChTZXJ2aWNlQXBwbGljYXRpb24pIGdldENvbnRleHQoKS5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKTsKICAgICAgICBEYXRhU291cmNlUHJvdmlkZXIgZGF0YVNvdXJjZVByb3ZpZGVyID0gKERhdGFTb3VyY2VQcm92aWRlcikgZ2V0Q29udGV4dCgpLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwoKICAgICAgICBEYWdnZXJWZWhpY2xlU3RhdHVzRnJhZ21lbnRJbmZvQ29tcG9uZW50LmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAudmVoaWNsZURhdGFTb3VyY2VNb2R1bGUobmV3IFZlaGljbGVEYXRhU291cmNlTW9kdWxlKHNlcnZpY2VBcHBsaWNhdGlvbikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53ZWJTZXJ2aWNlTW9kdWxlKG5ldyBXZWJTZXJ2aWNlTW9kdWxlKGRhdGFTb3VyY2VQcm92aWRlciwgc2VydmljZUFwcGxpY2F0aW9uLCBnZXRDb250ZXh0KCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29udGV4dE1vZHVsZShuZXcgQ29udGV4dE1vZHVsZShnZXRDb250ZXh0KCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucm91dGVyTW9kdWxlKG5ldyBSb3V0ZXJNb2R1bGUocm91dGVyUHJvdmlkZXIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0RWZmaWNpZW5jeUluZm9CbG9ja1N1YmNvbXBvbmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbmplY3QodGhpcyk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>setView</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern>setView</last-pattern>
+      <last-pattern>asdlfj</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -669,7 +588,6 @@
         <entry encoding="base64">XDxzZWN1cmVLZXlDaGFpbkJhY2tlZENyeXB0b1w+</entry>
         <entry encoding="base64">XDxnZW1pbmlOb3RpZmljYXRpb25NYW5hZ2VyXD4=</entry>
         <entry>getPrese</entry>
-        <entry>asdlfj</entry>
         <entry>onTabSelected</entry>
         <entry>getPresenter</entry>
         <entry>onattached</entry>
@@ -681,6 +599,7 @@
         <entry>onLifetime</entry>
         <entry>ontab</entry>
         <entry>setView</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
