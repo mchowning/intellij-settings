@@ -334,6 +334,13 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/telenav/SearchSuggestionHelperTest.java" timestamp="1462473613531">
+        <mark key="'" line="11" column="23" />
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="70" />
+        <mark key="." line="18" column="70" />
+        <mark key="^" line="18" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayout.java" timestamp="1462302128201">
         <mark key="'" line="78" column="17" />
         <mark key="[" line="26" column="32" />
@@ -565,6 +572,10 @@
         <mark key="^" line="76" column="9" />
         <mark key="." line="76" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" timestamp="1462473403045">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="60" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutComponent.java" timestamp="1462303164973">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="19" column="1" />
@@ -599,7 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlock.java" />
       <jump line="36" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlockPresenter.java" />
       <jump line="112" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlockPresenter.java" />
       <jump line="137" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/ChargeStatusInfoBlockPresenter.java" />
@@ -699,13 +709,14 @@
       <jump line="52" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
       <jump line="420" column="9" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="358" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="11" column="23" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/telenav/SearchSuggestionHelperTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>8</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -713,19 +724,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4=</text>
+        <text encoding="base64">XDxSdW50aW1lRW52aXJvbm1lbnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXh0LnBsdWdpbklkZW50aWZpZXI9J2dlbWluaV9jb3JlX3NkaycK</text>
+      <register name="0" type="4">
+        <text>manifest = Config.NONE</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>8</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -743,37 +754,37 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
         <text>2</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
-      </register>
-      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text>2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vcmVsZWFzZS9yYzMuMS4wCg==</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="8" type="4">
+        <text>2</text>
+      </register>
+      <register name="9" type="4">
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4=</last-search>
+      <last-search encoding="base64">XDxSdW50aW1lRW52aXJvbm1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4=</last-pattern>
+      <last-pattern encoding="base64">XDxSdW50aW1lRW52aXJvbm1lbnRcPg==</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -781,7 +792,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWN1cmVLZXlDaGFpbkJhY2tlZENyeXB0b1w+</entry>
         <entry encoding="base64">XDxnZW1pbmlOb3RpZmljYXRpb25NYW5hZ2VyXD4=</entry>
         <entry>getPrese</entry>
         <entry>onTabSelected</entry>
@@ -801,6 +811,7 @@
         <entry encoding="base64">XDxhY2Nlc3NpYmlsaXR5VXRpbFw+</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">Pj4=</entry>
+        <entry encoding="base64">XDxSdW50aW1lRW52aXJvbm1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
