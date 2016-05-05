@@ -15,6 +15,12 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenterTest.java" timestamp="1462458782366">
         <mark key="'" line="184" column="4" />
         <mark key="[" line="108" column="27" />
@@ -572,6 +578,12 @@
         <mark key="^" line="76" column="9" />
         <mark key="." line="76" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/gradle.properties" timestamp="1462474419493">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" timestamp="1462473403045">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="60" />
@@ -716,7 +728,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -724,7 +736,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW50aW1lRW52aXJvbm1lbnRcPg==</text>
@@ -736,7 +748,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>8</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -754,16 +766,16 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>1</text>
-      </register>
-      <register name="3" type="4">
-        <text>1</text>
-      </register>
-      <register name="4" type="4">
         <text>2</text>
       </register>
+      <register name="3" type="4">
+        <text>8</text>
+      </register>
+      <register name="4" type="4">
+        <text>1</text>
+      </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
         <text>2</text>
@@ -775,7 +787,7 @@
         <text>2</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
