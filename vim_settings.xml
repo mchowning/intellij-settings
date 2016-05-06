@@ -377,18 +377,17 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="76" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462549475380">
-        <mark key="'" line="18" column="16" />
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="83" />
-        <mark key="." line="18" column="66" />
-        <mark key="^" line="18" column="67" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="72" />
         <mark key="^" line="9" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1462551669525">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/gradle/wrapper/gradle-wrapper.properties" timestamp="1462468085956">
         <mark key="[" line="5" column="69" />
@@ -517,12 +516,6 @@
         <mark key="]" line="38" column="3" />
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1462372847504">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="93" column="6" />
-        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_diagnostic_layout.xml" timestamp="1462207717895">
         <mark key="[" line="5" column="0" />
@@ -716,7 +709,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.github.dcendents:android-maven-gradle-plugin:1.3</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -757,25 +750,25 @@
         <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>8</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
-      </register>
-      <register name="5" type="4">
-        <text>1</text>
-      </register>
-      <register name="6" type="4">
         <text>2</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuQ29sbGVjdGlvbnM7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBhNTcxMjRiYzAzOTJlOTFjYWQxOWEwMTJmZTY3YmIwNjU3MjQxYjVmCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IE1DIHwgSVFDIHwgTW92ZSBkaWFnbm9zdGljIEluZm9CbG9jayBsb2dpYyBpbnRvIERpYWdub3N0aUluZm9CbG9ja1ByZXNlbnRlcgo=</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
