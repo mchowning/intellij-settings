@@ -381,11 +381,11 @@
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/build.gradle" timestamp="1462812279460">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/build.gradle" timestamp="1462813860336">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -701,7 +701,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnNvbmF0eXBlIH0KICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlCiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lICdhbmRyb2lkLWJ1aWxkJwogICAgICAgICAgICAgICAgcGFzc3dvcmQgJ3tERVNlZGV9YlRMdGdROVF5RGJnYi9DbzNZcjBFUT09JwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnJlbW90ZV9saW5rX3NuYXBzaG90CiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lICdhbmRyb2lkLWJ1aWxkJwogICAgICAgICAgICAgICAgcGFzc3dvcmQgJ3tERVNlZGV9YlRMdGdROVF5RGJnYi9DbzNZcjBFUT09JwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLmZhYnJpYyB9CiAgICAgICAgbWF2ZW5Mb2NhbCgpCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlIH0KICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19zbmFwc2hvdCB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -709,19 +709,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
         <text>gradle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlZGVudGlhbHMgewogICAgICAgICAgICAgICAgdXNlcm5hbWUgJ2FuZHJvaWQtYnVpbGQnCiAgICAgICAgICAgICAgICBwYXNzd29yZCAne0RFU2VkZX1iVEx0Z1E5UXlEYmdiL0NvM1lyMEVRPT0nCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhZGQgbWF2ZW5fcmVwb3MucmVsZWFzZQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>:</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlIH0KICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19zbmFwc2hvdCB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -739,19 +739,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>:</text>
+        <text>release</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>\</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text>\</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
         <text>\</text>
@@ -760,7 +760,7 @@
         <text>\</text>
       </register>
       <register name="9" type="4">
-        <text>k</text>
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
