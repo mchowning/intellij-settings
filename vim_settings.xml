@@ -15,6 +15,9 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
+      <file name="/a.dummy" timestamp="1462821935817">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -255,7 +258,6 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1462303634041">
         <mark key="'" line="49" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1462462289511" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/plugin-owner-manual/gradle.properties" timestamp="1462471554440">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="26" />
@@ -283,7 +285,12 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1462818294184" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1462821944504">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="31" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/gradle/wrapper/gradle-wrapper.properties" timestamp="1462464768219">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -425,7 +432,6 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/auth/GateKeeperImpl2Test.java" timestamp="1462303420462" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/gradle/wrapper/gradle-wrapper.properties" timestamp="1462471578757">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -686,7 +692,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlIH0KICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19zbmFwc2hvdCB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnJlbW90ZV9saW5rX3JlbGVhc2UgfQovLyAgICAgICAgbWF2ZW4geyB1cmwgcmVwb3MucmVtb3RlX2xpbmtfc25hcHNob3QgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -706,7 +712,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlIH0KICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19zbmFwc2hvdCB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnJlbW90ZV9saW5rX3JlbGVhc2UgfQovLyAgICAgICAgbWF2ZW4geyB1cmwgcmVwb3MucmVtb3RlX2xpbmtfc25hcHNob3QgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -723,29 +729,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>release</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnJlbW90ZV9saW5rX3NuYXBzaG90IH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>:</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnJlbW90ZV9saW5rX3JlbGVhc2UgfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>release</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlIH0KICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19zbmFwc2hvdCB9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>release</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text>\</text>
+        <text>:</text>
       </register>
       <register name="9" type="4">
-        <text>\</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
