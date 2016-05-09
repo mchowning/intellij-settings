@@ -339,8 +339,8 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" timestamp="1462304086882">
         <mark key="'" line="1227" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462563909973">
-        <mark key="'" line="52" column="52" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462805397227">
+        <mark key="'" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -583,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="30" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="120" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
@@ -683,6 +682,7 @@
       <jump line="33" column="75" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="42" column="54" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="52" column="52" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="17" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -700,7 +700,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>core</text>
+        <text>gradle</text>
       </register>
       <register name="0" type="4">
         <text>com.github.dcendents:android-maven-gradle-plugin:1.3</text>
@@ -755,9 +755,9 @@
       </register>
     </registers>
     <search>
-      <last-search>core</last-search>
+      <last-search>gradle</last-search>
       <last-offset />
-      <last-pattern>core</last-pattern>
+      <last-pattern>gradle</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getPresenter</entry>
         <entry>ondetached</entry>
         <entry>updateView</entry>
         <entry>initialize</entry>
@@ -785,6 +784,7 @@
         <entry>Mockito.</entry>
         <entry>mockito.verify</entry>
         <entry>core</entry>
+        <entry>gradle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
