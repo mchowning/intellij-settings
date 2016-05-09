@@ -318,6 +318,9 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/plugin.gradle" timestamp="1462810700588">
+        <mark key="[" line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-crypto/gradle.properties" timestamp="1462565365005">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="26" />
@@ -377,6 +380,12 @@
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/build.gradle" timestamp="1462812279460">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -514,6 +523,9 @@
         <mark key="]" line="15" column="74" />
         <mark key="^" line="15" column="74" />
         <mark key="." line="15" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/TirePressureInfoBlock.java" timestamp="1461773298280">
+        <mark key="[" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -689,7 +701,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb25zOwppbXBvcnQgamF2YS51dGlsLkxpc3Q7Cg==</text>
+        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnNvbmF0eXBlIH0KICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlCiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lICdhbmRyb2lkLWJ1aWxkJwogICAgICAgICAgICAgICAgcGFzc3dvcmQgJ3tERVNlZGV9YlRMdGdROVF5RGJnYi9DbzNZcjBFUT09JwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnJlbW90ZV9saW5rX3NuYXBzaG90CiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lICdhbmRyb2lkLWJ1aWxkJwogICAgICAgICAgICAgICAgcGFzc3dvcmQgJ3tERVNlZGV9YlRMdGdROVF5RGJnYi9DbzNZcjBFUT09JwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLmZhYnJpYyB9CiAgICAgICAgbWF2ZW5Mb2NhbCgpCiAgICB9Cn0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -697,19 +709,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>gradle</text>
       </register>
-      <register name="0" type="4">
-        <text>com.github.dcendents:android-maven-gradle-plugin:1.3</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3JlZGVudGlhbHMgewogICAgICAgICAgICAgICAgdXNlcm5hbWUgJ2FuZHJvaWQtYnVpbGQnCiAgICAgICAgICAgICAgICBwYXNzd29yZCAne0RFU2VkZX1iVEx0Z1E5UXlEYmdiL0NvM1lyMEVRPT0nCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb25zOwppbXBvcnQgamF2YS51dGlsLkxpc3Q7Cg==</text>
+      <register name="1" type="4">
+        <text>:</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -726,29 +738,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+      <register name="2" type="4">
+        <text>:</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="3" type="4">
+        <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>\</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>\</text>
       </register>
       <register name="7" type="4">
-        <text>Mockito</text>
+        <text>\</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>\</text>
       </register>
       <register name="9" type="4">
-        <text>Mockito</text>
+        <text>k</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
