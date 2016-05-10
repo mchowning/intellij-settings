@@ -97,6 +97,12 @@
         <mark key="^" line="38" column="84" />
         <mark key="." line="38" column="84" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/maven_settings_processor.gradle" timestamp="1462884053126">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="21" column="46" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/AndroidManifest.xml" timestamp="1461262067895">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -272,6 +278,9 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1462303634041">
         <mark key="'" line="49" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1462883888532">
+        <mark key="'" line="54" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/plugin-owner-manual/gradle.properties" timestamp="1462471554440">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="26" />
@@ -353,12 +362,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" timestamp="1462304086882">
         <mark key="'" line="1227" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462878946790">
-        <mark key="'" line="11" column="14" />
-        <mark key="[" line="177" column="5" />
-        <mark key="]" line="177" column="5" />
-        <mark key="." line="177" column="5" />
-        <mark key="^" line="171" column="32" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462884087178">
+        <mark key="'" line="89" column="8" />
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -617,8 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="28" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="49" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="56" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
@@ -717,13 +724,15 @@
       <jump line="1202" column="21" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/Project.java" />
       <jump line="127" column="22" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/NamedDomainObjectCollection.java" />
       <jump line="72" column="7" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/NamedDomainObjectCollection.java" />
+      <jump line="89" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="54" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -731,19 +740,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>int</text>
+        <text encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludFJlcG8oaXQsIDcpCg==</text>
+        <text encoding="base64">ZGVmIGdldE1hdmVuU2V0dGluZ3NDcmVkZW50aWFscygpIHsKICAgIFN0cmluZyB1c2VySG9tZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSggInVzZXIuaG9tZSIgKTsKICAgIEZpbGUgbWF2ZW5TZXR0aW5ncyA9IG5ldyBGaWxlKHVzZXJIb21lLCAiLm0yL3NldHRpbmdzLnhtbCIpCgogICAgcHJpbnRsbiAnTTIgc2V0dGluZ3M6ICcgKyBtYXZlblNldHRpbmdzLmFic29sdXRlUGF0aAoKICAgIGRlZiB4bWxTbHVycGVyID0gbmV3IFhtbFNsdXJwZXIoKQogICAgZGVmIG91dHB1dCA9IHhtbFNsdXJwZXIucGFyc2UobWF2ZW5TZXR0aW5ncykKICAgIHJldHVybiBvdXRwdXQuInNlcnZlcnMiLiJzZXJ2ZXIiCn0KCmRlZiBnZXRDcmVkZW50aWFscyhzZXJ2ZXJJZCkgewogICAgZGVmIGVudHJpZXMgPSBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKQogICAgZm9yIChlbnRyeSBpbiBlbnRyaWVzKSB7CiAgICAgICAgaWYgKCBlbnRyeS4iaWQiLnRleHQoKSA9PSBzZXJ2ZXJJZCApIHsKICAgICAgICAgICAgcmV0dXJuIFt1c2VybmFtZTogZW50cnkudXNlcm5hbWUudGV4dCgpLCBwYXNzd29yZDogZW50cnkucGFzc3dvcmQudGV4dCgpXQogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -761,25 +770,25 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>o</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text>maven</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>repositories</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
         <text>)</text>
@@ -789,9 +798,9 @@
       </register>
     </registers>
     <search>
-      <last-search>int</last-search>
+      <last-search encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</last-search>
       <last-offset />
-      <last-pattern>int</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -799,8 +808,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onLifetime</entry>
-        <entry>ontab</entry>
         <entry>setView</entry>
         <entry>asdlfj</entry>
         <entry>onattached</entry>
@@ -819,6 +826,8 @@
         <entry>repositor</entry>
         <entry>repositoryhandler</entry>
         <entry>int</entry>
+        <entry>sonatyp</entry>
+        <entry encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
