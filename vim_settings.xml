@@ -299,8 +299,8 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1462876821407">
-        <mark key="[" line="58" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1462877507978">
+        <mark key="[" line="60" column="1" />
         <mark key="]" line="58" column="20" />
         <mark key="." line="58" column="20" />
         <mark key="^" line="54" column="23" />
@@ -450,8 +450,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/Project.java" timestamp="1462832397458">
-        <mark key="'" line="1248" column="19" />
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/NamedDomainObjectCollection.java" timestamp="1462877574511">
+        <mark key="'" line="72" column="7" />
+      </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/Project.java" timestamp="1462877288338">
+        <mark key="'" line="1202" column="21" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/gradle/wrapper/gradle-wrapper.properties" timestamp="1462471578757">
         <mark key="[" line="5" column="68" />
@@ -614,9 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
-      <jump line="29" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="30" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="125" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
       <jump line="28" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" />
@@ -714,6 +714,9 @@
       <jump line="518" column="6" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/Project.java" />
       <jump line="1245" column="35" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/Project.java" />
       <jump line="1248" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/Project.java" />
+      <jump line="1202" column="21" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/Project.java" />
+      <jump line="127" column="22" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/NamedDomainObjectCollection.java" />
+      <jump line="72" column="7" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/NamedDomainObjectCollection.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -731,7 +734,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>repositor</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoIjcgYWxrc2RqZiAgIiArIGl0LnNpemUoKSArICIgIiArIGl0LnRvU3RyaW5nKCkpCg==</text>
@@ -786,9 +789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>repositor</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern>repositor</last-pattern>
+      <last-pattern>int</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -796,8 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dynamic</entry>
-        <entry>setVisi</entry>
         <entry>onLifetime</entry>
         <entry>ontab</entry>
         <entry>setView</entry>
@@ -816,6 +817,8 @@
         <entry>repositories</entry>
         <entry>asljfd</entry>
         <entry>repositor</entry>
+        <entry>repositoryhandler</entry>
+        <entry>int</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
