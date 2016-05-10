@@ -358,6 +358,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/build.gradle" timestamp="1462894322279">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="25" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/gradle/wrapper/gradle-wrapper.properties" timestamp="1462464768219">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -816,7 +822,7 @@
         <text>remote_link_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</text>
+        <text>project</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogIi4uL3Byb2plY3Qtc2V0dGluZ3MvbWF2ZW5fc2V0dGluZ3NfcHJvY2Vzc2luZy5ncmFkbGUiCg==</text>
@@ -857,22 +863,22 @@
         <text>remote_link_</text>
       </register>
       <register name="3" type="4">
-        <text>{</text>
+        <text encoding="base64">dXJsIA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dXJsIA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">dXJsIA==</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">eyA=</text>
       </register>
+      <register name="5" type="4">
+        <text>}</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">dXJsIA==</text>
+      </register>
       <register name="8" type="4">
-        <text>remote_link_</text>
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="9" type="4">
         <text>remote_link_</text>
@@ -882,9 +888,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</last-search>
+      <last-search>project</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</last-pattern>
+      <last-pattern>project</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +898,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eventbus</entry>
         <entry encoding="base64">XDxyZWdpb25FbnRpdGxlbWVudFw+</entry>
         <entry encoding="base64">XDxhY2Nlc3NpYmlsaXR5VXRpbFw+</entry>
         <entry encoding="base64">Pj4+</entry>
@@ -912,6 +917,7 @@
         <entry>asdlfj</entry>
         <entry>Credentials</entry>
         <entry encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</entry>
+        <entry>project</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
