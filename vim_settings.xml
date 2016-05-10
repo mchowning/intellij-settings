@@ -149,6 +149,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/build.gradle" timestamp="1462893450015">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/build.gradle" timestamp="1462890210695">
         <mark key="[" line="24" column="33" />
         <mark key="]" line="24" column="33" />
@@ -233,6 +239,12 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/build.gradle" timestamp="1462892857785">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresetnerTest.java" timestamp="1462450611137">
         <mark key="[" line="24" column="52" />
@@ -532,7 +544,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/gradle/wrapper/gradle-wrapper.properties" timestamp="1462471578757">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/gradle/wrapper/gradle-wrapper.properties" timestamp="1462893824443">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
@@ -579,11 +591,6 @@
         <mark key="]" line="38" column="3" />
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragment.java" timestamp="1462569535901">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_diagnostic_layout.xml" timestamp="1462207717895">
         <mark key="[" line="5" column="0" />
@@ -822,6 +829,12 @@
       </register>
       <register name="q" type="4">
         <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
@@ -838,29 +851,28 @@
           <key char="65535" code="8" mods="0" />
           <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="4">
         <text>remote_link_</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dXJsIA==</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">eyA=</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">dXJsIA==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">eyA=</text>
+        <text encoding="base64">dXJsIA==</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>remote_link_</text>
       </register>
       <register name="9" type="4">
         <text>remote_link_</text>
