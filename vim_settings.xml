@@ -310,12 +310,6 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1462886389334">
-        <mark key="'" line="23" column="24" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="33" />
@@ -404,11 +398,9 @@
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462886911854">
-        <mark key="'" line="88" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462914802464">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="0" column="30" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -636,7 +628,8 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1462461250524">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1462914188431">
+        <mark key="'" line="104" column="8" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="^" line="79" column="9" />
@@ -698,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="61" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" />
       <jump line="21" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" />
       <jump line="41" column="35" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProvider.java" />
       <jump line="178" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -798,6 +790,7 @@
       <jump line="54" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="55" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="24" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="104" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -815,7 +808,7 @@
         <text>remote_link_</text>
       </register>
       <register name="/" type="4">
-        <text>project</text>
+        <text encoding="base64">XDx1cGRhdGVTdWJzY3JpcHRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogIi4uL3Byb2plY3Qtc2V0dGluZ3MvbWF2ZW5fc2V0dGluZ3NfcHJvY2Vzc2luZy5ncmFkbGUiCg==</text>
@@ -876,9 +869,9 @@
       </register>
     </registers>
     <search>
-      <last-search>project</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVTdWJzY3JpcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>project</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVTdWJzY3JpcHRpb25cPg==</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -886,7 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpb25FbnRpdGxlbWVudFw+</entry>
         <entry encoding="base64">XDxhY2Nlc3NpYmlsaXR5VXRpbFw+</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">Pj4=</entry>
@@ -906,6 +898,7 @@
         <entry>Credentials</entry>
         <entry encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</entry>
         <entry>project</entry>
+        <entry encoding="base64">XDx1cGRhdGVTdWJzY3JpcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
