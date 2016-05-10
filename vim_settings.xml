@@ -143,6 +143,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/build.gradle" timestamp="1462890210695">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/gradle.properties" timestamp="1462565356550">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="26" />
@@ -422,11 +428,17 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/build.gradle" timestamp="1462813860336">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-hfc/build.gradle" timestamp="1462889981370">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/build.gradle" timestamp="1462889648116">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/PluginVehicleStatusController.java" timestamp="1461353242868">
         <mark key="[" line="20" column="0" />
@@ -768,7 +780,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>add</text>
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -776,7 +788,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</text>
@@ -788,7 +800,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>add</text>
+        <text>}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -806,28 +818,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>add</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>remote_link_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCg==</text>
+      <register name="6" type="4">
+        <text>remote_link_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CnByaXZhdGUgdm9pZCBwcmludFJlcG8ocmVwb3NpdG9yeUhhbmRsZXIsIG4pIHsKICAgIGxvZ2dlci5lcnJvcihuICsgIiBhbGtzZGpmICAiICsgcmVwb3NpdG9yeUhhbmRsZXIuc2l6ZSgpICsgIiAiICsgcmVwb3NpdG9yeUhhbmRsZXIudG9TdHJpbmcoKSkKICAgIHJlcG9zaXRvcnlIYW5kbGVyLmVhY2ggeyBsb2dnZXIuZXJyb3IoICJhbGtzZGpmICIgKyBpdC5uYW1lICsgIiAiICsgaXQudXJsKSB9Cn0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">dXJsIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludFJlcG8oaXQsIDcpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">eyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludFJlcG8oaXQsIDYpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dXJsIA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</text>
