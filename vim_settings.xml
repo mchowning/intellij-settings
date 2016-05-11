@@ -366,10 +366,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1462886537574">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1462966169686">
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/build.gradle" timestamp="1462894322279">
         <mark key="[" line="24" column="26" />
@@ -670,10 +671,10 @@
         <mark key="." line="23" column="37" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1462963239595">
-        <mark key="'" line="104" column="8" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostAuthSequenceFactoryTest.java" timestamp="1462304617456">
         <mark key="'" line="27" column="13" />
@@ -881,28 +882,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>remote_link_</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>remote_link_</text>
+        <text encoding="base64">dXJsIA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dXJsIA==</text>
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">eyA=</text>
+        <text>}</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dXJsIA==</text>
+        <text>remote_link_</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">eyA=</text>
+        <text>remote_link_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ3MubnVsbFRvRW1wdHkoKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">dXJsIA==</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
