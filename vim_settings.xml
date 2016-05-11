@@ -327,12 +327,6 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1462303634041">
         <mark key="'" line="49" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1462886389334">
-        <mark key="'" line="23" column="24" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="33" />
@@ -670,11 +664,9 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1462963239595">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1462977024034">
         <mark key="'" line="103" column="8" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+        <mark key="[" line="228" column="72" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostAuthSequenceFactoryTest.java" timestamp="1462304617456">
         <mark key="'" line="27" column="13" />
@@ -838,7 +830,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICAg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -846,19 +838,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50U2VhcmNoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogIi4uL3Byb2plY3Qtc2V0dGluZ3MvbWF2ZW5fc2V0dGluZ3NfcHJvY2Vzc2luZy5ncmFkbGUiCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5kZWZlcigKICAgICAgICAgICAgICAgIG5ldyBGdW5jMDxPYnNlcnZhYmxlPFBsdWdpbj4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPFBsdWdpbj4gY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZnJvbShlbmdpbmUuZ2V0RW5hYmxlZFBsdWdpbnMoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKG5ldyBGdW5jMTxQbHVnaW4sIEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbChQbHVnaW4gcGx1Z2luKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcGx1Z2luLmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5tYXAobmV3IEZ1bmMxPFBsdWdpbiwgUGFpcjxQbHVnaW4sIFZpZXc+PigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgUGFpcjxQbHVnaW4sIFZpZXc+IGNhbGwoUGx1Z2luIHBsdWdpbikgewogICAgICAgICAgICAgICAgICAgICAgICBWaWV3IGNhcmRWaWV3ID0gcGx1Z2luLmdldERhc2hib2FyZENhcmRWaWV3KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFpcjw+KHBsdWdpbiwgY2FyZFZpZXcpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAuY29tcG9zZShyeFV0aWwuPFBhaXI8UGx1Z2luLCBWaWV3Pj5hcHBseVNjaGVkdWxlcnMoKSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -882,28 +874,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dXJsIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">eyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKG5ldyBGdW5jMTxQbHVnaW4sIEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbChQbHVnaW4gcGx1Z2luKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcGx1Z2luLmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKG5ldyBGdW5jMTxQbHVnaW4sIEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbChQbHVnaW4gcGx1Z2luKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcGx1Z2luLmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>remote_link_</text>
+        <text>}</text>
       </register>
       <register name="8" type="4">
-        <text>remote_link_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dXJsIA==</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
