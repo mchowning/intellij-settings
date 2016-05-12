@@ -9,6 +9,9 @@
         <mark key="^" line="67" column="30" />
         <mark key="." line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" timestamp="1463085629953">
+        <mark key="'" line="128" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/gradle/wrapper/gradle-wrapper.properties" timestamp="1462470580738">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -603,7 +606,6 @@
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="26" />
-        <mark key="^" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizerTest.java" timestamp="1461956694981">
         <mark key="[" line="117" column="0" />
@@ -729,16 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="35" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostLaunchSequenceFactoryTest.java" />
-      <jump line="94" column="62" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostLaunchSequenceFactoryTest.java" />
-      <jump line="96" column="52" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostLaunchSequenceFactoryTest.java" />
-      <jump line="205" column="53" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostLaunchSequenceFactoryTest.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostAuthSequenceFactoryTest.java" />
-      <jump line="27" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="81" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="187" column="85" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="35" column="58" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="72" column="38" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="182" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="19" column="74" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenter.java" />
       <jump line="96" column="9" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenter.java" />
@@ -829,6 +821,16 @@
       <jump line="1961" column="107" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/Single.java" />
       <jump line="1963" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/Single.java" />
       <jump line="1968" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/Single.java" />
+      <jump line="33" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="139" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="140" column="75" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="144" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="145" column="73" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="210" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="214" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="220" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="224" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="128" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -846,7 +848,7 @@
         <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>defer</text>
+        <text>showBluetooth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTaW5nbGUuZnJvbUNhbGxhYmxlKAogICAgICAgICAgICAgICAgbmV3IENhbGxhYmxlPEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBCb29sZWFuIGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlZnJlc2hhYmxlVmVoaWNsZUVudGl0bGVtZW50LmlzRW50aXRsZWQoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLmNvbXBvc2UocnhVdGlsLjxCb29sZWFuPmFwcGx5U2NoZWR1bGVyc1NpbmdsZSgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgU2luZ2xlU3Vic2NyaWJlcjxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoQm9vbGVhbiBpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoRGVsZWdhdGUuZXhlY3V0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
@@ -907,9 +909,9 @@
       </register>
     </registers>
     <search>
-      <last-search>defer</last-search>
+      <last-search>showBluetooth</last-search>
       <last-offset />
-      <last-pattern>defer</last-pattern>
+      <last-pattern>showBluetooth</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -917,8 +919,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSdW50aW1lRW52aXJvbm1lbnRcPg==</entry>
-        <entry>Mockito.</entry>
         <entry>mockito.verify</entry>
         <entry>core</entry>
         <entry>gradle</entry>
@@ -937,6 +937,8 @@
         <entry>success</entry>
         <entry encoding="base64">XDxjdXJyZW50U2VhcmNoXD4=</entry>
         <entry>defer</entry>
+        <entry>show</entry>
+        <entry>showBluetooth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
