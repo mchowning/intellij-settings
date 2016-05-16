@@ -72,12 +72,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1463416559077">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1463418004077">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="28" />
-        <mark key="." line="62" column="28" />
-        <mark key="^" line="62" column="28" />
+        <mark key="[" line="2" column="79" />
+        <mark key="]" line="2" column="92" />
+        <mark key="." line="2" column="92" />
+        <mark key="^" line="2" column="92" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
@@ -497,12 +497,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463416292627">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463417909940">
         <mark key="'" line="21" column="55" />
-        <mark key="[" line="104" column="33" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="55" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -846,7 +845,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>String</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -854,19 +853,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>asldfj</text>
+        <text>bool e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">KCBcCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text>String</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -890,37 +889,37 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text encoding="base64">VmVyc2lvbiA=</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text encoding="base64">T3ZlcnJpZGluZyA=</text>
       </register>
-      <register name="4" type="4">
-        <text>p</text>
+      <register name="4" type="2">
+        <text encoding="base64">KCBcCgljZCAiJERJUi8uLiIgJiYgXAoJLi9ncmFkbGV3IFwKCSAgICAgICRidWlsZHR5cGUgXAoJICAgICAgJHZlcnNpb25TdHJpbmcgXAoJICAgICAgOmFwcDphc3NlbWJsZUV1T3BlbERlYnVnCikK</text>
       </register>
-      <register name="5" type="4">
-        <text>O</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>u</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVEVTVElORwogICAgICAgICAgICBidWlsZENvbmZpZ0ZpZWxkICJib29sZWFuIiwgIlVTRV9DUkFTSExZVElDUyIsICJmYWxzZSIK</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>EuOpel</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">I1RFU1RJTkcKIyggXAojZXhpdCAxCiMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
       </register>
     </registers>
     <search>
-      <last-search>asldfj</last-search>
+      <last-search>bool e</last-search>
       <last-offset />
-      <last-pattern>asldfj</last-pattern>
+      <last-pattern>bool e</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -928,7 +927,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pBuild</entry>
         <entry>adsljf</entry>
         <entry>type</entry>
         <entry>validation</entry>
@@ -948,6 +946,7 @@
         <entry>heyoo</entry>
         <entry>test signing</entry>
         <entry>asldfj</entry>
+        <entry>bool e</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
