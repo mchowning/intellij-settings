@@ -72,6 +72,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1463409255303">
+        <mark key="'" line="19" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
         <mark key="]" line="11" column="108" />
@@ -483,8 +486,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463407377438">
-        <mark key="'" line="112" column="16" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463408875635">
+        <mark key="'" line="106" column="45" />
         <mark key="[" line="112" column="35" />
         <mark key="]" line="112" column="52" />
         <mark key="^" line="112" column="52" />
@@ -726,10 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="14" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" />
-      <jump line="166" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenterTest.java" />
-      <jump line="73" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="310" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/util/LocationFacadeTest.java" />
       <jump line="100" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
       <jump line="49" column="54" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
       <jump line="58" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
@@ -819,13 +818,17 @@
       <jump line="128" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="26" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="19" column="5" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="55" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="16" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="38" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="109" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="110" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="99" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="118" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="19" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="106" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="19" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -843,7 +846,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>asldfj</text>
+        <text encoding="base64">XDxidWlsZHR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTaW5nbGUuZnJvbUNhbGxhYmxlKAogICAgICAgICAgICAgICAgbmV3IENhbGxhYmxlPEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBCb29sZWFuIGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlZnJlc2hhYmxlVmVoaWNsZUVudGl0bGVtZW50LmlzRW50aXRsZWQoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLmNvbXBvc2UocnhVdGlsLjxCb29sZWFuPmFwcGx5U2NoZWR1bGVyc1NpbmdsZSgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgU2luZ2xlU3Vic2NyaWJlcjxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoQm9vbGVhbiBpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoRGVsZWdhdGUuZXhlY3V0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
@@ -904,9 +907,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asldfj</last-search>
+      <last-search encoding="base64">XDxidWlsZHR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern>asldfj</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZHR5cGVcPg==</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -914,9 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</entry>
-        <entry>Credentials</entry>
-        <entry encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</entry>
         <entry>project</entry>
         <entry encoding="base64">XDx1cGRhdGVTdWJzY3JpcHRpb25cPg==</entry>
         <entry>success</entry>
@@ -926,7 +926,6 @@
         <entry>showBluetooth</entry>
         <entry>ndk</entry>
         <entry>asldjf</entry>
-        <entry encoding="base64">XDxidWlsZHR5cGVcPg==</entry>
         <entry>pBuild</entry>
         <entry>adsljf</entry>
         <entry>type</entry>
@@ -934,6 +933,10 @@
         <entry>validation</entry>
         <entry encoding="base64">XDx2ZXJzaW9uTmFtZVN1ZmZpeFw+</entry>
         <entry>asldfj</entry>
+        <entry encoding="base64">XDxidWlsZFR5cGVcPg==</entry>
+        <entry encoding="base64">XDxVU0VfQ1JBU0hMWVRJQ1NcPg==</entry>
+        <entry>asljdf</entry>
+        <entry encoding="base64">XDxidWlsZHR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
