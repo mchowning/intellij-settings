@@ -483,12 +483,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463404176007">
-        <mark key="'" line="16" column="47" />
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="12" column="40" />
-        <mark key="." line="12" column="40" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463407377438">
+        <mark key="'" line="112" column="16" />
+        <mark key="[" line="112" column="35" />
+        <mark key="]" line="112" column="52" />
+        <mark key="^" line="112" column="52" />
+        <mark key="." line="112" column="52" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -726,9 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenter.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" />
-      <jump line="52" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" />
       <jump line="54" column="14" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockPresenter.java" />
       <jump line="166" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenterTest.java" />
       <jump line="73" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
@@ -826,6 +823,9 @@
       <jump line="55" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="16" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="38" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="109" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="110" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -843,7 +843,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>asldfj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTaW5nbGUuZnJvbUNhbGxhYmxlKAogICAgICAgICAgICAgICAgbmV3IENhbGxhYmxlPEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBCb29sZWFuIGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlZnJlc2hhYmxlVmVoaWNsZUVudGl0bGVtZW50LmlzRW50aXRsZWQoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLmNvbXBvc2UocnhVdGlsLjxCb29sZWFuPmFwcGx5U2NoZWR1bGVyc1NpbmdsZSgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgU2luZ2xlU3Vic2NyaWJlcjxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoQm9vbGVhbiBpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoRGVsZWdhdGUuZXhlY3V0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
@@ -904,9 +904,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>asldfj</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>asldfj</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -914,9 +914,6 @@
     </search>
     <history>
       <history-search>
-        <entry>repositoryhandler</entry>
-        <entry>int</entry>
-        <entry>sonatyp</entry>
         <entry encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</entry>
         <entry>Credentials</entry>
         <entry encoding="base64">XDxSRUxFQVNFX00yX1NFUlZFUl9JRFw+</entry>
@@ -934,6 +931,9 @@
         <entry>adsljf</entry>
         <entry>type</entry>
         <entry>asdlfj</entry>
+        <entry>validation</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uTmFtZVN1ZmZpeFw+</entry>
+        <entry>asldfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
