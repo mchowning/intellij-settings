@@ -84,7 +84,7 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/gradle/wrapper/gradle-wrapper.properties" timestamp="1461687640769">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/gradle/wrapper/gradle-wrapper.properties" timestamp="1463398150817">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
@@ -136,12 +136,6 @@
         <mark key="]" line="8" column="33" />
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" timestamp="1462887320253">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-        <mark key="^" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-model/gradle.properties" timestamp="1462565382490">
         <mark key="[" line="3" column="18" />
@@ -489,6 +483,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463398190333">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="6" />
@@ -725,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="19" column="74" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenter.java" />
       <jump line="96" column="9" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenter.java" />
       <jump line="23" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenter.java" />
       <jump line="24" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/EfficiencyInfoBlockPresenter.java" />
@@ -825,13 +824,15 @@
       <jump line="220" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
       <jump line="224" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
       <jump line="128" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="26" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -839,10 +840,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>showBluetooth</text>
+        <text>asldjf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTaW5nbGUuZnJvbUNhbGxhYmxlKAogICAgICAgICAgICAgICAgbmV3IENhbGxhYmxlPEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBCb29sZWFuIGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlZnJlc2hhYmxlVmVoaWNsZUVudGl0bGVtZW50LmlzRW50aXRsZWQoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLmNvbXBvc2UocnhVdGlsLjxCb29sZWFuPmFwcGx5U2NoZWR1bGVyc1NpbmdsZSgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgU2luZ2xlU3Vic2NyaWJlcjxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoQm9vbGVhbiBpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc0VudGl0bGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoRGVsZWdhdGUuZXhlY3V0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
@@ -850,8 +851,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -874,38 +875,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1NpbmdsZS5mcm9tQ2FsbGFibGUoCiAgICAgICAgLy8gICAgICAgIG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAvLyAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIC8vICAgICAgICAgICAgICAgIHJldHVybiByZWZyZXNoYWJsZVZlaGljbGVFbnRpdGxlbWVudC5pc0VudGl0bGVkKCk7CiAgICAgICAgLy8gICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgIH0pCiAgICAgICAgLy8gICAgICAgIC5jb21wb3NlKHJ4VXRpbC48Qm9vbGVhbj5hcHBseVNjaGVkdWxlcnNTaW5nbGUoKSkKICAgICAgICAvLyAgICAgICAgLnN1YnNjcmliZShuZXcgU2luZ2xlU3Vic2NyaWJlcjxCb29sZWFuPigpIHsKICAgICAgICAvLyAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICAgICAgICAgcHVibGljIHZvaWQgb25TdWNjZXNzKEJvb2xlYW4gaXNFbnRpdGxlZCkgewogICAgICAgIC8vICAgICAgICAgICAgICAgIGlmIChpc0VudGl0bGVkKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIHJlZnJlc2hEZWxlZ2F0ZS5leGVjdXRlKCk7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgLy8gICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlcnJvcikgewogICAgICAgIC8vICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICB9KTsK</text>
+      <register name="2" type="4">
+        <text>2</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAocmVmcmVzaGFibGVWZWhpY2xlRW50aXRsZW1lbnQpIHsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlLmp1c3QoKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">bm90IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">d2h5IA==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTaW5nbGUuZnJvbUNhbGxhYmxlKAogICAgICAgICAgICAgICAgbmV3IENhbGxhYmxlPEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBCb29sZWFuIGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlZnJlc2hhYmxlVmVoaWNsZUVudGl0bGVtZW50LmlzRW50aXRsZWQoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgIC5jb21wb3NlKHJ4VXRpbC48Qm9vbGVhbj5hcHBseVNjaGVkdWxlcnNTaW5nbGUoKSkKICAgICAgICAgICAgICAuc3Vic2NyaWJlKG5ldyBBY3Rpb24xPEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChCb29sZWFuIGlzRW50aXRsZWQpIHsgLy8gRHJvcHBpbmcgb25FcnJvcgogICAgICAgICAgICAgICAgICAgICAgaWYgKGlzRW50aXRsZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoRGVsZWdhdGUuZXhlY3V0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL1NpbmdsZS5mcm9tQ2FsbGFibGUoCiAgICAgICAgLy8gICAgICAgIG5ldyBDYWxsYWJsZTxCb29sZWFuPigpIHsKICAgICAgICAvLyAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICAgICAgICAgcHVibGljIEJvb2xlYW4gY2FsbCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIC8vICAgICAgICAgICAgICAgIHJldHVybiByZWZyZXNoYWJsZVZlaGljbGVFbnRpdGxlbWVudC5pc0VudGl0bGVkKCk7CiAgICAgICAgLy8gICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgIH0pCiAgICAgICAgLy8gICAgICAgIC5jb21wb3NlKHJ4VXRpbC48Qm9vbGVhbj5hcHBseVNjaGVkdWxlcnNTaW5nbGUoKSkKICAgICAgICAvLyAgICAgICAgLnN1YnNjcmliZShuZXcgU2luZ2xlU3Vic2NyaWJlcjxCb29sZWFuPigpIHsKICAgICAgICAvLyAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICAgICAgICAgcHVibGljIHZvaWQgb25TdWNjZXNzKEJvb2xlYW4gaXNFbnRpdGxlZCkgewogICAgICAgIC8vICAgICAgICAgICAgICAgIGlmIChpc0VudGl0bGVkKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIHJlZnJlc2hEZWxlZ2F0ZS5leGVjdXRlKCk7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgLy8gICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlcnJvcikgewogICAgICAgIC8vICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICB9KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>// moving filter out of the defer block</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAocmVmcmVzaGFibGVWZWhpY2xlRW50aXRsZW1lbnQpIHsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlLmp1c3QoKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">bm90IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">d2h5IA==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
       </register>
     </registers>
     <search>
-      <last-search>showBluetooth</last-search>
+      <last-search>asldjf</last-search>
       <last-offset />
-      <last-pattern>showBluetooth</last-pattern>
+      <last-pattern>asldjf</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -913,8 +914,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mockito.verify</entry>
-        <entry>core</entry>
         <entry>gradle</entry>
         <entry>repositories</entry>
         <entry>asljfd</entry>
@@ -933,6 +932,8 @@
         <entry>defer</entry>
         <entry>show</entry>
         <entry>showBluetooth</entry>
+        <entry>ndk</entry>
+        <entry>asldjf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
