@@ -497,12 +497,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463422511205">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463424008909">
         <mark key="'" line="24" column="55" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="70" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="115" column="15" />
+        <mark key="[" line="106" column="34" />
+        <mark key="]" line="106" column="34" />
+        <mark key="." line="106" column="34" />
+        <mark key="^" line="104" column="35" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -845,8 +845,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkQ29uZmlnRmllbGQgImJvb2xlYW4iLCAiVVNFX0NSQVNITFlUSUNTIiwgImZhbHNlIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -854,7 +854,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>//else {</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bool e</text>
@@ -865,8 +865,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggPSAiIC0gJHZlcnNpb25fc3RyaW5nIgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -889,29 +889,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggIiAoIiArIChTeXN0ZW0uZ2V0ZW52KCJCVUlMRF9OVU1CRVIiKSA/OiAiOTk5OSIpICsgIikiCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>//else {</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>(&quot; + (System.getenv(&quot;BUILD_NUMBER&quot;) ?: &quot;9999&quot;) + &quot;</text>
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text>System.getenv(&quot;BUILD_NUMBER&quot;)</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>versionName</text>
+        <text>$versionNameSuffix</text>
       </register>
-      <register name="9" type="4">
-        <text>$</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggPSAiICgkYnVpbGROdW0pIgo=</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
