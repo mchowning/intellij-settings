@@ -497,11 +497,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463419856009">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463422511205">
         <mark key="'" line="24" column="55" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="70" />
+        <mark key="." line="114" column="0" />
         <mark key="^" line="115" column="15" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
@@ -846,7 +846,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggPSAiIC0gJHZlcnNpb25fc3RyaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkQ29uZmlnRmllbGQgImJvb2xlYW4iLCAiVVNFX0NSQVNITFlUSUNTIiwgImZhbHNlIgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -859,8 +859,8 @@
       <register name="/" type="4">
         <text>bool e</text>
       </register>
-      <register name="0" type="4">
-        <text>System.getenv(&quot;BUILD_NUMBER&quot;) ?: &quot;9999&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkQ29uZmlnRmllbGQgImJvb2xlYW4iLCAiVVNFX0NSQVNITFlUSUNTIiwgImZhbHNlIgo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
