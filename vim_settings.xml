@@ -72,11 +72,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1463411590880">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="67" column="26" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="59" column="9" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1463414723306">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="29" />
+        <mark key="." line="62" column="29" />
+        <mark key="^" line="62" column="22" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
@@ -496,8 +497,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463413292169">
-        <mark key="'" line="12" column="8" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463414070904">
+        <mark key="'" line="3" column="36" />
         <mark key="[" line="109" column="20" />
         <mark key="]" line="109" column="19" />
         <mark key="." line="109" column="19" />
@@ -739,14 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
-      <jump line="35" column="36" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
-      <jump line="47" column="54" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
-      <jump line="61" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
-      <jump line="222" column="56" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
-      <jump line="223" column="56" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
-      <jump line="6" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
       <jump line="52" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
       <jump line="420" column="9" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="358" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
@@ -829,7 +822,6 @@
       <jump line="16" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="38" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="109" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="110" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="99" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="118" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="19" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -839,13 +831,22 @@
       <jump line="100" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="126" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="103" column="38" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="110" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="129" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="3" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="43" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
+      <jump line="53" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>// Nightly, Adam, Beta</text>
+        <text>Debug</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -853,10 +854,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>// Nightly, Adam, Beta</text>
+        <text>Debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJzaW9uTmFtZVw+</text>
+        <text>asdlfj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IwkuL2dyYWRsZXcgJGJ1aWxkdHlwZSBcCg==</text>
@@ -865,7 +866,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>// Nightly, Adam, Beta</text>
+        <text>Debug</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -888,38 +889,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">IwkgICAgICBURVNUSU5HCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Validation</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiNURVNUSU5HCmRlY2xhcmUgLWEgcmVnaW9uVEVTVD0oIkV1T3BlbCIpCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dXJsIA==</text>
+        <text>// Nightly, Adam, Beta</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">eyA=</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="6" type="4">
-        <text>remote</text>
+        <text>Validation</text>
       </register>
       <register name="7" type="4">
-        <text>remote</text>
+        <text encoding="base64">dXJsIA==</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="9" type="4">
-        <text>}</text>
+        <text>remote</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJzaW9uTmFtZVw+</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJzaW9uTmFtZVw+</last-pattern>
+      <last-pattern>asdlfj</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -927,16 +928,11 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50U2VhcmNoXD4=</entry>
-        <entry>defer</entry>
-        <entry>show</entry>
-        <entry>showBluetooth</entry>
         <entry>ndk</entry>
         <entry>asldjf</entry>
         <entry>pBuild</entry>
         <entry>adsljf</entry>
         <entry>type</entry>
-        <entry>asdlfj</entry>
         <entry>validation</entry>
         <entry encoding="base64">XDx2ZXJzaW9uTmFtZVN1ZmZpeFw+</entry>
         <entry>asldfj</entry>
@@ -947,6 +943,11 @@
         <entry encoding="base64">XDxCVUlMRF9UWVBFX1NUUklOR1w+</entry>
         <entry>3.1.0</entry>
         <entry encoding="base64">XDx2ZXJzaW9uTmFtZVw+</entry>
+        <entry>version</entry>
+        <entry encoding="base64">XDxyZWdpb25OQVw+</entry>
+        <entry encoding="base64">XDxyZWdpb25cPg==</entry>
+        <entry encoding="base64">XDxyZWdpb25BcnJheU5hbWVcPg==</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
