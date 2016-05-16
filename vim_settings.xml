@@ -497,11 +497,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463417909940">
-        <mark key="'" line="21" column="55" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463419856009">
+        <mark key="'" line="24" column="55" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="115" column="15" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -844,8 +845,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggPSAiIC0gJHZlcnNpb25fc3RyaW5nIgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -853,19 +854,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>//else {</text>
       </register>
       <register name="/" type="4">
         <text>bool e</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KCBcCg==</text>
+      <register name="0" type="4">
+        <text>System.getenv(&quot;BUILD_NUMBER&quot;) ?: &quot;9999&quot;</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>String</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggPSAiIC0gJHZlcnNpb25fc3RyaW5nIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -888,29 +889,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">VmVyc2lvbiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">T3ZlcnJpZGluZyA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggIiAoIiArIChTeXN0ZW0uZ2V0ZW52KCJCVUlMRF9OVU1CRVIiKSA/OiAiOTk5OSIpICsgIikiCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">KCBcCgljZCAiJERJUi8uLiIgJiYgXAoJLi9ncmFkbGV3IFwKCSAgICAgICRidWlsZHR5cGUgXAoJICAgICAgJHZlcnNpb25TdHJpbmcgXAoJICAgICAgOmFwcDphc3NlbWJsZUV1T3BlbERlYnVnCikK</text>
+      <register name="4" type="4">
+        <text>//else {</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>(&quot; + (System.getenv(&quot;BUILD_NUMBER&quot;) ?: &quot;9999&quot;) + &quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVEVTVElORwogICAgICAgICAgICBidWlsZENvbmZpZ0ZpZWxkICJib29sZWFuIiwgIlVTRV9DUkFTSExZVElDUyIsICJmYWxzZSIK</text>
+      <register name="6" type="4">
+        <text>System.getenv(&quot;BUILD_NUMBER&quot;)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>versionName</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">I1RFU1RJTkcKIyggXAojZXhpdCAxCiMpCg==</text>
+      <register name="9" type="4">
+        <text>$</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
