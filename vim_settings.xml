@@ -499,12 +499,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463424799379">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463496811659">
         <mark key="'" line="24" column="55" />
-        <mark key="[" line="103" column="27" />
-        <mark key="]" line="103" column="27" />
-        <mark key="." line="103" column="27" />
-        <mark key="^" line="103" column="27" />
+        <mark key="[" line="105" column="56" />
+        <mark key="]" line="105" column="57" />
+        <mark key="." line="105" column="57" />
+        <mark key="^" line="105" column="57" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -847,8 +847,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwcm9qZWN0Lmhhc1Byb3BlcnR5KCJ2ZXJzaW9uX3N0cmluZyIpKSB7CiAgICAgICAgICAgICAgICB2ZXJzaW9uTmFtZVN1ZmZpeCAiIC0gJHZlcnNpb25fc3RyaW5nIgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggIiIKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -856,7 +856,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtU2VhcmNoUmVzdWx0c1N1YmplY3RcPg==</text>
@@ -867,8 +867,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwcm9qZWN0Lmhhc1Byb3BlcnR5KCJ2ZXJzaW9uX3N0cmluZyIpKSB7CiAgICAgICAgICAgICAgICB2ZXJzaW9uTmFtZVN1ZmZpeCAiIC0gJHZlcnNpb25fc3RyaW5nIgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggIiIKICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -891,29 +891,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwcm9qZWN0Lmhhc1Byb3BlcnR5KCJ2ZXJzaW9uX3N0cmluZyIpKSB7CiAgICAgICAgICAgICAgICB2ZXJzaW9uTmFtZVN1ZmZpeCAiIC0gJHZlcnNpb25fc3RyaW5nIgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgdmVyc2lvbk5hbWVTdWZmaXggIiIKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="6" type="4">
         <text>=</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="6" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="7" type="4">
+        <text>=</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;</text>
+      </register>
       <register name="9" type="4">
-        <text>$versionNameSuffix</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
