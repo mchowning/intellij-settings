@@ -346,6 +346,9 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1462303634041">
         <mark key="'" line="49" column="35" />
       </file>
+      <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
+        <mark key="'" line="50" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="33" />
@@ -740,7 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="9" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="358" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="11" column="23" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/telenav/SearchSuggestionHelperTest.java" />
       <jump line="49" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" />
@@ -840,6 +842,7 @@
       <jump line="53" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="21" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="50" column="54" filename="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -857,7 +860,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bool e</text>
+        <text encoding="base64">XDxtU2VhcmNoUmVzdWx0c1N1YmplY3RcPg==</text>
       </register>
       <register name="0" type="4">
         <text>project.hasProperty(&quot;version_string&quot;)</text>
@@ -918,9 +921,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bool e</last-search>
+      <last-search encoding="base64">XDxtU2VhcmNoUmVzdWx0c1N1YmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern>bool e</last-pattern>
+      <last-pattern encoding="base64">XDxtU2VhcmNoUmVzdWx0c1N1YmplY3RcPg==</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -928,7 +931,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adsljf</entry>
         <entry>type</entry>
         <entry>validation</entry>
         <entry encoding="base64">XDx2ZXJzaW9uTmFtZVN1ZmZpeFw+</entry>
@@ -948,6 +950,7 @@
         <entry>test signing</entry>
         <entry>asldfj</entry>
         <entry>bool e</entry>
+        <entry encoding="base64">XDxtU2VhcmNoUmVzdWx0c1N1YmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
