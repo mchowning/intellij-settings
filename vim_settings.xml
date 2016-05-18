@@ -441,9 +441,6 @@
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" timestamp="1462304086882">
-        <mark key="'" line="1227" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462914802464">
         <mark key="'" line="87" column="8" />
         <mark key="[" line="0" column="30" />
@@ -743,7 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" />
       <jump line="198" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" />
       <jump line="44" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" />
       <jump line="45" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" />
@@ -843,6 +839,7 @@
       <jump line="50" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="119" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="99" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="1154" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -860,7 +857,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZF90eXBlXD4=</text>
+        <text>1155</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmIGJ1aWxkVHlwZSA9IChwcm9qZWN0Lmhhc1Byb3BlcnR5KCdidWlsZF90eXBlJykgJiYgYnVpbGRfdHlwZSAhPSAiIikgPyBidWlsZF90eXBlIDogIkRlYnVnIgo=</text>
@@ -917,13 +914,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>164</text>
+        <text>1155</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZF90eXBlXD4=</last-search>
+      <last-search>1155</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZF90eXBlXD4=</last-pattern>
+      <last-pattern>1155</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -931,8 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZXJzaW9uTmFtZVN1ZmZpeFw+</entry>
-        <entry encoding="base64">XDxidWlsZFR5cGVcPg==</entry>
         <entry encoding="base64">XDxVU0VfQ1JBU0hMWVRJQ1NcPg==</entry>
         <entry>asljdf</entry>
         <entry encoding="base64">XDxidWlsZHR5cGVcPg==</entry>
@@ -951,6 +946,8 @@
         <entry encoding="base64">XDxtU2VhcmNoUmVzdWx0c1N1YmplY3RcPg==</entry>
         <entry>buildType</entry>
         <entry encoding="base64">XDxidWlsZF90eXBlXD4=</entry>
+        <entry>setTripPlan</entry>
+        <entry>1155</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
@@ -958,6 +955,7 @@
         <entry encoding="base64">JzwsJz5zL3ZwL21vY2tWaWV3UHJvdmlkZXIvZw==</entry>
         <entry>NERDTreeToggle</entry>
         <entry>164</entry>
+        <entry>1155</entry>
       </history-cmd>
       <history-expr />
       <history-input />
