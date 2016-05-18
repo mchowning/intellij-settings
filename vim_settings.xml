@@ -441,6 +441,11 @@
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" timestamp="1463589293275">
+        <mark key="[" line="1197" column="0" />
+        <mark key="]" line="1197" column="0" />
+        <mark key="." line="1197" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1462914802464">
         <mark key="'" line="87" column="8" />
         <mark key="[" line="0" column="30" />
@@ -845,8 +850,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -860,13 +865,13 @@
         <text>1155</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGJ1aWxkVHlwZSA9IChwcm9qZWN0Lmhhc1Byb3BlcnR5KCdidWlsZF90eXBlJykgJiYgYnVpbGRfdHlwZSAhPSAiIikgPyBidWlsZF90eXBlIDogIkRlYnVnIgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGVyc2lzdGVkVmVoaWNsZSBjb252ZXJ0VG9QZXJzaXN0ZWQoVmVoaWNsZSB2ZWhpY2xlKSB7CiAgICAgICAgaWYgKCEodmVoaWNsZSBpbnN0YW5jZW9mIFBlcnNpc3RlZFZlaGljbGUpKSB7CiAgICAgICAgICAgIHZlaGljbGUgPSBnZXRWZWhpY2xlQnlWaW5BbmRBY2NvdW50KHZlaGljbGUuZ2V0VmluKCksIHZlaGljbGUuZ2V0QWNjb3VudCgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIChQZXJzaXN0ZWRWZWhpY2xlKSB2ZWhpY2xlOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -896,22 +901,22 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>(required)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
         <text>(required)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgICBjaGFubmVsPSItUGJ1aWxkX3R5cGU9JE9QVEFSRyIK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>(required)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGJ1aWxkVHlwZSA9IChwcm9qZWN0Lmhhc1Byb3BlcnR5KCdidWlsZF90eXBlJykpID8gYnVpbGRfdHlwZSA6ICJEZWJ1ZyIK</text>
+        <text encoding="base64">IyAgICBjaGFubmVsPSItUGJ1aWxkX3R5cGU9JE9QVEFSRyIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGJ1aWxkVHlwZSA9IChwcm9qZWN0Lmhhc1Byb3BlcnR5KCdidWlsZF90eXBlJykpID8gYnVpbGRfdHlwZSA6ICJEZWJ1ZyIK</text>
       </register>
       <register name=":" type="4">
         <text>1155</text>
