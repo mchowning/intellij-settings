@@ -18,9 +18,6 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1463595353688">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -352,12 +349,12 @@
       <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
         <mark key="'" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463597641795">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463598011175">
         <mark key="'" line="20" column="15" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="31" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
@@ -862,8 +859,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>VERSION_NAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgcG9tLnZlcnNpb24gPSBWRVJTSU9OX05BTUUK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -882,8 +879,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>VERSION_NAME</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgcG9tLnZlcnNpb24gPSBWRVJTSU9OX05BTUUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -907,28 +904,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcG9tLnZlcnNpb24gPSBWRVJTSU9OX05BTUUK</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIFZFUlNJT05fTkFNRS5jb250YWlucygiU05BUFNIT1QiKSA9PSBmYWxzZQo=</text>
       </register>
       <register name="3" type="4">
-        <text>O</text>
+        <text>VERSION_NAME</text>
       </register>
-      <register name="4" type="4">
-        <text>O</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgcG9tLnZlcnNpb24gPSBWRVJTSU9OX05BTUUK</text>
       </register>
       <register name="5" type="4">
-        <text>Y</text>
+        <text>O</text>
       </register>
       <register name="6" type="4">
-        <text>E</text>
+        <text>O</text>
       </register>
       <register name="7" type="4">
-        <text>H</text>
+        <text>Y</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>E</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>H</text>
       </register>
       <register name=":" type="4">
         <text>1155</text>
