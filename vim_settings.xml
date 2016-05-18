@@ -862,7 +862,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>1155</text>
+        <text>handler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgUGVyc2lzdGVkVmVoaWNsZSBjb252ZXJ0VG9QZXJzaXN0ZWQoVmVoaWNsZSB2ZWhpY2xlKSB7CiAgICAgICAgaWYgKCEodmVoaWNsZSBpbnN0YW5jZW9mIFBlcnNpc3RlZFZlaGljbGUpKSB7CiAgICAgICAgICAgIHZlaGljbGUgPSBnZXRWZWhpY2xlQnlWaW5BbmRBY2NvdW50KHZlaGljbGUuZ2V0VmluKCksIHZlaGljbGUuZ2V0QWNjb3VudCgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIChQZXJzaXN0ZWRWZWhpY2xlKSB2ZWhpY2xlOwogICAgfQo=</text>
@@ -923,9 +923,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1155</last-search>
+      <last-search>handler</last-search>
       <last-offset />
-      <last-pattern>1155</last-pattern>
+      <last-pattern>handler</last-pattern>
       <last-replace>mockViewProvider</last-replace>
       <last-substitute>vp</last-substitute>
       <last-dir>1</last-dir>
@@ -933,8 +933,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVU0VfQ1JBU0hMWVRJQ1NcPg==</entry>
-        <entry>asljdf</entry>
         <entry encoding="base64">XDxidWlsZHR5cGVcPg==</entry>
         <entry encoding="base64">XDxCVUlMRF9UWVBFX1NUUklOR1w+</entry>
         <entry>3.1.0</entry>
@@ -953,6 +951,8 @@
         <entry encoding="base64">XDxidWlsZF90eXBlXD4=</entry>
         <entry>setTripPlan</entry>
         <entry>1155</entry>
+        <entry>executionError</entry>
+        <entry>handler</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
