@@ -349,12 +349,11 @@
       <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
         <mark key="'" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463605371131">
-        <mark key="'" line="23" column="19" />
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="30" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463606822923">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
@@ -393,7 +392,7 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="57" />
         <mark key="." line="16" column="0" />
-        <mark key="^" line="49" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/build.gradle" timestamp="1462894322279">
         <mark key="[" line="24" column="26" />
@@ -453,12 +452,12 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1463605653414">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1463606755759">
         <mark key="'" line="93" column="63" />
-        <mark key="[" line="98" column="62" />
-        <mark key="]" line="98" column="62" />
-        <mark key="." line="98" column="67" />
-        <mark key="^" line="97" column="62" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="20" />
+        <mark key="." line="77" column="20" />
+        <mark key="^" line="77" column="20" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -639,7 +638,6 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" timestamp="1462963853949">
         <mark key="'" line="320" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/config/ServiceEnum.java" timestamp="1463583788149" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/gradle.properties" timestamp="1462565392282">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="26" />
@@ -861,7 +859,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>shell</text>
+        <text>version</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -869,7 +867,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>shell</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
         <text>pluginVersion</text>
@@ -881,7 +879,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>shell</text>
+        <text>version</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,28 +903,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>core</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>GEMINI_BUILD_VERSION</text>
+        <text>pom</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmRlZiBwbHVnaW5WZXJzaW9uID0gJ0FkYW0tU05BUFNIT1QnCmRlZiBjb3JlVmVyc2lvbiA9ICdBZGFtLVNOQVBTSE9UJwpkZWYgc2hlbGxWZXJzaW9uID0gJ0FkYW0tU05BUFNIT1QnCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIA==</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gV2hlbiBjaGFuZ2luZyB0aGlzIHZhcmlhYmxlIHRoZSAnZ2VtaW5pQ3VycmVudFZlcnNpb24nIHZhcmlhYmxlIGluCi8vIGdlbWluaS1jb3JlLXNkay9lbnZpcm9ubWVudC5ncmFkbGUKLy9kZWYgR0VNSU5JX0JVSUxEX1ZFUlNJT04gPSAiQWRhbS1TTkFQU0hPVCIK</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">YXBwbHkgZnJvbTogJ2RlcGVuZGVuY2llcy5ncmFkbGUnCg==</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>shell</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>core</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BsdWdpblZlcnNpb24vZ2VtaW5pVmVyc2lvbi9n</text>
