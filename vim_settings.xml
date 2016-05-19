@@ -348,12 +348,12 @@
       <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
         <mark key="'" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463661684108">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463666583458">
         <mark key="'" line="23" column="48" />
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="42" />
-        <mark key="^" line="25" column="42" />
-        <mark key="." line="25" column="42" />
+        <mark key="[" line="23" column="70" />
+        <mark key="]" line="24" column="2" />
+        <mark key="^" line="24" column="2" />
+        <mark key="." line="24" column="2" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
@@ -452,12 +452,12 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1463660396605">
-        <mark key="'" line="88" column="73" />
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="16" column="72" />
-        <mark key="." line="16" column="72" />
-        <mark key="^" line="16" column="72" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1463666184145">
+        <mark key="'" line="86" column="73" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -862,7 +862,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>geminiVersion</text>
+        <text>(VERSION_NAME)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -870,7 +870,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>geminiVersion</text>
+        <text>(VERSION_NAME)</text>
       </register>
       <register name="/" type="4">
         <text>alksdfm</text>
@@ -882,7 +882,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>geminiVersion</text>
+        <text>(VERSION_NAME)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,17 +905,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmFtZSA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bG9jYWxWZXJzaW9uID0gJ0FkYW0tU05BUFNIT1QnCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>Likewise</text>
+        <text>version</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text>/</text>
@@ -923,11 +923,11 @@
       <register name="7" type="4">
         <text>/</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gV2hlbiBjaGFuZ2luZyB0aGUKLy8gc2VjdXJpdHlfdmVyc2lvbiBoZXJlIHRoZXJlJ3MgYSBnb29kIGNoYW5jZSB5b3UgYWxzbyB3YW50IHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgJ3ZlcnNpb24nCi8vIGluIGdlbWluaS1zZWN1cml0eS9zZWN1cml0eS9idWlsZC5ncmFkbGUK</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BsdWdpblZlcnNpb24vZ2VtaW5pVmVyc2lvbi9n</text>
