@@ -348,12 +348,12 @@
       <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
         <mark key="'" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463658007644">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463661684108">
         <mark key="'" line="23" column="48" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="25" column="42" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
@@ -861,8 +861,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>geminiVersion</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -870,7 +870,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Likewise</text>
+        <text>geminiVersion</text>
       </register>
       <register name="/" type="4">
         <text>alksdfm</text>
@@ -881,8 +881,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>geminiVersion</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -906,25 +906,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9jYWxWZXJzaW9uID0gJ0FkYW0tU05BUFNIT1QnCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>Likewise</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">bG9jYWxWZXJzaW9uID0gJ0FkYW0tU05BUFNIT1QnCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>Likewise</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
         <text>/</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
         <text>/</text>
