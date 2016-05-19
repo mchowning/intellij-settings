@@ -349,11 +349,12 @@
       <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
         <mark key="'" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463606822923">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="23" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463614424945">
+        <mark key="'" line="23" column="23" />
+        <mark key="[" line="69" column="18" />
+        <mark key="]" line="69" column="18" />
+        <mark key="." line="69" column="30" />
         <mark key="^" line="23" column="23" />
-        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
@@ -753,10 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="33" column="75" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="42" column="54" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="52" column="52" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="17" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -773,7 +770,6 @@
       <jump line="43" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="54" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="55" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="24" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="104" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="276" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragmentPresenter.java" />
       <jump line="94" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
@@ -846,20 +842,25 @@
       <jump line="124" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="66" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="148" column="32" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="22" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="67" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="132" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="20" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="23" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="93" column="63" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="71" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="133" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="25" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="68" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="23" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>version</text>
+        <text>buildVersion</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -867,10 +868,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>version</text>
+        <text>buildVersion</text>
       </register>
       <register name="/" type="4">
-        <text>pluginVersion</text>
+        <text encoding="base64">XDxidWlsZFZlcnNpb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>'Adam-SNAPSHOT'</text>
@@ -879,7 +880,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>version</text>
+        <text>buildVersion</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -903,37 +904,37 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>buildVersion</text>
       </register>
-      <register name="3" type="4">
-        <text>pom</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVmIA==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gV2hlbiBjaGFuZ2luZyB0aGlzIHZhcmlhYmxlIHRoZSAnZ2VtaW5pQ3VycmVudFZlcnNpb24nIHZhcmlhYmxlIGluCi8vIGdlbWluaS1jb3JlLXNkay9lbnZpcm9ubWVudC5ncmFkbGUKLy9kZWYgR0VNSU5JX0JVSUxEX1ZFUlNJT04gPSAiQWRhbS1TTkFQU0hPVCIK</text>
+      <register name="4" type="2">
+        <text encoding="base64">YnVpbGRWZXJzaW9uID0gZ2VtaW5pVmVyc2lvbgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ2RlcGVuZGVuY2llcy5ncmFkbGUnCg==</text>
+      <register name="5" type="4">
+        <text>.</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="7" type="4">
+        <text>x</text>
       </register>
       <register name="8" type="4">
-        <text>shell</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>core</text>
+        <text encoding="base64">ZGVmIA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BsdWdpblZlcnNpb24vZ2VtaW5pVmVyc2lvbi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>environment</last-search>
+      <last-search encoding="base64">XDxidWlsZFZlcnNpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>pluginVersion</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZFZlcnNpb25cPg==</last-pattern>
       <last-replace>geminiVersion</last-replace>
       <last-substitute>pluginVersion</last-substitute>
       <last-dir>1</last-dir>
@@ -941,9 +942,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpb25OQVw+</entry>
-        <entry encoding="base64">XDxyZWdpb25cPg==</entry>
-        <entry encoding="base64">XDxyZWdpb25BcnJheU5hbWVcPg==</entry>
         <entry>asdlfj</entry>
         <entry>heyoo</entry>
         <entry>test signing</entry>
@@ -957,10 +955,13 @@
         <entry>executionError</entry>
         <entry>handler</entry>
         <entry>isRelease</entry>
-        <entry encoding="base64">XDxjb25maWd1cmVQb21cPg==</entry>
         <entry encoding="base64">XDxzaWduaW5nXD4=</entry>
         <entry>environment</entry>
         <entry>pluginVersion</entry>
+        <entry>BUILD_VERSION</entry>
+        <entry encoding="base64">XDxpc1JlbGVhc2VCdWlsZFw+</entry>
+        <entry encoding="base64">XDxjb25maWd1cmVQb21cPg==</entry>
+        <entry encoding="base64">XDxidWlsZFZlcnNpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
