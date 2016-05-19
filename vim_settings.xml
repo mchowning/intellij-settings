@@ -348,12 +348,8 @@
       <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
         <mark key="'" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463666583458">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463669804323">
         <mark key="'" line="23" column="48" />
-        <mark key="[" line="23" column="70" />
-        <mark key="]" line="24" column="2" />
-        <mark key="^" line="24" column="2" />
-        <mark key="." line="24" column="2" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/build.gradle" timestamp="1462910679715">
         <mark key="[" line="24" column="0" />
@@ -736,6 +732,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/BatteryAndFuelRangeInfoBlock.java" timestamp="1461773253466">
         <mark key="'" line="118" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/socialmedia/SocialMediaLayoutPresenter.java" timestamp="1463669562304" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutComponent.java" timestamp="1462303164973">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="19" column="1" />
@@ -862,7 +859,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(VERSION_NAME)</text>
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -870,7 +867,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(VERSION_NAME)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>alksdfm</text>
@@ -882,7 +879,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>(VERSION_NAME)</text>
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,29 +902,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(VERSION_NAME)</text>
       </register>
       <register name="4" type="4">
-        <text>version</text>
+        <text encoding="base64">bmFtZSA=</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>version</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
         <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gV2hlbiBjaGFuZ2luZyB0aGUKLy8gc2VjdXJpdHlfdmVyc2lvbiBoZXJlIHRoZXJlJ3MgYSBnb29kIGNoYW5jZSB5b3UgYWxzbyB3YW50IHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgJ3ZlcnNpb24nCi8vIGluIGdlbWluaS1zZWN1cml0eS9zZWN1cml0eS9idWlsZC5ncmFkbGUK</text>
-      </register>
       <register name="9" type="4">
-        <text>w</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BsdWdpblZlcnNpb24vZ2VtaW5pVmVyc2lvbi9n</text>
