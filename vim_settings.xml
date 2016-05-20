@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1463754183164">
+      <file name="/a.dummy" timestamp="1463754332438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/gradle.properties" timestamp="1463687842637">
@@ -66,6 +66,11 @@
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/gradle.properties" timestamp="1463754330608">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/build.gradle" timestamp="1462892857785">
         <mark key="[" line="24" column="26" />
@@ -381,13 +386,13 @@
         <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClBPTV9VUkw9ClBPTV9TQ01fVVJMPQpQT01fU0NNX0NPTk5FQ1RJT049ClBPTV9TQ01fREVWX0NPTk5FQ1RJT049ClBPTV9MSUNFTkNFX05BTUU9ClBPTV9MSUNFTkNFX1VSTD0KUE9NX0xJQ0VOQ0VfRElTVD0KUE9NX0RFVkVMT1BFUl9JRD0KUE9NX0RFVkVMT1BFUl9OQU1FPQo=</text>
+        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I1ZFUlNJT05fTkFNRT0zLjEuMAo=</text>
+        <text encoding="base64">ClBPTV9VUkw9ClBPTV9TQ01fVVJMPQpQT01fU0NNX0NPTk5FQ1RJT049ClBPTV9TQ01fREVWX0NPTk5FQ1RJT049ClBPTV9MSUNFTkNFX05BTUU9ClBPTV9MSUNFTkNFX1VSTD0KUE9NX0xJQ0VOQ0VfRElTVD0KUE9NX0RFVkVMT1BFUl9JRD0KUE9NX0RFVkVMT1BFUl9OQU1FPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1ZFUlNJT05fTkFNRT0zLjEuMAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
