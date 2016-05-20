@@ -27,6 +27,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/GeminiApplicationComponent.java" timestamp="1463756401175" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-model/gradle.properties" timestamp="1463687811170">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -148,6 +149,13 @@
         <mark key="[" line="1197" column="0" />
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1463756795965">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/module/DiagnosticDataModule.java" timestamp="1462216195273">
         <mark key="[" line="13" column="0" />
@@ -342,8 +350,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -351,10 +359,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>geminiArtifactVersion</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>crypt</text>
+        <text>adam</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXh0LmdlbWluaUFydGlmYWN0VmVyc2lvbiA9ICIkZ2VtaW5pVmVyc2lvbi1TTkFQU0hPVCIK</text>
@@ -362,8 +370,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="1" type="4">
+        <text>m</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -386,38 +394,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="2" type="4">
+        <text>a</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="4" type="4">
+        <text>A</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="5" type="4">
+        <text>m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+      <register name="8" type="4">
+        <text>A</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
       </register>
     </registers>
     <search>
-      <last-search>crypt</last-search>
+      <last-search>adam</last-search>
       <last-offset />
-      <last-pattern>crypt</last-pattern>
+      <last-pattern>adam</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>environment</entry>
         <entry>pluginVersion</entry>
         <entry>BUILD_VERSION</entry>
         <entry encoding="base64">XDxpc1JlbGVhc2VCdWlsZFw+</entry>
@@ -445,6 +452,7 @@
         <entry>owner</entry>
         <entry>crypto</entry>
         <entry>crypt</entry>
+        <entry>adam</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
