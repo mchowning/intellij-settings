@@ -297,7 +297,7 @@
         <text>geminiArtifactVersion</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>crypt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXh0LmdlbWluaUFydGlmYWN0VmVyc2lvbiA9ICIkZ2VtaW5pVmVyc2lvbi1TTkFQU0hPVCIK</text>
@@ -358,9 +358,9 @@
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>crypt</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>crypt</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -368,8 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isRelease</entry>
-        <entry encoding="base64">XDxzaWduaW5nXD4=</entry>
         <entry>environment</entry>
         <entry>pluginVersion</entry>
         <entry>BUILD_VERSION</entry>
@@ -388,6 +386,8 @@
         <entry>geminiVersionArtifact</entry>
         <entry>commerce</entry>
         <entry>owner</entry>
+        <entry>crypto</entry>
+        <entry>crypt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
