@@ -55,7 +55,7 @@
         <mark key="^" line="47" column="33" />
         <mark key="." line="47" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1463765993822">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1463767088694">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -310,12 +310,12 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463745907660">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1463767203396">
         <mark key="'" line="95" column="8" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="22" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
         <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="22" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/plugin-owner-manual/gradle.properties" timestamp="1463754190598">
         <mark key="[" line="4" column="0" />
@@ -780,7 +780,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -800,7 +800,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -824,28 +824,28 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECi8vIFdoZW4gY2hhbmdpbmcgdGhlIGdlbWluaVZlcnNpb24gaGVyZSB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IGFsc28gd2FudCB0byBjaGFuZ2UgdGhlIHZhbHVlIG9mCi8vICdnZW1pbmlDdXJyZW50VmVyc2lvbicgaW4gZ2VtaW5pLWNvcmUtc2RrL2Vudmlyb25tZW50LmdyYWRsZSBvbiB0aGlzIGJyYW5jaC4KZXh0LmdlbWluaVZlcnNpb24gPSAnQmx1ZS1TTkFQU0hPVCcKCi8vIFdoZW4gY2hhbmdpbmcgdGhlIHNlY3VyaXR5X3ZlcnNpb24gaGVyZSB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IGFsc28gd2FudCB0byBjaGFuZ2UgdGhlIHZhbHVlIG9mCi8vICd2ZXJzaW9uJyBpbiBnZW1pbmktc2VjdXJpdHkvc2VjdXJpdHkvYnVpbGQuZ3JhZGxlIG9uIHRoaXMgYnJhbmNoLgpkZWYgc2VjdXJpdHlfdmVyc2lvbiA9ICdCbHVlLVNOQVBTSE9UJwo9PT09PT09Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>m</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>a</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>d</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>A</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gRklYTUUgdGhpcyBpc24ndCBmaW5hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gRklYTUUgdGhpcyBpc24ndCBmaW5hbAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
