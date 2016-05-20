@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1463752054191">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/gradle.properties" timestamp="1463687842637">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -12,11 +15,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1463683399317">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/jenkins" timestamp="1463748173342" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1462448066565">
@@ -53,6 +51,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/gradle.properties" timestamp="1463752364785">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlocksTest.java" timestamp="1461860569860">
         <mark key="[" line="33" column="32" />
@@ -287,8 +290,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>geminiArtifactVersion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ClBPTV9VUkw9ClBPTV9TQ01fVVJMPQpQT01fU0NNX0NPTk5FQ1RJT049ClBPTV9TQ01fREVWX0NPTk5FQ1RJT049ClBPTV9MSUNFTkNFX05BTUU9ClBPTV9MSUNFTkNFX1VSTD0KUE9NX0xJQ0VOQ0VfRElTVD0KUE9NX0RFVkVMT1BFUl9JRD0KUE9NX0RFVkVMT1BFUl9OQU1FPQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -307,8 +310,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>geminiArtifactVersion</text>
+      <register name="1" type="2">
+        <text encoding="base64">ClBPTV9VUkw9ClBPTV9TQ01fVVJMPQpQT01fU0NNX0NPTk5FQ1RJT049ClBPTV9TQ01fREVWX0NPTk5FQ1RJT049ClBPTV9MSUNFTkNFX05BTUU9ClBPTV9MSUNFTkNFX1VSTD0KUE9NX0xJQ0VOQ0VfRElTVD0KUE9NX0RFVkVMT1BFUl9JRD0KUE9NX0RFVkVMT1BFUl9OQU1FPQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -331,29 +334,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>$geminiVersion-SNAPSHOT</text>
+      <register name="2" type="2">
+        <text encoding="base64">I1ZFUlNJT05fTkFNRT0zLjEuMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHNlY3VyaXR5X3ZlcnNpb24gPSAiJGdlbWluaUFydGlmYWN0VmVyc2lvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>$geminiArtifactVersion</text>
+      <register name="4" type="2">
+        <text encoding="base64">UE9NX1VSTD0KUE9NX1NDTV9VUkw9ClBPTV9TQ01fQ09OTkVDVElPTj0KUE9NX1NDTV9ERVZfQ09OTkVDVElPTj0KUE9NX0xJQ0VOQ0VfTkFNRT0KUE9NX0xJQ0VOQ0VfVVJMPQpQT01fTElDRU5DRV9ESVNUPQpQT01fREVWRUxPUEVSX0lEPQpQT01fREVWRUxPUEVSX05BTUU9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>geminiVersionArtifact</text>
+      <register name="5" type="2">
+        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
       </register>
       <register name="6" type="4">
-        <text>geminiVersionArtifact</text>
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="7" type="4">
-        <text>geminiVersionArtifact</text>
+        <text>$geminiVersion-SNAPSHOT</text>
       </register>
-      <register name="8" type="4">
-        <text>geminiVersionArtifact</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIHNlY3VyaXR5X3ZlcnNpb24gPSAiJGdlbWluaUFydGlmYWN0VmVyc2lvbiIK</text>
       </register>
       <register name="9" type="4">
-        <text>geminiVersionArtifact</text>
+        <text>$geminiArtifactVersion</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
