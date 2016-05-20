@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1463752719622">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/gradle.properties" timestamp="1463687842637">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -15,6 +12,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/gradle.properties" timestamp="1463753165799">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/jenkins" timestamp="1463748173342" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1462448066565">
@@ -336,28 +338,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ClBPTV9VUkw9ClBPTV9TQ01fVVJMPQpQT01fU0NNX0NPTk5FQ1RJT049ClBPTV9TQ01fREVWX0NPTk5FQ1RJT049ClBPTV9MSUNFTkNFX05BTUU9ClBPTV9MSUNFTkNFX1VSTD0KUE9NX0xJQ0VOQ0VfRElTVD0KUE9NX0RFVkVMT1BFUl9JRD0KUE9NX0RFVkVMT1BFUl9OQU1FPQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">I1ZFUlNJT05fTkFNRT0zLjEuMAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UE9NX1VSTD0KUE9NX1NDTV9VUkw9ClBPTV9TQ01fQ09OTkVDVElPTj0KUE9NX1NDTV9ERVZfQ09OTkVDVElPTj0KUE9NX0xJQ0VOQ0VfTkFNRT0KUE9NX0xJQ0VOQ0VfVVJMPQpQT01fTElDRU5DRV9ESVNUPQpQT01fREVWRUxPUEVSX0lEPQpQT01fREVWRUxPUEVSX05BTUU9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>geminiArtifactVersion</text>
+      <register name="3" type="2">
+        <text encoding="base64">ClBPTV9VUkw9ClBPTV9TQ01fVVJMPQpQT01fU0NNX0NPTk5FQ1RJT049ClBPTV9TQ01fREVWX0NPTk5FQ1RJT049ClBPTV9MSUNFTkNFX05BTUU9ClBPTV9MSUNFTkNFX1VSTD0KUE9NX0xJQ0VOQ0VfRElTVD0KUE9NX0RFVkVMT1BFUl9JRD0KUE9NX0RFVkVMT1BFUl9OQU1FPQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I1ZFUlNJT05fTkFNRT0zLjEuMAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UE9NX1VSTD0KUE9NX1NDTV9VUkw9ClBPTV9TQ01fQ09OTkVDVElPTj0KUE9NX1NDTV9ERVZfQ09OTkVDVElPTj0KUE9NX0xJQ0VOQ0VfTkFNRT0KUE9NX0xJQ0VOQ0VfVVJMPQpQT01fTElDRU5DRV9ESVNUPQpQT01fREVWRUxPUEVSX0lEPQpQT01fREVWRUxPUEVSX05BTUU9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wCg==</text>
       </register>
       <register name="8" type="4">
-        <text>$geminiVersion-SNAPSHOT</text>
+        <text>geminiArtifactVersion</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGVmIHNlY3VyaXR5X3ZlcnNpb24gPSAiJGdlbWluaUFydGlmYWN0VmVyc2lvbiIK</text>
+      <register name="9" type="4">
+        <text>$geminiVersion-SNAPSHOT</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
