@@ -15,6 +15,9 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
+      <file name="/a.dummy" timestamp="1464020041791">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -455,7 +458,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464017273450">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464019992208">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="34" />
         <mark key="^" line="12" column="34" />
@@ -783,8 +786,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+      <register name="&quot;" type="4">
+        <text>3.1.0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -792,7 +795,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>3.1.0</text>
       </register>
       <register name="/" type="4">
         <text>asdljf</text>
@@ -803,8 +806,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+      <register name="1" type="4">
+        <text>3.1.0</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -828,28 +831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECi8vIFdoZW4gY2hhbmdpbmcgdGhlIGdlbWluaVZlcnNpb24gaGVyZSB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IGFsc28gd2FudCB0byBjaGFuZ2UgdGhlIHZhbHVlIG9mCi8vICdnZW1pbmlDdXJyZW50VmVyc2lvbicgaW4gZ2VtaW5pLWNvcmUtc2RrL2Vudmlyb25tZW50LmdyYWRsZSBvbiB0aGlzIGJyYW5jaC4KZXh0LmdlbWluaVZlcnNpb24gPSAnMy4xLjAtU05BUFNIT1QnCgovLyBXaGVuIGNoYW5naW5nIHRoZSBzZWN1cml0eV92ZXJzaW9uIGhlcmUgdGhlcmUncyBhIGdvb2QgY2hhbmNlIHlvdSBhbHNvIHdhbnQgdG8gY2hhbmdlIHRoZSB2YWx1ZSBvZgovLyAndmVyc2lvbicgaW4gZ2VtaW5pLXNlY3VyaXR5L3NlY3VyaXR5L2J1aWxkLmdyYWRsZSBvbiB0aGlzIGJyYW5jaC4KZGVmIHNlY3VyaXR5X3ZlcnNpb24gPSAnMy4xLjAtU05BUFNIT1QnCj09PT09PT0K</text>
       </register>
-      <register name="3" type="4">
-        <text>m</text>
-      </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
+        <text>d</text>
+      </register>
+      <register name="7" type="4">
         <text>A</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECmRlZiBzZWN1cml0eV92ZXJzaW9uID0gJzMuMS4wLVNOQVBTSE9UJwo9PT09PT09Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBjMjM2MmQyLi4uIE1DIHwgT00tODA3NiB8IFVzZSBkZXBlbmRlbmNpZXMuZ3JhZGxlIHZhcmlhYmxlIHRvIHNldCBhcnRpZmFjdCB2ZXJzaW9uCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
