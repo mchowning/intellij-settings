@@ -71,7 +71,6 @@
         <mark key="^" line="11" column="108" />
         <mark key="." line="11" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/jenkins" timestamp="1463748173342" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build.gradle" timestamp="1461343602544">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="14" column="54" />
@@ -131,7 +130,6 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/GeminiApplicationComponent.java" timestamp="1463756401175" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-model/gradle.properties" timestamp="1464020673114">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -371,6 +369,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/prepcrashlytics" timestamp="1464026361454">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+        <mark key="^" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/util/LocationFacade.java" timestamp="1462470295024">
         <mark key="[" line="109" column="0" />
@@ -651,7 +655,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/socialmedia/SocialMediaLayoutPresenter.java" timestamp="1463669562304" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutComponent.java" timestamp="1462303164973">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="19" column="1" />
@@ -777,8 +780,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -786,7 +789,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3.1.0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>asdljf</text>
@@ -797,8 +800,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -821,17 +824,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
+      <register name="2" type="4">
+        <text>u</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
+      <register name="3" type="4">
+        <text>l</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
+      <register name="4" type="4">
+        <text>B</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
+      <register name="5" type="4">
+        <text>Debug</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
