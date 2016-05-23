@@ -339,6 +339,12 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1464007656190">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/build.gradle" timestamp="1462894322279">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="26" />
@@ -779,8 +785,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -788,7 +794,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>adam</text>
@@ -799,8 +805,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>c</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -824,28 +830,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECi8vIFdoZW4gY2hhbmdpbmcgdGhlIGdlbWluaVZlcnNpb24gaGVyZSB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IGFsc28gd2FudCB0byBjaGFuZ2UgdGhlIHZhbHVlIG9mCi8vICdnZW1pbmlDdXJyZW50VmVyc2lvbicgaW4gZ2VtaW5pLWNvcmUtc2RrL2Vudmlyb25tZW50LmdyYWRsZSBvbiB0aGlzIGJyYW5jaC4KZXh0LmdlbWluaVZlcnNpb24gPSAnQmx1ZS1TTkFQU0hPVCcKCi8vIFdoZW4gY2hhbmdpbmcgdGhlIHNlY3VyaXR5X3ZlcnNpb24gaGVyZSB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IGFsc28gd2FudCB0byBjaGFuZ2UgdGhlIHZhbHVlIG9mCi8vICd2ZXJzaW9uJyBpbiBnZW1pbmktc2VjdXJpdHkvc2VjdXJpdHkvYnVpbGQuZ3JhZGxlIG9uIHRoaXMgYnJhbmNoLgpkZWYgc2VjdXJpdHlfdmVyc2lvbiA9ICdCbHVlLVNOQVBTSE9UJwo9PT09PT09Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>m</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>a</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>d</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>A</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gRklYTUUgdGhpcyBpc24ndCBmaW5hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
