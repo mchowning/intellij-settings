@@ -404,13 +404,6 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1463761763946">
-        <mark key="'" line="46" column="24" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="72" />
@@ -456,12 +449,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1463758830102">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464017273450">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockModule.java" timestamp="1462202879757">
         <mark key="[" line="3" column="0" />
@@ -680,8 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragmentPresenter.java" />
-      <jump line="318" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragmentPresenter.java" />
       <jump line="330" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragmentPresenter.java" />
       <jump line="358" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragmentPresenter.java" />
       <jump line="360" column="23" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragmentPresenter.java" />
@@ -780,13 +770,15 @@
       <jump line="17" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="34" column="32" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="51" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="38" column="59" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="36" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>3.1.0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -794,19 +786,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>3.1.0</text>
       </register>
       <register name="/" type="4">
-        <text>adam</text>
+        <text>commerce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXh0LmdlbWluaUFydGlmYWN0VmVyc2lvbiA9ICIkZ2VtaW5pVmVyc2lvbi1TTkFQU0hPVCIK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiJGdlbWluaVZlcnNpb24iCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>c</text>
+        <text>3.1.0</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -829,38 +821,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>c</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA1ZWJkZWJmLi4uIE1DIHwgT00tODA3NiB8IGV4dHJhY3QgYmFzZSB2ZXJzaW9uIG5hbWUgdmFyaWFibGUgZm9yIHVzZSBpbiBnZW1pbmkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECi8vIFdoZW4gY2hhbmdpbmcgdGhlIGdlbWluaVZlcnNpb24gaGVyZSB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IGFsc28gd2FudCB0byBjaGFuZ2UgdGhlIHZhbHVlIG9mCi8vICdnZW1pbmlDdXJyZW50VmVyc2lvbicgaW4gZ2VtaW5pLWNvcmUtc2RrL2Vudmlyb25tZW50LmdyYWRsZSBvbiB0aGlzIGJyYW5jaC4KZXh0LmdlbWluaVZlcnNpb24gPSAnQmx1ZS1TTkFQU0hPVCcKCi8vIFdoZW4gY2hhbmdpbmcgdGhlIHNlY3VyaXR5X3ZlcnNpb24gaGVyZSB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IGFsc28gd2FudCB0byBjaGFuZ2UgdGhlIHZhbHVlIG9mCi8vICd2ZXJzaW9uJyBpbiBnZW1pbmktc2VjdXJpdHkvc2VjdXJpdHkvYnVpbGQuZ3JhZGxlIG9uIHRoaXMgYnJhbmNoLgpkZWYgc2VjdXJpdHlfdmVyc2lvbiA9ICdCbHVlLVNOQVBTSE9UJwo9PT09PT09Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>m</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>a</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>d</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>A</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
       </register>
     </registers>
     <search>
-      <last-search>adam</last-search>
+      <last-search>commerce</last-search>
       <last-offset />
-      <last-pattern>adam</last-pattern>
+      <last-pattern>commerce</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -883,11 +875,11 @@
         <entry>local</entry>
         <entry encoding="base64">XDxnZW1pbmlWZXJzaW9uXD4=</entry>
         <entry>geminiVersionArtifact</entry>
-        <entry>commerce</entry>
         <entry>owner</entry>
         <entry>crypto</entry>
         <entry>crypt</entry>
         <entry>adam</entry>
+        <entry>commerce</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
