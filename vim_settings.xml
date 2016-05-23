@@ -795,7 +795,7 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>commerce</text>
+        <text>asdljf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiJGdlbWluaVZlcnNpb24iCg==</text>
@@ -856,9 +856,9 @@
       </register>
     </registers>
     <search>
-      <last-search>commerce</last-search>
+      <last-search>asdljf</last-search>
       <last-offset />
-      <last-pattern>commerce</last-pattern>
+      <last-pattern>asdljf</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -866,7 +866,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pluginVersion</entry>
         <entry>BUILD_VERSION</entry>
         <entry encoding="base64">XDxpc1JlbGVhc2VCdWlsZFw+</entry>
         <entry encoding="base64">XDxjb25maWd1cmVQb21cPg==</entry>
@@ -886,6 +885,7 @@
         <entry>crypt</entry>
         <entry>adam</entry>
         <entry>commerce</entry>
+        <entry>asdljf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
