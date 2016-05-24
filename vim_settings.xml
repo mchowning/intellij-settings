@@ -61,7 +61,7 @@
         <mark key="^" line="47" column="33" />
         <mark key="." line="47" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1464099526065">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1464124495718">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -242,6 +242,9 @@
         <mark key="]" line="7" column="7" />
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/build.gradle" timestamp="1464125749957">
+        <mark key="[" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/gradle.properties" timestamp="1463754330608">
         <mark key="[" line="4" column="0" />
@@ -436,6 +439,9 @@
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1464113109487">
         <mark key="'" line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464125854410">
+        <mark key="'" line="52" column="40" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -666,8 +672,11 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/build.gradle" timestamp="1463660562682">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/build.gradle" timestamp="1464125965388">
         <mark key="'" line="84" column="48" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostAuthSequenceFactoryTest.java" timestamp="1462304617456">
         <mark key="'" line="27" column="13" />
@@ -705,7 +714,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/BatteryAndFuelRangeInfoBlock.java" timestamp="1461773253466">
         <mark key="'" line="118" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" timestamp="1464113728569">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" timestamp="1464124660075">
         <mark key="'" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutComponent.java" timestamp="1462303164973">
@@ -720,15 +729,13 @@
         <mark key="^" line="26" column="33" />
         <mark key="." line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment.gradle" timestamp="1463758594326">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="40" />
-        <mark key="^" line="1" column="40" />
-        <mark key="." line="1" column="40" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment.gradle" timestamp="1464125843618">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="117" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="100" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -828,13 +835,14 @@
       <jump line="137" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
       <jump line="29" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" />
       <jump line="45" column="40" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="52" column="40" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>V</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgbGlicmFyaWVzLm93bmVyX2NlbnRlcl9zZGsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -842,19 +850,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>owner_center_sdk</text>
       </register>
       <register name="/" type="4">
-        <text>owner-center</text>
+        <text>translations</text>
       </register>
-      <register name="0" type="4">
-        <text>geminiVersion</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBJZiB5b3UgY2hhbmdlIHRoZSBvd25lcl9jZW50ZXJfc2RrLCB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IHdpbGwgYWxzbyB3YW50CiAgICAgICAgLy8gdG8gY2hhbmdlIHRoZSBleHQub3duZXJfY2VudGVyX3NkayB2YWx1ZSBpbiBnZW1pbmktY29yZS1zZGsvZW52aXJvbm1lbnQuZ3JhZGxlCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>V</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgbGlicmFyaWVzLm93bmVyX2NlbnRlcl9zZGsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -877,38 +885,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>V</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8gSWYgeW91IGNoYW5nZSB0aGUgdHJhbnNsYXRpb25zIHZhbHVlLCB0aGVyZSdzIGEgZ29vZCBjaGFuY2UgeW91IHdpbGwgYWxzbyB3YW50CiAgICAgICAgLy8gdG8gY2hhbmdlIHRoZSBleHQubG9vbSB2YWx1ZSBpbiBnZW1pbmktY29yZS1zZGsvZW52aXJvbm1lbnQuZ3JhZGxlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>v</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>$geminiArtifactVersion</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8gSWYgeW91IGNoYW5nZSB0aGUgb3duZXJfY2VudGVyX3NkayB2YWx1ZSwgdGhlcmUncyBhIGdvb2QgY2hhbmNlIHlvdSB3aWxsIGFsc28gd2FudAogICAgICAgIC8vIHRvIGNoYW5nZSB0aGUgZXh0Lm93bmVyX2NlbnRlcl9zZGsgdmFsdWUgaW4gZ2VtaW5pLWNvcmUtc2RrL2Vudmlyb25tZW50LmdyYWRsZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>nonBleVersion</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ci8vb3RoZXIKLy9leHQub3duZXJfY2VudGVyX3NkayA9ICJjb20uZ20uZ21vYzpvd25lci1jZW50ZXItc2RrOjEuMi4wLVNOQVBTSE9UIgovL2V4dC5sb29tID0gImNvbS5nbS5nZW1pbmkudHJhbnNsYXRpb25zOmFuZHJvaWQ6MC4wLjEtU05BUFNIT1RAYWFyIgo=</text>
       </register>
       <register name="6" type="4">
-        <text>nonBleVersion</text>
+        <text>owner_center_sdk</text>
       </register>
       <register name="7" type="4">
-        <text>pluginVersion</text>
+        <text>owner_center_sdk</text>
       </register>
-      <register name="8" type="4">
-        <text>pluginVersion</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>pluginVersion</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>200</text>
       </register>
     </registers>
     <search>
-      <last-search>owner-center</last-search>
+      <last-search>translations</last-search>
       <last-offset />
-      <last-pattern>owner-center</last-pattern>
+      <last-pattern>translations</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -916,8 +924,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geminiVersionArtifact</entry>
-        <entry>owner</entry>
         <entry>crypto</entry>
         <entry>crypt</entry>
         <entry>adam</entry>
@@ -936,6 +942,8 @@
         <entry encoding="base64">XDxnZXRDdXJyZW50RGlzcGxheWVkRnJhZ21lbnRcPg==</entry>
         <entry>jkljkl</entry>
         <entry>owner-center</entry>
+        <entry>loom</entry>
+        <entry>translations</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
