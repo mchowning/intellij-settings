@@ -434,7 +434,7 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1464110616619">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1464113109487">
         <mark key="'" line="137" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464103655426">
@@ -712,6 +712,9 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/BatteryAndFuelRangeInfoBlock.java" timestamp="1461773253466">
         <mark key="'" line="118" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" timestamp="1464113728569">
+        <mark key="'" line="29" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutComponent.java" timestamp="1462303164973">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="19" column="1" />
@@ -732,7 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="19" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="106" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
@@ -832,6 +834,7 @@
       <jump line="145" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
       <jump line="144" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
       <jump line="137" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
+      <jump line="29" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
