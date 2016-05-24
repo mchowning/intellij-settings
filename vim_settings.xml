@@ -437,13 +437,6 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1464113109487">
         <mark key="'" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464103655426">
-        <mark key="'" line="49" column="42" />
-        <mark key="[" line="49" column="50" />
-        <mark key="]" line="49" column="51" />
-        <mark key="." line="49" column="51" />
-        <mark key="^" line="49" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="72" />
@@ -735,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="106" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="117" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -835,6 +827,7 @@
       <jump line="144" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
       <jump line="137" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
       <jump line="29" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" />
+      <jump line="45" column="40" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -852,7 +845,7 @@
         <text>V</text>
       </register>
       <register name="/" type="4">
-        <text>jkljkl</text>
+        <text>owner-center</text>
       </register>
       <register name="0" type="4">
         <text>geminiVersion</text>
@@ -913,9 +906,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jkljkl</last-search>
+      <last-search>owner-center</last-search>
       <last-offset />
-      <last-pattern>jkljkl</last-pattern>
+      <last-pattern>owner-center</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -923,7 +916,6 @@
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
         <entry>geminiVersionArtifact</entry>
         <entry>owner</entry>
         <entry>crypto</entry>
@@ -943,6 +935,7 @@
         <entry encoding="base64">XDxDT05UQUlORVJfSURcPg==</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50RGlzcGxheWVkRnJhZ21lbnRcPg==</entry>
         <entry>jkljkl</entry>
+        <entry>owner-center</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
