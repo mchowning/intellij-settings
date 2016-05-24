@@ -434,6 +434,9 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1464107585643">
+        <mark key="'" line="146" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464103655426">
         <mark key="'" line="49" column="42" />
         <mark key="[" line="49" column="50" />
@@ -729,11 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
-      <jump line="128" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="26" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="55" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="16" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="38" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -829,6 +827,11 @@
       <jump line="105" column="84" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="48" column="72" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="49" column="42" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="207" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
+      <jump line="369" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
+      <jump line="56" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
+      <jump line="77" column="64" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
+      <jump line="146" column="50" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -846,7 +849,7 @@
         <text>V</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWN1cml0eVZlcnNpb25cPg==</text>
+        <text encoding="base64">XDxDT05UQUlORVJfSURcPg==</text>
       </register>
       <register name="0" type="4">
         <text>geminiVersion</text>
@@ -903,13 +906,13 @@
         <text>pluginVersion</text>
       </register>
       <register name=":" type="4">
-        <text>s/geminiVersionArtifact/geminiArtifactVersion/g</text>
+        <text>200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWN1cml0eVZlcnNpb25cPg==</last-search>
+      <last-search encoding="base64">XDxDT05UQUlORVJfSURcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWN1cml0eVZlcnNpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDT05UQUlORVJfSURcPg==</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -917,7 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alksdfm</entry>
         <entry encoding="base64">XDxHUk9VUFw+</entry>
         <entry>versionName</entry>
         <entry>local</entry>
@@ -937,6 +939,7 @@
         <entry>asdlfj</entry>
         <entry encoding="base64">XDxwbHVnaW5WZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxzZWN1cml0eVZlcnNpb25cPg==</entry>
+        <entry encoding="base64">XDxDT05UQUlORVJfSURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
@@ -948,6 +951,7 @@
         <entry encoding="base64">JzwsJz5zL3BsdWdpblZlcnNpb24vZ2VtaW5pVmVyc2lvbi9n</entry>
         <entry>86</entry>
         <entry>s/geminiVersionArtifact/geminiArtifactVersion/g</entry>
+        <entry>200</entry>
       </history-cmd>
       <history-expr />
       <history-input />
