@@ -434,6 +434,12 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464094014280">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="72" />
@@ -479,8 +485,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464019992208">
-        <mark key="[" line="12" column="21" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464094019354">
+        <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="34" />
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
@@ -722,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
       <jump line="139" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
       <jump line="140" column="75" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
       <jump line="144" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/KeyFobFragment.java" />
@@ -822,13 +827,14 @@
       <jump line="52" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="53" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="211" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdlbWluaVZlcnNpb24K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -839,16 +845,16 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>220</text>
+        <text>asldjf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uTmFtZSAiJGdlbWluaVZlcnNpb24iCg==</text>
+      <register name="0" type="4">
+        <text>geminiVersion</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>i</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGdlbWluaVZlcnNpb24K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -872,22 +878,22 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>u</text>
       </register>
       <register name="5" type="4">
-        <text>B</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>Debug</text>
+        <text>B</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
+      <register name="7" type="4">
+        <text>Debug</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">VkVSU0lPTl9OQU1FPTMuMS4wLVNOQVBTSE9UCg==</text>
@@ -900,9 +906,9 @@
       </register>
     </registers>
     <search>
-      <last-search>220</last-search>
+      <last-search>asldjf</last-search>
       <last-offset />
-      <last-pattern>220</last-pattern>
+      <last-pattern>asldjf</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -910,7 +916,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFZlcnNpb25cPg==</entry>
         <entry>VERSION_NAME</entry>
         <entry>asdlfj</entry>
         <entry>security</entry>
@@ -919,7 +924,6 @@
         <entry encoding="base64">XDxHUk9VUFw+</entry>
         <entry>versionName</entry>
         <entry>local</entry>
-        <entry encoding="base64">XDxnZW1pbmlWZXJzaW9uXD4=</entry>
         <entry>geminiVersionArtifact</entry>
         <entry>owner</entry>
         <entry>crypto</entry>
@@ -930,6 +934,8 @@
         <entry encoding="base64">XDxIb3RTcG90VXRpbFw+</entry>
         <entry>suffix</entry>
         <entry>220</entry>
+        <entry encoding="base64">XDxnZW1pbmlWZXJzaW9uXD4=</entry>
+        <entry>asldjf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
