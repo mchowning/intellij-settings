@@ -61,15 +61,10 @@
         <mark key="^" line="47" column="33" />
         <mark key="." line="47" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1464174162512">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1464188514707">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1464121990584">
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="38" column="1" />
-        <mark key="." line="38" column="1" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/gradle.properties" timestamp="1463753165799">
         <mark key="[" line="4" column="0" />
@@ -181,6 +176,9 @@
         <mark key="[" line="36" column="38" />
         <mark key="]" line="36" column="38" />
         <mark key="." line="36" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/PluginNav.java" timestamp="1464187424791">
+        <mark key="'" line="30" column="37" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/build.gradle" timestamp="1462964072556">
         <mark key="[" line="25" column="35" />
@@ -310,12 +308,6 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
         <mark key="^" line="12" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" timestamp="1464186854450">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockContainer.java" timestamp="1462303248881">
         <mark key="[" line="51" column="36" />
@@ -449,9 +441,6 @@
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1464113109487">
         <mark key="'" line="137" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464125854410">
-        <mark key="'" line="52" column="40" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -725,10 +714,10 @@
         <mark key="'" line="118" column="49" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" timestamp="1464178070594">
-        <mark key="'" line="29" column="6" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutComponent.java" timestamp="1462303164973">
         <mark key="[" line="17" column="36" />
@@ -755,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="117" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="100" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="126" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -855,13 +843,14 @@
       <jump line="29" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/ui/plugin/AbstractNavigablePluginTest.java" />
       <jump line="45" column="40" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="52" column="40" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="30" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/PluginNav.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -869,10 +858,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>execution</text>
+        <text>oncreated</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBJZ25vcmUK</text>
@@ -881,7 +870,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -904,38 +893,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>-XX:+HeapDumpOnOutOfMemoryError</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
         <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
-      </register>
-      <register name="6" type="4">
         <text>1</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="4">
-        <text>6</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IC1YWDpIZWFwRHVtcFBhdGg9L3RtcA==</text>
+        <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>200</text>
       </register>
     </registers>
     <search>
-      <last-search>execution</last-search>
+      <last-search>oncreated</last-search>
       <last-offset />
-      <last-pattern>execution</last-pattern>
+      <last-pattern>oncreated</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -943,7 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crypt</entry>
         <entry>adam</entry>
         <entry>commerce</entry>
         <entry>asdljf</entry>
@@ -963,6 +951,7 @@
         <entry>loom</entry>
         <entry>translations</entry>
         <entry>execution</entry>
+        <entry>oncreated</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
