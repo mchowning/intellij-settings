@@ -95,7 +95,6 @@
         <mark key="^" line="38" column="84" />
         <mark key="." line="38" column="84" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.1.0-SNAPSHOT/ceeae646c3a86295ae142ba5aaf94b8f4b8d4b2/gemini-core-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/service/web/entitlements/UpsellNavigationEntitlement.java" timestamp="1464190047920" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1462448066565">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -226,11 +225,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/gradle.properties" timestamp="1463752364785">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlocksTest.java" timestamp="1461860569860">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
@@ -337,13 +331,6 @@
       </file>
       <file name="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1463481227256">
         <mark key="'" line="50" column="54" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1464021487865">
-        <mark key="'" line="95" column="8" />
-        <mark key="[" line="127" column="10" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="127" column="23" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/plugin-owner-manual/gradle.properties" timestamp="1463754190598">
         <mark key="[" line="4" column="0" />
@@ -598,6 +585,9 @@
         <mark key="^" line="160" column="43" />
         <mark key="." line="37" column="78" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" timestamp="1464193707986">
+        <mark key="'" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/gradle.properties" timestamp="1463753974308">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -750,7 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="100" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="126" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -850,6 +839,7 @@
       <jump line="45" column="40" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="52" column="40" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="30" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/PluginNav.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -867,7 +857,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>web</text>
+        <text>hasAllstate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBJZ25vcmUK</text>
@@ -928,9 +918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>web</last-search>
+      <last-search>hasAllstate</last-search>
       <last-offset />
-      <last-pattern>web</last-pattern>
+      <last-pattern>hasAllstate</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -938,9 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>commerce</entry>
-        <entry>asdljf</entry>
-        <entry encoding="base64">XDxIb3RTcG90VXRpbFw+</entry>
         <entry>suffix</entry>
         <entry>220</entry>
         <entry encoding="base64">XDxnZW1pbmlWZXJzaW9uXD4=</entry>
@@ -958,6 +945,9 @@
         <entry>execution</entry>
         <entry>oncreated</entry>
         <entry>web</entry>
+        <entry>addSelect</entry>
+        <entry>hasallstate</entry>
+        <entry>hasAllstate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
