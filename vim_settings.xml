@@ -95,6 +95,7 @@
         <mark key="^" line="38" column="84" />
         <mark key="." line="38" column="84" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.1.0-SNAPSHOT/ceeae646c3a86295ae142ba5aaf94b8f4b8d4b2/gemini-core-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/service/web/entitlements/UpsellNavigationEntitlement.java" timestamp="1464190047920" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizer.java" timestamp="1462448066565">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -325,6 +326,11 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/service/web/entitlements/UpsellNavigationEntitlement.java" timestamp="1464189520306">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1462303634041">
         <mark key="'" line="49" column="35" />
@@ -849,8 +855,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFTb3VyY2UgPSBkYXRhU291cmNlOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -861,7 +867,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>oncreated</text>
+        <text>web</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBJZ25vcmUK</text>
@@ -869,8 +875,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFTb3VyY2UgPSBkYXRhU291cmNlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -893,38 +899,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>-XX:+HeapDumpOnOutOfMemoryError</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnZlaGljbGUgPSB2ZWhpY2xlOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGF0YVNvdXJjZSBkYXRhU291cmNlOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>1</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvdmlkZXI8T3B0aW9uYWw8VmVoaWNsZT4+IHZlaGljbGU7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>-XX:+HeapDumpOnOutOfMemoryError</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>g</text>
       </register>
       <register name="8" type="4">
         <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>200</text>
       </register>
     </registers>
     <search>
-      <last-search>oncreated</last-search>
+      <last-search>web</last-search>
       <last-offset />
-      <last-pattern>oncreated</last-pattern>
+      <last-pattern>web</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -932,7 +938,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adam</entry>
         <entry>commerce</entry>
         <entry>asdljf</entry>
         <entry encoding="base64">XDxIb3RTcG90VXRpbFw+</entry>
@@ -952,6 +957,7 @@
         <entry>translations</entry>
         <entry>execution</entry>
         <entry>oncreated</entry>
+        <entry>web</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
