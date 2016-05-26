@@ -697,8 +697,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464030897443">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464266212932">
         <mark key="'" line="211" column="22" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -861,8 +864,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -870,7 +873,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>wifi</text>
@@ -881,8 +884,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>i</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,29 +908,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>f</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>O</text>
       </register>
       <register name="4" type="4">
-        <text>W</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PA==</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>WifiQuickView, DashboardCardView</text>
+        <text>W</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>200</text>
