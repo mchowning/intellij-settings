@@ -677,6 +677,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/values/label-strings.xml" timestamp="1464269236497">
+        <mark key="'" line="56" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/fragment/GeminiHeaderWebViewFragment.java" timestamp="1462205752504">
         <mark key="[" line="15" column="66" />
         <mark key="]" line="15" column="74" />
@@ -766,7 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="119" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="99" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="1154" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -866,6 +868,7 @@
       <jump line="414" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="45" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="73" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="56" column="62" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/values/label-strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -883,7 +886,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>401</text>
+        <text>220_g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVcHNlbGxXaWZpRW50aXRsZW1lbnQgbW9ja1Vwc2VsbFdpZmlFbnRpdGxlbWVudCA9IG1vY2soVXBzZWxsV2lmaUVudGl0bGVtZW50LmNsYXNzKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHN1YmplY3QsICJ1cHNlbGxXaWZpRW50aXRsZW1lbnQiLCBtb2NrVXBzZWxsV2lmaUVudGl0bGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxXaWZpRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwo=</text>
@@ -944,9 +947,9 @@
       </register>
     </registers>
     <search>
-      <last-search>401</last-search>
+      <last-search>220_g</last-search>
       <last-offset />
-      <last-pattern>401</last-pattern>
+      <last-pattern>220_g</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -954,7 +957,6 @@
     </search>
     <history>
       <history-search>
-        <entry>owner-center</entry>
         <entry>loom</entry>
         <entry>translations</entry>
         <entry>execution</entry>
@@ -974,6 +976,7 @@
         <entry encoding="base64">XDxfNDA1XzFcPg==</entry>
         <entry>70</entry>
         <entry>401</entry>
+        <entry>220_g</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
