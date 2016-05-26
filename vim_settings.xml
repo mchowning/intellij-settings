@@ -703,8 +703,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464267283356">
-        <mark key="'" line="45" column="72" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464268458388">
+        <mark key="'" line="73" column="33" />
         <mark key="[" line="165" column="32" />
         <mark key="]" line="165" column="32" />
         <mark key="." line="165" column="32" />
@@ -766,7 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="50" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="119" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="99" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -866,6 +865,7 @@
       <jump line="316" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="414" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="45" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="73" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -883,7 +883,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>70</text>
+        <text>401</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVcHNlbGxXaWZpRW50aXRsZW1lbnQgbW9ja1Vwc2VsbFdpZmlFbnRpdGxlbWVudCA9IG1vY2soVXBzZWxsV2lmaUVudGl0bGVtZW50LmNsYXNzKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHN1YmplY3QsICJ1cHNlbGxXaWZpRW50aXRsZW1lbnQiLCBtb2NrVXBzZWxsV2lmaUVudGl0bGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxXaWZpRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwo=</text>
@@ -944,9 +944,9 @@
       </register>
     </registers>
     <search>
-      <last-search>70</last-search>
+      <last-search>401</last-search>
       <last-offset />
-      <last-pattern>70</last-pattern>
+      <last-pattern>401</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -954,7 +954,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jkljkl</entry>
         <entry>owner-center</entry>
         <entry>loom</entry>
         <entry>translations</entry>
@@ -974,6 +973,7 @@
         <entry>440</entry>
         <entry encoding="base64">XDxfNDA1XzFcPg==</entry>
         <entry>70</entry>
+        <entry>401</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
