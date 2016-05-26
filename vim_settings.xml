@@ -528,6 +528,9 @@
         <mark key="^" line="10" column="76" />
         <mark key="." line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/tasks/vehicle/MyGmVehicleServiceAbstractTest.java" timestamp="1464287869177">
+        <mark key="'" line="412" column="72" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1461068903590">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -780,7 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="132" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="20" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
@@ -880,6 +882,7 @@
       <jump line="53" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="147" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="412" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/tasks/vehicle/MyGmVehicleServiceAbstractTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -897,7 +900,7 @@
         <text>geminiArtifactVersion</text>
       </register>
       <register name="/" type="4">
-        <text>sdk</text>
+        <text>baseresponse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVcHNlbGxXaWZpRW50aXRsZW1lbnQgbW9ja1Vwc2VsbFdpZmlFbnRpdGxlbWVudCA9IG1vY2soVXBzZWxsV2lmaUVudGl0bGVtZW50LmNsYXNzKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHN1YmplY3QsICJ1cHNlbGxXaWZpRW50aXRsZW1lbnQiLCBtb2NrVXBzZWxsV2lmaUVudGl0bGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxXaWZpRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwo=</text>
@@ -958,9 +961,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sdk</last-search>
+      <last-search>baseresponse</last-search>
       <last-offset />
-      <last-pattern>sdk</last-pattern>
+      <last-pattern>baseresponse</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -968,8 +971,6 @@
     </search>
     <history>
       <history-search>
-        <entry>execution</entry>
-        <entry>oncreated</entry>
         <entry>web</entry>
         <entry>addSelect</entry>
         <entry>hasallstate</entry>
@@ -988,6 +989,8 @@
         <entry>getFailure</entry>
         <entry>220</entry>
         <entry>sdk</entry>
+        <entry>base response</entry>
+        <entry>baseresponse</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
