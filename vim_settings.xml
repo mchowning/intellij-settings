@@ -706,8 +706,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464277485232">
-        <mark key="'" line="73" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464278157368">
+        <mark key="'" line="147" column="26" />
         <mark key="[" line="347" column="0" />
         <mark key="]" line="347" column="0" />
         <mark key="." line="347" column="0" />
@@ -768,11 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="1154" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="106" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="124" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="66" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="148" column="32" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="67" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="132" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
@@ -815,9 +810,6 @@
       <jump line="197" column="67" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="203" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="229" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="51" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="52" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="53" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="211" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -858,7 +850,6 @@
       <jump line="68" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/PluginWifiTest.java" />
       <jump line="142" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="146" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="147" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="158" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="41" column="71" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="122" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
@@ -868,6 +859,15 @@
       <jump line="73" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="56" column="62" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/values/label-strings.xml" />
       <jump line="12" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/model/PersistedVehicleRequest.java" />
+      <jump line="176" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="226" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="233" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="235" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="237" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="51" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="52" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="53" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="147" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -885,7 +885,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getFailure</text>
+        <text>220</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVcHNlbGxXaWZpRW50aXRsZW1lbnQgbW9ja1Vwc2VsbFdpZmlFbnRpdGxlbWVudCA9IG1vY2soVXBzZWxsV2lmaUVudGl0bGVtZW50LmNsYXNzKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHN1YmplY3QsICJ1cHNlbGxXaWZpRW50aXRsZW1lbnQiLCBtb2NrVXBzZWxsV2lmaUVudGl0bGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxXaWZpRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwo=</text>
@@ -946,9 +946,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getFailure</last-search>
+      <last-search>220</last-search>
       <last-offset />
-      <last-pattern>getFailure</last-pattern>
+      <last-pattern>220</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -966,7 +966,6 @@
         <entry>buildconf</entry>
         <entry>region</entry>
         <entry>wifi</entry>
-        <entry>220</entry>
         <entry encoding="base64">XDxPTlNGQUlMVVJFXD4=</entry>
         <entry encoding="base64">XDxPTlNfRVJST1JfMjIwXD4=</entry>
         <entry>404</entry>
@@ -976,6 +975,7 @@
         <entry>401</entry>
         <entry>220_g</entry>
         <entry>getFailure</entry>
+        <entry>220</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
