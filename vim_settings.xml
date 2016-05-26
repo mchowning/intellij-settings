@@ -442,8 +442,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1464113109487">
         <mark key="'" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464279293242">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464281008476">
         <mark key="'" line="69" column="8" />
+        <mark key="[" line="104" column="62" />
+        <mark key="]" line="104" column="73" />
+        <mark key="." line="104" column="73" />
+        <mark key="^" line="104" column="73" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_upsell_layout.xml" timestamp="1462213226497">
         <mark key="[" line="9" column="5" />
@@ -876,8 +880,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+      <register name="&quot;" type="4">
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -885,7 +889,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="/" type="4">
         <text>sdk</text>
@@ -896,8 +900,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+      <register name="1" type="4">
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -920,29 +924,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+      <register name="2" type="4">
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIEZJWE1FIHRoaXMgd2lsbCBicmVhaywgcmlnaHQ/Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXJyb3I7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXJyb3Ig</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXJyb3I7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>error</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name=":" type="4">
         <text>200</text>
