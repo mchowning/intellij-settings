@@ -490,6 +490,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/Error.java" timestamp="1464266374879">
+        <mark key="[" line="115" column="28" />
+        <mark key="]" line="115" column="27" />
+        <mark key="." line="115" column="27" />
+        <mark key="^" line="115" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464094019354">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="34" />
@@ -697,11 +703,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464266212932">
-        <mark key="'" line="211" column="22" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464267283356">
+        <mark key="'" line="45" column="72" />
+        <mark key="[" line="165" column="32" />
+        <mark key="]" line="165" column="32" />
+        <mark key="." line="165" column="32" />
+        <mark key="^" line="163" column="18" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -759,15 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="129" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="3" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="43" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="22" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="53" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="21" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="50" column="54" filename="/private/tmp/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" />
       <jump line="33" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="50" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="119" column="86" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -859,13 +857,22 @@
       <jump line="239" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.1.0-SNAPSHOT/62641ff5b62072627c5affdb4603db6f20a53b6/gemini-app-shell-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="19" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.1.0-SNAPSHOT/62641ff5b62072627c5affdb4603db6f20a53b6/gemini-app-shell-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="68" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/PluginWifiTest.java" />
+      <jump line="142" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="146" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="147" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="158" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="41" column="71" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="122" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="316" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="414" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="45" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -873,10 +880,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>wifi</text>
+        <text>70</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVcHNlbGxXaWZpRW50aXRsZW1lbnQgbW9ja1Vwc2VsbFdpZmlFbnRpdGxlbWVudCA9IG1vY2soVXBzZWxsV2lmaUVudGl0bGVtZW50LmNsYXNzKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHN1YmplY3QsICJ1cHNlbGxXaWZpRW50aXRsZW1lbnQiLCBtb2NrVXBzZWxsV2lmaUVudGl0bGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxXaWZpRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwo=</text>
@@ -884,8 +891,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -908,38 +915,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>O</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXJyb3I7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text encoding="base64">ZXJyb3Ig</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>error</text>
       </register>
       <register name="7" type="4">
-        <text>W</text>
+        <text encoding="base64">RXJyb3Ig</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+        <text>error</text>
       </register>
       <register name=":" type="4">
         <text>200</text>
       </register>
     </registers>
     <search>
-      <last-search>wifi</last-search>
+      <last-search>70</last-search>
       <last-offset />
-      <last-pattern>wifi</last-pattern>
+      <last-pattern>70</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -947,13 +954,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asldjf</entry>
-        <entry>ble</entry>
-        <entry>asdlfj</entry>
-        <entry encoding="base64">XDxwbHVnaW5WZXJzaW9uXD4=</entry>
-        <entry encoding="base64">XDxzZWN1cml0eVZlcnNpb25cPg==</entry>
-        <entry encoding="base64">XDxDT05UQUlORVJfSURcPg==</entry>
-        <entry encoding="base64">XDxnZXRDdXJyZW50RGlzcGxheWVkRnJhZ21lbnRcPg==</entry>
         <entry>jkljkl</entry>
         <entry>owner-center</entry>
         <entry>loom</entry>
@@ -967,6 +967,13 @@
         <entry>buildconf</entry>
         <entry>region</entry>
         <entry>wifi</entry>
+        <entry>220</entry>
+        <entry encoding="base64">XDxPTlNGQUlMVVJFXD4=</entry>
+        <entry encoding="base64">XDxPTlNfRVJST1JfMjIwXD4=</entry>
+        <entry>404</entry>
+        <entry>440</entry>
+        <entry encoding="base64">XDxfNDA1XzFcPg==</entry>
+        <entry>70</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
