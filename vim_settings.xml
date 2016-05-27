@@ -467,7 +467,9 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464348801453" />
+      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464352534407">
+        <mark key="'" line="159" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/gradle/wrapper/gradle-wrapper.properties" timestamp="1462468085956">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -781,9 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="20" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="71" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="133" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
@@ -881,6 +880,9 @@
       <jump line="147" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="412" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/tasks/vehicle/MyGmVehicleServiceAbstractTest.java" />
+      <jump line="200" column="0" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="186" column="16" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="159" column="18" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -898,7 +900,7 @@
         <text>geminiArtifactVersion</text>
       </register>
       <register name="/" type="4">
-        <text>baseresponse</text>
+        <text encoding="base64">XDxnZXRPbnMyMjBFcnJvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVcHNlbGxXaWZpRW50aXRsZW1lbnQgbW9ja1Vwc2VsbFdpZmlFbnRpdGxlbWVudCA9IG1vY2soVXBzZWxsV2lmaUVudGl0bGVtZW50LmNsYXNzKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHN1YmplY3QsICJ1cHNlbGxXaWZpRW50aXRsZW1lbnQiLCBtb2NrVXBzZWxsV2lmaUVudGl0bGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxXaWZpRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwo=</text>
@@ -959,9 +961,9 @@
       </register>
     </registers>
     <search>
-      <last-search>baseresponse</last-search>
+      <last-search encoding="base64">XDxnZXRPbnMyMjBFcnJvclw+</last-search>
       <last-offset />
-      <last-pattern>baseresponse</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRPbnMyMjBFcnJvclw+</last-pattern>
       <last-replace>geminiArtifactVersion</last-replace>
       <last-substitute>geminiVersionArtifact</last-substitute>
       <last-dir>1</last-dir>
@@ -969,9 +971,6 @@
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
-        <entry>addSelect</entry>
-        <entry>hasallstate</entry>
         <entry>hasAllstate</entry>
         <entry>buildconf</entry>
         <entry>region</entry>
@@ -989,6 +988,9 @@
         <entry>sdk</entry>
         <entry>base response</entry>
         <entry>baseresponse</entry>
+        <entry>ons</entry>
+        <entry encoding="base64">XDxnZXRMb25nRGVzY3JpcHRpb25Gb3JPTlNcPg==</entry>
+        <entry encoding="base64">XDxnZXRPbnMyMjBFcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RvcC9Cb3R0b20vZw==</entry>
