@@ -257,6 +257,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/build.gradle" timestamp="1464125749957">
         <mark key="[" line="33" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/MyLinkModelInitializer.java" timestamp="1464367843826">
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="40" />
+        <mark key="." line="55" column="40" />
+        <mark key="^" line="55" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/LogMetricsCommandTask.java" timestamp="1464365207572">
         <mark key="[" line="39" column="84" />
         <mark key="]" line="40" column="54" />
@@ -953,7 +959,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dealers</text>
+        <text>9</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -961,7 +967,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dealers</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>subCode</text>
@@ -973,7 +979,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>dealers</text>
+        <text>9</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -997,19 +1003,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>business_associate_code</text>
+        <text>dealers</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+        <text>business_associate_code</text>
       </register>
       <register name="4" type="4">
-        <text>null</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="5" type="4">
-        <text>Integer</text>
+        <text>null</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>Integer</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -1018,7 +1024,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZVJlc3BvbnNlLmVycm9yID09IG51bGwKICAgICAgICAgICAgICAgID8gbnVsbAogICAgICAgICAgICAgICAgOiBiYXNlUmVzcG9uc2UuZXJyb3Iuc3ViQ29kZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>35</text>
