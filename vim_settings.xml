@@ -347,6 +347,12 @@
         <mark key="." line="18" column="94" />
         <mark key="^" line="18" column="94" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/server/TimeServer.java" timestamp="1464541988892">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="10" />
@@ -541,6 +547,12 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/TimeServerHandler.java" timestamp="1464541491903">
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="57" />
+        <mark key="." line="11" column="57" />
+        <mark key="^" line="20" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
         <mark key="]" line="23" column="37" />
@@ -616,9 +628,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1464377264209">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/server/DiscardServer.java" timestamp="1464539238561">
         <mark key="[" line="11" column="0" />
@@ -713,6 +722,12 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/client/TimeClient.java" timestamp="1464542586071">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="9" column="60" />
+        <mark key="^" line="9" column="60" />
+        <mark key="." line="9" column="60" />
+      </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/DeliberationPlayer.java" timestamp="1429321151496">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="37" column="74" />
@@ -772,9 +787,9 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540291636">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="45" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="18" column="4" />
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
@@ -825,9 +840,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="^" line="27" column="27" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/build.gradle" timestamp="1464125749957">
-        <mark key="[" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/dev/katas/FizzBuzz/java/src/test/java/FizzBuzzTest.java" timestamp="1411342357295">
         <mark key="[" line="34" column="0" />
@@ -1104,9 +1116,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/DiscardServer.java" timestamp="1464532538505">
-        <mark key="[" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/UnfinishedCommandsHandler.java" timestamp="1464365978600">
         <mark key="[" line="58" column="39" />
@@ -1517,8 +1526,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RnVsbHlRdWFsaWZpZWRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12112,19 +12121,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>asdlfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVJlc3BvbnNlICE9IG51bGwpIHsKICAgICAgICAgICAgQmFzZVJlc3BvbnNlLkVycm9yIGVycm9yID0gYmFzZVJlc3BvbnNlLmVycm9yOwogICAgICAgICAgICBpZiAoZXJyb3IgIT0gbnVsbCAmJiAhVGV4dFV0aWxzLmlzRW1wdHkoZXJyb3IuY29kZSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZU9uc0NvZGUoZXJyb3IuY29kZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGV4Y2VwdGlvbkNhdWdodChDaGFubmVsSGFuZGxlckNvbnRleHQgY3R4LCBUaHJvd2FibGUgY2F1c2UpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGNhdXNlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIGN0eC5jbG9zZSgpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RnVsbHlRdWFsaWZpZWRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoK</text>
+      <register name="1" type="4">
+        <text>7</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12144,19 +12153,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>readPort(args)</text>
       </register>
       <register name="4" type="4">
-        <text>O</text>
+        <text encoding="base64">RXhjZXB0aW9uIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dGhyb3dzIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZpbmFsIFN0cmluZyBlcnJvckRlc2NyaXB0aW9uID0gIjIzMiBlcnJvciBkZXNjcmlwdGlvbiI7Cg==</text>
+      <register name="6" type="4">
+        <text>, ChannelHandler channelHandler</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13444,13 +13453,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>errorDescription</text>
+        <text>channelHandler</text>
       </register>
-      <register name="8" type="4">
-        <text>null</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5jaGFubmVsQWN0aXZlKGN0eCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZJWE1FIHdoYXQgYWJvdXQgb25zU3ViQ29kZT8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RnVsbHlRdWFsaWZpZWRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
