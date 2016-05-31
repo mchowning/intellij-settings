@@ -1288,10 +1288,10 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/Error.java" timestamp="1464382016873">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/Error.java" timestamp="1464709570681">
+        <mark key="[" line="64" column="63" />
+        <mark key="]" line="64" column="63" />
+        <mark key="." line="64" column="63" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464094019354">
         <mark key="[" line="12" column="22" />
@@ -1480,8 +1480,13 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PostAuthSequenceFactoryTest.java" timestamp="1462304617456">
         <mark key="'" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464705773957">
-        <mark key="[" line="222" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464709595489">
+        <mark key="'" line="55" column="36" />
+        <mark key="i" line="55" column="36" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="82" />
+        <mark key="^" line="55" column="37" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -1554,7 +1559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="414" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="45" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="73" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="56" column="62" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/values/label-strings.xml" />
@@ -1565,7 +1569,6 @@
       <jump line="237" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="51" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="52" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="53" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="147" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="412" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/tasks/vehicle/MyGmVehicleServiceAbstractTest.java" />
@@ -1654,13 +1657,15 @@
       <jump line="29" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/keyfob/KeyFobNotificationUtil.java" />
       <jump line="31" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/keyfob/KeyFobNotificationUtil.java" />
       <jump line="32" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/keyfob/KeyFobNotificationUtil.java" />
+      <jump line="53" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
+      <jump line="55" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getOnsSubCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgc2hvcnRFcnJvck1lc3NhZ2UgPSBnZXRTaG9ydEVycm9yTWVzc2FnZSh2ZWhpY2xlQ29tbWFuZCwgb25zQ29kZSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12254,7 +12259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getOnsSubCode</text>
+        <text>, shortErrorMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvclV0aWxcPg==</text>
@@ -12265,43 +12270,49 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>getOnsSubCode</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgc2hvcnRFcnJvck1lc3NhZ2UgPSBnZXRTaG9ydEVycm9yTWVzc2FnZSh2ZWhpY2xlQ29tbWFuZCwgb25zQ29kZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="106" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
           <key char="48" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
           <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>, shortErrorMessage</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LmJ1ZmZlci5VbnBvb2xlZDsKaW1wb3J0IGlvLm5ldHR5LmNoYW5uZWwuQ2hhbm5lbEZ1dHVyZUxpc3RlbmVyOwppbXBvcnQgaW8ubmV0dHkuY2hhbm5lbC5DaGFubmVsSGFuZGxlckNvbnRleHQ7CmltcG9ydCBpby5uZXR0eS5jaGFubmVsLkNoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXI7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRGVmYXVsdEZ1bGxIdHRwUmVzcG9uc2U7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRnVsbEh0dHBSZXNwb25zZTsKaW1wb3J0IGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwVXRpbDsKaW1wb3J0IGlvLm5ldHR5LnV0aWwuQXNjaWlTdHJpbmc7CgpwdWJsaWMgY2xhc3MgSHR0cEhlbGxvV29ybGRTZXJ2ZXJFeGFtcGxlIHsKCn0K</text>
+      <register name="3" type="4">
+        <text>, int shortErrorMessage</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>shortErrorMessage</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shortErrorMessage</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>shortErrorMessage</text>
       </register>
       <register name="7" type="4">
-        <text>new TimeEncoder(</text>
+        <text>shortErrorMessage</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13589,10 +13600,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGNvbS5tYXR0Y2hvd25pbmcuc2VydmVy</text>
+        <text>shortErrorMessage</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZShjdHgsIG1zZywgcHJvbWlzZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>shortErrorMessage</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
