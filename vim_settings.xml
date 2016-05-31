@@ -393,10 +393,10 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/Error.java" timestamp="1464382016873">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/Error.java" timestamp="1464702356958">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1464094019354">
         <mark key="[" line="12" column="22" />
@@ -717,7 +717,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RnVsbHlRdWFsaWZpZWRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -741,7 +741,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RnVsbHlRdWFsaWZpZWRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -760,29 +760,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBuZXcgT25zRXJyb3IoIjIyMF84IiwgMCwgc2hvcnRNZXNzYWdlSWQpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RnVsbHlRdWFsaWZpZWRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoK</text>
       </register>
       <register name="4" type="4">
+        <text>s</text>
+      </register>
+      <register name="5" type="4">
+        <text>n</text>
+      </register>
+      <register name="6" type="4">
         <text>O</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvL2ZpbmFsIFN0cmluZyBlcnJvckRlc2NyaXB0aW9uID0gIjIzMiBlcnJvciBkZXNjcmlwdGlvbiI7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>errorDescription</text>
-      </register>
-      <register name="8" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZJWE1FIHdoYXQgYWJvdXQgb25zU3ViQ29kZT8K</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
