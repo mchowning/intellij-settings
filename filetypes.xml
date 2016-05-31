@@ -7,6 +7,7 @@
       <mapping pattern="connect" type="PLAIN_TEXT" />
       <mapping pattern=".HfcCardButtonPresenter.java.swp" type="PLAIN_TEXT" />
       <mapping pattern="checkCodeQuality" type="PLAIN_TEXT" />
+      <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
