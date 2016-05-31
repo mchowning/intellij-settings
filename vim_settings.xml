@@ -460,6 +460,9 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/keyfob/KeyFobNotificationUtil.java" timestamp="1464707267564">
+        <mark key="'" line="32" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="21" />
@@ -1551,9 +1554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="71" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="122" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="316" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="414" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="45" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="73" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
@@ -1651,6 +1651,9 @@
       <jump line="36" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="61" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="94" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="29" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/keyfob/KeyFobNotificationUtil.java" />
+      <jump line="31" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/keyfob/KeyFobNotificationUtil.java" />
+      <jump line="32" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/keyfob/KeyFobNotificationUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -12254,7 +12257,7 @@
         <text>getOnsSubCode</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZmljYXRpb25Db250ZXh0XD4=</text>
+        <text encoding="base64">XDxlcnJvclV0aWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LmJ1ZmZlci5VbnBvb2xlZDsKaW1wb3J0IGlvLm5ldHR5LmNoYW5uZWwuQ2hhbm5lbEZ1dHVyZUxpc3RlbmVyOwppbXBvcnQgaW8ubmV0dHkuY2hhbm5lbC5DaGFubmVsSGFuZGxlckNvbnRleHQ7CmltcG9ydCBpby5uZXR0eS5jaGFubmVsLkNoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXI7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRGVmYXVsdEZ1bGxIdHRwUmVzcG9uc2U7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRnVsbEh0dHBSZXNwb25zZTsKaW1wb3J0IGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwVXRpbDsKaW1wb3J0IGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwUmVxdWVzdDsKaW1wb3J0IGlvLm5ldHR5LnV0aWwuQXNjaWlTdHJpbmc7CmltcG9ydCBzdGF0aWMgaW8ubmV0dHkuaGFuZGxlci5jb2RlYy5odHRwLkh0dHBSZXNwb25zZVN0YXR1cy4qOwppbXBvcnQgc3RhdGljIGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwVmVyc2lvbi4qOwoKcHVibGljIGNsYXNzIEh0dHBIZWxsb1dvcmxkU2VydmVySGFuZGxlciBleHRlbmRzIENoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXIgewogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgYnl0ZVtdIENPTlRFTlQgPSB7ICdIJywgJ2UnLCAnbCcsICdsJywgJ28nLCAnICcsICdXJywgJ28nLCAncicsICdsJywgJ2QnIH07CgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQXNjaWlTdHJpbmcgQ09OVEVOVF9UWVBFID0gbmV3IEFzY2lpU3RyaW5nKCJDb250ZW50LVR5cGUiKTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEFzY2lpU3RyaW5nIENPTlRFTlRfTEVOR1RIID0gbmV3IEFzY2lpU3RyaW5nKCJDb250ZW50LUxlbmd0aCIpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQXNjaWlTdHJpbmcgQ09OTkVDVElPTiA9IG5ldyBBc2NpaVN0cmluZygiQ29ubmVjdGlvbiIpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQXNjaWlTdHJpbmcgS0VFUF9BTElWRSA9IG5ldyBBc2NpaVN0cmluZygia2VlcC1hbGl2ZSIpOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2hhbm5lbFJlYWRDb21wbGV0ZShDaGFubmVsSGFuZGxlckNvbnRleHQgY3R4KSB7CiAgICAgICAgY3R4LmZsdXNoKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjaGFubmVsUmVhZChDaGFubmVsSGFuZGxlckNvbnRleHQgY3R4LCBPYmplY3QgbXNnKSB7CiAgICAgICAgaWYgKG1zZyBpbnN0YW5jZW9mIEh0dHBSZXF1ZXN0KSB7CiAgICAgICAgICAgIEh0dHBSZXF1ZXN0IHJlcSA9IChIdHRwUmVxdWVzdCkgbXNnOwoKICAgICAgICAgICAgaWYgKEh0dHBVdGlsLmlzMTAwQ29udGludWVFeHBlY3RlZChyZXEpKSB7CiAgICAgICAgICAgICAgICBjdHgud3JpdGUobmV3IERlZmF1bHRGdWxsSHR0cFJlc3BvbnNlKEhUVFBfMV8xLCBDT05USU5VRSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGJvb2xlYW4ga2VlcEFsaXZlID0gSHR0cFV0aWwuaXNLZWVwQWxpdmUocmVxKTsKICAgICAgICAgICAgRnVsbEh0dHBSZXNwb25zZSByZXNwb25zZSA9IG5ldyBEZWZhdWx0RnVsbEh0dHBSZXNwb25zZShIVFRQXzFfMSwgT0ssIFVucG9vbGVkLndyYXBwZWRCdWZmZXIoQ09OVEVOVCkpOwogICAgICAgICAgICByZXNwb25zZS5oZWFkZXJzKCkuc2V0KENPTlRFTlRfVFlQRSwgInRleHQvcGxhaW4iKTsKICAgICAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldEludChDT05URU5UX0xFTkdUSCwgcmVzcG9uc2UuY29udGVudCgpLnJlYWRhYmxlQnl0ZXMoKSk7CgogICAgICAgICAgICBpZiAoIWtlZXBBbGl2ZSkgewogICAgICAgICAgICAgICAgY3R4LndyaXRlKHJlc3BvbnNlKS5hZGRMaXN0ZW5lcihDaGFubmVsRnV0dXJlTGlzdGVuZXIuQ0xPU0UpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldChDT05ORUNUSU9OLCBLRUVQX0FMSVZFKTsKICAgICAgICAgICAgICAgIGN0eC53cml0ZShyZXNwb25zZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgY2F1c2UucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgY3R4LmNsb3NlKCk7CiAgICB9Cn0K</text>
@@ -13596,9 +13599,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RpZmljYXRpb25Db250ZXh0XD4=</last-search>
+      <last-search encoding="base64">XDxlcnJvclV0aWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25Db250ZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvclV0aWxcPg==</last-pattern>
       <last-replace>shortMessageId</last-replace>
       <last-substitute>shortMessage</last-substitute>
       <last-dir>1</last-dir>
@@ -13606,7 +13609,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbnNDb2RlXD4=</entry>
         <entry>subCode</entry>
         <entry encoding="base64">XDxmaW5kT25zQ29kZVw+</entry>
         <entry>todo</entry>
@@ -13626,6 +13628,7 @@
         <entry encoding="base64">XDxvbnNFcnJvckNvZGVcPg==</entry>
         <entry>asdlfj</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25Db250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxlcnJvclV0aWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/geminiVersionArtifact/geminiArtifactVersion/g</entry>
