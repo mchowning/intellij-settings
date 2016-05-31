@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/file/FileServer.java" timestamp="1464655516117">
+        <mark key="'" line="63" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/katas/GameOfLife/java/src/main/java/GameOfLife.java" timestamp="1411481504486">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="0" />
@@ -384,6 +387,11 @@
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/netty/example/src/main/java/io/netty/example/http/helloworld/HttpHelloWorldServerHandler.java" timestamp="1464640145888">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/server/handler/DiscardServerHandler.java" timestamp="1464569942240">
         <mark key="[" line="10" column="52" />
@@ -1287,6 +1295,11 @@
         <mark key="^" line="45" column="71" />
         <mark key="." line="45" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/http_example/HttpHelloWorldServerExample.java" timestamp="1464640183275">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/gradle/wrapper/gradle-wrapper.properties" timestamp="1462469079181">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -1467,8 +1480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.1.0-SNAPSHOT/62641ff5b62072627c5affdb4603db6f20a53b6/gemini-app-shell-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" />
-      <jump line="19" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.1.0-SNAPSHOT/62641ff5b62072627c5affdb4603db6f20a53b6/gemini-app-shell-3.1.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="68" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/PluginWifiTest.java" />
       <jump line="142" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="146" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
@@ -1567,13 +1578,15 @@
       <jump line="158" column="53" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="170" column="65" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="82" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtilTest.java" />
+      <jump line="17" column="2" filename="$USER_HOME$/dev/netty/example/src/main/java/io/netty/example/http/helloworld/HttpHelloWorldServerHandler.java" />
+      <jump line="63" column="37" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/file/FileServer.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12170,16 +12183,16 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>alsdfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgT0ZGU0VUID0gMjIwODk4ODgwMEw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LmJ1ZmZlci5VbnBvb2xlZDsKaW1wb3J0IGlvLm5ldHR5LmNoYW5uZWwuQ2hhbm5lbEZ1dHVyZUxpc3RlbmVyOwppbXBvcnQgaW8ubmV0dHkuY2hhbm5lbC5DaGFubmVsSGFuZGxlckNvbnRleHQ7CmltcG9ydCBpby5uZXR0eS5jaGFubmVsLkNoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXI7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRGVmYXVsdEZ1bGxIdHRwUmVzcG9uc2U7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRnVsbEh0dHBSZXNwb25zZTsKaW1wb3J0IGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwVXRpbDsKaW1wb3J0IGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwUmVxdWVzdDsKaW1wb3J0IGlvLm5ldHR5LnV0aWwuQXNjaWlTdHJpbmc7CmltcG9ydCBzdGF0aWMgaW8ubmV0dHkuaGFuZGxlci5jb2RlYy5odHRwLkh0dHBSZXNwb25zZVN0YXR1cy4qOwppbXBvcnQgc3RhdGljIGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwVmVyc2lvbi4qOwoKcHVibGljIGNsYXNzIEh0dHBIZWxsb1dvcmxkU2VydmVySGFuZGxlciBleHRlbmRzIENoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXIgewogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgYnl0ZVtdIENPTlRFTlQgPSB7ICdIJywgJ2UnLCAnbCcsICdsJywgJ28nLCAnICcsICdXJywgJ28nLCAncicsICdsJywgJ2QnIH07CgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQXNjaWlTdHJpbmcgQ09OVEVOVF9UWVBFID0gbmV3IEFzY2lpU3RyaW5nKCJDb250ZW50LVR5cGUiKTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEFzY2lpU3RyaW5nIENPTlRFTlRfTEVOR1RIID0gbmV3IEFzY2lpU3RyaW5nKCJDb250ZW50LUxlbmd0aCIpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQXNjaWlTdHJpbmcgQ09OTkVDVElPTiA9IG5ldyBBc2NpaVN0cmluZygiQ29ubmVjdGlvbiIpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQXNjaWlTdHJpbmcgS0VFUF9BTElWRSA9IG5ldyBBc2NpaVN0cmluZygia2VlcC1hbGl2ZSIpOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2hhbm5lbFJlYWRDb21wbGV0ZShDaGFubmVsSGFuZGxlckNvbnRleHQgY3R4KSB7CiAgICAgICAgY3R4LmZsdXNoKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjaGFubmVsUmVhZChDaGFubmVsSGFuZGxlckNvbnRleHQgY3R4LCBPYmplY3QgbXNnKSB7CiAgICAgICAgaWYgKG1zZyBpbnN0YW5jZW9mIEh0dHBSZXF1ZXN0KSB7CiAgICAgICAgICAgIEh0dHBSZXF1ZXN0IHJlcSA9IChIdHRwUmVxdWVzdCkgbXNnOwoKICAgICAgICAgICAgaWYgKEh0dHBVdGlsLmlzMTAwQ29udGludWVFeHBlY3RlZChyZXEpKSB7CiAgICAgICAgICAgICAgICBjdHgud3JpdGUobmV3IERlZmF1bHRGdWxsSHR0cFJlc3BvbnNlKEhUVFBfMV8xLCBDT05USU5VRSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGJvb2xlYW4ga2VlcEFsaXZlID0gSHR0cFV0aWwuaXNLZWVwQWxpdmUocmVxKTsKICAgICAgICAgICAgRnVsbEh0dHBSZXNwb25zZSByZXNwb25zZSA9IG5ldyBEZWZhdWx0RnVsbEh0dHBSZXNwb25zZShIVFRQXzFfMSwgT0ssIFVucG9vbGVkLndyYXBwZWRCdWZmZXIoQ09OVEVOVCkpOwogICAgICAgICAgICByZXNwb25zZS5oZWFkZXJzKCkuc2V0KENPTlRFTlRfVFlQRSwgInRleHQvcGxhaW4iKTsKICAgICAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldEludChDT05URU5UX0xFTkdUSCwgcmVzcG9uc2UuY29udGVudCgpLnJlYWRhYmxlQnl0ZXMoKSk7CgogICAgICAgICAgICBpZiAoIWtlZXBBbGl2ZSkgewogICAgICAgICAgICAgICAgY3R4LndyaXRlKHJlc3BvbnNlKS5hZGRMaXN0ZW5lcihDaGFubmVsRnV0dXJlTGlzdGVuZXIuQ0xPU0UpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldChDT05ORUNUSU9OLCBLRUVQX0FMSVZFKTsKICAgICAgICAgICAgICAgIGN0eC53cml0ZShyZXNwb25zZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgY2F1c2UucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgY3R4LmNsb3NlKCk7CiAgICB9Cn0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12198,20 +12211,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LmJ1ZmZlci5VbnBvb2xlZDsKaW1wb3J0IGlvLm5ldHR5LmNoYW5uZWwuQ2hhbm5lbEZ1dHVyZUxpc3RlbmVyOwppbXBvcnQgaW8ubmV0dHkuY2hhbm5lbC5DaGFubmVsSGFuZGxlckNvbnRleHQ7CmltcG9ydCBpby5uZXR0eS5jaGFubmVsLkNoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXI7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRGVmYXVsdEZ1bGxIdHRwUmVzcG9uc2U7CmltcG9ydCBpby5uZXR0eS5oYW5kbGVyLmNvZGVjLmh0dHAuRnVsbEh0dHBSZXNwb25zZTsKaW1wb3J0IGlvLm5ldHR5LmhhbmRsZXIuY29kZWMuaHR0cC5IdHRwVXRpbDsKaW1wb3J0IGlvLm5ldHR5LnV0aWwuQXNjaWlTdHJpbmc7CgpwdWJsaWMgY2xhc3MgSHR0cEhlbGxvV29ybGRTZXJ2ZXJFeGFtcGxlIHsKCn0K</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>new TimeEncoder(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGNvbS5tYXR0Y2hvd25pbmcuc2VydmVy</text>
+        <text>,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZShjdHgsIG1zZywgcHJvbWlzZSk7Cg==</text>
+      <register name="6" type="4">
+        <text>new TimeEncoder(</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13499,22 +13512,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZnV0dXJlIC0+IHsKICAgICAgICAgICAgYXNzZXJ0IGYgPT0gZnV0dXJlOwogICAgICAgICAgICBjdHguY2xvc2UoKTsKICAgICAgICB9</text>
+        <text encoding="base64">IGNvbS5tYXR0Y2hvd25pbmcuc2VydmVy</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZShjdHgsIG1zZywgcHJvbWlzZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZnV0dXJlIC0+IHsKICAgICAgICAgICAgYXNzZXJ0IGYgPT0gZnV0dXJlOwogICAgICAgICAgICBjdHguY2xvc2UoKTsKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>alsdfj</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>alsdfj</last-pattern>
       <last-replace>shortMessageId</last-replace>
       <last-substitute>shortMessage</last-substitute>
       <last-dir>1</last-dir>
@@ -13522,10 +13535,8 @@
     </search>
     <history>
       <history-search>
-        <entry>hlist</entry>
         <entry>insert</entry>
         <entry>\/\/</entry>
-        <entry>alsdfj</entry>
         <entry>updated</entry>
         <entry>appType</entry>
         <entry>feature</entry>
@@ -13542,6 +13553,8 @@
         <entry>asfldj</entry>
         <entry>OnsError</entry>
         <entry>iml</entry>
+        <entry>fileserverhandler</entry>
+        <entry>alsdfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xzMi95cy9n</entry>
