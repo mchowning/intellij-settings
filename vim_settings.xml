@@ -90,11 +90,10 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorParser.java" timestamp="1464796489867">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="23" column="21" />
-        <mark key="^" line="23" column="21" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorParser.java" timestamp="1464804342522">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build.gradle" timestamp="1461343602544">
         <mark key="[" line="13" column="5" />
@@ -1566,11 +1565,10 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464796739370">
-        <mark key="[" line="287" column="41" />
-        <mark key="]" line="287" column="43" />
-        <mark key="^" line="287" column="43" />
-        <mark key="." line="287" column="43" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464804309965">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -1751,7 +1749,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEZhaWx1cmVFcnJvclR5cGUgYWN0dWFsID0gc3ViamVjdFNweS5kZXRlcm1pbmVGYWlsdXJlVHlwZUZvckJhc2VSZXNwb25zZShyZXNwb25zZU1vY2spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12345,7 +12343,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>alskjdf</text>
@@ -12357,7 +12355,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEZhaWx1cmVFcnJvclR5cGUgYWN0dWFsID0gc3ViamVjdFNweS5kZXRlcm1pbmVGYWlsdXJlVHlwZUZvckJhc2VSZXNwb25zZShyZXNwb25zZU1vY2spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12376,20 +12374,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>d</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBPbnNFcnJvclBhcnNlcigpIHt9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
-      <register name="4" type="4">
-        <text>i</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oc3ViamVjdFNweS5nZXRPbnNDb2RlKHJlc3BvbnNlTW9jaykpLnRoZW5SZXR1cm4oYU51bWJlcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5JbmplY3Q7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13676,8 +13674,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEVycm9yVXRpbCBzdWJqZWN0U3B5ID0gc3B5KHN1YmplY3QpOwo=</text>
+      <register name="7" type="4">
+        <text>Exception</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIEZhaWx1cmVFcnJvclR5cGUgYWN0dWFsID0gc3ViamVjdFNweS5kZXRlcm1pbmVGYWlsdXJlVHlwZUZvckJhc2VSZXNwb25zZShyZXNwb25zZU1vY2spOwo=</text>
