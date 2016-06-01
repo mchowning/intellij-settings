@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/file/FileServer.java" timestamp="1464655516117">
-        <mark key="'" line="63" column="37" />
-      </file>
       <file name="$USER_HOME$/dev/katas/GameOfLife/java/src/main/java/GameOfLife.java" timestamp="1411481504486">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="0" />
@@ -87,6 +84,11 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorParser.java" timestamp="1464791807899">
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build.gradle" timestamp="1461343602544">
         <mark key="[" line="13" column="5" />
@@ -370,11 +372,11 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorUtil.java" timestamp="1464785977472">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="14" column="9" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorUtil.java" timestamp="1464791792765">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/response/BaseResponse.java" timestamp="1464279060830">
         <mark key="[" line="18" column="52" />
@@ -447,6 +449,12 @@
         <mark key="]" line="66" column="23" />
         <mark key="^" line="66" column="23" />
         <mark key="." line="66" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorParserTest.java" timestamp="1464791919763">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="65" column="5" />
+        <mark key="^" line="53" column="40" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/MinCut.java" timestamp="1423503991285">
         <mark key="[" line="46" column="0" />
@@ -549,8 +557,11 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786324041">
-        <mark key="[" line="20" column="46" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="40" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/Dijkstra.java" timestamp="1425326774950">
         <mark key="[" line="57" column="0" />
@@ -669,7 +680,7 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1464786178290">
+      <file name="/fragment.java" timestamp="1464787001816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/test.hs" timestamp="1420518236298">
@@ -695,9 +706,6 @@
         <mark key="]" line="16" column="52" />
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java" timestamp="1464693141210">
-        <mark key="'" line="120" column="11" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/DiscardServerHandler.java" timestamp="1464531929527">
         <mark key="[" line="17" column="12" />
@@ -1570,8 +1578,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgZmluZE9uc0NvZGVfQmFzZVJlc3BvbnNlX2hhbmRsZXNfc3ViemVyb19jb2RlKCkgewogICAgICAgIEJhc2VSZXNwb25zZSBtb2NrQmFzZVJlc3BvbnNlID0gbW9jayhCYXNlUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIG1vY2tCYXNlUmVzcG9uc2UuZXJyb3IgPSBtb2NrKEJhc2VSZXNwb25zZS5FcnJvci5jbGFzcyk7CiAgICAgICAgbW9ja0Jhc2VSZXNwb25zZS5lcnJvci5jb2RlID0gIi0xIjsKCiAgICAgICAgYXNzZXJ0TnVsbChzdWJqZWN0LmZpbmRPbnNDb2RlKG1vY2tCYXNlUmVzcG9uc2UpKTsKICAgIH0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12165,19 +12173,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>empty_code</text>
       </register>
       <register name="/" type="4">
         <text>alsdjf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBmaW5kT25zQ29kZV9CYXNlUmVzcG9uc2VfaGFuZGxlc19udWxsKCkgewogICAgICAgIHN1YmplY3QuZmluZE9uc0NvZGUoKEJhc2VSZXNwb25zZSkgbnVsbCk7CiAgICAgICAgLy8gZG9lcyBub3QgY3Jhc2gKICAgIH0K</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgZmluZE9uc0NvZGVfQmFzZVJlc3BvbnNlX2hhbmRsZXNfc3ViemVyb19jb2RlKCkgewogICAgICAgIEJhc2VSZXNwb25zZSBtb2NrQmFzZVJlc3BvbnNlID0gbW9jayhCYXNlUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIG1vY2tCYXNlUmVzcG9uc2UuZXJyb3IgPSBtb2NrKEJhc2VSZXNwb25zZS5FcnJvci5jbGFzcyk7CiAgICAgICAgbW9ja0Jhc2VSZXNwb25zZS5lcnJvci5jb2RlID0gIi0xIjsKCiAgICAgICAgYXNzZXJ0TnVsbChzdWJqZWN0LmZpbmRPbnNDb2RlKG1vY2tCYXNlUmVzcG9uc2UpKTsKICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>}</text>
+        <text>empty_code</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12197,19 +12205,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkb2VzIG5vdCBjcmFzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBkb2VzIG5vdCBjcmFzaAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Response) null);</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkb2VzIG5vdCBjcmFzaAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkb2VzIG5vdCBjcmFzaAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkb2VzIG5vdCBjcmFzaAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13497,13 +13505,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>Util</text>
       </register>
-      <register name="8" type="4">
-        <text>B</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKG1vY2tCYXNlUmVzcG9uc2UuZXJyb3IuY29kZSk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
