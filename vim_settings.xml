@@ -23,6 +23,9 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1464784994683">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -840,6 +843,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/AsynchronousVehicleTask.java" timestamp="1464784809735">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/DeliberationPlayer.java" timestamp="1429321151496">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="37" column="74" />
@@ -1546,10 +1554,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464381935528">
-        <mark key="[" line="147" column="24" />
-        <mark key="]" line="147" column="24" />
-        <mark key="." line="147" column="24" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464784903379">
+        <mark key="[" line="299" column="11" />
+        <mark key="]" line="299" column="11" />
+        <mark key="." line="299" column="11" />
+        <mark key="^" line="290" column="18" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -1730,7 +1739,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>filePath()</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12324,19 +12333,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filePath()</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>alsdjf</text>
       </register>
-      <register name="0" type="4">
-        <text>SystemPropertyUtil.get(&quot;user.dir&quot;) + File.separator + &quot;src/main/java/com/mattchowning/file_read_write_server/ServerFile.txt&quot;;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG9uc0NvZGUgPSBmaW5kT25zQ29kZShjb21tYW5kUmVzcG9uc2UpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>filePath()</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12356,19 +12365,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBmaWxlUGF0aCgpIHsKICAgICAgICByZXR1cm4gU3lzdGVtUHJvcGVydHlVdGlsLmdldCgidXNlci5kaXIiKSArIEZpbGUuc2VwYXJhdG9yICsgInNyYy9tYWluL2phdmEvY29tL21hdHRjaG93bmluZy9maWxlX3JlYWRfd3JpdGVfc2VydmVyL1NlcnZlckZpbGUudHh0IjsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEZJTEVfUEFUSCA9ICIvVXNlcnMvbWF0dC9kZXYvTmV0dHlTYW1wbGUvc3JjL21haW4vamF2YS9jb20vbWF0dGNob3duaW5nL2ZpbGVfcmVhZF93cml0ZV9zZXJ2ZXIvU2VydmVyRmlsZS50eHQiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;src/main/java/com/mattchowning/file_read_write_server/ServerFile.txt&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG9uc0NvZGUgPSBFcnJvclV0aWwuZ2V0T25zQ29kZShjb21tYW5kUmVzcG9uc2UpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>n</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13656,13 +13665,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">c2VwYXJhdG9yIA==</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>f</text>
       </register>
-      <register name="9" type="4">
-        <text>File</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgRXJyb3IgZ2V0RXJyb3IoUmVtb3RlQ29tbWFuZFJlc3BvbnNlIHJlc3BvbnNlLCBWZWhpY2xlQ29tbWFuZCB2ZWhpY2xlQ29tbWFuZCkgewogICAgICAgIEludGVnZXIgb25zQ29kZSA9IGdldE9uc0NvZGUocmVzcG9uc2UuY29tbWFuZFJlc3BvbnNlKTsKICAgICAgICBGYWlsdXJlRXJyb3JUeXBlIGZhaWx1cmVFcnJvclR5cGUgPSBnZXRGYWlsdXJlVHlwZShyZXNwb25zZS5jb21tYW5kUmVzcG9uc2UpOwogICAgICAgIFN0cmluZyBvbnNDb2RlU3RyaW5nID0gb25zQ29kZSA9PSBudWxsID8gbnVsbCA6IG9uc0NvZGUudG9TdHJpbmcoKTsKICAgICAgICByZXR1cm4gZ2V0RXJyb3IoZmFpbHVyZUVycm9yVHlwZSwgb25zQ29kZVN0cmluZywgdmVoaWNsZUNvbW1hbmQpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
