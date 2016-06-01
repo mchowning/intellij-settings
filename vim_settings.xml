@@ -1457,12 +1457,12 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464780885715">
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464781225620">
         <mark key="'" line="94" column="17" />
-        <mark key="[" line="80" column="40" />
-        <mark key="]" line="80" column="53" />
-        <mark key="^" line="80" column="53" />
-        <mark key="." line="80" column="53" />
+        <mark key="[" line="46" column="40" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="46" column="39" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1730,7 +1730,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>filePath()</text>
+        <text>e</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12324,7 +12324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filePath()</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>alsdjf</text>
@@ -12336,7 +12336,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>filePath()</text>
+        <text>e</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12356,19 +12356,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBmaWxlUGF0aCgpIHsKICAgICAgICByZXR1cm4gU3lzdGVtUHJvcGVydHlVdGlsLmdldCgidXNlci5kaXIiKSArIEZpbGUuc2VwYXJhdG9yICsgInNyYy9tYWluL2phdmEvY29tL21hdHRjaG93bmluZy9maWxlX3JlYWRfd3JpdGVfc2VydmVyL1NlcnZlckZpbGUudHh0IjsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIHJhZiA9IG5ldyBGaWxlKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEZJTEVfUEFUSCA9ICIvVXNlcnMvbWF0dC9kZXYvTmV0dHlTYW1wbGUvc3JjL21haW4vamF2YS9jb20vbWF0dGNob3duaW5nL2ZpbGVfcmVhZF93cml0ZV9zZXJ2ZXIvU2VydmVyRmlsZS50eHQiOwo=</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;src/main/java/com/mattchowning/file_read_write_server/ServerFile.txt&quot;</text>
+        <text>filePath(</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>filePath(</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>filePath()</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13655,14 +13655,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">c2VwYXJhdG9yIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBmaWxlUGF0aCgpIHsKICAgICAgICByZXR1cm4gU3lzdGVtUHJvcGVydHlVdGlsLmdldCgidXNlci5kaXIiKSArIEZpbGUuc2VwYXJhdG9yICsgInNyYy9tYWluL2phdmEvY29tL21hdHRjaG93bmluZy9maWxlX3JlYWRfd3JpdGVfc2VydmVyL1NlcnZlckZpbGUudHh0IjsKICAgIH0KCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEZJTEVfUEFUSCA9ICIvVXNlcnMvbWF0dC9kZXYvTmV0dHlTYW1wbGUvc3JjL21haW4vamF2YS9jb20vbWF0dGNob3duaW5nL2ZpbGVfcmVhZF93cml0ZV9zZXJ2ZXIvU2VydmVyRmlsZS50eHQiOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>File</text>
+        <text>&quot;src/main/java/com/mattchowning/file_read_write_server/ServerFile.txt&quot;</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
