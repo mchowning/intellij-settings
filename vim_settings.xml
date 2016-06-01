@@ -113,6 +113,12 @@
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/file/file.txt" timestamp="1464746598329">
+        <mark key="[" line="3" column="85" />
+        <mark key="]" line="3" column="85" />
+        <mark key="^" line="3" column="85" />
+        <mark key="." line="3" column="85" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockPresenter.java" timestamp="1462206850868">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -125,9 +131,9 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/file/HttpStaticFileServerHandler.java" timestamp="1464701450595">
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="334" column="4" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/file/HttpStaticFileServerHandler.java" timestamp="1464746776722">
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="399" column="4" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/1-1.hs" timestamp="1453899926613">
         <mark key="[" line="4" column="0" />
@@ -708,7 +714,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1464696295643">
+      <file name="/fragment.java" timestamp="1464746376071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/server/DiscardServer.java" timestamp="1464539238561">
@@ -1424,7 +1430,7 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464701777193">
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464747335771">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -1695,7 +1701,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3R4LndyaXRlQW5kRmx1c2gocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12289,19 +12295,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.addListener(ChannelFutureListener.CLOSE)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>readLine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgud3JpdGVBbmRGbHVzaChyZXNwb25zZSkuYWRkTGlzdGVuZXIoQ2hhbm5lbEZ1dHVyZUxpc3RlbmVyLkNMT1NFKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc2V0Q29udGVudFR5cGVIZWFkZXIoSHR0cFJlc3BvbnNlIHJlc3BvbnNlLCBGaWxlIGZpbGUpIHsKICAgICAgICBNaW1ldHlwZXNGaWxlVHlwZU1hcCBtaW1lVHlwZXNNYXAgPSBuZXcgTWltZXR5cGVzRmlsZVR5cGVNYXAoKTsKICAgICAgICByZXNwb25zZS5oZWFkZXJzKCkuc2V0KEh0dHBIZWFkZXJOYW1lcy5DT05URU5UX1RZUEUsIG1pbWVUeXBlc01hcC5nZXRDb250ZW50VHlwZShmaWxlLmdldFBhdGgoKSkpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3R4LndyaXRlQW5kRmx1c2gocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12320,20 +12326,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>.addListener(ChannelFutureListener.CLOSE)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdWxsSHR0cFJlcXVlc3QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDbG9zZSB0aGUgY29ubmVjdGlvbiBhcyBzb29uIGFzIHRoZSBlcnJvciBtZXNzYWdlIGlzIHNlbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>context</text>
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZXJyb3JNZXNzYWdlID0gU3RyaW5nLmZvcm1hdCgidW5leHBlY3RlZCByZXF1ZXN0OiAlcy4lcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnVsbEh0dHBSZXF1ZXN0LmdldENsYXNzKCkuZ2V0U2ltcGxlTmFtZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZ1bGxIdHRwUmVxdWVzdC5tZXRob2QoKSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVycm9yTWVzc2FnZSk7Cg==</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13621,13 +13627,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>HTTP_1_1</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>h</text>
+        <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvdCBhIGdldCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
