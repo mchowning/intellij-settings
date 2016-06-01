@@ -732,11 +732,12 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtilTest.java" timestamp="1464807552713">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="77" column="72" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtilTest.java" timestamp="1464808115504">
+        <mark key="'" line="84" column="21" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="92" column="54" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/median_testcases/54" timestamp="1425331537391">
         <mark key="[" line="0" column="0" />
@@ -786,6 +787,12 @@
         <mark key="]" line="16" column="52" />
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-command-history/src/main/java/com/gm/plugin/commands_history/ui/fullscreen/CommandHistoryDetailFragmentModule.java" timestamp="1464808974743">
+        <mark key="[" line="29" column="104" />
+        <mark key="]" line="30" column="125" />
+        <mark key="^" line="30" column="125" />
+        <mark key="." line="30" column="125" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/DiscardServerHandler.java" timestamp="1464531929527">
         <mark key="[" line="17" column="12" />
@@ -1650,7 +1657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="414" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="45" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="73" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
@@ -1750,13 +1756,14 @@
       <jump line="18" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorParserTest.java" />
       <jump line="119" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorParserTest.java" />
+      <jump line="84" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtilTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oc3ViamVjdFNweS5nZXRFcnJvcihiYXNlUmVzcG9uc2UsIG51bGwpKS50aGVuUmV0dXJuKGV4cGVjdGVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12350,10 +12357,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>parseInt</text>
       </register>
       <register name="/" type="4">
-        <text>alskjdf</text>
+        <text>asldjf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGYWlsdXJlRXJyb3JUeXBlIGFjdHVhbCA9IHN1YmplY3RTcHkuZGV0ZXJtaW5lRmFpbHVyZVR5cGVGb3JCYXNlUmVzcG9uc2UocmVzcG9uc2VNb2NrKTsK</text>
@@ -12362,7 +12369,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oc3ViamVjdFNweS5nZXRFcnJvcihiYXNlUmVzcG9uc2UsIG51bGwpKS50aGVuUmV0dXJuKGV4cGVjdGVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12385,16 +12392,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0Lm9uc0Vycm9yUGFyc2VyID0gbW9jayhPbnNFcnJvclBhcnNlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJhc2VSZXNwb25zZS5lcnJvciA9IGVycjsK</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGZpbmFsIFN0cmluZyBvbnNFcnJvckNvZGUgPSAiMjMyIjsKLy8gICAgICAgIGZpbmFsIFN0cmluZyBlcnJvckRlc2NyaXB0aW9uID0gIjIzMiBlcnJvciBkZXNjcmlwdGlvbiI7Ci8vICAgICAgICBCYXNlUmVzcG9uc2UuRXJyb3IgZXJyID0gbmV3IEJhc2VSZXNwb25zZS5FcnJvcihvbnNFcnJvckNvZGUsIGVycm9yRGVzY3JpcHRpb24pOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>parseInt</text>
       </register>
       <register name="6" type="4">
-        <text>subject</text>
+        <text>)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13682,22 +13689,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>onsErrorCode</text>
       </register>
-      <register name="9" type="4">
-        <text>subject</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG9uc0Vycm9yQ29kZSA9IDIzMjsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>alskjdf</last-search>
+      <last-search>asldjf</last-search>
       <last-offset />
-      <last-pattern>alskjdf</last-pattern>
+      <last-pattern>asldjf</last-pattern>
       <last-replace>CommandResponse</last-replace>
       <last-substitute>BaseResponse</last-substitute>
       <last-dir>1</last-dir>
@@ -13705,8 +13712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>artifactory</entry>
-        <entry>aar</entry>
         <entry>SNAPSHOT</entry>
         <entry>mockito</entry>
         <entry encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</entry>
@@ -13725,6 +13730,8 @@
         <entry>BaseResponse</entry>
         <entry>findOnsCode</entry>
         <entry>alskjdf</entry>
+        <entry encoding="base64">XDxiYXNlUmVzcG9uc2VcPg==</entry>
+        <entry>asldjf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2wxL3gvZw==</entry>
