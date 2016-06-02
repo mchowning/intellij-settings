@@ -12372,7 +12372,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>alskjdf</text>
+        <text>mime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGYWlsdXJlRXJyb3JUeXBlIGFjdHVhbCA9IHN1YmplY3RTcHkuZGV0ZXJtaW5lRmFpbHVyZVR5cGVGb3JCYXNlUmVzcG9uc2UocmVzcG9uc2VNb2NrKTsK</text>
@@ -13714,9 +13714,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alskjdf</last-search>
+      <last-search>mime</last-search>
       <last-offset />
-      <last-pattern>alskjdf</last-pattern>
+      <last-pattern>mime</last-pattern>
       <last-replace>CommandResponse</last-replace>
       <last-substitute>BaseResponse</last-substitute>
       <last-dir>1</last-dir>
@@ -13724,7 +13724,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appType</entry>
         <entry>feature</entry>
         <entry>repositor</entry>
         <entry>artifactory</entry>
@@ -13744,6 +13743,7 @@
         <entry>readLine</entry>
         <entry>ctx.write</entry>
         <entry>alsdjf</entry>
+        <entry>mime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xzMi95cy9n</entry>
