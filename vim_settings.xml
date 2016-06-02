@@ -756,7 +756,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1464787001816">
+      <file name="/fragment.java" timestamp="1464874072236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/server/DiscardServer.java" timestamp="1464539238561">
@@ -1487,11 +1487,11 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464871797589">
-        <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
-        <mark key="^" line="64" column="34" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464874567231">
+        <mark key="[" line="69" column="96" />
+        <mark key="]" line="69" column="96" />
+        <mark key="." line="69" column="96" />
+        <mark key="^" line="70" column="88" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1763,7 +1763,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">IC0gc2VlbXMgbGlrZSBhIGhhY2t5IHdheSB0byBkcm9wIGJlZ2lubmluZw==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12357,19 +12357,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IC0gc2VlbXMgbGlrZSBhIGhhY2t5IHdheSB0byBkcm9wIGJlZ2lubmluZw==</text>
       </register>
       <register name="/" type="4">
-        <text>String</text>
+        <text>2617</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9EZWZhdWx0RmlsZVJlZ2lvbiBkZWZhdWx0RmlsZVJlZ2lvbiA9IG5ldyBEZWZhdWx0RmlsZVJlZ2lvbihyYWYuZ2V0Q2hhbm5lbCgpLCAwLCByYWYubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSTkFNRSA9ICJ1c2VyIjsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>a</text>
+        <text encoding="base64">IC0gc2VlbXMgbGlrZSBhIGhhY2t5IHdheSB0byBkcm9wIGJlZ2lubmluZw==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12388,20 +12388,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlNjREZWNvZGVyCg==</text>
+      <register name="2" type="4">
+        <text>base64String</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlNjQuZGVjb2RlCg==</text>
+      <register name="3" type="4">
+        <text>base64String</text>
       </register>
-      <register name="4" type="4">
-        <text>()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjdHgud3JpdGVBbmRGbHVzaCgnXG4nKTsK</text>
       </register>
       <register name="5" type="4">
-        <text>hashCode</text>
+        <text>equals</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBSYW5kb21BY2Nlc3NGaWxlIGdldFJhbmRvbUFjY2Vzc0ZpbGUoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgLy9SYW5kb21BY2Nlc3NGaWxlIHJhZiA9IG51bGw7CiAgICAgICAgLy9sb25nIGxlbmd0aCA9IC0xOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmFuZG9tQWNjZXNzRmlsZShGVUxMX0ZJTEVfUEFUSCwgInIiKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBjdHgud3JpdGVBbmRGbHVzaCgiRVJSOiAiICsgZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICI6ICIgKyBlLmdldE1lc3NhZ2UoKSArICdcbicpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAvL2lmIChsZW5ndGggPCAwICYmIHJhZiAhPSBudWxsKSB7CiAgICAgICAgICAgIC8vICAgIHJhZi5jbG9zZSgpOwogICAgICAgICAgICAvL30KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13689,22 +13689,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>defaultFileRegion</text>
+        <text>equals</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9SYW5kb21BY2Nlc3NGaWxlIHJhZiA9IG5ldyBSYW5kb21BY2Nlc3NGaWxlKGZpbGUsICJyIik7Cg==</text>
+      <register name="8" type="4">
+        <text>&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9EZWZhdWx0RmlsZVJlZ2lvbiBkZWZhdWx0RmlsZVJlZ2lvbiA9IG5ldyBEZWZhdWx0RmlsZVJlZ2lvbihyYWYuZ2V0Q2hhbm5lbCgpLCAwLCByYWYubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>String</last-search>
+      <last-search>2617</last-search>
       <last-offset />
-      <last-pattern>String</last-pattern>
+      <last-pattern>2617</last-pattern>
       <last-replace>CommandResponse</last-replace>
       <last-substitute>BaseResponse</last-substitute>
       <last-dir>1</last-dir>
@@ -13712,7 +13712,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDcmVkZW50aWFsc1w+</entry>
         <entry>getResponse</entry>
         <entry>onserror</entry>
         <entry encoding="base64">XDxyZW1vdGVBUElTZXJ2aWNlRXJyb3JIYW5kbGVyXD4=</entry>
@@ -13732,6 +13731,7 @@
         <entry>asdlfjk</entry>
         <entry encoding="base64">XDxyYWZcPg==</entry>
         <entry>String</entry>
+        <entry>2617</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xzMi95cy9n</entry>
