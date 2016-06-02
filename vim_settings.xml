@@ -1487,11 +1487,12 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464874567231">
-        <mark key="[" line="69" column="96" />
-        <mark key="]" line="69" column="96" />
-        <mark key="." line="69" column="96" />
-        <mark key="^" line="70" column="88" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464909039240">
+        <mark key="'" line="54" column="45" />
+        <mark key="[" line="48" column="46" />
+        <mark key="]" line="48" column="57" />
+        <mark key="." line="48" column="57" />
+        <mark key="^" line="48" column="57" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1657,7 +1658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="47" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="101" column="94" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="7" column="45" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="16" column="55" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
@@ -1757,13 +1757,14 @@
       <jump line="372" column="75" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/file/HttpStaticFileServerHandler.java" />
       <jump line="57" column="29" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
       <jump line="46" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/base64/Base64Decoder.java" />
+      <jump line="54" column="45" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0gc2VlbXMgbGlrZSBhIGhhY2t5IHdheSB0byBkcm9wIGJlZ2lubmluZw==</text>
+        <text>FORBIDDEN</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12357,19 +12358,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gc2VlbXMgbGlrZSBhIGhhY2t5IHdheSB0byBkcm9wIGJlZ2lubmluZw==</text>
+        <text>FORBIDDEN</text>
       </register>
       <register name="/" type="4">
-        <text>2617</text>
+        <text>asldkfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSTkFNRSA9ICJ1c2VyIjsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGFzdFdvcmRPZkVuY29kZWRBdXRoSGVhZGVyID0gZW5jb2RlZEF1dGhIZWFkZXIucmVwbGFjZUFsbCgiLipcXHMiLCAiIik7IC8vIEZJWE1FCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IC0gc2VlbXMgbGlrZSBhIGhhY2t5IHdheSB0byBkcm9wIGJlZ2lubmluZw==</text>
+        <text>FORBIDDEN</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12389,19 +12390,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>base64String</text>
+        <text>lastWordOfEncodedAuthHeader</text>
       </register>
-      <register name="3" type="4">
-        <text>base64String</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBsYXN0V29yZE9mRW5jb2RlZEF1dGhIZWFkZXIgPSBlbmNvZGVkQXV0aEhlYWRlci5yZXBsYWNlQWxsKCIuKlxccyIsICIiKTsgLy8gRklYTUUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgud3JpdGVBbmRGbHVzaCgnXG4nKTsK</text>
+      <register name="4" type="4">
+        <text>encodedAuthHeader.replaceAll(&quot;.*\\s&quot;, &quot;&quot;); // FIXME</text>
       </register>
-      <register name="5" type="4">
-        <text>equals</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsYXN0Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>string</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13689,22 +13690,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>equals</text>
+        <text>7</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IC0gc2VlbXMgbGlrZSBhIGhhY2t5IHdheSB0byBkcm9wIGJlZ2lubmluZw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKCkK</text>
+      <register name="9" type="4">
+        <text>base64String</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>2617</last-search>
+      <last-search>asldkfj</last-search>
       <last-offset />
-      <last-pattern>2617</last-pattern>
+      <last-pattern>asldkfj</last-pattern>
       <last-replace>CommandResponse</last-replace>
       <last-substitute>BaseResponse</last-substitute>
       <last-dir>1</last-dir>
@@ -13712,9 +13713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getResponse</entry>
-        <entry>onserror</entry>
-        <entry encoding="base64">XDxyZW1vdGVBUElTZXJ2aWNlRXJyb3JIYW5kbGVyXD4=</entry>
         <entry>test</entry>
         <entry>asfldj</entry>
         <entry>OnsError</entry>
@@ -13732,6 +13730,9 @@
         <entry encoding="base64">XDxyYWZcPg==</entry>
         <entry>String</entry>
         <entry>2617</entry>
+        <entry>length</entry>
+        <entry>LENGTH</entry>
+        <entry>asldkfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xzMi95cy9n</entry>
