@@ -82,10 +82,11 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorParser.java" timestamp="1464804970689">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorParser.java" timestamp="1464895360806">
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build.gradle" timestamp="1461343602544">
         <mark key="[" line="13" column="5" />
@@ -476,12 +477,12 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" timestamp="1464893313009">
-        <mark key="'" line="265" column="31" />
-        <mark key="[" line="118" column="70" />
-        <mark key="]" line="94" column="20" />
-        <mark key="." line="94" column="20" />
-        <mark key="^" line="94" column="20" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" timestamp="1464895465114">
+        <mark key="'" line="267" column="31" />
+        <mark key="[" line="120" column="47" />
+        <mark key="]" line="120" column="49" />
+        <mark key="^" line="120" column="49" />
+        <mark key="." line="120" column="49" />
       </file>
       <file name="$USER_HOME$/dev/katas/StringCalculator/src/test/java/StringCalculator.java" timestamp="1411266273696">
         <mark key="[" line="6" column="29" />
@@ -777,10 +778,10 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/AsynchronousVehicleTask.java" timestamp="1464892942408">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/AsynchronousVehicleTask.java" timestamp="1464895400598">
         <mark key="'" line="135" column="18" />
         <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
+        <mark key="]" line="164" column="4" />
         <mark key="^" line="147" column="18" />
         <mark key="." line="147" column="0" />
       </file>
@@ -1616,8 +1617,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0T25zU3UK</text>
+      <register name="&quot;" type="4">
+        <text>// FIXME</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12211,19 +12212,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onsCode</text>
+        <text>// FIXME</text>
       </register>
       <register name="/" type="4">
         <text>subcode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsZENvbmZpZ3VyYXRpb24gYnVpbGRDb25maWd1cmF0aW9uID0gKEJ1aWxkQ29uZmlndXJhdGlvbikgZ2V0Q29udGV4dCgpLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FIHJlbW92ZQogICAgQE51bGxhYmxlCiAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgZmluZE9uc1N1YkNvZGUoQ29tbWFuZFJlc3BvbnNlIGNvbW1hbmRSZXNwb25zZSkgewogICAgICAgIEJhc2VSZXNwb25zZS5FcnJvciBlcnJvckJvZHkgPSBmaW5kRXJyb3JCb2R5KGNvbW1hbmRSZXNwb25zZSk7CiAgICAgICAgaWYgKGVycm9yQm9keSAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBlcnJvckJvZHkuc3ViQ29kZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE51bGxhYmxlCiAgICBwcml2YXRlIHN0YXRpYyBCYXNlUmVzcG9uc2UuRXJyb3IgZmluZEVycm9yQm9keShDb21tYW5kUmVzcG9uc2UgY29tbWFuZFJlc3BvbnNlKSB7CiAgICAgICAgaWYgKGNvbW1hbmRSZXNwb25zZSAhPSBudWxsICYmIGNvbW1hbmRSZXNwb25zZS5ib2R5ICE9IG51bGwgJiYgY29tbWFuZFJlc3BvbnNlLmJvZHkuZXJyb3IgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gY29tbWFuZFJlc3BvbnNlLmJvZHkuZXJyb3I7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0T25zU3UK</text>
+      <register name="1" type="4">
+        <text>// FIXME</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12243,19 +12244,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>onsCode</text>
+        <text encoding="base64">JiYg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="3" type="4">
+        <text encoding="base64">bnVsbCA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHN1YmplY3RTcHkuZ2V0T25zQ29kZShiYXNlUmVzcG9uc2UpKS50aGVuUmV0dXJuKG51bGwpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IT0g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">YmFzZVJlc3BvbnNlIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13543,13 +13544,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FIHJlbW92ZQogICAgQE51bGxhYmxlCiAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgZmluZE9uc1N1YkNvZGUoQ29tbWFuZFJlc3BvbnNlIGNvbW1hbmRSZXNwb25zZSkgewogICAgICAgIEJhc2VSZXNwb25zZS5FcnJvciBlcnJvckJvZHkgPSBmaW5kRXJyb3JCb2R5KGNvbW1hbmRSZXNwb25zZSk7CiAgICAgICAgaWYgKGVycm9yQm9keSAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBlcnJvckJvZHkuc3ViQ29kZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE51bGxhYmxlCiAgICBwcml2YXRlIHN0YXRpYyBCYXNlUmVzcG9uc2UuRXJyb3IgZmluZEVycm9yQm9keShDb21tYW5kUmVzcG9uc2UgY29tbWFuZFJlc3BvbnNlKSB7CiAgICAgICAgaWYgKGNvbW1hbmRSZXNwb25zZSAhPSBudWxsICYmIGNvbW1hbmRSZXNwb25zZS5ib2R5ICE9IG51bGwgJiYgY29tbWFuZFJlc3BvbnNlLmJvZHkuZXJyb3IgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gY29tbWFuZFJlc3BvbnNlLmJvZHkuZXJyb3I7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uc0Vycm9yL0Vycm9yL2c=</text>
