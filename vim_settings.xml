@@ -136,7 +136,7 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/file/HttpStaticFileServerHandler.java" timestamp="1464746776722">
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/file/HttpStaticFileServerHandler.java" timestamp="1464833307862">
         <mark key="[" line="396" column="0" />
         <mark key="]" line="399" column="4" />
       </file>
@@ -186,10 +186,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="15" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/file/FileServerHandler.java" timestamp="1464693003712">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="101" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/response/CommandResponse.java" timestamp="1464279088504">
         <mark key="[" line="19" column="28" />
@@ -268,10 +264,6 @@
         <mark key="]" line="22" column="47" />
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/DiscardServer.java" timestamp="1464532628308">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="64" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/SynchronousVehicleTask.java" timestamp="1464365162802">
         <mark key="[" line="39" column="49" />
@@ -501,10 +493,6 @@
         <mark key="]" line="46" column="48" />
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/time_server/TimeServerHandler.java" timestamp="1464661570258">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -1122,10 +1110,6 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/ServerUtil.java" timestamp="1464540067259">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="10" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/test.hs" timestamp="1448639474257">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="29" />
@@ -1501,12 +1485,11 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464826863197">
-        <mark key="'" line="94" column="17" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="80" column="53" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464833312177">
+        <mark key="'" line="101" column="17" />
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="96" column="5" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1775,7 +1758,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc2V0Q29udGVudFR5cGVIZWFkZXIoSHR0cFJlc3BvbnNlIHJlc3BvbnNlLCBGaWxlIGZpbGUpIHsKICAgICAgICBNaW1ldHlwZXNGaWxlVHlwZU1hcCBtaW1lVHlwZXNNYXAgPSBuZXcgTWltZXR5cGVzRmlsZVR5cGVNYXAoKTsKICAgICAgICByZXNwb25zZS5oZWFkZXJzKCkuc2V0KEh0dHBIZWFkZXJOYW1lcy5DT05URU5UX1RZUEUsIG1pbWVUeXBlc01hcC5nZXRDb250ZW50VHlwZShmaWxlLmdldFBhdGgoKSkpOwogICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12375,7 +12358,7 @@
         <text>mime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGYWlsdXJlRXJyb3JUeXBlIGFjdHVhbCA9IHN1YmplY3RTcHkuZGV0ZXJtaW5lRmFpbHVyZVR5cGVGb3JCYXNlUmVzcG9uc2UocmVzcG9uc2VNb2NrKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc2V0Q29udGVudFR5cGVIZWFkZXIoSHR0cFJlc3BvbnNlIHJlc3BvbnNlLCBGaWxlIGZpbGUpIHsKICAgICAgICBNaW1ldHlwZXNGaWxlVHlwZU1hcCBtaW1lVHlwZXNNYXAgPSBuZXcgTWltZXR5cGVzRmlsZVR5cGVNYXAoKTsKICAgICAgICByZXNwb25zZS5oZWFkZXJzKCkuc2V0KEh0dHBIZWFkZXJOYW1lcy5DT05URU5UX1RZUEUsIG1pbWVUeXBlc01hcC5nZXRDb250ZW50VHlwZShmaWxlLmdldFBhdGgoKSkpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
