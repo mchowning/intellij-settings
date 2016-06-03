@@ -368,6 +368,9 @@
         <mark key="^" line="99" column="7" />
         <mark key="." line="99" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/upload/HttpUploadClient.java" timestamp="1464950279035">
+        <mark key="'" line="163" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/sum_testcases/3" timestamp="1425324419415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="5" />
@@ -1486,11 +1489,10 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464917491022">
-        <mark key="'" line="67" column="45" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464950365965">
+        <mark key="[" line="63" column="44" />
+        <mark key="]" line="63" column="44" />
+        <mark key="." line="63" column="44" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1656,7 +1658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="94" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="7" column="45" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="16" column="55" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationManager.java" />
       <jump line="1025" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -1756,13 +1757,14 @@
       <jump line="57" column="29" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
       <jump line="46" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/base64/Base64Decoder.java" />
       <jump line="54" column="45" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
+      <jump line="163" column="8" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/upload/HttpUploadClient.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12356,19 +12358,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fullAuthHeader</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>asldkfj</text>
+        <text encoding="base64">XDxlbmNvZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRFcnJvcihjdHgsIEh0dHBSZXNwb25zZVN0YXR1cy5NRVRIT0RfTk9UX0FMTE9XRUQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRFcnJvcihjdHgsIEh0dHBSZXNwb25zZVN0YXR1cy5OT1RfSU1QTEVNRU5URUQpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12387,20 +12389,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kRXJyb3IoY3R4LCBIdHRwUmVzcG9uc2VTdGF0dXMuTk9UX0lNUExFTUVOVEVEKTsK</text>
+      <register name="3" type="4">
+        <text>H</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZEVycm9yKGN0eCwgSHR0cFJlc3BvbnNlU3RhdHVzLk5PVF9JTVBMRU1FTlRFRCk7Cg==</text>
+      <register name="4" type="4">
+        <text>TrustwortyUser</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGlzVmFsaWRBdXRoU3RyaW5nKFN0cmluZyBmdWxsQXV0aEhlYWRlcikgewogICAgICAgIFN0cmluZyB1c2VyUGFzc1BvcnRpb25PZkF1dGhIZWFkZXIgPSBmdWxsQXV0aEhlYWRlci5zcGxpdCgiXFxzIilbMV07CiAgICAgICAgYnl0ZVtdIGRlY29kZWRBdXRoSGVhZGVyID0gQmFzZTY0LmdldERlY29kZXIoKS5kZWNvZGUodXNlclBhc3NQb3J0aW9uT2ZBdXRoSGVhZGVyKTsKICAgICAgICByZXR1cm4gQXJyYXlzLmVxdWFscyhBVVRIX1NUUklORy5nZXRCeXRlcygpLCAoZGVjb2RlZEF1dGhIZWFkZXIpKTsKICAgIH0K</text>
+      <register name="6" type="4">
+        <text>false</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13687,23 +13689,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBlbmNvZGVkQXV0aEhlYWRlciAhPSBudWxsICYmIGlzVmFsaWRBdXRoU3RyaW5nKGVuY29kZWRBdXRoSGVhZGVyKTsK</text>
+      <register name="7" type="4">
+        <text>NOT_IMPLEMENTED</text>
       </register>
-      <register name="8" type="4">
-        <text>fullAuthHeader</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>NOT_IMPLEMENTED</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>asldkfj</last-search>
+      <last-search encoding="base64">XDxlbmNvZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>asldkfj</last-pattern>
+      <last-pattern encoding="base64">XDxlbmNvZGVyXD4=</last-pattern>
       <last-replace>CommandResponse</last-replace>
       <last-substitute>BaseResponse</last-substitute>
       <last-dir>1</last-dir>
@@ -13711,7 +13713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>asfldj</entry>
         <entry>OnsError</entry>
         <entry>iml</entry>
@@ -13731,6 +13732,7 @@
         <entry>length</entry>
         <entry>LENGTH</entry>
         <entry>asldkfj</entry>
+        <entry encoding="base64">XDxlbmNvZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xzMi95cy9n</entry>
