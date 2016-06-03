@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorRetriever.java" timestamp="1464964988336">
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/katas/GameOfLife/java/src/main/java/GameOfLife.java" timestamp="1411481504486">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="0" />
@@ -90,10 +95,10 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorParser.java" timestamp="1464960404654">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="10" />
-        <mark key="." line="42" column="10" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorParser.java" timestamp="1464964974824">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
         <mark key="^" line="42" column="10" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build.gradle" timestamp="1461343602544">
@@ -1795,8 +1800,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1vZGVsICAgICAgICAgICBjcnlwdG8KLy8gICAgICAgICAgfCAgICAgICAgICAgICAgICB8Ci8vICAgICAgICAgIHwgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICArLS0+IHNlcnZpY2VzIDwtLSsKLy8gICAgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgICAgICAgIHYKLy8gICAgICAgICAgICAgICAgICBkYXRhCi8vICAgICAgICAgICAgICAgICAgIHwKLy8gICAgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICAgICAgICB2Ci8vICAgICAgICAgICAgKy0tLS0gY29yZSAtLS0tKwovLyAgICAgICAgICAgIHwgICAgICAgICAgICAgIHwKLy8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgdiAgICAgICAgICAgICAgfAovLyAgICAgICAgY29yZS1wbHVnaW5zICAgICAgIHwKLy8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgfCAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICstLT4gc2hlbGwgPC0tLSsK</text>
+      <register name="&quot;" type="4">
+        <text>Parser</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12390,7 +12395,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>vehicle</text>
+        <text>Parser</text>
       </register>
       <register name="/" type="4">
         <text>onsCode</text>
@@ -12401,8 +12406,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Parser</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12421,17 +12426,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>vehicle</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmVoaWNsZVJlcXVlc3QgZ2V0RmFrZVZlaGljbGVSZXF1ZXN0Rm9yQ29tbWFuZChWZWhpY2xlIHZlaGljbGUsIFZlaGljbGVDb21tYW5kIGNvbW1hbmQsIFZlaGljbGVSZXF1ZXN0U3RhdGUgcmVxdWVzdFN0YXRlLCBTdHJpbmcgcmVxdWVzdElkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBWZWhpY2xlUmVxdWVzdFBvam8odmVoaWNsZSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tbWFuZCwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdFN0YXRlLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0SWQsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJFUVVFU1RfU1VCTUlTU0lPTl9USU1FLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSRVFVRVNUX0NPTVBMRVRFX1RJTUUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZhaWx1cmVUeXBlLk9OU0ZBSUxVUkUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQzMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsKTsKICAgIH0K</text>
+      <register name="3" type="4">
+        <text>vehicle</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;433_3&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVmVoaWNsZVJlcXVlc3QgZ2V0RmFrZVZlaGljbGVSZXF1ZXN0Rm9yQ29tbWFuZChWZWhpY2xlIHZlaGljbGUsIFZlaGljbGVDb21tYW5kIGNvbW1hbmQsIFZlaGljbGVSZXF1ZXN0U3RhdGUgcmVxdWVzdFN0YXRlLCBTdHJpbmcgcmVxdWVzdElkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBWZWhpY2xlUmVxdWVzdFBvam8odmVoaWNsZSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tbWFuZCwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdFN0YXRlLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0SWQsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJFUVVFU1RfU1VCTUlTU0lPTl9USU1FLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSRVFVRVNUX0NPTVBMRVRFX1RJTUUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZhaWx1cmVUeXBlLk9OU0ZBSUxVUkUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQzMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsKTsKICAgIH0K</text>
       </register>
       <register name="6" type="4">
         <text>&quot;433_3&quot;</text>
@@ -13722,13 +13727,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>&quot;433_3&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>O</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</text>
