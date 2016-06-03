@@ -20,6 +20,9 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1464957594620">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -120,6 +123,12 @@
         <mark key="]" line="3" column="85" />
         <mark key="^" line="3" column="85" />
         <mark key="." line="3" column="85" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/TokenGenerator.java" timestamp="1464957413726">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="62" />
+        <mark key="^" line="13" column="62" />
+        <mark key="." line="13" column="62" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockPresenter.java" timestamp="1462206850868">
         <mark key="[" line="56" column="0" />
@@ -1496,12 +1505,12 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464956082711">
-        <mark key="'" line="80" column="18" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="84" column="84" />
-        <mark key="." line="84" column="84" />
-        <mark key="^" line="84" column="84" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464957748553">
+        <mark key="'" line="78" column="18" />
+        <mark key="[" line="82" column="29" />
+        <mark key="]" line="82" column="39" />
+        <mark key="^" line="82" column="39" />
+        <mark key="." line="82" column="39" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1773,7 +1782,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVzcG9uZFdpdGhQbGFpblRleHRCb2R5KENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgsIFN0cmluZyB0b2tlbikgewogICAgICAgIEZ1bGxIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgRGVmYXVsdEZ1bGxIdHRwUmVzcG9uc2UoSHR0cFZlcnNpb24uSFRUUF8xXzEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIdHRwUmVzcG9uc2VTdGF0dXMuT0ssCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVbnBvb2xlZC5jb3BpZWRCdWZmZXIodG9rZW4sIENoYXJzZXRVdGlsLlVURl84KSk7CiAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldChIdHRwSGVhZGVyTmFtZXMuQ09OVEVOVF9UWVBFLCAidGV4dC9wbGFpbjsgY2hhcnNldD1VVEYtOCIpOwogICAgICAgIHNldERhdGVIZWFkZXIocmVzcG9uc2UpOwogICAgICAgIEh0dHBVdGlsLnNldENvbnRlbnRMZW5ndGgocmVzcG9uc2UsIHRva2VuLmxlbmd0aCgpKTsKICAgICAgICBjdHgud3JpdGUocmVzcG9uc2UpOwogICAgICAgIGN0eC53cml0ZSh0b2tlbik7CiAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12367,7 +12376,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIdHRwUmVzcG9uc2VcPg==</text>
@@ -12379,7 +12388,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVzcG9uZFdpdGhQbGFpblRleHRCb2R5KENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgsIFN0cmluZyB0b2tlbikgewogICAgICAgIEZ1bGxIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgRGVmYXVsdEZ1bGxIdHRwUmVzcG9uc2UoSHR0cFZlcnNpb24uSFRUUF8xXzEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIdHRwUmVzcG9uc2VTdGF0dXMuT0ssCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVbnBvb2xlZC5jb3BpZWRCdWZmZXIodG9rZW4sIENoYXJzZXRVdGlsLlVURl84KSk7CiAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldChIdHRwSGVhZGVyTmFtZXMuQ09OVEVOVF9UWVBFLCAidGV4dC9wbGFpbjsgY2hhcnNldD1VVEYtOCIpOwogICAgICAgIHNldERhdGVIZWFkZXIocmVzcG9uc2UpOwogICAgICAgIEh0dHBVdGlsLnNldENvbnRlbnRMZW5ndGgocmVzcG9uc2UsIHRva2VuLmxlbmd0aCgpKTsKICAgICAgICBjdHgud3JpdGUocmVzcG9uc2UpOwogICAgICAgIGN0eC53cml0ZSh0b2tlbik7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12399,19 +12408,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>text</text>
+        <text>h</text>
       </register>
       <register name="3" type="4">
-        <text>json</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>json</text>
+        <text>u</text>
       </register>
       <register name="5" type="4">
-        <text>status</text>
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiByZXF1ZXN0LnVyaSgpICE9IG51bGwgJiYKICAgICAgICAvLyAgICAgICByZXF1ZXN0LnVyaSgpLnN0YXJ0c1dpdGgoIi9vYXV0aCIpOwo=</text>
+      <register name="6" type="4">
+        <text>F</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13699,13 +13708,13 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text>d</text>
+      </register>
+      <register name="8" type="4">
         <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxdWVzdCAhPSBudWxsICYmCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIi9vYXV0aCIuZXF1cWxuZXcgUXVlcnlTdHJpbmdEZWNvZGVyKHJlcXVlc3QudXJpKCkpLnBhdGgoKTsK</text>
+      <register name="9" type="4">
+        <text>A</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</text>
