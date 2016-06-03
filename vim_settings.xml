@@ -863,12 +863,12 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" timestamp="1464983275128">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" timestamp="1464985923041">
         <mark key="'" line="167" column="7" />
-        <mark key="[" line="178" column="48" />
-        <mark key="]" line="178" column="49" />
-        <mark key="^" line="178" column="49" />
-        <mark key="." line="178" column="49" />
+        <mark key="[" line="181" column="33" />
+        <mark key="]" line="181" column="39" />
+        <mark key="^" line="181" column="39" />
+        <mark key="." line="181" column="39" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/location/LocationFinderTest.java" timestamp="1461258986851">
         <mark key="[" line="38" column="63" />
@@ -1702,7 +1702,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text>onstar</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12296,7 +12296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text>onstar</text>
       </register>
       <register name="/" type="4">
         <text>required_client_scope</text>
@@ -12308,7 +12308,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text>onstar</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12328,19 +12328,19 @@
         </keys>
       </register>
       <register name="2" type="4">
+        <text>onstar</text>
+      </register>
+      <register name="3" type="4">
         <text>3.1.0-SNAPSHOT</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="4">
+        <text>3.1.0-SNAPSHOT</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgRXhjZXB0aW9uKCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
-      </register>
-      <register name="5" type="4">
-        <text>m</text>
-      </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13628,13 +13628,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>485</text>
