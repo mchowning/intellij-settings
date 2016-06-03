@@ -553,10 +553,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/build.gradle" timestamp="1464523410277">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/build.gradle" timestamp="1464951513755">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="13" column="72" />
+        <mark key="." line="13" column="72" />
+        <mark key="^" line="13" column="72" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/discard_server/DiscardServer.java" timestamp="1464780365812">
         <mark key="[" line="15" column="9" />
@@ -664,7 +665,7 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464780296802">
+      <file name="/Dummy.txt" timestamp="1464951672426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
@@ -759,7 +760,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1464874072236">
+      <file name="/fragment.java" timestamp="1464952140310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/server/DiscardServer.java" timestamp="1464539238561">
@@ -1459,6 +1460,12 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/Error.java" timestamp="1464952343802">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1463758100197">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="23" />
@@ -1489,10 +1496,11 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464950365965">
-        <mark key="[" line="63" column="44" />
-        <mark key="]" line="63" column="44" />
-        <mark key="." line="63" column="44" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464952635061">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="57" />
+        <mark key="^" line="56" column="57" />
+        <mark key="." line="56" column="57" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1764,7 +1772,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>BAD_REQUEST</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12358,19 +12366,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>BAD_REQUEST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmNvZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRFcnJvcihjdHgsIEh0dHBSZXNwb25zZVN0YXR1cy5OT1RfSU1QTEVNRU5URUQpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc2VuZEVycm9yKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgsIEh0dHBSZXNwb25zZVN0YXR1cyBzdGF0dXMsIFN0cmluZyBlcnJvck1zZykgewogICAgICAgIFN0cmluZyBqc29uID0gbmV3IEdzb24oKS50b0pzb24obmV3IEVycm9yKGVycm9yTXNnKSk7CiAgICAgICAgRnVsbEh0dHBSZXNwb25zZSByZXNwb25zZSA9IG5ldyBEZWZhdWx0RnVsbEh0dHBSZXNwb25zZShIdHRwVmVyc2lvbi5IVFRQXzFfMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVucG9vbGVkLmNvcGllZEJ1ZmZlcihqc29uLCBDaGFyc2V0VXRpbC5VVEZfOCkpOwogICAgICAgIHJlc3BvbnNlLmhlYWRlcnMoKS5zZXQoSHR0cEhlYWRlck5hbWVzLkNPTlRFTlRfVFlQRSwgInRleHQvcGxhaW47IGNoYXJzZXQ9VVRGLTgiKTsKICAgICAgICBIdHRwVXRpbC5zZXRDb250ZW50TGVuZ3RoKHJlc3BvbnNlLCBqc29uLmxlbmd0aCgpKTsKICAgICAgICBjdHgud3JpdGUocmVzcG9uc2UpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>BAD_REQUEST</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12389,20 +12397,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBqc29uID0gbmV3IEdzb24oKS50b0pzb24obmV3IEVycm9yKGVycm9yTXNnKSk7CiAgICAgICAgLy9GdWxsSHR0cFJlc3BvbnNlIHJlc3BvbnNlID0gbmV3IERlZmF1bHRGdWxsSHR0cFJlc3BvbnNlKEh0dHBWZXJzaW9uLkhUVFBfMV8xLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0dXMsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVucG9vbGVkLmNvcGllZEJ1ZmZlcihqc29uLCBDaGFyc2V0VXRpbC5VVEZfOCkpOwogICAgICAgIC8vcmVzcG9uc2UuaGVhZGVycygpLnNldChIdHRwSGVhZGVyTmFtZXMuQ09OVEVOVF9UWVBFLCAidGV4dC9wbGFpbjsgY2hhcnNldD1VVEYtOCIpOwogICAgICAgIC8vSHR0cFV0aWwuc2V0Q29udGVudExlbmd0aChyZXNwb25zZSwganNvbi5sZW5ndGgoKSk7CiAgICAgICAgLy9jdHgud3JpdGUocmVzcG9uc2UpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>H</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9IG5ldyBHc29uKCkudG9Kc29uKG5ldyBFcnJvcihlcnJvck1zZywgbnVsbCkpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>TrustwortyUser</text>
+        <text>METHOD_NOT_ALLOWED</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>FORBIDDEN</text>
       </register>
       <register name="6" type="4">
-        <text>false</text>
+        <text>g</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13690,13 +13698,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>NOT_IMPLEMENTED</text>
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>M</text>
       </register>
       <register name="9" type="4">
-        <text>NOT_IMPLEMENTED</text>
+        <text>UNAUTHORIZED</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</text>
