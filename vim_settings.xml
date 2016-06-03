@@ -26,7 +26,7 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1464968765832">
+      <file name="/a.dummy" timestamp="1464970378554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
@@ -713,6 +713,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/a.regexp" timestamp="1464970484963">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1299,7 +1302,8 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationFactory.java" timestamp="1464968780883">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationFactory.java" timestamp="1464970111733">
+        <mark key="'" line="42" column="13" />
         <mark key="[" line="42" column="103" />
         <mark key="]" line="42" column="106" />
         <mark key="^" line="42" column="106" />
@@ -1584,11 +1588,6 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickViewPresenter.java" timestamp="1464887507204">
-        <mark key="[" line="22" column="84" />
-        <mark key="]" line="22" column="84" />
-        <mark key="." line="22" column="84" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProviderTest.java" timestamp="1461758919362">
         <mark key="[" line="37" column="75" />
         <mark key="]" line="38" column="3" />
@@ -1625,11 +1624,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464969021267">
-        <mark key="'" line="165" column="16" />
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464970623946">
+        <mark key="'" line="164" column="16" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -1704,8 +1703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="570" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="602" column="59" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="604" column="66" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="608" column="78" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -1804,13 +1801,15 @@
       <jump line="170" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="55" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtilTest.java" />
       <jump line="63" column="74" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtilTest.java" />
+      <jump line="38" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationFactory.java" />
+      <jump line="42" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12407,7 +12406,7 @@
         <text>Error</text>
       </register>
       <register name="/" type="4">
-        <text>\/\/</text>
+        <text encoding="base64">XDxlcnJvclV0aWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjaGVja19nZXRFcnJvcl9mcm9tX0Jhc2VSZXNwb25zZV9hbmRfVmVoaWNsZUNvbW1hbmRfaGFuZGxlc19udWxsX29uc0NvZGVfYW5kX251bGxfb25zU3ViQ29kZSgpIHsKCiAgICAgICAgVmVoaWNsZUNvbW1hbmQgcmFuZG9tVmVoaWNsZUNvbW1hbmQgPSBWZWhpY2xlQ29tbWFuZC5hbGVydDsKICAgICAgICBCYXNlUmVzcG9uc2UgYmFzZVJlc3BvbnNlID0gbW9jayhCYXNlUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIEVycm9yIGV4cGVjdGVkID0gbW9jayhFcnJvci5jbGFzcyk7CgogICAgICAgIEVycm9yVXRpbCBzdWJqZWN0U3B5ID0gc3B5KHN1YmplY3QpOwogICAgICAgIHdoZW4obW9ja09uc0NvZGVSZXRyaWV2ZXIuZ2V0T25zQ29kZShiYXNlUmVzcG9uc2UpKS50aGVuUmV0dXJuKG51bGwpOwogICAgICAgIHdoZW4obW9ja09uc0NvZGVSZXRyaWV2ZXIuZ2V0T25zU3ViQ29kZShiYXNlUmVzcG9uc2UpKS50aGVuUmV0dXJuKG51bGwpOwogICAgICAgIEZhaWx1cmVFcnJvclR5cGUgZmFpbHVyZUVycm9yVHlwZSA9IHN1YmplY3RTcHkuZGV0ZXJtaW5lRmFpbHVyZVR5cGVGb3JCYXNlUmVzcG9uc2UoYmFzZVJlc3BvbnNlKTsKICAgICAgICB3aGVuKHN1YmplY3RTcHkuZ2V0RXJyb3IoZmFpbHVyZUVycm9yVHlwZSwgbnVsbCwgbnVsbCwgcmFuZG9tVmVoaWNsZUNvbW1hbmQpKS50aGVuUmV0dXJuKGV4cGVjdGVkKTsKCiAgICAgICAgRXJyb3IgYWN0dWFsID0gc3ViamVjdFNweS5nZXRFcnJvcihiYXNlUmVzcG9uc2UsIHJhbmRvbVZlaGljbGVDb21tYW5kKTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkLCBhY3R1YWwpOwogICAgfQo=</text>
@@ -12415,8 +12414,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>Error</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12436,19 +12435,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>actualError</text>
+        <text>Error</text>
       </register>
       <register name="3" type="4">
         <text>actualError</text>
       </register>
       <register name="4" type="4">
-        <text>actual</text>
+        <text>actualError</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>actual</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13738,20 +13737,20 @@
       <register name="7" type="4">
         <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2hlY2tfZ2V0RXJyb3JfZnJvbV9CYXNlUmVzcG9uc2VfYW5kX1ZlaGljbGVDb21tYW5kX2hhbmRsZXNfdmFsaWRfb25zQ29kZV9hbmRfbnVsbF9vbnNTdWJDb2RlKCkgewoKICAgICAgICBWZWhpY2xlQ29tbWFuZCByYW5kb21WZWhpY2xlQ29tbWFuZCA9IFZlaGljbGVDb21tYW5kLmFsZXJ0OwogICAgICAgIEJhc2VSZXNwb25zZSBiYXNlUmVzcG9uc2UgPSBtb2NrKEJhc2VSZXNwb25zZS5jbGFzcyk7CiAgICAgICAgRXJyb3IgZXhwZWN0ZWQgPSBtb2NrKEVycm9yLmNsYXNzKTsKCiAgICAgICAgRXJyb3JVdGlsIHN1YmplY3RTcHkgPSBzcHkoc3ViamVjdCk7CiAgICAgICAgd2hlbihtb2NrT25zQ29kZVJldHJpZXZlci5nZXRPbnNDb2RlKGJhc2VSZXNwb25zZSkpLnRoZW5SZXR1cm4oMjIwKTsKICAgICAgICB3aGVuKG1vY2tPbnNDb2RlUmV0cmlldmVyLmdldE9uc1N1YkNvZGUoYmFzZVJlc3BvbnNlKSkudGhlblJldHVybihudWxsKTsKICAgICAgICBGYWlsdXJlRXJyb3JUeXBlIGZhaWx1cmVFcnJvclR5cGUgPSBzdWJqZWN0U3B5LmRldGVybWluZUZhaWx1cmVUeXBlRm9yQmFzZVJlc3BvbnNlKGJhc2VSZXNwb25zZSk7CiAgICAgICAgd2hlbihzdWJqZWN0U3B5LmdldEVycm9yKGZhaWx1cmVFcnJvclR5cGUsICIyMjAiLCBudWxsLCByYW5kb21WZWhpY2xlQ29tbWFuZCkpLnRoZW5SZXR1cm4oZXhwZWN0ZWQpOwoKICAgICAgICBFcnJvciBhY3R1YWwgPSBzdWJqZWN0U3B5LmdldEVycm9yKGJhc2VSZXNwb25zZSwgcmFuZG9tVmVoaWNsZUNvbW1hbmQpOwoKICAgICAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWQsIGFjdHVhbCk7CiAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2hlY2tfZ2V0RXJyb3JfZnJvbV9CYXNlUmVzcG9uc2VfYW5kX1ZlaGljbGVDb21tYW5kX2hhbmRsZXNfdmFsaWRfb25zQ29kZV9hbmRfbnVsbF9vbnNTdWJDb2RlKCkgewoKICAgICAgICBWZWhpY2xlQ29tbWFuZCByYW5kb21WZWhpY2xlQ29tbWFuZCA9IFZlaGljbGVDb21tYW5kLmFsZXJ0OwogICAgICAgIEJhc2VSZXNwb25zZSBiYXNlUmVzcG9uc2UgPSBtb2NrKEJhc2VSZXNwb25zZS5jbGFzcyk7CiAgICAgICAgRXJyb3IgZXhwZWN0ZWQgPSBtb2NrKEVycm9yLmNsYXNzKTsKCiAgICAgICAgRXJyb3JVdGlsIHN1YmplY3RTcHkgPSBzcHkoc3ViamVjdCk7CiAgICAgICAgd2hlbihtb2NrT25zQ29kZVJldHJpZXZlci5nZXRPbnNDb2RlKGJhc2VSZXNwb25zZSkpLnRoZW5SZXR1cm4oMjIwKTsKICAgICAgICB3aGVuKG1vY2tPbnNDb2RlUmV0cmlldmVyLmdldE9uc1N1YkNvZGUoYmFzZVJlc3BvbnNlKSkudGhlblJldHVybihudWxsKTsKICAgICAgICBGYWlsdXJlRXJyb3JUeXBlIGZhaWx1cmVFcnJvclR5cGUgPSBzdWJqZWN0U3B5LmRldGVybWluZUZhaWx1cmVUeXBlRm9yQmFzZVJlc3BvbnNlKGJhc2VSZXNwb25zZSk7CiAgICAgICAgd2hlbihzdWJqZWN0U3B5LmdldEVycm9yKGZhaWx1cmVFcnJvclR5cGUsICIyMjAiLCBudWxsLCByYW5kb21WZWhpY2xlQ29tbWFuZCkpLnRoZW5SZXR1cm4oZXhwZWN0ZWQpOwoKICAgICAgICBFcnJvciBhY3R1YWwgPSBzdWJqZWN0U3B5LmdldEVycm9yKGJhc2VSZXNwb25zZSwgcmFuZG9tVmVoaWNsZUNvbW1hbmQpOwoKICAgICAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWQsIGFjdHVhbCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>485</text>
       </register>
     </registers>
     <search>
-      <last-search>\/\/</last-search>
+      <last-search encoding="base64">XDxlcnJvclV0aWxcPg==</last-search>
       <last-offset />
-      <last-pattern>\/\/</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvclV0aWxcPg==</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13759,7 +13758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alsdjf</entry>
         <entry>BaseResponse</entry>
         <entry>findOnsCode</entry>
         <entry>alskjdf</entry>
@@ -13779,6 +13777,7 @@
         <entry>onssubcode</entry>
         <entry>onsCode</entry>
         <entry>\/\/</entry>
+        <entry encoding="base64">XDxlcnJvclV0aWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>d/\Int</entry>
