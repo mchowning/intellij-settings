@@ -106,10 +106,6 @@
     <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
-  <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta f2" />
-    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
