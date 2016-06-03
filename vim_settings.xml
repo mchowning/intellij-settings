@@ -1391,11 +1391,11 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/Error.java" timestamp="1464952343802">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="45" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/Error.java" timestamp="1464989813960">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1464983758465">
         <mark key="[" line="3" column="11" />
@@ -1427,12 +1427,8 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464833312177">
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" timestamp="1464989709321">
         <mark key="'" line="101" column="17" />
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="96" column="5" />
-        <mark key="^" line="80" column="53" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -1702,7 +1698,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>onstar</text>
+        <text>g</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12296,19 +12292,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onstar</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>required_client_scope</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52ZWhpY2xlUmVxdWVzdCA9IGVudmlyb25tZW50LmdldERhdGFTb3VyY2UoKS5zZXRWZWhpY2xlUmVxdWVzdCh2ZWhpY2xlUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdC5tZXRob2QoKSAhPSBIdHRwTWV0aG9kLlBPU1QpIHsKICAgICAgICAgICAgc2VuZEVycm9yKGN0eCwgSHR0cFJlc3BvbnNlU3RhdHVzLkJBRF9SRVFVRVNULCAiaW52YWxpZF9yZXF1ZXN0IiwgIm9hdXRoIHJlcXVlc3QgbXVzdCBiZSBQT1NUIik7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>onstar</text>
+        <text>g</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12328,19 +12324,21 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>onstar</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+        <text>M</text>
       </register>
-      <register name="4" type="4">
-        <text>3.1.0-SNAPSHOT</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHBhcmFtcyA9IG5ldyBRdWVyeVN0cmluZ0RlY29kZXIocmVxdWVzdC51cmkoKSkucGFyYW1ldGVycygpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRXhjZXB0aW9uKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>if (request.method() != HttpMethod.POST) {
+            sendError(ctx, HttpResponseStatus.BAD_REQUEST, &quot;invalid_request&quot;, &quot;oauth request must be POST&quot;);
+        } else</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13627,17 +13625,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>m</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGV4dHJhY3Qgb3V0IHNvbWUga2luZCBvZiBjaGVja1ZhbGlkaXR5T2ZPYXV0aFJlcXVlc3QgbWV0aG9kCg==</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>TODO</text>
       </register>
       <register name=":" type="4">
-        <text>485</text>
+        <text>64</text>
       </register>
     </registers>
     <search>
@@ -13673,7 +13671,6 @@
         <entry>required_client_scope</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2xzMi95cy9n</entry>
         <entry encoding="base64">JzwsJz5zL2wxL3gvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2wyL3kvZw==</entry>
         <entry encoding="base64">JzwsJz5zL01heWJlL20vZw==</entry>
@@ -13693,6 +13690,7 @@
         <entry>1gg</entry>
         <entry>1G</entry>
         <entry>238</entry>
+        <entry>64</entry>
       </history-cmd>
       <history-expr />
       <history-input />
