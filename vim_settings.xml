@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorRetriever.java" timestamp="1464964988336">
-        <mark key="]" line="29" column="12" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorRetriever.java" timestamp="1464968084359">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
         <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="12" />
+        <mark key="." line="9" column="16" />
       </file>
       <file name="$USER_HOME$/dev/katas/GameOfLife/java/src/main/java/GameOfLife.java" timestamp="1411481504486">
         <mark key="[" line="2" column="3" />
@@ -749,6 +750,11 @@
         <mark key="]" line="55" column="42" />
         <mark key="^" line="55" column="42" />
         <mark key="." line="55" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsCodeRetriever.java" timestamp="1464968094278">
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="45" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/median_testcases/54" timestamp="1425331537391">
         <mark key="[" line="0" column="0" />
@@ -1615,12 +1621,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464965865156">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" timestamp="1464968199482">
         <mark key="'" line="166" column="16" />
-        <mark key="[" line="54" column="44" />
-        <mark key="]" line="54" column="44" />
-        <mark key="^" line="59" column="37" />
-        <mark key="." line="54" column="44" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="135" column="21" />
+        <mark key="^" line="135" column="21" />
+        <mark key="." line="135" column="21" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -1801,7 +1807,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Parser</text>
+        <text>public</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12395,7 +12401,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Parser</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>onsCode</text>
@@ -12407,7 +12413,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>Parser</text>
+        <text>public</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12427,16 +12433,16 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>Parser</text>
+        <text>public</text>
       </register>
       <register name="3" type="4">
-        <text>OnsErrorParser</text>
+        <text>r</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuc2RrLnV0aWwuT25zRXJyb3JQYXJzZXI7Cg==</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>Parser</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
         <text>r</text>
@@ -13727,13 +13733,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>E</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>Parser</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>Parser</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</text>
