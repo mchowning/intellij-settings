@@ -1467,11 +1467,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/OAuthClientHandler.java" timestamp="1465219837999">
-        <mark key="'" line="44" column="15" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="12" />
-        <mark key="." line="122" column="12" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/OAuthClientHandler.java" timestamp="1465220678918">
+        <mark key="'" line="38" column="15" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="77" column="31" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProviderTest.java" timestamp="1461758919362">
         <mark key="[" line="37" column="75" />
@@ -1569,11 +1570,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465219532944">
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="81" />
-        <mark key="." line="48" column="81" />
-        <mark key="^" line="48" column="81" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465220792681">
+        <mark key="[" line="101" column="45" />
+        <mark key="]" line="101" column="64" />
+        <mark key="." line="101" column="64" />
+        <mark key="^" line="101" column="64" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Test.hs" timestamp="1453901184567">
         <mark key="[" line="3" column="11" />
@@ -1695,7 +1696,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmF3Q29udGVudCA9IHJlc3BvbnNlLmNvbnRlbnQoKS50b1N0cmluZyhDaGFyc2V0VXRpbC5VVEZfOCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12289,19 +12290,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>element</text>
       </register>
       <register name="/" type="4">
         <text>attr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbkVsZW1lbnQgZWxlbWVudCA9IG5ldyBHc29uKCkuZnJvbUpzb24ocmF3Q29udGVudCwgSnNvbkVsZW1lbnQuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmF3Q29udGVudCA9IHJlc3BvbnNlLmNvbnRlbnQoKS50b1N0cmluZyhDaGFyc2V0VXRpbC5VVEZfOCk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmF3Q29udGVudCA9IHJlc3BvbnNlLmNvbnRlbnQoKS50b1N0cmluZyhDaGFyc2V0VXRpbC5VVEZfOCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12320,20 +12321,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>false</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>JsonElement</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsgU3lzdGVtLm91dC5wcmludGxuKCJvYXV0aCByZXF1ZXN0IGRpZCBub3Qgc3VjY2VlZDogXG4iICsgb2JqZWN0LnRvU3RyaW5nKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZWxlbWVudCA=</text>
+        <text>element</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">SnNvbkVsZW1lbnQg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZWxlbWVudCBpbnN0YW5jZW9mIEpzb25PYmplY3QpIHsKICAgICAgICAgICAgSnNvbk9iamVjdCBvYmplY3QgPSAoSnNvbk9iamVjdCkgZWxlbWVudDsKICAgICAgICAgICAgaWYgKEh0dHBSZXNwb25zZVN0YXR1cy5PSy5lcXVhbHMocmVzcG9uc2Uuc3RhdHVzKCkpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm9hdXRoIHRva2VuIHJlY2VpdmVkIik7CiAgICAgICAgICAgICAgICBPQXV0aE1vZGVsIHRva2VuUmVzcG9uc2UgPSBuZXcgR3NvbigpLmZyb21Kc29uKHJhd0NvbnRlbnQsIE9BdXRoTW9kZWwuY2xhc3MpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13621,13 +13622,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dGhpcyA=</text>
+        <text>JsonElement</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZW5jb2Rpbmcg</text>
+        <text>JsonElement</text>
       </register>
-      <register name="9" type="4">
-        <text>UTF_8</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
