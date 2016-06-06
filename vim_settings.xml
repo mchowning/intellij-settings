@@ -1186,11 +1186,11 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1464984217695">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="45" column="55" />
-        <mark key="]" line="45" column="55" />
-        <mark key="." line="45" column="55" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1465220224896">
+        <mark key="'" line="45" column="61" />
+        <mark key="[" line="65" column="72" />
+        <mark key="]" line="65" column="73" />
+        <mark key="." line="65" column="73" />
         <mark key="^" line="45" column="55" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/plugin_app.gradle" timestamp="1457624779787">
@@ -1545,7 +1545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="178" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="179" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="180" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
@@ -1645,6 +1644,7 @@
       <jump line="33" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" />
       <jump line="65" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="23" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="45" column="61" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -12248,7 +12248,7 @@
         <text>setType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWN1cml0eV92ZXJzaW9uXD4=</text>
+        <text>remotesdk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy52ZWhpY2xlUmVxdWVzdCA9IGVudmlyb25tZW50LmdldERhdGFTb3VyY2UoKS5zZXRWZWhpY2xlUmVxdWVzdCh2ZWhpY2xlUmVxdWVzdCk7Cg==</text>
@@ -13590,9 +13590,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWN1cml0eV92ZXJzaW9uXD4=</last-search>
+      <last-search>remotesdk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWN1cml0eV92ZXJzaW9uXD4=</last-pattern>
+      <last-pattern>remotesdk</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13600,7 +13600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crypto</entry>
         <entry>subcode</entry>
         <entry>findOns</entry>
         <entry>OnsCode</entry>
@@ -13620,6 +13619,7 @@
         <entry encoding="base64">XDx2ZWhpY2xlUmVxdWVzdFw+</entry>
         <entry>security</entry>
         <entry encoding="base64">XDxzZWN1cml0eV92ZXJzaW9uXD4=</entry>
+        <entry>remotesdk</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
