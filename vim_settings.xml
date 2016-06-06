@@ -372,11 +372,11 @@
         <mark key="^" line="33" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileClientHandler.java" timestamp="1465156838873">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="22" column="79" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileClientHandler.java" timestamp="1465213291253">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/dev/flask-mega-tutorial/app/templates/404.html" timestamp="1409799953570">
         <mark key="[" line="4" column="0" />
@@ -1093,6 +1093,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/UserAction.java" timestamp="1465213228193">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/scripts/haskell-scripts/src/AndroidEmulator.hs" timestamp="1454597115992">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="7" />
@@ -1570,11 +1576,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465212232035">
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="80" column="41" />
-        <mark key="." line="80" column="41" />
-        <mark key="^" line="80" column="41" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465213000519">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Test.hs" timestamp="1453901184567">
         <mark key="[" line="3" column="11" />
@@ -1695,8 +1701,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBIdHRwUmVxCg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12290,7 +12296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2Nhbm5lciA=</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>asldjf</text>
@@ -12301,8 +12307,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBIdHRwUmVxCg==</text>
+      <register name="1" type="4">
+        <text>c</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12322,19 +12328,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzS2VlcEFsaXZlKHIpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHJlcXVlc3RVc2VyQWN0aW9uKCkgewogICAgICAgIFN0cmluZyBxdWVzdGlvbiA9IFN0cmluZy5mb3JtYXQoIldvdWxkIHlvdSBsaWtlIHRvIEdldCB0aGUgZmlsZSwgUG9zdCBjaGFuZ2VzIHRvIHRoZSBmaWxlLCBvciBFeGl0IFslcy8lcy8lc10/IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdFVF9TRUxFQ1RJT04sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQT1NUX1NFTEVDVElPTiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVYSVRfU0VMRUNUSU9OKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocXVlc3Rpb24pOwogICAgICAgIFN0cmluZyBhY3Rpb24gPSBzY2FubmVyLm5leHRMaW5lKCk7CiAgICAgICAgYm9vbGVhbiBleGl0ID0gZmFsc2U7CiAgICAgICAgc3dpdGNoIChhY3Rpb24pIHsKICAgICAgICAgICAgY2FzZSBHRVRfU0VMRUNUSU9OOgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnZXQgYWN0aW9uIik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBQT1NUX1NFTEVDVElPTjoKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicG9zdCBhY3Rpb24iKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEVYSVRfU0VMRUNUSU9OOgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFeGl0aW5nLi4uIik7CiAgICAgICAgICAgICAgICBleGl0ID0gdHJ1ZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnZhbGlkIHNlbGVjdGlvbiIpOwogICAgICAgIH0KICAgICAgICBpZiAoZXhpdCkgYnJlYWs7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFVzZXJBY3Rpb24oKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNjYW5uZXIgc2Nhbm5lcjsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVXNlckFjdGlvbiBnZXRGaWxlKCkgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13622,13 +13628,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0VXNlckFjdGlvCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0VXNlckFjdGlvCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckFjdGlvbigpIHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
