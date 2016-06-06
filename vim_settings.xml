@@ -69,6 +69,9 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1465225499419">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1545,8 +1548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
-      <jump line="179" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="180" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="181" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
       <jump line="182" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/ErrorUtil.java" />
@@ -1645,6 +1646,8 @@
       <jump line="65" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="23" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="45" column="61" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="64" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -12248,7 +12251,7 @@
         <text>setType</text>
       </register>
       <register name="/" type="4">
-        <text>remotesdk</text>
+        <text encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy52ZWhpY2xlUmVxdWVzdCA9IGVudmlyb25tZW50LmdldERhdGFTb3VyY2UoKS5zZXRWZWhpY2xlUmVxdWVzdCh2ZWhpY2xlUmVxdWVzdCk7Cg==</text>
@@ -13590,9 +13593,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remotesdk</last-search>
+      <last-search encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</last-search>
       <last-offset />
-      <last-pattern>remotesdk</last-pattern>
+      <last-pattern encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13600,7 +13603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subcode</entry>
         <entry>findOns</entry>
         <entry>OnsCode</entry>
         <entry>onssubcode</entry>
@@ -13620,6 +13622,7 @@
         <entry>security</entry>
         <entry encoding="base64">XDxzZWN1cml0eV92ZXJzaW9uXD4=</entry>
         <entry>remotesdk</entry>
+        <entry encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
