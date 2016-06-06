@@ -1374,6 +1374,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="90" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/gradle.properties" timestamp="1465235727552">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/gradle/wrapper/gradle-wrapper.properties" timestamp="1462893824443">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -1656,8 +1662,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1vZGVsICAgICAgICAgICBjcnlwdG8KLy8gICAgICAgICAgfCAgICAgICAgICAgICAgICB8Ci8vICAgICAgICAgIHwgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICArLS0+IHNlcnZpY2VzIDwtLSsKLy8gICAgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgICAgICAgIHYKLy8gICAgICAgICAgICAgICAgICBkYXRhCi8vICAgICAgICAgICAgICAgICAgIHwKLy8gICAgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICAgICAgICB2Ci8vICAgICAgICAgICAgKy0tLS0gY29yZSAtLS0tKwovLyAgICAgICAgICAgIHwgICAgICAgICAgICAgIHwKLy8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgdiAgICAgICAgICAgICAgfAovLyAgICAgICAgY29yZS1wbHVnaW5zICAgICAgIHwKLy8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgfCAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICstLT4gc2hlbGwgPC0tLSsK</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12251,7 +12257,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setType</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>oncreate</text>
@@ -12263,7 +12269,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>setType</text>
+        <text>=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12286,16 +12292,16 @@
         <text>setType</text>
       </register>
       <register name="3" type="4">
-        <text>State</text>
+        <text>setType</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>State</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>-</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13583,13 +13589,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>n</text>
-      </register>
-      <register name="8" type="4">
         <text>i</text>
       </register>
+      <register name="8" type="4">
+        <text>n</text>
+      </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
