@@ -69,6 +69,10 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1465234114671">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="41" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1465225499419">
         <mark key="'" line="49" column="0" />
       </file>
@@ -1652,8 +1656,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>setType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1vZGVsICAgICAgICAgICBjcnlwdG8KLy8gICAgICAgICAgfCAgICAgICAgICAgICAgICB8Ci8vICAgICAgICAgIHwgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICArLS0+IHNlcnZpY2VzIDwtLSsKLy8gICAgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgICAgICAgIHYKLy8gICAgICAgICAgICAgICAgICBkYXRhCi8vICAgICAgICAgICAgICAgICAgIHwKLy8gICAgICAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICAgICAgICB2Ci8vICAgICAgICAgICAgKy0tLS0gY29yZSAtLS0tKwovLyAgICAgICAgICAgIHwgICAgICAgICAgICAgIHwKLy8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgdiAgICAgICAgICAgICAgfAovLyAgICAgICAgY29yZS1wbHVnaW5zICAgICAgIHwKLy8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Ci8vICAgICAgICAgICAgfCAgICAgICAgICAgICAgfAovLyAgICAgICAgICAgICstLT4gc2hlbGwgPC0tLSsK</text>
       </register>
       <register name="d" type="4">
         <keys>
