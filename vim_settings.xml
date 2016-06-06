@@ -1107,11 +1107,11 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/UserAction.java" timestamp="1465214049189">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/UserAction.java" timestamp="1465215640070">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="$USER_HOME$/dev/scripts/haskell-scripts/src/AndroidEmulator.hs" timestamp="1454597115992">
         <mark key="[" line="2" column="7" />
@@ -1494,11 +1494,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/OAuthClientHandler.java" timestamp="1465180330023">
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="71" column="7" />
-        <mark key="." line="71" column="7" />
-        <mark key="^" line="71" column="7" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/OAuthClientHandler.java" timestamp="1465216073612">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="100" column="18" />
+        <mark key="." line="100" column="18" />
+        <mark key="^" line="100" column="18" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProviderTest.java" timestamp="1461758919362">
         <mark key="[" line="37" column="75" />
@@ -1596,10 +1597,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465214202082">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="60" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465215715096">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="68" />
+        <mark key="^" line="53" column="67" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Test.hs" timestamp="1453901184567">
         <mark key="[" line="3" column="11" />
@@ -1615,7 +1617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationFactory.java" />
       <jump line="42" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/notification/GeminiNotificationFactory.java" />
       <jump line="142" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="151" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -1715,13 +1716,14 @@
       <jump line="64" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java" />
       <jump line="162" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java" />
       <jump line="163" column="108" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java" />
+      <jump line="44" column="15" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/OAuthClientHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3QgYWN0aW9uIGZpcmVkIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>response</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12315,19 +12317,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
-        <text>asldjf</text>
+        <text>attr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFubmVsLnBpcGVsaW5lKCkuZmlyZVVzZXJFdmVudFRyaWdnZXJlZChuZXcgVXNlckFjdGlvbi5HZXRGaWxlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmF3Q29udGVudCA9IHJlc3BvbnNlLmNvbnRlbnQoKS50b1N0cmluZyhDaGFyc2V0VXRpbC5VVEZfOCk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3QgYWN0aW9uIGZpcmVkIik7Cg==</text>
+      <register name="1" type="4">
+        <text>response</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12346,20 +12348,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldCBhY3Rpb24gZmlyZWQiKTsK</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>null</text>
+        <text>element</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGJvb2xlYW4gaXNBdXRoRXJyb3IoRnVsbEh0dHBSZXNwb25zZSByZXNwb25zZSkgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>j</text>
       </register>
       <register name="6" type="4">
-        <text>G</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13646,23 +13648,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>private</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFubmVsLnBpcGVsaW5lKCkuZmlyZVVzZXJFdmVudFRyaWdnZXJlZCh1c2VyQWN0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyQWN0aW9uLlBvc3RGaWxlIHVzZXJBY3Rpb24gPSBuZXcgVXNlckFjdGlvbi5Qb3N0RmlsZShuZXdGaWxlQ29udGVudCk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>get</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>asldjf</last-search>
+      <last-search>attr</last-search>
       <last-offset />
-      <last-pattern>asldjf</last-pattern>
+      <last-pattern>attr</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13685,11 +13687,11 @@
         <entry>encode</entry>
         <entry>asdlkfj</entry>
         <entry>active</entry>
-        <entry>attr</entry>
         <entry>validate</entry>
         <entry>valida</entry>
         <entry>header</entry>
         <entry>asldjf</entry>
+        <entry>attr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2wyL3kvZw==</entry>
