@@ -1566,11 +1566,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465177267937">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="26" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465179747074">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Test.hs" timestamp="1453901184567">
         <mark key="[" line="3" column="11" />
@@ -1692,7 +1692,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBob3N0ID0gYXJnc1swXTsKICAgICAgICAvL2ludCBwb3J0ID0gSW50ZWdlci5wYXJzZUludChhcmdzWzFdKTsKICAgICAgICAvL1N0cmluZyB1c2VybmFtZSA9IGFyZ3NbMl07CiAgICAgICAgLy9TdHJpbmcgcGFzc3dvcmQgPSBhcmdzWzNdOwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHJlcXVlc3RVc2VyQWN0aW9uKCkgewogICAgICAgIFN0cmluZyBxdWVzdGlvbiA9IFN0cmluZy5mb3JtYXQoIldvdWxkIHlvdSBsaWtlIHRvIEdldCB0aGUgZmlsZSwgUG9zdCBjaGFuZ2VzIHRvIHRoZSBmaWxlLCBvciBFeGl0IFslcy8lcy8lc10/IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdFVF9TRUxFQ1RJT04sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQT1NUX1NFTEVDVElPTiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVYSVRfU0VMRUNUSU9OKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocXVlc3Rpb24pOwogICAgICAgIFN0cmluZyBhY3Rpb24gPSBzY2FubmVyLm5leHRMaW5lKCk7CiAgICAgICAgYm9vbGVhbiBleGl0ID0gZmFsc2U7CiAgICAgICAgc3dpdGNoIChhY3Rpb24pIHsKICAgICAgICAgICAgY2FzZSBHRVRfU0VMRUNUSU9OOgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnZXQgYWN0aW9uIik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBQT1NUX1NFTEVDVElPTjoKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicG9zdCBhY3Rpb24iKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEVYSVRfU0VMRUNUSU9OOgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFeGl0aW5nLi4uIik7CiAgICAgICAgICAgICAgICBleGl0ID0gdHJ1ZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnZhbGlkIHNlbGVjdGlvbiIpOwogICAgICAgIH0KICAgICAgICBpZiAoZXhpdCkgYnJlYWs7CiAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12286,19 +12286,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">U2Nhbm5lciA=</text>
       </register>
       <register name="/" type="4">
         <text>attr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZXhjZXB0aW9uQ2F1Z2h0KENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgsIFRocm93YWJsZSBjYXVzZSkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgY2F1c2UucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgY3R4LmNsb3NlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBob3N0ID0gYXJnc1swXTsKICAgICAgICAvL2ludCBwb3J0ID0gSW50ZWdlci5wYXJzZUludChhcmdzWzFdKTsKICAgICAgICAvL1N0cmluZyB1c2VybmFtZSA9IGFyZ3NbMl07CiAgICAgICAgLy9TdHJpbmcgcGFzc3dvcmQgPSBhcmdzWzNdOwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHJlcXVlc3RVc2VyQWN0aW9uKCkgewogICAgICAgIFN0cmluZyBxdWVzdGlvbiA9IFN0cmluZy5mb3JtYXQoIldvdWxkIHlvdSBsaWtlIHRvIEdldCB0aGUgZmlsZSwgUG9zdCBjaGFuZ2VzIHRvIHRoZSBmaWxlLCBvciBFeGl0IFslcy8lcy8lc10/IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdFVF9TRUxFQ1RJT04sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQT1NUX1NFTEVDVElPTiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVYSVRfU0VMRUNUSU9OKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocXVlc3Rpb24pOwogICAgICAgIFN0cmluZyBhY3Rpb24gPSBzY2FubmVyLm5leHRMaW5lKCk7CiAgICAgICAgYm9vbGVhbiBleGl0ID0gZmFsc2U7CiAgICAgICAgc3dpdGNoIChhY3Rpb24pIHsKICAgICAgICAgICAgY2FzZSBHRVRfU0VMRUNUSU9OOgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnZXQgYWN0aW9uIik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBQT1NUX1NFTEVDVElPTjoKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicG9zdCBhY3Rpb24iKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEVYSVRfU0VMRUNUSU9OOgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFeGl0aW5nLi4uIik7CiAgICAgICAgICAgICAgICBleGl0ID0gdHJ1ZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnZhbGlkIHNlbGVjdGlvbiIpOwogICAgICAgIH0KICAgICAgICBpZiAoZXhpdCkgYnJlYWs7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12317,20 +12317,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNjYW5uZXIgc2Nhbm5lcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0VXNlckFjdGlvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGJvb2xlYW4gaGFzVmFsaWRUb2tlblR5cGUoU3RyaW5nIGVuY29kZWRBdXRob3JpemF0aW9uSGVhZGVyKSB7CiAgICAgICAgcmV0dXJuIFBST1BFUl9UT0tFTl9UWVBFLmVxdWFscyhnZXRUb2tlblR5cGUoZW5jb2RlZEF1dGhvcml6YXRpb25IZWFkZXIpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0VXNlckFjdGlvCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICsgIjExMSI=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13618,13 +13618,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">U2Nhbm5lciA=</text>
       </register>
       <register name="8" type="4">
-        <text>// TODO catch exception?</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
