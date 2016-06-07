@@ -1313,11 +1313,11 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/BasicServer.java" timestamp="1464780506673">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="33" column="51" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/BasicServer.java" timestamp="1465303601017">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/my_test_input_2.txt" timestamp="1423503692801">
         <mark key="[" line="0" column="3" />
@@ -1616,11 +1616,11 @@
         <mark key="." line="27" column="17" />
         <mark key="^" line="27" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465302930271">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="71" column="7" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465303859781">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="70" column="61" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Test.hs" timestamp="1453901184567">
         <mark key="[" line="3" column="11" />
@@ -12336,13 +12336,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>authModel</text>
       </register>
       <register name="/" type="4">
         <text>UTF_8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbXNnID0gU3RyaW5nLmZvcm1hdCgiVG9rZW4gcmVjZWl2ZWQ6ICVzICVzIiwgb0F1dGhNb2RlbC50b2tlbl90eXBlLCBvQXV0aE1vZGVsLmFjY2Vzc190b2tlbik7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1zZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZlcihuZXcgSHR0cENsaWVudENvZGVjKCksCiAgICAgICAgICAgICAgICAgICAgbmV3IEh0dHBPYmplY3RBZ2dyZWdhdG9yKE1BWF9CT0RZX0xFTkdUSCksCiAgICAgICAgICAgICAgICAgICAgLy9uZXcgT0F1dGhSZW5ld2FsSGFuZGxlcihhdXRoTW9kZWwpKSwKICAgICAgICAgICAgICAgICAgICBuZXcgR2V0RmlsZUNsaWVudEhhbmRsZXIoYXV0aE1vZGVsKSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -12368,19 +12368,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGdldCB0aGlzIENoYXJzZXQgZnJvbSBzZXJ2ZXIgdmFyaWFibGUgKHNlZSwgZS5nLiBGaWxlUmVhZFdyaXRlU2VydmVySGFuZGxlci5yZXNwb25zZFdpdGhOZXdPQXV0aFRva2VuCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQXR0cmlidXRlS2V5PFVzZXJBY3Rpb24+IFVTRVJfU0VMRUNUSU9OID0gQXR0cmlidXRlS2V5LnZhbHVlT2YoInVzZXJfc2VsZWN0aW9uIik7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>8</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>_</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrZXJHcm91cCA9IG5ldyBOaW9FdmVudExvb3BHcm91cCgpOwoKICAgICAgICB0cnkgewoKICAgICAgICAgICAgQm9vdHN0cmFwIGIgPSBuZXcgQm9vdHN0cmFwKCk7CiAgICAgICAgICAgIGIuZ3JvdXAod29ya2VyR3JvdXApCiAgICAgICAgICAgICAuY2hhbm5lbChOaW9Tb2NrZXRDaGFubmVsLmNsYXNzKQogICAgICAgICAgICAgLm9wdGlvbihDaGFubmVsT3B0aW9uLlNPX0tFRVBBTElWRSwgdHJ1ZSkKICAgICAgICAgICAgIC5oYW5kbGVyKG5ldyBDaGFubmVsSW5pdGlhbGl6ZXI8U29ja2V0Q2hhbm5lbD4oKSB7CiAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgcHJvdGVjdGVkIHZvaWQgaW5pdENoYW5uZWwoU29ja2V0Q2hhbm5lbCBjaCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgIGNoLnBpcGVsaW5lKCkuYWRkTGFzdChuZXcgSHR0cENsaWVudENvZGVjKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgSHR0cE9iamVjdEFnZ3JlZ2F0b3IoTUFYX0JPRFlfTEVOR1RIKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBJbml0aWFsQXV0aEhhbmRsZXIoaW5pdGlhbEF1dGhMaXN0ZW5lcikpOwogICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgQ2hhbm5lbEZ1dHVyZSBmID0gYi5jb25uZWN0KEhPU1QsIFBPUlQpLnN5bmMoKTsKCiAgICAgICAgICAgIGYuY2hhbm5lbCgpLmNsb3NlRnV0dXJlKCkuc3luYygpOwoKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB3b3JrZXJHcm91cC5zaHV0ZG93bkdyYWNlZnVsbHkoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>F</text>
+        <text>authModel</text>
       </register>
       <register name="6" type="4">
-        <text>T</text>
+        <text>GetFileClientHandler</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13667,14 +13667,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>U</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25ldyBPQXV0aFJlbmV3YWxIYW5kbGVyKGF1dGhNb2RlbCkpLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>CharsetUtil</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
