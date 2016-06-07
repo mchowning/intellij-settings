@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/file/FileServer.java" timestamp="1464655516117">
-        <mark key="'" line="63" column="37" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/util/OnsErrorRetriever.java" timestamp="1464968084359">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -104,6 +101,13 @@
         <mark key="]" line="14" column="54" />
         <mark key="^" line="14" column="54" />
         <mark key="." line="14" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" timestamp="1465333827014">
+        <mark key="'" line="166" column="24" />
+        <mark key="[" line="166" column="17" />
+        <mark key="]" line="166" column="24" />
+        <mark key="." line="166" column="24" />
+        <mark key="^" line="166" column="24" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2Log.hs" timestamp="1420567058208">
         <mark key="[" line="15" column="20" />
@@ -302,9 +306,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" timestamp="1465052071602">
-        <mark key="'" line="69" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/CriticalDiagnosticUtil.java" timestamp="1461865470265">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="10" />
@@ -316,9 +317,6 @@
         <mark key="]" line="20" column="61" />
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/model/OAuthModel.java" timestamp="1465309326717">
-        <mark key="'" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/class.cabal" timestamp="1448952720890">
         <mark key="[" line="8" column="36" />
@@ -356,9 +354,6 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/DemoAccountSDK.java" timestamp="1464980080752">
-        <mark key="'" line="19" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/advent-of-code/src/Day5.hs" timestamp="1452824213239">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -387,9 +382,6 @@
         <mark key="]" line="99" column="7" />
         <mark key="^" line="99" column="7" />
         <mark key="." line="99" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/upload/HttpUploadClient.java" timestamp="1464950279035">
-        <mark key="'" line="163" column="8" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/sum_testcases/3" timestamp="1425324419415">
         <mark key="[" line="0" column="0" />
@@ -426,9 +418,6 @@
         <mark key="]" line="8" column="62" />
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="38" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/channel/Channel.java" timestamp="1465154812992">
-        <mark key="'" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
@@ -467,11 +456,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServerHandler.java" timestamp="1465312223811">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="102" column="25" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServerHandler.java" timestamp="1465333853272">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="59" />
+        <mark key="." line="43" column="83" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1464887707934">
         <mark key="[" line="13" column="31" />
@@ -479,14 +468,17 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-model/123.456.789/gemini-model-123.456.789-sources.jar!/com/gm/gemini/model/VehicleRequestPojo.java" timestamp="1464973488999">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-model/src/main/java/com/gm/gemini/model/VehicleRequestPojoBuilder.java" timestamp="1464974206312">
         <mark key="[" line="24" column="80" />
         <mark key="]" line="24" column="94" />
         <mark key="^" line="24" column="94" />
         <mark key="." line="24" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServer.java" timestamp="1465333919403">
+        <mark key="[" line="24" column="59" />
+        <mark key="]" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="24" column="60" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/model/FileContent.java" timestamp="1465312080374">
         <mark key="]" line="2" column="23" />
@@ -815,9 +807,6 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java" timestamp="1464693141210">
-        <mark key="'" line="120" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-command-history/src/main/java/com/gm/plugin/commands_history/ui/fullscreen/CommandHistoryDetailFragmentModule.java" timestamp="1464969601509">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="39" />
@@ -908,9 +897,6 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" timestamp="1465218032620">
-        <mark key="'" line="167" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/location/LocationFinderTest.java" timestamp="1461258986851">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="84" />
@@ -958,9 +944,6 @@
         <mark key="]" line="24" column="33" />
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="19" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/channel/ChannelPipeline.java" timestamp="1465074272252">
-        <mark key="'" line="36" column="1" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
@@ -1080,9 +1063,6 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java" timestamp="1465180489290">
-        <mark key="'" line="163" column="108" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw2.hs" timestamp="1420481693331">
         <mark key="[" line="1" column="7" />
@@ -1492,9 +1472,6 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/base64/Base64Decoder.java" timestamp="1464871766528">
-        <mark key="'" line="46" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/util/EVChargeState.java" timestamp="1461069515167">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="26" />
@@ -1666,14 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="188" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="189" column="50" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="200" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="211" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="214" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="221" column="56" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="223" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="224" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="232" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="234" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -1766,13 +1735,21 @@
       <jump line="53" column="24" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteServerHandler.java" />
       <jump line="184" column="44" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteServerHandler.java" />
       <jump line="160" column="58" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteServerHandler.java" />
+      <jump line="27" column="17" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
+      <jump line="158" column="42" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
+      <jump line="159" column="34" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
+      <jump line="50" column="16" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
+      <jump line="81" column="16" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
+      <jump line="68" column="4" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
+      <jump line="110" column="8" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
+      <jump line="166" column="24" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgcmV0dXJuIGZpbGUgY29udGVudCBhcyBqc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgRklMRV9SRUFEX1dSSVRFX1NFUlZFUl9IQU5ETEVSKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12366,19 +12343,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Response</text>
+        <text>FileReadWriteServerHandler</text>
       </register>
       <register name="/" type="4">
-        <text>UTF_8</text>
+        <text>ctx.write</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZlcihuZXcgSHR0cENsaWVudENvZGVjKCksCiAgICAgICAgICAgICAgICAgICAgbmV3IEh0dHBPYmplY3RBZ2dyZWdhdG9yKE1BWF9CT0RZX0xFTkdUSCksCiAgICAgICAgICAgICAgICAgICAgLy9uZXcgT0F1dGhSZW5ld2FsSGFuZGxlcihhdXRoTW9kZWwpKSwKICAgICAgICAgICAgICAgICAgICBuZXcgR2V0RmlsZUNsaWVudEhhbmRsZXIoYXV0aE1vZGVsKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEZpbGVSZWFkV3JpdGVTZXJ2ZXJIYW5kbGVyIEZJTEVfUkVBRF9XUklURV9TRVJWRVJfSEFORExFUiA9IG5ldyBGaWxlUmVhZFdyaXRlU2VydmVySGFuZGxlcigpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgcmV0dXJuIGZpbGUgY29udGVudCBhcyBqc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgRklMRV9SRUFEX1dSSVRFX1NFUlZFUl9IQU5ETEVSKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12398,19 +12375,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>Response</text>
+        <text>FileReadWriteServerHandler</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>FILE_READ_WRITE_SERVER_HANDLER</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIEVycm9yKCkge30KCiAgICAvL3B1YmxpYyBFcnJvcihTdHJpbmcgZXJyb3JTdHJpbmcpIHsKICAgIC8vICAgIHRoaXMoZXJyb3JTdHJpbmcsIG51bGwpOwogICAgLy99Cg==</text>
+      <register name="4" type="4">
+        <text>FILE_READ_WRITE_SERVER_HANDLER</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAvL3B1YmxpYyBTdHJpbmcgZ2V0RXJyb3IoKSB7CiAgICAvLyAgICByZXR1cm4gZXJyb3I7CiAgICAvL30KICAgIC8vCiAgICAvL3B1YmxpYyBTdHJpbmcgZ2V0RXJyb3JEZXNjcmlwdGlvbigpIHsKICAgIC8vICAgIHJldHVybiBlcnJvckRlc2NyaXB0aW9uOwogICAgLy99Cg==</text>
+      <register name="5" type="4">
+        <text>FileReadWriteServerHandler</text>
       </register>
       <register name="6" type="4">
-        <text>private</text>
+        <text>msg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13697,23 +13674,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>private</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="9" type="4">
-        <text>_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgcmV0dXJuIGZpbGUgY29udGVudCBhcyBqc29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>UTF_8</last-search>
+      <last-search>ctx.write</last-search>
       <last-offset />
-      <last-pattern>UTF_8</last-pattern>
+      <last-pattern>ctx.write</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13721,9 +13698,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
-        <entry encoding="base64">XDxGdWxsSHR0cFJlc3BvbnNlXD4=</entry>
-        <entry>client not authorized</entry>
         <entry>&quot;error&quot;</entry>
         <entry>200</entry>
         <entry>access_token</entry>
@@ -13741,6 +13715,9 @@
         <entry encoding="base64">XDxpc3N1ZWRUb2tlbnNcPg==</entry>
         <entry>unpooled</entry>
         <entry>UTF_8</entry>
+        <entry>error</entry>
+        <entry>asfdlj</entry>
+        <entry>ctx.write</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2wyL3kvZw==</entry>
