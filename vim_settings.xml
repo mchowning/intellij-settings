@@ -467,10 +467,10 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServerHandler.java" timestamp="1465311037949">
-        <mark key="[" line="50" column="100" />
-        <mark key="]" line="50" column="101" />
-        <mark key="." line="50" column="101" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServerHandler.java" timestamp="1465312223811">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
         <mark key="^" line="102" column="25" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1464887707934">
@@ -487,6 +487,11 @@
         <mark key="]" line="24" column="94" />
         <mark key="^" line="24" column="94" />
         <mark key="." line="24" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/model/FileContent.java" timestamp="1465312080374">
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/test.hs" timestamp="1453826968045">
         <mark key="[" line="0" column="32" />
@@ -792,6 +797,11 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="67" column="30" />
         <mark key="." line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/GetFileClientHandler.java" timestamp="1465302198584">
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/gradle/wrapper/gradle-wrapper.properties" timestamp="1462470580738">
         <mark key="[" line="5" column="69" />
@@ -1115,6 +1125,12 @@
         <mark key="]" line="71" column="4" />
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/model/FileResponse.java" timestamp="1465312078346">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/dev/tmp/servant-back-end/src/Types.hs" timestamp="1455454140174">
         <mark key="[" line="6" column="0" />
@@ -1756,7 +1772,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgcmV0dXJuIGZpbGUgY29udGVudCBhcyBqc29uCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12350,7 +12366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>Response</text>
       </register>
       <register name="/" type="4">
         <text>UTF_8</text>
@@ -12362,7 +12378,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgcmV0dXJuIGZpbGUgY29udGVudCBhcyBqc29uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12381,20 +12397,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIEVycm9yKCkge30KCiAgICAvL3B1YmxpYyBFcnJvcihTdHJpbmcgZXJyb3JTdHJpbmcpIHsKICAgIC8vICAgIHRoaXMoZXJyb3JTdHJpbmcsIG51bGwpOwogICAgLy99Cg==</text>
+      <register name="2" type="4">
+        <text>Response</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vcHVibGljIEVycm9yKCkge30KCiAgICAvL3B1YmxpYyBFcnJvcihTdHJpbmcgZXJyb3JTdHJpbmcpIHsKICAgIC8vICAgIHRoaXMoZXJyb3JTdHJpbmcsIG51bGwpOwogICAgLy99Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CiAgICAvL3B1YmxpYyBTdHJpbmcgZ2V0RXJyb3IoKSB7CiAgICAvLyAgICByZXR1cm4gZXJyb3I7CiAgICAvL30KICAgIC8vCiAgICAvL3B1YmxpYyBTdHJpbmcgZ2V0RXJyb3JEZXNjcmlwdGlvbigpIHsKICAgIC8vICAgIHJldHVybiBlcnJvckRlc2NyaXB0aW9uOwogICAgLy99Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>private</text>
-      </register>
-      <register name="5" type="4">
-        <text>private</text>
-      </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>private</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13682,7 +13698,7 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>private</text>
       </register>
       <register name="8" type="4">
         <text>t</text>
