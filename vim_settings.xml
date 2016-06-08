@@ -66,11 +66,11 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/OAuthClientCombinedHandler.java" timestamp="1465391020717">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/OAuthClientCombinedHandler.java" timestamp="1465425348071">
+        <mark key="[" line="4" column="126" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
@@ -454,6 +454,13 @@
         <mark key="]" line="104" column="21" />
         <mark key="." line="104" column="21" />
         <mark key="^" line="104" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/InitialAuthHandler.java" timestamp="1465425839718">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="55" />
+        <mark key="." line="73" column="55" />
+        <mark key="^" line="73" column="55" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/OAuthServerInboundHandler.java" timestamp="1465388439087">
         <mark key="[" line="33" column="24" />
@@ -1171,11 +1178,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/OAuthClientOutboundHandler.java" timestamp="1465390733561">
-        <mark key="[" line="29" column="50" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="51" column="94" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/OAuthClientOutboundHandler.java" timestamp="1465425562436">
+        <mark key="[" line="53" column="56" />
+        <mark key="]" line="53" column="62" />
+        <mark key="." line="53" column="62" />
+        <mark key="^" line="53" column="62" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
         <mark key="[" line="2" column="31" />
@@ -1683,7 +1690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="256" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="259" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="260" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -1783,13 +1789,14 @@
       <jump line="16" column="29" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/GetFileClientHandler.java" />
       <jump line="18" column="43" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/GetFileClientHandler.java" />
       <jump line="19" column="26" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/GetFileClientHandler.java" />
+      <jump line="52" column="12" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/InitialAuthHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>OAuthModel authModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12383,10 +12390,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OAuthModel authModel</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvQXV0aE1vZGVsXD4=</text>
+        <text>fire</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZ2V0RmlsZUNvbnRlbnRzKE9BdXRoTW9kZWwgYXV0aE1vZGVsKSB7CiAgICAgICAgc3RhcnRTZXJ2ZXIobmV3IEh0dHBDbGllbnRDb2RlYygpLAogICAgICAgICAgICAgICAgICAgIG5ldyBIdHRwT2JqZWN0QWdncmVnYXRvcihNQVhfQk9EWV9MRU5HVEgpLAogICAgICAgICAgICAgICAgICAgIG5ldyBPQXV0aENsaWVudENvbWJpbmVkSGFuZGxlcigpLAogICAgICAgICAgICAgICAgICAgIC8vbmV3IE9BdXRoUmVuZXdhbEhhbmRsZXIoYXV0aE1vZGVsKSksCiAgICAgICAgICAgICAgICAgICAgbmV3IEdldEZpbGVDbGllbnRIYW5kbGVyKGF1dGhNb2RlbCkpOwogICAgfQo=</text>
@@ -12394,8 +12401,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>OAuthModel authModel</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12415,19 +12422,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>response</text>
       </register>
       <register name="3" type="4">
-        <text>authModel</text>
+        <text>Response</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgT0F1dGhDbGllbnRDb21iaW5lZEhhbmRsZXIoSW5pdGlhbEF1dGhIYW5kbGVyIGluYm91bmRIYW5kbGVyLCBPQXV0aENsaWVudE91dGJvdW5kSGFuZGxlciBvdXRib3VuZEhhbmRsZXIpIHsKICAgICAgICBzdXBlcihpbmJvdW5kSGFuZGxlciwgb3V0Ym91bmRIYW5kbGVyKTsKICAgICAgICBpbmJvdW5kSGFuZGxlci5zZXRMaXN0ZW5lcihvdXRib3VuZEhhbmRsZXIpOwogICAgfQo=</text>
+      <register name="4" type="4">
+        <text>Response</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>sponse</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJbgo=</text>
+      <register name="6" type="4">
+        <text>response</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13714,23 +13721,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbgo=</text>
+      <register name="7" type="4">
+        <text>sponse</text>
       </register>
       <register name="8" type="4">
-        <text>new</text>
+        <text>Response</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHRocm93IGFwcHJvcmRkCg==</text>
+      <register name="9" type="4">
+        <text>sponse</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvQXV0aE1vZGVsXD4=</last-search>
+      <last-search>fire</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvQXV0aE1vZGVsXD4=</last-pattern>
+      <last-pattern>fire</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13739,7 +13746,6 @@
     <history>
       <history-search>
         <entry>access_token</entry>
-        <entry>fire</entry>
         <entry encoding="base64">XDxEZWZhdWx0RnVsbEh0dHBSZXF1ZXN0XD4=</entry>
         <entry>encode</entry>
         <entry>asdlkfj</entry>
@@ -13758,6 +13764,7 @@
         <entry>ctx.write</entry>
         <entry>asdljkf</entry>
         <entry encoding="base64">XDxvQXV0aE1vZGVsXD4=</entry>
+        <entry>fire</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2wyL3kvZw==</entry>
