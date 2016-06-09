@@ -384,6 +384,7 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" timestamp="1465473748289" />
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -1179,12 +1180,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java" timestamp="1465180489290">
         <mark key="'" line="163" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" timestamp="1465415351037">
-        <mark key="'" line="88" column="18" />
-        <mark key="[" line="159" column="45" />
-        <mark key="]" line="159" column="55" />
-        <mark key="." line="159" column="55" />
-        <mark key="^" line="159" column="55" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" timestamp="1465473745424">
+        <mark key="'" line="84" column="18" />
+        <mark key="[" line="157" column="30" />
+        <mark key="]" line="159" column="32" />
+        <mark key="." line="159" column="32" />
+        <mark key="^" line="159" column="32" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw2.hs" timestamp="1420481693331">
         <mark key="[" line="1" column="7" />
@@ -1953,7 +1954,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>okhttpRequest</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12547,19 +12548,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>okhttpRequest</text>
       </register>
       <register name="/" type="4">
         <text>retrofit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb25QaHJhc2UiLCByZXNwb25zZS5nZXRSZWFzb25QaHJhc2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiaGVhZGVycyIsIHJlc3BvbnNlLmhlYWRlcnMoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>null</text>
+        <text>okhttpRequest</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12579,19 +12580,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>().)</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="3" type="4">
-        <text>getData</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2FubmVyIHMgPSBuZXcgU2Nhbm5lcihyZXNwb25zZS4oKSkudXNlRGVsaW1pdGVyKCJcXEEiKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZGF0YSA9IHMuaGFzTmV4dCgpID8gcy5uZXh0KCkgOiBudWxsOwoKICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZGF0YSIsIGRhdGEpOwoKICAgICAgICAgICAgICAgICAgICB3ZWJSZXNvdXJjZVJlc3BvbnNlID0gc3VwZXIuc2hvdWxkSW50ZXJjZXB0UmVxdWVzdCh2aWV3LCByZXF1ZXN0KTsK</text>
       </register>
       <register name="5" type="4">
-        <text>response</text>
+        <text>getData</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBkYXRhID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13879,13 +13880,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>().</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>headers</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJzdGF0dXNDb2RlIiwgcmVzcG9uc2UuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
