@@ -522,10 +522,8 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465431307341">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465490103145">
+        <mark key="^" line="130" column="18" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -1075,9 +1073,9 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/GetFileClientHandler.java" timestamp="1465427987890">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="4" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/GetFileClientHandler.java" timestamp="1465490043699">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="34" />
         <mark key="^" line="27" column="59" />
         <mark key="." line="27" column="59" />
       </file>
@@ -1821,7 +1819,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5uZWwuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12415,19 +12413,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>ChannelGroupFutureListener</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgU3RyaW5nIG5ld0ZpbGVDb250ZW50ID0gc2Nhbm5lci5uZXh0TGluZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGdWxsSHR0cE1lc3NhZ2UgbWVzc2FnZSA9IG5ldyBEZWZhdWx0RnVsbEh0dHBSZXF1ZXN0KEh0dHBWZXJzaW9uLkhUVFBfMV8xLCBIdHRwTWV0aG9kLkdFVCwgIiIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUmVxdWVzdGluZyBmaWxlIGNvbnRlbnQuLi4iKTsKICAgICAgICBjdHgud3JpdGVBbmRGbHVzaChtZXNzYWdlKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5uZWwuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12447,19 +12445,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFVzZXJBY3Rpb25zKGNoYW5uZWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgLy8gRklYTUUgZ2V0IHRoaXMgd29ya2luZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIGdldCB0aGlzIHdvcmtpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvcGVyYXRpb25Db21wbGV0ZShDaGFubmVsR3JvdXBGdXR1cmUgZnV0dXJlKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gdXBkYXRlIHBpcGVsaW5lCiAgICAgICAgICAgICAgICAvLyBUT0RPIHNlbmQgb2ZmIGFwcHJvcnBpYXRlIHJlcXVlc3Qgd2l0aCBmdXR1cmUgdGhhdCBjYWxscyBnZXRVc2VyQWN0aW9ucygpCg==</text>
+      <register name="5" type="4">
+        <text>ChannelGroupFutureListener</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcG9zdEZpbGVDb250ZW50cyhuZXdGaWxlQ29udGVudCk7Cg==</text>
+      <register name="6" type="4">
+        <text>x</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13746,14 +13744,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3RyaW5nIG5ld0ZpbGVDb250ZW50ID0gc2Nhbm5lci5uZXh0TGluZSgpOwo=</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZ2V0RmlsZUNvbnRlbnRzKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>c</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
