@@ -1154,11 +1154,11 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" timestamp="1465498720870">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="27" column="10" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" timestamp="1465499827613">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/Main.hs" timestamp="1451133307947">
         <mark key="[" line="0" column="32" />
@@ -12601,10 +12601,10 @@
         <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>?</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>?</text>
+        <text>/</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13891,9 +13891,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
-        <text>//
-//</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
       <register name="8" type="4">
         <text>/</text>
