@@ -1141,17 +1141,24 @@
         <mark key="]" line="20" column="95" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/test.js" timestamp="1465494540578">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MyDeliberationGamer.java" timestamp="1429359926654">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" timestamp="1465491592140">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="46" />
-        <mark key="." line="25" column="46" />
-        <mark key="^" line="25" column="46" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" timestamp="1465494767345">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/Main.hs" timestamp="1451133307947">
         <mark key="[" line="0" column="32" />
@@ -1853,7 +1860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="50" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="291" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="292" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="294" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -1953,13 +1959,29 @@
       <jump line="4" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" />
       <jump line="10" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" />
       <jump line="12" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>undefined</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12553,19 +12575,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJvd3Nlck9iamVjdC5vbkFqYXhFcnJvcigidW5kZWZpbmVkIiwgIiIsIDk5OSk7Cg==</text>
+      <register name="0" type="4">
+        <text>new HMLHttpRequest();</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>undefined</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12584,20 +12621,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>withCredentials</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEhNTEh0dHBSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgeGhyID0gbmV3IEhNTEh0dHBSZXF1ZXN0KCk7CiAgICAgICAgIC8vaWYgKCJ3aXRoQ3JlZGVudGlhbHMiIGluIHhocikgewoKICAgICAgICAgLy8gIC8vIENoZWNrIGlmIHRoZSBYTUxIdHRwUmVxdWVzdCBvYmplY3QgaGFzIGEgIndpdGhDcmVkZW50aWFscyIgcHJvcGVydHkuCiAgICAgICAgIC8vICAvLyAid2l0aENyZWRlbnRpYWxzIiBvbmx5IGV4aXN0cyBvbiBYTUxIVFRQUmVxdWVzdDIgb2JqZWN0cy4KICAgICAgICAgLy8gIHhoci5vcGVuKG1ldGhvZCwgdXJsLCB0cnVlKTsKCiAgICAgICAgIC8vICBicm93c2VyT2JqZWN0Lm9uQWpheEVycm9yKCJ3aXRoQ3JlZGVudGlhbHMiLCAiIiwgOTk5KTsKCiAgICAgICAgIC8vfSBlbHNlIGlmICh0eXBlb2YgWERvbWFpblJlcXVlc3QgIT0gInVuZGVmaW5lZCIpIHsKCiAgICAgICAgIC8vICAvLyBPdGhlcndpc2UsIGNoZWNrIGlmIFhEb21haW5SZXF1ZXN0LgogICAgICAgICAvLyAgLy8gWERvbWFpblJlcXVlc3Qgb25seSBleGlzdHMgaW4gSUUsIGFuZCBpcyBJRSdzIHdheSBvZiBtYWtpbmcgQ09SUyByZXF1ZXN0cy4KICAgICAgICAgLy8gIHhociA9IG5ldyBYRG9tYWluUmVxdWVzdCgpOwogICAgICAgICAvLyAgeGhyLm9wZW4obWV0aG9kLCB1cmwpOwoKICAgICAgICAgLy8gIGJyb3dzZXJPYmplY3Qub25BamF4RXJyb3IoInVuZGVmaW5lZCIsICIiLCA5OTkpOwoKICAgICAgICAgLy99IGVsc2UgewoKICAgICAgICAgLy8gIC8vIE90aGVyd2lzZSwgQ09SUyBpcyBub3Qgc3VwcG9ydGVkIGJ5IHRoZSBicm93c2VyLgogICAgICAgICAvLyAgeGhyID0gbnVsbDsKCiAgICAgICAgIC8vICBicm93c2VyT2JqZWN0Lm9uQWpheEVycm9yKCJudWxsIHhociIsICIiLCA5OTkpOwoKICAgICAgICAgLy99CiAgICAgICAgIHJldHVybiB4aHI7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>status</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgSE1MSHR0cFIK</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>httpRequest</text>
+        <text>r</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13885,13 +13922,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>url</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>host</text>
+        <text>x</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
