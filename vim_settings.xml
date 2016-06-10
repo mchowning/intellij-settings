@@ -520,12 +520,12 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465526060791">
-        <mark key="'" line="50" column="62" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="12" column="42" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465556082613">
+        <mark key="'" line="59" column="62" />
+        <mark key="[" line="50" column="54" />
+        <mark key="]" line="50" column="87" />
+        <mark key="." line="50" column="87" />
+        <mark key="^" line="50" column="87" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -800,7 +800,7 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1465524987824">
+      <file name="/fragment.java" timestamp="1465556136401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -1195,11 +1195,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/OAuthClientOutboundHandler.java" timestamp="1465521107675">
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/OAuthClientOutboundHandler.java" timestamp="1465556054349">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="53" column="40" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="76" column="0" />
         <mark key="^" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
@@ -1811,8 +1811,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRVc2VySW5wdXQoU3RyaW5nIGlucHV0RGVzY3JpcHRpb24pIHsKICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFbnRlciB5b3VyICVzOiAiLCBpbnB1dERlc2NyaXB0aW9uKSk7CiAgICAgICAgcmV0dXJuIHNjYW5uZXIubmV4dExpbmUoKTsKICAgIH0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12406,19 +12406,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text encoding="base64">T2J0YWluaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>asldjf</text>
       </register>
-      <register name="0" type="4">
-        <text>oAuthClientCombinedHandler = new OAuthClientCombinedHandler();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFVzZXJJbnB1dChTdHJpbmcgaW5wdXREZXNjcmlwdGlvbikgewogICAgICAgIFNjYW5uZXIgc2Nhbm5lciA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIkVudGVyIHlvdXIgJXM6ICIsIGlucHV0RGVzY3JpcHRpb24pKTsKICAgICAgICByZXR1cm4gc2Nhbm5lci5uZXh0TGluZSgpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>public</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRVc2VySW5wdXQoU3RyaW5nIGlucHV0RGVzY3JpcHRpb24pIHsKICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFbnRlciB5b3VyICVzOiAiLCBpbnB1dERlc2NyaXB0aW9uKSk7CiAgICAgICAgcmV0dXJuIHNjYW5uZXIubmV4dExpbmUoKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12437,20 +12437,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>ClientInitializer</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImF1dGhvcml6YXRpb24uLi4iKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>lient</text>
+        <text encoding="base64">T2J0YWluaW5nIA==</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text encoding="base64">LiA=</text>
       </register>
       <register name="5" type="4">
-        <text>Initializer</text>
+        <text>authorization</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text encoding="base64">bGFja3Mg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13738,13 +13738,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text encoding="base64">Q2xpZW50IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>g</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgLy9DaGFubmVsRnV0dXJlIGYgPSBjdHgud3JpdGVBbmRGbHVzaChtZXNzYWdlKTsKICAgICAgICAvL2YuYWRkTGlzdGVuZXIobmV3IENoYW5uZWxGdXR1cmVMaXN0ZW5lcigpIHsKICAgICAgICAvLyAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICBwdWJsaWMgdm9pZCBvcGVyYXRpb25Db21wbGV0ZShDaGFubmVsRnV0dXJlIGZ1dHVyZSkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgLy8gICAgICAgIC8vIGRvIHNvbWV0aGluZyBvbmNlIG9wZXJhdGlvbiBjb21wbGV0ZWQKICAgICAgICAvLyAgICB9CiAgICAgICAgLy99KTsK</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>public</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
