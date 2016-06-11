@@ -246,11 +246,11 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteCLI.java" timestamp="1465610107993">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="47" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteCLI.java" timestamp="1465611143117">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+        <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462455584323">
         <mark key="[" line="44" column="44" />
@@ -531,11 +531,11 @@
         <mark key="^" line="108" column="43" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/InitialAuthHandler.java" timestamp="1465427208934">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="66" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="35" column="55" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/InitialAuthHandler.java" timestamp="1465610686436">
+        <mark key="[" line="15" column="85" />
+        <mark key="]" line="15" column="85" />
+        <mark key="." line="15" column="85" />
+        <mark key="^" line="15" column="85" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteServerHandler.java" timestamp="1465157143222">
         <mark key="'" line="83" column="64" />
@@ -615,11 +615,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465610443674">
-        <mark key="[" line="104" column="90" />
-        <mark key="]" line="104" column="92" />
-        <mark key="^" line="104" column="92" />
-        <mark key="." line="104" column="92" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465640754894">
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="66" column="17" />
+        <mark key="^" line="66" column="17" />
+        <mark key="." line="66" column="17" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -977,11 +977,11 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/ReadInboundFileClientHandler.java" timestamp="1465521989004">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/ReadInboundFileClientHandler.java" timestamp="1465610989479">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java" timestamp="1464693141210">
         <mark key="'" line="120" column="11" />
@@ -2137,7 +2137,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12731,19 +12731,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>fileContent</text>
       </register>
       <register name="/" type="4">
         <text>retrofit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFVzZXJJbnB1dChTdHJpbmcgaW5wdXREZXNjcmlwdGlvbikgewogICAgICAgIFNjYW5uZXIgc2Nhbm5lciA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIkVudGVyIHlvdXIgJXM6ICIsIGlucHV0RGVzY3JpcHRpb24pKTsKICAgICAgICByZXR1cm4gc2Nhbm5lci5uZXh0TGluZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBDaGFubmVsSGFuZGxlcltdIGhhbmRsZXJzID0gbmV3IENoYW5uZWxIYW5kbGVyW10KICAgICAgICAgICAgICAgIHsgbmV3IEh0dHBDbGllbnRDb2RlYygpLAogICAgICAgICAgICAgICAgICBuZXcgSHR0cE9iamVjdEFnZ3JlZ2F0b3IoTUFYX0JPRFlfTEVOR1RIKSwKICAgICAgICAgICAgICAgICAgLy9uZXcgT0F1dGhDbGllbnRDb21iaW5lZEhhbmRsZXIob0F1dGhNb2RlbCksCiAgICAgICAgICAgICAgICAgIG5ldyBSZWFkSW5ib3VuZEZpbGVDbGllbnRIYW5kbGVyKCl9Owo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>result</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12762,20 +12762,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>listener</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAvL25ldyBPQXV0aENsaWVudENvbWJpbmVkSGFuZGxlcihvQXV0aE1vZGVsKSwK</text>
       </register>
       <register name="3" type="4">
-        <text>completionProvider</text>
+        <text>fileContent</text>
       </register>
       <register name="4" type="4">
-        <text>completionProvider</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>CompletionResultProvider</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>a</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14063,7 +14063,7 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Q29uc3VtZXI8T0F1dGhNb2RlbD4gY29uc3VtZXIsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>C</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">LCA=</text>
