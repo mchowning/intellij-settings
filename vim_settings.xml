@@ -68,10 +68,6 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1465332899975">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="41" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -428,6 +424,9 @@
         <mark key="^" line="99" column="7" />
         <mark key="." line="99" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" timestamp="1465834819087">
+        <mark key="'" line="191" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/sum_testcases/3" timestamp="1425324419415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="5" />
@@ -682,6 +681,7 @@
         <mark key="^" line="40" column="44" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" timestamp="1465833993701" />
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http2/tiles/Http2RequestHandler.java" timestamp="1464661631611">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -1247,6 +1247,7 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/card/AssistQuickView.java" timestamp="1465834100378" />
       <file name="$USER_HOME$/dev/tmp/servant-back-end/src/Types.hs" timestamp="1455454140174">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="29" />
@@ -1871,15 +1872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="314" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="317" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="30" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/AsynchronousVehicleTask.java" />
-      <jump line="17" column="11" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-model/123.456.789/gemini-model-123.456.789-sources.jar!/com/gm/gemini/model/VehicleRequestPojo.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-model/123.456.789/gemini-model-123.456.789-sources.jar!/com/gm/gemini/model/VehicleRequestPojo.java" />
-      <jump line="33" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" />
-      <jump line="20" column="27" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/DemoAccountSDK.java" />
-      <jump line="19" column="33" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/DemoAccountSDK.java" />
       <jump line="28" column="38" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/AbstractDemoSDK.java" />
       <jump line="27" column="21" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/AbstractDemoSDK.java" />
       <jump line="43" column="66" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
@@ -1971,6 +1963,15 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebViewPresenter.java" />
       <jump line="299" column="36" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
       <jump line="10" column="22" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="194" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="198" column="85" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="199" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="201" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="205" column="71" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="206" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="209" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="191" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -12574,7 +12575,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>showEv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYlJlc291cmNlUmVzcG9uc2Ugd2ViUmVzb3VyY2VSZXNwb25zZSA9IG51bGw7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIC8vT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdXJsID0gcmVxdWVzdC5nZXRVcmwoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgIFJlcXVlc3Qgb2todHRwUmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVybCh1cmwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKCiAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChva2h0dHBSZXF1ZXN0KS5leGVjdXRlKCk7CgogICAgICAgICAgICAgICAgICAgIExvZy5lKCJzdGF0dXNDb2RlIiwgSW50ZWdlci50b1N0cmluZyhyZXNwb25zZS5jb2RlKCkpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgiaGVhZGVycyIsIHJlc3BvbnNlLmhlYWRlcnMoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgiYm9keSIsIHJlc3BvbnNlLmJvZHkoKS5zdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoImVudGlyZSByZXNwb25zZSIsIHJlc3BvbnNlLnRvU3RyaW5nKCkpOwoKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIENvbnRlbnRUeXBlIiwgcmVzcG9uc2UuaGVhZGVyKCJDb250ZW50LVR5cGUiLCAidGV4dC9wbGFpbiIpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIGNvbnRlbnR0eXBlIiwgcmVzcG9uc2UuaGVhZGVyKCJjb250ZW50LXR5cGUiLCAidGV4dC9wbGFpbiIpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIENvbnRlbnRFbmNvZGluZyIsIHJlc3BvbnNlLmhlYWRlcigiQ29udGVudC1FbmNvZGluZyIsICJ1dGYtOCIpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIGNvbnRlbnRlbmNvZGluZyIsIHJlc3BvbnNlLmhlYWRlcigiY29udGVudC1lbmNvZGluZyIsICJ1dGYtOCIpKTsKCgogICAgICAgICAgICAgICAgICAgIHdlYlJlc291cmNlUmVzcG9uc2UgPSBuZXcgV2ViUmVzb3VyY2VSZXNwb25zZShyZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtdHlwZSIsICJ0ZXh0L3BsYWluIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLmhlYWRlcigiY29udGVudC1lbmNvZGluZyIsICJ1dGYtOCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5ib2R5KCkuYnl0ZVN0cmVhbSgpKTsKICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IG11bHRpbWFwSGVhZGVycyA9IHJlc3BvbnNlLmhlYWRlcnMoKS50b011bHRpbWFwKCk7CiAgICAgICAgICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBoZWFkZXJzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGtleSA6IG11bHRpbWFwSGVhZGVycy5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIW11bHRpbWFwSGVhZGVycy5nZXQoa2V5KS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gc3dpdGNoIHRvIGdldHRpbmcgbGFzdCBoZWFkZXIgdmFsdWUgbGlrZSBva2h0dHAgZG9lcyAoc2VlICdBY2Nlc3NpbmcgSGVhZGVycycgYXQgaHR0cHM6Ly9naXRodWIuY29tL3NxdWFyZS9va2h0dHAvd2lraS9SZWNpcGVzCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZhbHVlID0gbXVsdGltYXBIZWFkZXJzLmdldChrZXkpLmdldCgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnMucHV0KGtleSwgdmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHdlYlJlc291cmNlUmVzcG9uc2Uuc2V0UmVzcG9uc2VIZWFkZXJzKGhlYWRlcnMpOwoKICAgICAgICAgICAgICAgICAgICB3ZWJSZXNvdXJjZVJlc3BvbnNlLnNldFN0YXR1c0NvZGVBbmRSZWFzb25QaHJhc2UocmVzcG9uc2UuY29kZSgpLCByZXNwb25zZS5tZXNzYWdlKCkpOwoKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHdlYlJlc291cmNlUmVzcG9uc2U7Cg==</text>
@@ -13916,9 +13917,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>showEv</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>showEv</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13926,9 +13927,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onevent</entry>
-        <entry>set</entry>
-        <entry>buildVehicleReq</entry>
         <entry>asdlkfj</entry>
         <entry encoding="base64">XDx2ZWhpY2xlUmVxdWVzdFw+</entry>
         <entry>security</entry>
@@ -13946,6 +13944,9 @@
         <entry>tools</entry>
         <entry>javascript</entry>
         <entry>url</entry>
+        <entry>dialBrandAdvisor</entry>
+        <entry>dialBrand</entry>
+        <entry>showEv</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
