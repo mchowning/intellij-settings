@@ -608,11 +608,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465822190681">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1465822781763">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -2126,8 +2126,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgQ29uc3VtZXI8T0F1dGhUb2tlbj4g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHNldE9BdXRoVG9rZW4oT0F1dGhUb2tlbiBvQXV0aFRva2VuKSB7CiAgICAgICAgdGhpcy5vQXV0aFRva2VuID0gb0F1dGhUb2tlbjsKICAgIH0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12721,19 +12721,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgQ29uc3VtZXI8T0F1dGhUb2tlbj4g</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib2R5bGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG1ha2VSZXF1ZXN0KENoYW5uZWxPdXRib3VuZEludm9rZXIgY3R4KSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJSZXF1ZXN0aW5nIE9BdXRoIHRva2VuLi4uIik7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgRnVsbEh0dHBSZXF1ZXN0IHJlcXVlc3QgPSBnZXRPQXV0aFRva2VuUmVxdWVzdCgpOwogICAgICAgICAgICBjdHgud3JpdGVBbmRGbHVzaChyZXF1ZXN0KTsKICAgICAgICB9IGNhdGNoIChIdHRwUG9zdFJlcXVlc3RFbmNvZGVyLkVycm9yRGF0YUVuY29kZXJFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBjdHguY2xvc2UoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsLmV4ZWN1dGUob0F1dGhUb2tlbkNvbnN1bWVyLmFuZFRoZW4oZXh0ZXJuYWxDb25zdW1lcikpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgQ29uc3VtZXI8T0F1dGhUb2tlbj4g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHNldE9BdXRoVG9rZW4oT0F1dGhUb2tlbiBvQXV0aFRva2VuKSB7CiAgICAgICAgdGhpcy5vQXV0aFRva2VuID0gb0F1dGhUb2tlbjsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12753,19 +12753,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>this</text>
+        <text>o</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAvL3ByaXZhdGUgdm9pZCBzZXRPQXV0aFRva2VuKE9BdXRoVG9rZW4gb0F1dGhUb2tlbikgewogICAgLy8gICAgdGhpcy5vQXV0aFRva2VuID0gb0F1dGhUb2tlbjsKICAgIC8vfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgYWNjZXB0KE9BdXRoVG9rZW4gb0F1dGhUb2tlbikgewogICAgICAgIHRoaXMub0F1dGhUb2tlbiA9IG9BdXRoVG9rZW47CiAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>T</text>
       </register>
       <register name="4" type="4">
-        <text>this</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text>consumer.andThen(this::setOAuthToken)</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>u</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14053,13 +14053,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>A</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>this::setOAuthToken</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
