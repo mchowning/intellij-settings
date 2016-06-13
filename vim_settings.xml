@@ -12574,7 +12574,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>javascript</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYlJlc291cmNlUmVzcG9uc2Ugd2ViUmVzb3VyY2VSZXNwb25zZSA9IG51bGw7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIC8vT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdXJsID0gcmVxdWVzdC5nZXRVcmwoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgIFJlcXVlc3Qgb2todHRwUmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnVybCh1cmwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKCiAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChva2h0dHBSZXF1ZXN0KS5leGVjdXRlKCk7CgogICAgICAgICAgICAgICAgICAgIExvZy5lKCJzdGF0dXNDb2RlIiwgSW50ZWdlci50b1N0cmluZyhyZXNwb25zZS5jb2RlKCkpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgiaGVhZGVycyIsIHJlc3BvbnNlLmhlYWRlcnMoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgiYm9keSIsIHJlc3BvbnNlLmJvZHkoKS5zdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmUoImVudGlyZSByZXNwb25zZSIsIHJlc3BvbnNlLnRvU3RyaW5nKCkpOwoKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIENvbnRlbnRUeXBlIiwgcmVzcG9uc2UuaGVhZGVyKCJDb250ZW50LVR5cGUiLCAidGV4dC9wbGFpbiIpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIGNvbnRlbnR0eXBlIiwgcmVzcG9uc2UuaGVhZGVyKCJjb250ZW50LXR5cGUiLCAidGV4dC9wbGFpbiIpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIENvbnRlbnRFbmNvZGluZyIsIHJlc3BvbnNlLmhlYWRlcigiQ29udGVudC1FbmNvZGluZyIsICJ1dGYtOCIpKTsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicGFzc2VkIGNvbnRlbnRlbmNvZGluZyIsIHJlc3BvbnNlLmhlYWRlcigiY29udGVudC1lbmNvZGluZyIsICJ1dGYtOCIpKTsKCgogICAgICAgICAgICAgICAgICAgIHdlYlJlc291cmNlUmVzcG9uc2UgPSBuZXcgV2ViUmVzb3VyY2VSZXNwb25zZShyZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtdHlwZSIsICJ0ZXh0L3BsYWluIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLmhlYWRlcigiY29udGVudC1lbmNvZGluZyIsICJ1dGYtOCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5ib2R5KCkuYnl0ZVN0cmVhbSgpKTsKICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IG11bHRpbWFwSGVhZGVycyA9IHJlc3BvbnNlLmhlYWRlcnMoKS50b011bHRpbWFwKCk7CiAgICAgICAgICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBoZWFkZXJzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGtleSA6IG11bHRpbWFwSGVhZGVycy5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIW11bHRpbWFwSGVhZGVycy5nZXQoa2V5KS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gc3dpdGNoIHRvIGdldHRpbmcgbGFzdCBoZWFkZXIgdmFsdWUgbGlrZSBva2h0dHAgZG9lcyAoc2VlICdBY2Nlc3NpbmcgSGVhZGVycycgYXQgaHR0cHM6Ly9naXRodWIuY29tL3NxdWFyZS9va2h0dHAvd2lraS9SZWNpcGVzCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZhbHVlID0gbXVsdGltYXBIZWFkZXJzLmdldChrZXkpLmdldCgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnMucHV0KGtleSwgdmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHdlYlJlc291cmNlUmVzcG9uc2Uuc2V0UmVzcG9uc2VIZWFkZXJzKGhlYWRlcnMpOwoKICAgICAgICAgICAgICAgICAgICB3ZWJSZXNvdXJjZVJlc3BvbnNlLnNldFN0YXR1c0NvZGVBbmRSZWFzb25QaHJhc2UocmVzcG9uc2UuY29kZSgpLCByZXNwb25zZS5tZXNzYWdlKCkpOwoKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHdlYlJlc291cmNlUmVzcG9uc2U7Cg==</text>
@@ -13916,9 +13916,9 @@
       </register>
     </registers>
     <search>
-      <last-search>javascript</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>javascript</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13926,7 +13926,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oneventmain</entry>
         <entry>onevent</entry>
         <entry>set</entry>
         <entry>buildVehicleReq</entry>
@@ -13946,6 +13945,7 @@
         <entry>host</entry>
         <entry>tools</entry>
         <entry>javascript</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
