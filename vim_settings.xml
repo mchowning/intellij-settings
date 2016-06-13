@@ -254,6 +254,13 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteCLI.java" timestamp="1465672650670">
+        <mark key="'" line="48" column="16" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462455584323">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="48" />
@@ -1417,6 +1424,13 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/OAuthClientOutboundHandler.java" timestamp="1465663641948">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="62" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/starfighter/stockfighter/src/starter.py" timestamp="1461150975254">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="66" />
@@ -1730,6 +1744,13 @@
         <mark key="^" line="10" column="76" />
         <mark key="." line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/funsets/src/test/scala/funsets/FunSetSuite.scala" timestamp="1465825211999">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="134" column="13" />
+        <mark key="]" line="134" column="13" />
+        <mark key="." line="134" column="13" />
+        <mark key="^" line="133" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/VehicleInfoBlockHeader.java" timestamp="1461068903590">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -1897,6 +1918,12 @@
         <mark key="." line="45" column="75" />
         <mark key="^" line="45" column="75" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1465825277021">
+        <mark key="[" line="43" column="63" />
+        <mark key="]" line="43" column="63" />
+        <mark key="." line="43" column="63" />
+        <mark key="^" line="43" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/GetFileAction.java" timestamp="1465214001751">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -2021,10 +2048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
-      <jump line="18" column="31" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
-      <jump line="4" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="7" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="23" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="31" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -2121,13 +2144,17 @@
       <jump line="210" column="8" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/upload/HttpUploadServerHandler.java" />
       <jump line="211" column="8" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/upload/HttpUploadServerHandler.java" />
       <jump line="266" column="77" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/upload/HttpUploadClient.java" />
+      <jump line="95" column="8" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="82" column="48" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="86" column="15" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="24" column="8" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/funsets/src/test/scala/funsets/FunSetSuite.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHNldE9BdXRoVG9rZW4oT0F1dGhUb2tlbiBvQXV0aFRva2VuKSB7CiAgICAgICAgdGhpcy5vQXV0aFRva2VuID0gb0F1dGhUb2tlbjsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly94ID0+IHMoeCkgJiYgcCh4KQ==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12721,19 +12748,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">Ly94ID0+IHMoeCkgJiYgcCh4KQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib2R5bGlzdFw+</text>
+        <text>asdflj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsLmV4ZWN1dGUob0F1dGhUb2tlbkNvbnN1bWVyLmFuZFRoZW4oZXh0ZXJuYWxDb25zdW1lcikpOwo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGNvbnRhaW5zKHMsIDEpLCAiVW5pb24gMSIpCiAgICAgIGFzc2VydCghY29udGFpbnMocywgMiksICJVbmlvbiAyIikK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHNldE9BdXRoVG9rZW4oT0F1dGhUb2tlbiBvQXV0aFRva2VuKSB7CiAgICAgICAgdGhpcy5vQXV0aFRva2VuID0gb0F1dGhUb2tlbjsKICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly94ID0+IHMoeCkgJiYgcCh4KQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12753,19 +12780,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>?</text>
       </register>
       <register name="3" type="4">
-        <text>T</text>
+        <text>?</text>
       </register>
       <register name="4" type="4">
-        <text>h</text>
+        <text>?</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>!</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>3</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14053,22 +14080,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>A</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>this::setOAuthToken</text>
+        <text>?</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib2R5bGlzdFw+</last-search>
+      <last-search>asdflj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib2R5bGlzdFw+</last-pattern>
+      <last-pattern>asdflj</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute encoding="base64">XDxib2R5bGlzdFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -14076,8 +14103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry>asfdlj</entry>
         <entry>ctx.write</entry>
         <entry>asdljkf</entry>
         <entry encoding="base64">XDxvQXV0aE1vZGVsXD4=</entry>
@@ -14096,6 +14121,8 @@
         <entry>asldjf</entry>
         <entry encoding="base64">XDxkZWNvZGVyXD4=</entry>
         <entry encoding="base64">XDxib2R5bGlzdFw+</entry>
+        <entry>ignore</entry>
+        <entry>asdflj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2wyL3kvZw==</entry>
