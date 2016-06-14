@@ -984,12 +984,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/BasicServer.java" timestamp="1465851426181">
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/BasicServer.java" timestamp="1465866466183">
         <mark key="'" line="31" column="43" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="12" />
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="34" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" timestamp="1463602937187">
         <mark key="[" line="4" column="0" />
@@ -1069,11 +1069,11 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/SharedConstants.java" timestamp="1465853934999">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="44" />
-        <mark key="^" line="23" column="44" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/SharedConstants.java" timestamp="1465866034343">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+        <mark key="^" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenterTest.java" timestamp="1462390946893">
         <mark key="[" line="24" column="13" />
@@ -1904,8 +1904,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12499,7 +12499,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PORT</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>sendError</text>
@@ -12510,8 +12510,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12530,20 +12530,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9BdXRoVmVyaWZpY2F0aW9uU2VydmVySGFuZGxlcgogICAgICAgICAgICBPX0FVVEhfU0VSVkVSX0hBTkRMRVIgPSBuZXcgT0F1dGhWZXJpZmljYXRpb25TZXJ2ZXJIYW5kbGVyKCk7Cg==</text>
+      <register name="2" type="4">
+        <text>localhost</text>
       </register>
       <register name="3" type="4">
-        <text>PORT</text>
+        <text>&quot;127.0.0.0&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL25ldyBGaWxlU2VydmVyKE9fQVVUSF9TRVJWRVJfSEFORExFUikucnVuKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>127.0.0.0</text>
       </register>
       <register name="5" type="4">
-        <text>oAuthVerificationServerHandler</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>OAuthVerificationServerHandler oAuthVerificationServerHandler</text>
+        <text>HOST</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13830,14 +13830,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIHJlbW92ZVRva2VuKE9BdXRoVG9rZW4gdG9rZW4pIHsKICAgICAgICBpc3N1ZWRUb2tlbnMucmVtb3ZlKHRva2VuLmFjY2Vzc1Rva2VuKTsKICAgICAgICBpc3N1ZWRSZWZyZXNoVG9rZW5zLnJlbW92ZSh0b2tlbi5yZWZyZXNoVG9rZW4pOwogICAgfQo=</text>
+      <register name="7" type="4">
+        <text>localhost</text>
       </register>
-      <register name="8" type="4">
-        <text>public</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIE9BdXRoVG9rZW4gZ2V0V2l0aFJlZnJlc2hUb2tlbihTdHJpbmcgcmVmcmVzaFRva2VuKSB7CiAgICAgICAgcmV0dXJuIGlzc3VlZFJlZnJlc2hUb2tlbnMuZ2V0KHJlZnJlc2hUb2tlbik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9BdXRoVmVyaWZpY2F0aW9uU2VydmVySGFuZGxlcgogICAgICAgICAgICBPX0FVVEhfU0VSVkVSX0hBTkRMRVIgPSBuZXcgT0F1dGhWZXJpZmljYXRpb25TZXJ2ZXJIYW5kbGVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
