@@ -68,10 +68,6 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1465332899975">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="41" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1323,7 +1319,8 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/raw/countryconfig_na.json" timestamp="1465929183567">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/raw/countryconfig_na.json" timestamp="1465932306633">
+        <mark key="'" line="119" column="48" />
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="83" />
       </file>
@@ -1838,7 +1835,7 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1465931185557" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1465932018280" />
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -1871,7 +1868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="21" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/AbstractDemoSDK.java" />
       <jump line="43" column="66" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
       <jump line="18" column="31" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
@@ -1971,6 +1967,7 @@
       <jump line="209" column="43" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
       <jump line="191" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
       <jump line="308" column="40" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
+      <jump line="119" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/raw/countryconfig_na.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -12574,7 +12571,7 @@
         <text>value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFkZXJzXD4=</text>
+        <text>buick</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0IG9raHR0cFJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC51cmwodXJsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
@@ -13916,9 +13913,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFkZXJzXD4=</last-search>
+      <last-search>buick</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFkZXJzXD4=</last-pattern>
+      <last-pattern>buick</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13926,7 +13923,6 @@
     </search>
     <history>
       <history-search>
-        <entry>security</entry>
         <entry encoding="base64">XDxzZWN1cml0eV92ZXJzaW9uXD4=</entry>
         <entry>remotesdk</entry>
         <entry encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</entry>
@@ -13946,6 +13942,7 @@
         <entry>showEv</entry>
         <entry>asdlfkj</entry>
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
+        <entry>buick</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
