@@ -375,10 +375,11 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/assets/WebViewAjax.html" timestamp="1465919497393">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/assets/WebViewAjax.html" timestamp="1465927499392">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
@@ -1984,8 +1985,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12579,7 +12580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>url, httpRequest.status</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkZXJzXD4=</text>
@@ -12590,8 +12591,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>p</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12610,20 +12611,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>p</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVjZWl2ZWRFcnJvcihXZWJWaWV3IHZpZXcsIGludCBlcnJvckNvZGUsIFN0cmluZyBkZXNjcmlwdGlvbiwgU3RyaW5nIGZhaWxpbmdVcmwpIHsKICAgICAgICAgICAgICAgIHN1cGVyLm9uUmVjZWl2ZWRFcnJvcih2aWV3LCBlcnJvckNvZGUsIGRlc2NyaXB0aW9uLCBmYWlsaW5nVXJsKTsKICAgICAgICAgICAgICAgIExvZy5lKCJVcmlMb2FkV2ViVmlldyIsIFN0cmluZy5mb3JtYXQoImVycm9yQ29kZTogJXNcbmRlc2NyaXB0aW9uOiAlc1xuZmFpbGluZ1VybDogJXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvckNvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWlsaW5nVXJsKSk7CiAgICAgICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwUmVxdWVzdC5vbnJlYWR5c3RhdGVjaGFuZ2UgPSBmdW5jdGlvbigpewogICAgICAgICAgICBpZiAoaHR0cFJlcXVlc3QucmVhZHlTdGF0ZSA9PT0gNCkgewogICAgICAgICAgICAgICAgaWYgKGh0dHBSZXF1ZXN0LnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgICAgICAgICAgICAgYnJvd3Nlck9iamVjdC5vbkFqYXhTdWNjZXNzKHVybCwgaHR0cFJlcXVlc3QucmVzcG9uc2VUZXh0KTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgYnJvd3Nlck9iamVjdC5vbkFqYXhFcnJvcih1cmwsIGh0dHBSZXF1ZXN0LnN0YXR1cyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
+      <register name="6" type="4">
+        <text>h</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13910,14 +13911,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGVudW0gRU5VTUVSIHsgTUFUVCwgQVlFU0hBIH0KCiAgICBpbnRlcmZhY2UgQWpheENhbGxiYWNrcyB7CiAgICAgICAgQEphdmFzY3JpcHRJbnRlcmZhY2UKICAgICAgICB2b2lkIG9uQWpheFN1Y2Nlc3MoU3RyaW5nIGhvc3QsIFN0cmluZyB1cmwsIFN0cmluZyBodG1sKTsKICAgICAgICBASmF2YXNjcmlwdEludGVyZmFjZQogICAgICAgIHZvaWQgb25BamF4RXJyb3IoU3RyaW5nIGhvc3QsIFN0cmluZyB1cmwsIGludCBlcnJvckNvZGUpOyAvLyBUT0RPIHByb2JhYmx5IGdvaW5nIHRvIG5lZWQgbW9yZSBoZXJlCiAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>url</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFTlVNRVIudmFsdWVzKClbMF0udG9TCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
