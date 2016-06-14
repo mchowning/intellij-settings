@@ -701,6 +701,12 @@
         <mark key="^" line="40" column="44" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/factorial/FactorialServer.java" timestamp="1465872557336">
+        <mark key="[" line="46" column="63" />
+        <mark key="]" line="46" column="67" />
+        <mark key="." line="46" column="67" />
+        <mark key="^" line="46" column="67" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/utils/TimeUtil.java" timestamp="1464568844136">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
@@ -839,7 +845,7 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1465730602311">
+      <file name="/fragment.java" timestamp="1465872540002">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -1013,12 +1019,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/BasicServer.java" timestamp="1465866466183">
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/BasicServer.java" timestamp="1465872276900">
         <mark key="'" line="31" column="43" />
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-        <mark key="." line="34" column="12" />
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="57" />
+        <mark key="^" line="24" column="59" />
+        <mark key="." line="23" column="57" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" timestamp="1463602937187">
         <mark key="[" line="4" column="0" />
@@ -1961,8 +1967,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBPQXV0aFNlcnZlcih0b2tlbk1hcCkucnVuKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12556,7 +12562,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>alsdkjf</text>
@@ -12567,8 +12573,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBPQXV0aFNlcnZlcih0b2tlbk1hcCkucnVuKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12587,20 +12593,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
-      <register name="4" type="4">
-        <text>;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBPQXV0aFNlcnZlcih0b2tlbk1hcCkucnVuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
-      <register name="6" type="4">
-        <text>127.0.0.1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13888,13 +13894,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>localhost</text>
+        <text>;</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;127.0.0.0&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>127.0.0.0</text>
+        <text>127.0.0.1</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
