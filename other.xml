@@ -111,6 +111,10 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
@@ -125,7 +129,6 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
-    <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
