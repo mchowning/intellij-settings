@@ -191,11 +191,11 @@
         <mark key="]" line="1" column="39" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1465995351878">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="145" column="9" />
-        <mark key="." line="145" column="9" />
-        <mark key="^" line="145" column="9" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1465996208817">
+        <mark key="[" line="223" column="65" />
+        <mark key="]" line="223" column="81" />
+        <mark key="^" line="223" column="81" />
+        <mark key="." line="223" column="81" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
@@ -470,10 +470,10 @@
         <mark key="." line="18" column="94" />
         <mark key="^" line="18" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/worksheet.sc" timestamp="1465989346885">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/worksheet.sc" timestamp="1465995907417">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="77" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/server/TimeServer.java" timestamp="1464570260394">
         <mark key="[" line="8" column="62" />
@@ -1950,8 +1950,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB3aHkgZG9lc24ndCB0aGlzIHRvcCBvbmUgd29yayB3aGVuIEkgcnVuIG1haW4/Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dCA9PiB7CiAgICBnb29nbGUuZm9sZExlZnQoZmFsc2UpKChiLCB0ZXh0KSA9PiBiIHx8IHQudGV4dC5jb250YWlucyh0ZXh0KSkKICB9</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12545,19 +12545,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>other</text>
+        <text encoding="base64">ICAgIGFwcGxlLmZvbGRMZWZ0KGZhbHNlKSgoYiwgdGV4dCkgPT4gYiB8fCB0LnRleHQuY29udGFpbnModGV4dCkp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWx0ZXJBY2NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgdW5pb24odGhhdDogVHdlZXRTZXQpOiBUd2VldFNldCA9IHRoYXQudW5pb24obGVmdC51bmlvbihyaWdodCkpLmluY2woZWxlbSkK</text>
+        <text encoding="base64">ICB2YWwgZ29vZ2xlID0gTGlzdCgiYW5kcm9pZCIsICJBbmRyb2lkIiwgImdhbGF4eSIsICJHYWxheHkiLCAibmV4dXMiLCAiTmV4dXMiKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB3aHkgZG9lc24ndCB0aGlzIHRvcCBvbmUgd29yayB3aGVuIEkgcnVuIG1haW4/Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dCA9PiB7CiAgICBnb29nbGUuZm9sZExlZnQoZmFsc2UpKChiLCB0ZXh0KSA9PiBiIHx8IHQudGV4dC5jb250YWlucyh0ZXh0KSkKICB9</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12576,20 +12576,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gIEdvb2dsZVZzQXBwbGUuZ29vZ2xlVHdlZXRzLmZvcmVhY2gocHJpbnRsbikKLy8gIFR3ZWV0UmVhZGVyLmFsbFR3ZWV0cy5mb3JlYWNoKHByaW50bG4pCg==</text>
+      <register name="2" type="4">
+        <text>{
+
+  }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gIGRlZiB1bmlvbih0aGF0OiBUd2VldFNldCk6IFR3ZWV0U2V0ID0gdGhhdC51bmlvbihsZWZ0LnVuaW9uKHJpZ2h0KSkuaW5jbChlbGVtKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGFwcGxlLmZvbGRMZWZ0KGZhbHNlKSgoYiwgdGV4dCkgPT4gYiB8fCB0LnRleHQuY29udGFpbnModGV4dCkp</text>
       </register>
       <register name="4" type="4">
-        <text>other</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>right</text>
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>left</text>
+        <text>e</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13877,13 +13879,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>that</text>
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>reduce</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIHVuaW9uKHRoYXQ6IFR3ZWV0U2V0KTogVHdlZXRTZXQgPSB0aGF0LnVuaW9uKGxlZnQudW5pb24ocmlnaHQpKS5pbmNsKGVsZW0pCg==</text>
+        <text encoding="base64">ICAvLyBGSVhNRQo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
