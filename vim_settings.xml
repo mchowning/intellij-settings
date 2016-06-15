@@ -886,12 +886,11 @@
         <mark key="^" line="67" column="30" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1465934489277">
-        <mark key="y" line="19" column="36" />
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="23" column="36" />
-        <mark key="^" line="23" column="36" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1466003496543">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/gradle/wrapper/gradle-wrapper.properties" timestamp="1462470580738">
         <mark key="[" line="5" column="69" />
@@ -1844,8 +1843,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1465933534164">
-        <mark key="[" line="179" column="132" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466004274616">
+        <mark key="'" line="181" column="77" />
+        <mark key="[" line="140" column="75" />
+        <mark key="]" line="140" column="85" />
+        <mark key="^" line="140" column="85" />
+        <mark key="." line="140" column="85" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
@@ -1879,8 +1882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="66" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
       <jump line="18" column="31" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
       <jump line="4" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="7" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1979,13 +1980,15 @@
       <jump line="191" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
       <jump line="308" column="40" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
       <jump line="119" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/raw/countryconfig_na.json" />
+      <jump line="171" column="75" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
+      <jump line="176" column="77" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getResponseHeaders</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12579,19 +12582,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RWRpdFRleHQg</text>
+        <text>getResponseHeaders</text>
       </register>
       <register name="/" type="4">
-        <text>buick</text>
+        <text encoding="base64">XDxib2R5XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>https://m.att.com/myatt/#/login/usage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb25QaHJhc2UiLCBlcnJvclJlc3BvbnNlLmdldFJlYXNvblBocmFzZSgpKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>getResponseHeaders</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12610,20 +12613,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>reasonPhrase</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uY2FsbE9uQ2xpY2soKTsK</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2VkaXRUZXh0LnNldFRleHQoImh0dHA6Ly93d3cuZ29vZ2xlLmNvbSIpOwogICAgICAgIC8vZWRpdFRleHQuc2V0VGV4dCgiaHR0cHM6Ly9tLmdvb2RoYW5kc3Jlc2N1ZS5jb20vZ2hydy9jaGV2cm9sZXQiKTsK</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2VkaXRUZXh0LnNldFRleHQoImh0dHBzOi8vbS5nb29kaGFuZHNyZXNjdWUuY29tL2docncvY2hldnJvbGV0Iik7Cg==</text>
+      <register name="5" type="4">
+        <text>getReasonPhrase</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0VGV4dC5zZXRUZXh0KCJodHRwczovLyIpOwo=</text>
+      <register name="6" type="4">
+        <text>statusCode</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13910,23 +13913,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlYlZpZXcubG9hZFVybCh1cmwpOwo=</text>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">RWRpdFRleHQg</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>getStatusCode</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>buick</last-search>
+      <last-search encoding="base64">XDxib2R5XD4=</last-search>
       <last-offset />
-      <last-pattern>buick</last-pattern>
+      <last-pattern encoding="base64">XDxib2R5XD4=</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13934,7 +13937,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWN1cml0eV92ZXJzaW9uXD4=</entry>
         <entry>remotesdk</entry>
         <entry encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</entry>
         <entry>oncreate</entry>
@@ -13954,6 +13956,7 @@
         <entry>asdlfkj</entry>
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry>buick</entry>
+        <entry encoding="base64">XDxib2R5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
