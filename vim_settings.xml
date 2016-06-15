@@ -181,6 +181,13 @@
         <mark key="]" line="1" column="39" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1466013344194">
+        <mark key="'" line="215" column="7" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="148" column="86" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="10" />
@@ -456,6 +463,11 @@
         <mark key="]" line="18" column="94" />
         <mark key="." line="18" column="94" />
         <mark key="^" line="18" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/worksheet.sc" timestamp="1466012979133">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/server/TimeServer.java" timestamp="1464570260394">
         <mark key="[" line="8" column="62" />
@@ -1882,8 +1894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="31" filename="$USER_HOME$/dev/gm/remotelink/ad-mygm-sdk/remote-sdk/src/test/java/com/gm/onstar/sdk/VehicleSDKFactoryTest.java" />
-      <jump line="4" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="7" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="23" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1982,13 +1992,15 @@
       <jump line="119" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.translations/android-na/0.0.1-SNAPSHOT/res/raw/countryconfig_na.json" />
       <jump line="171" column="75" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
       <jump line="176" column="77" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
+      <jump line="142" column="19" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="221" column="7" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getResponseHeaders</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBGSVhNRSB1Z2x5IGltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12582,10 +12594,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getResponseHeaders</text>
+        <text>val mr = left.mostRetweeted</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib2R5XD4=</text>
+        <text>fold</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb25QaHJhc2UiLCBlcnJvclJlc3BvbnNlLmdldFJlYXNvblBocmFzZSgpKQo=</text>
@@ -12593,8 +12605,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>getResponseHeaders</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLyBGSVhNRSB1Z2x5IGltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12613,20 +12625,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>reasonPhrase</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbG1yID0gbGVmdC5tb3N0UmV0d2VldGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcm1yID0gcmlnaHQubW9zdFJldHdlZXRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxtci5yZXR3ZWV0cyA+IHJtci5yZXR3ZWV0cyAmJiBsbXIucmV0d2VldHMgPiBlbGVtLnJldHdlZXRzKSBsbXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgaWYgKHJtci5yZXR3ZWV0cyA+IGxtci5yZXR3ZWV0cyAmJiBybXIucmV0d2VldHMgPiBlbGVtLnJldHdlZXRzKSBybXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgZWxlbQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtci5yZXR3ZWV0cyA+IGVsZW0ucmV0d2VldHMpIG1yIGVsc2UgZWxlbQo=</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>val mr = left.mostRetweeted</text>
       </register>
-      <register name="5" type="4">
-        <text>getReasonPhrase</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtci5yZXR3ZWV0cyA+IGVsZW0ucmV0d2VldHMpIG1yIGVsc2UgZWxlbQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>statusCode</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbXIgPSByaWdodC5tb3N0UmV0d2VldGVkCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13913,23 +13925,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBtYXgodDE6IFR3ZWV0LCB0MjogVHdlZXQpOiBUd2VldCA9IAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>getStatusCode</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIG1heChpbnRzOiBJbnQqKTogSW50ID0gPz8/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib2R5XD4=</last-search>
+      <last-search>fold</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib2R5XD4=</last-pattern>
+      <last-pattern>fold</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13937,7 +13949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remotesdk</entry>
         <entry encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</entry>
         <entry>oncreate</entry>
         <entry>persist</entry>
@@ -13957,6 +13968,7 @@
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry>buick</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
+        <entry>fold</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
