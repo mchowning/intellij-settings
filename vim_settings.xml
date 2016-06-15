@@ -191,12 +191,12 @@
         <mark key="]" line="1" column="39" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1465941790635">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1465989208572">
         <mark key="'" line="49" column="6" />
-        <mark key="[" line="141" column="9" />
-        <mark key="]" line="141" column="11" />
-        <mark key="^" line="141" column="11" />
-        <mark key="." line="141" column="11" />
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="48" />
+        <mark key="^" line="112" column="66" />
+        <mark key="." line="44" column="48" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
@@ -399,6 +399,10 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala" timestamp="1465989235597">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="18" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/advent-of-code/src/Day5.hs" timestamp="1452824213239">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -466,6 +470,11 @@
         <mark key="]" line="18" column="94" />
         <mark key="." line="18" column="94" />
         <mark key="^" line="18" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/worksheet.sc" timestamp="1465989346885">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/server/TimeServer.java" timestamp="1464570260394">
         <mark key="[" line="8" column="62" />
@@ -888,13 +897,6 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="67" column="30" />
         <mark key="." line="22" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1465572795042">
-        <mark key="y" line="19" column="36" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="11" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/gradle/wrapper/gradle-wrapper.properties" timestamp="1462470580738">
         <mark key="[" line="5" column="69" />
@@ -1949,8 +1951,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>elem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12544,19 +12546,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>elem</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWx0ZXJBY2NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZmlsdGVyQWNjKHA6IFR3ZWV0ID0+IEJvb2xlYW4sIGFjYzogVHdlZXRTZXQpOiBUd2VldFNldCA9IHsgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZXQxID0gbmV3IEVtcHR5CiAgICB2YWwgc2V0MiA9IHNldDEuaW5jbChuZXcgVHdlZXQoImEiLCAiYSBib2R5IiwgMjApKQogICAgdmFsIHNldDMgPSBzZXQyLmluY2wobmV3IFR3ZWV0KCJiIiwgImIgYm9keSIsIDIwKSkKICAgIHZhbCBjID0gbmV3IFR3ZWV0KCJjIiwgImMgYm9keSIsIDcpCiAgICB2YWwgZCA9IG5ldyBUd2VldCgiZCIsICJkIGJvZHkiLCA5KQogICAgdmFsIHNldDRjID0gc2V0My5pbmNsKGMpCiAgICB2YWwgc2V0NGQgPSBzZXQzLmluY2woZCkKICAgIHZhbCBzZXQ1ID0gc2V0NGMuaW5jbChkKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>elem</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12576,19 +12578,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>elem</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>applyToBranch</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>applyToBranch</text>
+        <text>h</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWx0ZXJlZExlZnQgPSBpZiAobGVmdC5pc0luc3RhbmNlT2ZbRW1wdHldKSBsZWZ0IGVsc2UgZmlsdGVyQWNjKCkKICAgIGVsc2UgaWYgKHAoZWxlbSkpIGZpbHRlckFjYyhwLCBsZWZ0KS51bmlvbihmaWx0ZXJBY2MocCwgcmlnaHQpKS5pbmNsKGVsZW0pCiAgICBlbHNlIGZpbHRlckFjYyAocCwgbGVmdCkudW5pb24oZmlsdGVyQWNjKHAsIHJpZ2h0KSkuaW5jbChlbGVtKQo=</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13875,14 +13877,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWx0ZXJlZExlZnQgPSBpZiAobGVmdC5pc0luc3RhbmNlT2ZbRW1wdHldKSBsZWZ0IGVsc2UgZmlsdGVyQWNjKCkK</text>
+      <register name="7" type="4">
+        <text>this</text>
       </register>
       <register name="8" type="4">
-        <text>ranch</text>
+        <text>right</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+      <register name="9" type="4">
+        <text>left</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
