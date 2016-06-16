@@ -335,6 +335,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/intermediates/exploded-aar/com.gm.gemini.translations/android-base/0.0.1-SNAPSHOT/res/values/ble_pairing-strings.xml" timestamp="1466085774095" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/CriticalDiagnosticUtil.java" timestamp="1461865470265">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="10" />
@@ -547,12 +548,12 @@
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" timestamp="1466000890101">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="n" line="54" column="51" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" timestamp="1466086165610">
+        <mark key="[" line="91" column="21" />
+        <mark key="]" line="92" column="15" />
+        <mark key="n" line="55" column="51" />
+        <mark key="^" line="92" column="15" />
+        <mark key="." line="105" column="41" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -1854,12 +1855,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466004274616">
-        <mark key="'" line="181" column="77" />
-        <mark key="[" line="140" column="75" />
-        <mark key="]" line="140" column="85" />
-        <mark key="." line="140" column="85" />
-        <mark key="^" line="140" column="85" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466086137184">
+        <mark key="'" line="176" column="77" />
+        <mark key="[" line="135" column="75" />
+        <mark key="]" line="135" column="85" />
+        <mark key="." line="135" column="85" />
+        <mark key="^" line="135" column="85" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
@@ -1999,7 +2000,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSLnN0cmluZy5ibGVfcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12596,7 +12597,7 @@
         <text>val mr = left.mostRetweeted</text>
       </register>
       <register name="/" type="4">
-        <text>fold</text>
+        <text>alsdkjf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb25QaHJhc2UiLCBlcnJvclJlc3BvbnNlLmdldFJlYXNvblBocmFzZSgpKQo=</text>
@@ -12605,7 +12606,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSLnN0cmluZy5ibGVfcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12625,19 +12626,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB1Z2x5IGltcGxlbWVudGF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG1yID0gbGVmdC5tb3N0UmV0d2VldGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcm1yID0gcmlnaHQubW9zdFJldHdlZXRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxtci5yZXR3ZWV0cyA+IHJtci5yZXR3ZWV0cyAmJiBsbXIucmV0d2VldHMgPiBlbGVtLnJldHdlZXRzKSBsbXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgaWYgKHJtci5yZXR3ZWV0cyA+IGxtci5yZXR3ZWV0cyAmJiBybXIucmV0d2VldHMgPiBlbGVtLnJldHdlZXRzKSBybXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgZWxlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtci5yZXR3ZWV0cyA+IGVsZW0ucmV0d2VldHMpIG1yIGVsc2UgZWxlbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbmV3IEFzeW5jVGFzazxWb2lkLCBWb2lkLCBSZXNwb25zZT4oKSB7CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICAgICAgLy8gICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAvLyAgICBwcm90ZWN0ZWQgUmVzcG9uc2UgZG9JbkJhY2tncm91bmQoVm9pZC4uLiBwYXJhbXMpIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICBSZXNwb25zZSByZXNwb25zZSA9IG51bGw7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgcmVzcG9uc2UgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3Q2FsbChva2h0dHBSZXF1ZXN0KS5leGVjdXRlKCk7CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICAgICAgLy8gICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICB9CiAgICAgICAgICAgICAgICAvLyAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgICAgICAgICAgICAgLy8gICAgfQogICAgICAgICAgICAgICAgLy8KICAgICAgICAgICAgICAgIC8vICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgLy8gICAgcHJvdGVjdGVkIHZvaWQgb25Qb3N0RXhlY3V0ZShSZXNwb25zZSByZXNwb25zZSkgewogICAgICAgICAgICAgICAgLy8gICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgIHdlYlZpZXcubG9hZERhdGFXaXRoQmFzZVVSTCh1cmwsCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5ib2R5KCkuc3RyaW5nKCksCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtdHlwZSIsCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuYm9keSgpCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29udGVudFR5cGUoKQogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnR5cGUoKSksCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtZW5jb2RpbmciLCAidXRmLTgiKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwogICAgICAgICAgICAgICAgLy8gICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICB9CiAgICAgICAgICAgICAgICAvLyAgICB9CiAgICAgICAgICAgICAgICAvL30uZXhlY3V0ZSgpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>val mr = left.mostRetweeted</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBSLnN0cmluZy5ibGVfcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtci5yZXR3ZWV0cyA+IGVsZW0ucmV0d2VldHMpIG1yIGVsc2UgZWxlbQo=</text>
+        <text encoding="base64">ICAvLyBGSVhNRSB1Z2x5IGltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13925,22 +13926,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbXIgPSByaWdodC5tb3N0UmV0d2VldGVkCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG1yID0gbGVmdC5tb3N0UmV0d2VldGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcm1yID0gcmlnaHQubW9zdFJldHdlZXRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxtci5yZXR3ZWV0cyA+IHJtci5yZXR3ZWV0cyAmJiBsbXIucmV0d2VldHMgPiBlbGVtLnJldHdlZXRzKSBsbXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgaWYgKHJtci5yZXR3ZWV0cyA+IGxtci5yZXR3ZWV0cyAmJiBybXIucmV0d2VldHMgPiBlbGVtLnJldHdlZXRzKSBybXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgZWxlbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYXgodDE6IFR3ZWV0LCB0MjogVHdlZXQpOiBUd2VldCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtci5yZXR3ZWV0cyA+IGVsZW0ucmV0d2VldHMpIG1yIGVsc2UgZWxlbQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>val mr = left.mostRetweeted</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>fold</last-search>
+      <last-search>alsdkjf</last-search>
       <last-offset />
-      <last-pattern>fold</last-pattern>
+      <last-pattern>alsdkjf</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13948,7 +13949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remotesdk</entry>
         <entry encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</entry>
         <entry>oncreate</entry>
         <entry>persist</entry>
@@ -13968,6 +13968,7 @@
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry>buick</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
+        <entry>alsdkjf</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
