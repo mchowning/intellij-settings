@@ -542,11 +542,13 @@
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" timestamp="1466090603863">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="n" line="50" column="51" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" timestamp="1466093244059">
+        <mark key="'" line="84" column="34" />
+        <mark key="[" line="101" column="68" />
+        <mark key="]" line="101" column="68" />
+        <mark key="n" line="46" column="51" />
+        <mark key="." line="101" column="68" />
+        <mark key="^" line="101" column="67" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -1850,11 +1852,11 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466091006547">
-        <mark key="'" line="179" column="77" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466093297486">
+        <mark key="'" line="178" column="77" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
@@ -1888,11 +1890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="15" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="23" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="31" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="39" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="47" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="55" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="63" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1988,13 +1985,18 @@
       <jump line="176" column="77" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
       <jump line="142" column="19" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="221" column="7" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="91" column="48" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
+      <jump line="96" column="26" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
+      <jump line="122" column="28" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
+      <jump line="123" column="26" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
+      <jump line="88" column="34" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50VHlwZUhlYWRlci5zdWJzdAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC8vTG9nLmUoImhlYWRlcnMiLCByZXNwb25zZS5oZWFkZXJzKCkudG9TdHJpbmcoKSk7Ci8vICAgICAgICAgICAgICAgICAgICAvL0xvZy5lKCJjb250ZW50dHlwZSIsIHdlYlJlc291cmNlUmVzcG9uc2UuZ2V0TWltZVR5cGUoKSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12588,19 +12590,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>xdomainrequest</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>alsdkjf</text>
+        <text>loadData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3hkb21haW5yZXF1ZXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuaGVhZGVyKCJjb250ZW50LXR5cGUiLCByZXNwb25zZS5ib2R5KCkuY29udGVudFR5cGUoKS50eXBlKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtZW5jb2RpbmciLCAidXRmLTgiKSwK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50VHlwZUhlYWRlci5zdWJzdAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC8vTG9nLmUoImhlYWRlcnMiLCByZXNwb25zZS5oZWFkZXJzKCkudG9TdHJpbmcoKSk7Ci8vICAgICAgICAgICAgICAgICAgICAvL0xvZy5lKCJjb250ZW50dHlwZSIsIHdlYlJlc291cmNlUmVzcG9uc2UuZ2V0TWltZVR5cGUoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12619,20 +12621,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vCgogICAgICAgICAgICAgICAgLy93ZWJWaWV3LmxvYWRVcmwodXJsKTsKCiAgICAgICAgICAgICAgICAvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwoK</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dpdGggY3JlZGVudGlhbHMnKTsKCiAgICAgICAgICAgeGhyLm9wZW4oJ0dFVCcsIHVybCwgdHJ1ZSk7CiAgICAgICAgICAgeGhyLnNlbmQobnVsbCk7CgogICAgICAgICB9IGVsc2UgaWYgKHR5cGVvZiBYRG9tYWluUmVxdWVzdCAhPSAidW5kZWZpbmVkIikgewo=</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>xdomainrequest</text>
+        <text>8</text>
       </register>
       <register name="5" type="4">
-        <text>xdomainrequest</text>
+        <text>-</text>
       </register>
       <register name="6" type="4">
-        <text>method</text>
+        <text>utf</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13920,22 +13922,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>method</text>
+        <text>&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldENPUlNSZXF1ZXN0KHVybCkgewogICAgICAgIHJldHVybiB4aHI7CiAgICB9Owo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwUmVxdWVzdC5zZW5kKG51bGwpOwo=</text>
+      <register name="9" type="4">
+        <text>response.header(&quot;content-encoding&quot;</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>alsdkjf</last-search>
+      <last-search>loadData</last-search>
       <last-offset />
-      <last-pattern>alsdkjf</last-pattern>
+      <last-pattern>loadData</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13943,7 +13945,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</entry>
         <entry>oncreate</entry>
         <entry>persist</entry>
         <entry encoding="base64">XDxQZXJzaXN0ZWRWZWhpY2xlUmVxdWVzdFw+</entry>
@@ -13963,6 +13964,7 @@
         <entry>buick</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>alsdkjf</entry>
+        <entry>loadData</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
