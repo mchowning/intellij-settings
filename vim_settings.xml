@@ -335,7 +335,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/intermediates/exploded-aar/com.gm.gemini.translations/android-base/0.0.1-SNAPSHOT/res/values/ble_pairing-strings.xml" timestamp="1466085774095" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/CriticalDiagnosticUtil.java" timestamp="1461865470265">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="10" />
@@ -542,13 +541,13 @@
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" timestamp="1466093244059">
-        <mark key="'" line="84" column="34" />
-        <mark key="[" line="101" column="68" />
-        <mark key="]" line="101" column="68" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" timestamp="1466097575427">
+        <mark key="'" line="85" column="34" />
+        <mark key="[" line="54" column="50" />
+        <mark key="]" line="54" column="52" />
         <mark key="n" line="46" column="51" />
-        <mark key="." line="101" column="68" />
-        <mark key="^" line="101" column="67" />
+        <mark key="." line="54" column="52" />
+        <mark key="^" line="54" column="52" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -1852,11 +1851,11 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466094613845">
-        <mark key="'" line="179" column="77" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466097850236">
+        <mark key="'" line="178" column="77" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
@@ -1995,8 +1994,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12590,19 +12589,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>loadData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuaGVhZGVyKCJjb250ZW50LXR5cGUiLCByZXNwb25zZS5ib2R5KCkuY29udGVudFR5cGUoKS50eXBlKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtZW5jb2RpbmciLCAidXRmLTgiKSwK</text>
+        <text encoding="base64">ICAgICAgICBhZGRDbGlja2FibGVUZXh0VmlldygiaHR0cDovL3d3dy5nb29nbGUuY29tIik7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>m</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12622,19 +12621,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBva0h0dHBDbGllbnQuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBva0h0dHBDbGllbnQuY29ubmVjCg==</text>
+        <text encoding="base64">ICAgICAgICBva0h0dHBDbGllbnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPa0h0dHBDbGllbnQgb2tIdHRwQ2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBva0h0dHBDbGllbnQuY29ubmVjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC8vTG9nLmUoImhlYWRlcnMiLCByZXNwb25zZS5oZWFkZXJzKCkudG9TdHJpbmcoKSk7Ci8vICAgICAgICAgICAgICAgICAgICAvL0xvZy5lKCJjb250ZW50dHlwZSIsIHdlYlJlc291cmNlUmVzcG9uc2UuZ2V0TWltZVR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPa0h0dHBDbGllbnQgb2tIdHRwQ2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13921,14 +13920,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC8vTG9nLmUoImhlYWRlcnMiLCByZXNwb25zZS5oZWFkZXJzKCkudG9TdHJpbmcoKSk7Ci8vICAgICAgICAgICAgICAgICAgICAvL0xvZy5lKCJjb250ZW50dHlwZSIsIHdlYlJlc291cmNlUmVzcG9uc2UuZ2V0TWltZVR5cGUoKSk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>8</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
