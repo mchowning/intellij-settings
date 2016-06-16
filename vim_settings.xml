@@ -1843,12 +1843,10 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466047140472">
-        <mark key="'" line="187" column="77" />
-        <mark key="[" line="155" column="46" />
-        <mark key="]" line="155" column="46" />
-        <mark key="." line="155" column="46" />
-        <mark key="^" line="155" column="46" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466077181855">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
@@ -1987,8 +1985,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYlJlc291cmNlUmVzcG9uc2UgcmVzcG9uc2UgPSBzdXBlci5zaG91bGRJbnRlcmNlcHRSZXF1ZXN0KHZpZXcsIHJlcXVlc3QpOwogICAgICAgICAgICAgICAgTG9nLmUoInN0YXR1c19jb2RlIiwgSW50ZWdlci50b1N0cmluZyhyZXNwb25zZS5nZXRTdGF0dXNDb2RlKCkpKTsKICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb25fcGhyYXNlIiwgcmVzcG9uc2UuZ2V0UmVhc29uUGhyYXNlKCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOyAvLyBDUkFTSEVTIT8hCgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12593,8 +12591,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>?</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYlJlc291cmNlUmVzcG9uc2UgcmVzcG9uc2UgPSBzdXBlci5zaG91bGRJbnRlcmNlcHRSZXF1ZXN0KHZpZXcsIHJlcXVlc3QpOwogICAgICAgICAgICAgICAgTG9nLmUoInN0YXR1c19jb2RlIiwgSW50ZWdlci50b1N0cmluZyhyZXNwb25zZS5nZXRTdGF0dXNDb2RlKCkpKTsKICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb25fcGhyYXNlIiwgcmVzcG9uc2UuZ2V0UmVhc29uUGhyYXNlKCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOyAvLyBDUkFTSEVTIT8hCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12613,20 +12611,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>?</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYlJlc291cmNlUmVzcG9uc2UgcmVzcG9uc2UgPSBzdXBlci5zaG91bGRJbnRlcmNlcHRSZXF1ZXN0KHZpZXcsIHVybCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>request</text>
-      </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>request</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13916,11 +13914,11 @@
       <register name="7" type="4">
         <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
+      <register name="8" type="4">
+        <text>/</text>
       </register>
-      <register name="9" type="4">
-        <text>status_code</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
