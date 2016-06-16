@@ -432,9 +432,6 @@
         <mark key="^" line="99" column="7" />
         <mark key="." line="99" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" timestamp="1465834819087">
-        <mark key="'" line="191" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/client/handler/ClientInitialAuthHandlerTest.java" timestamp="1466031288476">
         <mark key="[" line="43" column="48" />
         <mark key="]" line="43" column="71" />
@@ -542,6 +539,12 @@
         <mark key="]" line="24" column="94" />
         <mark key="^" line="24" column="94" />
         <mark key="." line="24" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServer.java" timestamp="1466047992663">
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="45" column="82" />
+        <mark key="^" line="45" column="82" />
+        <mark key="." line="45" column="82" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/test.hs" timestamp="1453826968045">
         <mark key="[" line="0" column="32" />
@@ -1114,6 +1117,13 @@
         <mark key="]" line="6" column="28" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/FileManager.java" timestamp="1466047979598">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticUpsellInfoBlockPresenterTest.java" timestamp="1462206825130">
         <mark key="[" line="56" column="39" />
@@ -1785,6 +1795,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerFileReadWriteHandler.java" timestamp="1466048092645">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="21" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/config/ServiceEnum.java" timestamp="1465218055434">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="17" />
@@ -1931,7 +1947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="15" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="23" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="31" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -2031,13 +2046,14 @@
       <jump line="176" column="77" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" />
       <jump line="142" column="19" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="221" column="7" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="18" column="13" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/FileManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBoYW5kbGUgZmlsZSBjb250ZW50IGFzIGpzb24gY29udGVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12631,19 +12647,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expected</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>fold</text>
+        <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgR3NvbiBHU09OID0gbmV3IEdzb25CdWlsZGVyKCkKICAgICAgICAgICAgLnNldEZpZWxkTmFtaW5nUG9saWN5KEZpZWxkTmFtaW5nUG9saWN5LkxPV0VSX0NBU0VfV0lUSF9VTkRFUlNDT1JFUykKICAgICAgICAgICAgLmNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRDb250ZW50VHlwZShGaWxlIGZpbGUpIHsKICAgICAgICByZXR1cm4gbmV3IE1pbWV0eXBlc0ZpbGVUeXBlTWFwKCkuZ2V0Q29udGVudFR5cGUoZmlsZS5nZXRQYXRoKCkpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBoYW5kbGUgZmlsZSBjb250ZW50IGFzIGpzb24gY29udGVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12663,19 +12679,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>expected</text>
+        <text>h</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc0VxdWFsVG8oZXhwZWN0ZWQpOwo=</text>
+      <register name="3" type="4">
+        <text>SystemPropertyUtil.get(&quot;user.dir&quot;) + File.separator + relativeFilePath;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>String relativeFilePath</text>
       </register>
       <register name="5" type="4">
-        <text>Model</text>
+        <text>/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN1YmplY3QuZ2V0T0F1dGhNb2RlbCgpKQo=</text>
+      <register name="6" type="4">
+        <text>/</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13963,22 +13979,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPQXV0aFRva2VuIAo=</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEZVTExfRklMRV9QQVRIID0gU3lzdGVtUHJvcGVydHlVdGlsLmdldCgidXNlci5kaXIiKSArIEZpbGUuc2VwYXJhdG9yICsgUkVMQVRJVkVfRklMRV9QQVRIOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0Cg==</text>
+      <register name="8" type="4">
+        <text>new Fil</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPQXV0aFRva2VuIGV4cGVjdGVkID0gT0F1dGhUb2tlbi5nZW5lcmF0ZU5ldygpOwogICAgICAgIHNldFJlc3BvbnNlQm9keShleHBlY3RlZCk7CiAgICAgICAgc3ViamVjdC5jaGFubmVsUmVhZDAoY3R4LCByZXNwb25zZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>FULL_FILE_PATH</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>fold</last-search>
+      <last-search encoding="base64">XDxmaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>fold</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlXD4=</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13986,7 +14002,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvblw+</entry>
         <entry>oncreate</entry>
         <entry>persist</entry>
         <entry encoding="base64">XDxQZXJzaXN0ZWRWZWhpY2xlUmVxdWVzdFw+</entry>
@@ -14006,6 +14021,7 @@
         <entry>buick</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>fold</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
