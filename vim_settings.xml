@@ -372,6 +372,7 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientInitialAuthHandler.java" timestamp="1466031214371" />
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/findMinCut.hs" timestamp="1425324481277">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="37" />
@@ -434,10 +435,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" timestamp="1465834819087">
         <mark key="'" line="191" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/client/handler/ClientInitialAuthHandlerTest.java" timestamp="1466030604574">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/client/handler/ClientInitialAuthHandlerTest.java" timestamp="1466031288476">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="71" />
+        <mark key="." line="43" column="71" />
+        <mark key="^" line="43" column="71" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/sum_testcases/3" timestamp="1425324419415">
         <mark key="[" line="0" column="0" />
@@ -892,7 +894,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1466030572867">
+      <file name="/fragment.java" timestamp="1466033351579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/server/DiscardServer.java" timestamp="1464539238561">
@@ -1005,6 +1007,12 @@
         <mark key="]" line="5" column="4" />
         <mark key="^" line="6" column="21" />
         <mark key="." line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerFileReadWriteHandlerTest.java" timestamp="1466033499086">
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="41" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/DeliberationPlayer.java" timestamp="1429321151496">
         <mark key="[" line="16" column="13" />
@@ -1125,6 +1133,10 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/SharedConstants.java" timestamp="1466030903219">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenterTest.java" timestamp="1462390946893">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="13" />
@@ -1200,6 +1212,11 @@
         <mark key="]" line="24" column="51" />
         <mark key="." line="24" column="51" />
         <mark key="^" line="24" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientReadInboundFileHandler.java" timestamp="1466033307396">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/Util.java" timestamp="1464539126005">
         <mark key="[" line="0" column="13" />
@@ -2020,7 +2037,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBoYW5kbGUgZmlsZSBjb250ZW50IGFzIGpzb24gY29udGVudAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12614,19 +12631,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>expected</text>
       </register>
       <register name="/" type="4">
         <text>fold</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgKyh0aGF0OiBOYXQpOiBOYXQgPSB7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgR3NvbiBHU09OID0gbmV3IEdzb25CdWlsZGVyKCkKICAgICAgICAgICAgLnNldEZpZWxkTmFtaW5nUG9saWN5KEZpZWxkTmFtaW5nUG9saWN5LkxPV0VSX0NBU0VfV0lUSF9VTkRFUlNDT1JFUykKICAgICAgICAgICAgLmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBoYW5kbGUgZmlsZSBjb250ZW50IGFzIGpzb24gY29udGVudAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12646,19 +12663,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>expected</text>
       </register>
-      <register name="3" type="4">
-        <text>c</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc0VxdWFsVG8oZXhwZWN0ZWQpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>c</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>Model</text>
       </register>
-      <register name="6" type="4">
-        <text>C</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN1YmplY3QuZ2V0T0F1dGhNb2RlbCgpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13945,14 +13962,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBPQXV0aFRva2VuIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBPQXV0aFRva2VuIGV4cGVjdGVkID0gT0F1dGhUb2tlbi5nZW5lcmF0ZU5ldygpOwogICAgICAgIHNldFJlc3BvbnNlQm9keShleHBlY3RlZCk7CiAgICAgICAgc3ViamVjdC5jaGFubmVsUmVhZDAoY3R4LCByZXNwb25zZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
