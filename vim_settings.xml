@@ -804,9 +804,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1466102058777">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -12596,7 +12593,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>loadData</text>
+        <text>webview</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC8vTWFwPFN0cmluZywgTGlzdDxTdHJpbmc+PiBtdWx0aW1hcEhlYWRlcnMgPSByZXNwb25zZS5oZWFkZXJzKCkudG9NdWx0aW1hcCgpOwovLyAgICAgICAgICAgICAgICAgICAgLy9NYXA8U3RyaW5nLCBTdHJpbmc+IGhlYWRlcnMgPSBuZXcgSGFzaE1hcDw+KCk7Ci8vICAgICAgICAgICAgICAgICAgICAvL2ZvciAoU3RyaW5nIGtleSA6IG11bHRpbWFwSGVhZGVycy5rZXlTZXQoKSkgewovLyAgICAgICAgICAgICAgICAgICAgLy8gICAgaWYgKCFtdWx0aW1hcEhlYWRlcnMuZ2V0KGtleSkuaXNFbXB0eSgpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgLy8gVE9ETyBzd2l0Y2ggdG8gZ2V0dGluZyBsYXN0IGhlYWRlciB2YWx1ZSBsaWtlIG9raHR0cCBkb2VzIChzZWUgJ0FjY2Vzc2luZyBIZWFkZXJzJyBhdCBodHRwczovL2dpdGh1Yi5jb20vc3F1YXJlL29raHR0cC93aWtpL1JlY2lwZXMKLy8gICAgICAgICAgICAgICAgICAgIC8vCi8vICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgU3RyaW5nIHZhbHVlID0gbXVsdGltYXBIZWFkZXJzLmdldChrZXkpLmdldCgwKTsKLy8gICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBoZWFkZXJzLnB1dChrZXksIHZhbHVlKTsKLy8gICAgICAgICAgICAgICAgICAgIC8vICAgIH0KLy8gICAgICAgICAgICAgICAgICAgIC8vfQovLyAgICAgICAgICAgICAgICAgICAgLy93ZWJSZXNvdXJjZVJlc3BvbnNlLnNldFJlc3BvbnNlSGVhZGVycyhoZWFkZXJzKTsK</text>
@@ -13938,9 +13935,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loadData</last-search>
+      <last-search>webview</last-search>
       <last-offset />
-      <last-pattern>loadData</last-pattern>
+      <last-pattern>webview</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13948,7 +13945,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oncreate</entry>
         <entry>persist</entry>
         <entry encoding="base64">XDxQZXJzaXN0ZWRWZWhpY2xlUmVxdWVzdFw+</entry>
         <entry>asdlfj</entry>
@@ -13968,6 +13964,7 @@
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>alsdkjf</entry>
         <entry>loadData</entry>
+        <entry>webview</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
