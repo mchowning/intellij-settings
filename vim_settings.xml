@@ -1851,12 +1851,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466104383200">
-        <mark key="'" line="178" column="77" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
-        <mark key="^" line="215" column="72" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466105447169">
+        <mark key="'" line="175" column="77" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
+        <mark key="^" line="148" column="31" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
@@ -1996,7 +1996,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWJSZXNvdXJjZVJlc3BvbnNlLnNldFJlc3BvbnNlSGVhZGVycyhoZWFkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVjZWl2ZWRIdHRwQXV0aFJlcXVlc3QoV2ViVmlldyB2aWV3LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBBdXRoSGFuZGxlciBoYW5kbGVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBob3N0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZWFsbSkgewogICAgICAgICAgICAgICAgc3VwZXIub25SZWNlaXZlZEh0dHBBdXRoUmVxdWVzdCh2aWV3LCBoYW5kbGVyLCBob3N0LCByZWFsbSk7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12602,7 +12602,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWJSZXNvdXJjZVJlc3BvbnNlLnNldFJlc3BvbnNlSGVhZGVycyhoZWFkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVjZWl2ZWRIdHRwQXV0aFJlcXVlc3QoV2ViVmlldyB2aWV3LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBBdXRoSGFuZGxlciBoYW5kbGVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBob3N0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZWFsbSkgewogICAgICAgICAgICAgICAgc3VwZXIub25SZWNlaXZlZEh0dHBBdXRoUmVxdWVzdCh2aWV3LCBoYW5kbGVyLCBob3N0LCByZWFsbSk7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12621,20 +12621,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>headers</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWJSZXNvdXJjZVJlc3BvbnNlLnNldFJlc3BvbnNlSGVhZGVycyhoZWFkZXJzKTsK</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>response</text>
+        <text>(</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13921,14 +13921,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWJSZXNvdXJjZVJlc3BvbnNlLnNldFJlc3BvbnNlSGVhZGVycyhoZWFkZXJzKTsK</text>
+      <register name="7" type="4">
+        <text>headers</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmNvZAo=</text>
+      <register name="9" type="4">
+        <text>response</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
