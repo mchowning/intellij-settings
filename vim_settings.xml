@@ -1692,12 +1692,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandlerTest.java" timestamp="1466183067955">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="90" column="26" />
-        <mark key="]" line="93" column="20" />
-        <mark key="." line="93" column="20" />
-        <mark key="^" line="93" column="20" />
+      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandlerTest.java" timestamp="1466183851912">
+        <mark key="'" line="35" column="19" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="57" column="58" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandlerTest.java" timestamp="1466159340741">
         <mark key="'" line="26" column="0" />
@@ -1899,7 +1899,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gcGFzc3dvcmQgZXJyb3JzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12493,37 +12493,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>GRANT_TYPE_PASSWORD</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSA9IEdTT04udG9Kc29uKHRva2VuKTsKCiAgICAgICAgRnVsbEh0dHBSZXNwb25zZSByZXNwb25zZSA9IG5ldyBEZWZhdWx0RnVsbEh0dHBSZXNwb25zZShIdHRwVmVyc2lvbi5IVFRQXzFfMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBSZXNwb25zZVN0YXR1cy5PSywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVucG9vbGVkLmNvcGllZEJ1ZmZlcihib2R5LCBSRVNQT05TRV9DSEFSU0VUKSk7CiAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldChIdHRwSGVhZGVyTmFtZXMuQ09OVEVOVF9UWVBFLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD1VVEYtOCIpOwogICAgICAgIHJlc3BvbnNlLmhlYWRlcnMoKS5zZXQoSHR0cEhlYWRlck5hbWVzLkRBVEUsIHNlcnZlclV0aWwuZ2V0RGF0ZSgpKTsKICAgICAgICByZXNwb25zZS5oZWFkZXJzKCkuc2V0KEh0dHBIZWFkZXJOYW1lcy5DT05URU5UX0xFTkdUSCwgYm9keS5sZW5ndGgoKSk7CgogICAgICAgIGN0eC53cml0ZUFuZEZsdXNoKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gIG5ldyBEZWZhdWx0RnVsbEh0dHBSZXF1ZXN0KEh0dHBWZXJzaW9uLkhUVFBfMV8xLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSHR0cE1ldGhvZC5QT1NULAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT0FVVEhfUEFUSCk7CiAgICAgICAgSHR0cFBvc3RSZXF1ZXN0RW5jb2RlciBwb3N0UmVxdWVzdEVuY29kZXIgPSBuZXcgSHR0cFBvc3RSZXF1ZXN0RW5jb2RlcihyZXF1ZXN0LCBmYWxzZSk7CiAgICAgICAgcG9zdFJlcXVlc3RFbmNvZGVyLmFkZEJvZHlBdHRyaWJ1dGUoR1JBTlRfVFlQRV9LRVksIEdSQU5UX1RZUEVfUEFTU1dPUkQpOwogICAgICAgIHBvc3RSZXF1ZXN0RW5jb2Rlci5hZGRCb2R5QXR0cmlidXRlKFVTRVJOQU1FX0tFWSwgdXNlcm5hbWUpOwogICAgICAgIHBvc3RSZXF1ZXN0RW5jb2Rlci5hZGRCb2R5QXR0cmlidXRlKFBBU1NXT1JEX0tFWSwgcGFzc3dvcmQpOwogICAgICAgIHBvc3RSZXF1ZXN0RW5jb2Rlci5maW5hbGl6ZVJlcXVlc3QoKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gcGFzc3dvcmQgZXJyb3JzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBQYXNzd29yZFJlcXVlc3RUZXN0cyBleHRlbmRzIFNlcnZlck9BdXRoUmVxdWVzdEhhbmRsZXJUZXN0IHsKCiAgICAgICAgQFRlc3QgcHVibGljIHZvaWQgc2hvdWxkUGFzcygpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCh0cnVlKS5pc1RydWUoKTsKICAgICAgICB9CiAgICAgICAgQFRlc3QgcHVibGljIHZvaWQgc2hvdWxkRmFpbCgpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCh0cnVlKS5pc0ZhbHNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAVGVzdCBwdWJsaWMgdm9pZCBwcm9jZXNzZXNfdmFsaWRfcGFzc3dvcmRfcmVxdWVzdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICBzZXR1cFN1Y2Nlc3NmdWxQYXNzd29yZFJlcXVlc3QoKTsKICAgICAgICAgICAgc3ViamVjdC5jaGFubmVsUmVhZDAoY3R4LCByZXF1ZXN0KTsKICAgICAgICAgICAgdmVyaWZ5TmV3VG9rZW5TZW50QmFja0FzUmVzcG9uc2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX1BBU1NXT1JEID0gImFueV9wYXNzd29yZCI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBTZXJ2ZXJPQXV0aFJlcXVlc3RIYW5kbGVyVGVzdCA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX1VTRVJOQU1FID0gInNsZWVweW5hdGUiOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13810,14 +13810,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>private</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>private</text>
+        <text>GRANT_TYPE_PASSWORD</text>
       </register>
       <register name="9" type="4">
-        <text>private</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</text>
