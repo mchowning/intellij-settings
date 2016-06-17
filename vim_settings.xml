@@ -177,12 +177,12 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1466162053622">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1466187932654">
         <mark key="'" line="215" column="7" />
-        <mark key="[" line="145" column="12" />
-        <mark key="]" line="145" column="12" />
-        <mark key="^" line="148" column="86" />
-        <mark key="." line="145" column="12" />
+        <mark key="[" line="148" column="30" />
+        <mark key="]" line="148" column="30" />
+        <mark key="^" line="147" column="21" />
+        <mark key="." line="148" column="30" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/dimens.xml" timestamp="1460472490876">
         <mark key="[" line="3" column="11" />
@@ -580,11 +580,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466187803768">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="4" />
-        <mark key="^" line="29" column="22" />
-        <mark key="." line="31" column="4" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466188515278">
+        <mark key="[" line="80" column="53" />
+        <mark key="]" line="81" column="19" />
+        <mark key="^" line="81" column="19" />
+        <mark key="." line="81" column="19" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -1896,7 +1896,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>// tree match ...</text>
+        <text>chars</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12490,7 +12490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>// tree match ...</text>
+        <text>chars</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -12502,25 +12502,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>// tree match ...</text>
+        <text>chars</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text>.</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">aXNFbXB0eSA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="5" type="4">
-        <text>tree</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>?</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13808,13 +13808,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>?</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>?</text>
       </register>
       <register name="9" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</text>
