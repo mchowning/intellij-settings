@@ -580,11 +580,12 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466188515278">
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="81" column="19" />
-        <mark key="^" line="81" column="19" />
-        <mark key="." line="81" column="19" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466190132154">
+        <mark key="'" line="92" column="34" />
+        <mark key="[" line="83" column="25" />
+        <mark key="]" line="83" column="24" />
+        <mark key="." line="83" column="24" />
+        <mark key="^" line="83" column="24" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -682,11 +683,11 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466029277519">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="51" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466189794009">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/problems/1-2.hs" timestamp="1453902315702">
         <mark key="[" line="0" column="22" />
@@ -1790,7 +1791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="111" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="119" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="127" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1890,13 +1890,14 @@
       <jump line="42" column="87" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" />
       <jump line="33" column="4" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" />
       <jump line="39" column="19" filename="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandlerTest.java" />
+      <jump line="89" column="34" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>chars</text>
+        <text>d</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12490,37 +12491,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>chars</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gIG5ldyBEZWZhdWx0RnVsbEh0dHBSZXF1ZXN0KEh0dHBWZXJzaW9uLkhUVFBfMV8xLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSHR0cE1ldGhvZC5QT1NULAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT0FVVEhfUEFUSCk7CiAgICAgICAgSHR0cFBvc3RSZXF1ZXN0RW5jb2RlciBwb3N0UmVxdWVzdEVuY29kZXIgPSBuZXcgSHR0cFBvc3RSZXF1ZXN0RW5jb2RlcihyZXF1ZXN0LCBmYWxzZSk7CiAgICAgICAgcG9zdFJlcXVlc3RFbmNvZGVyLmFkZEJvZHlBdHRyaWJ1dGUoR1JBTlRfVFlQRV9LRVksIEdSQU5UX1RZUEVfUEFTU1dPUkQpOwogICAgICAgIHBvc3RSZXF1ZXN0RW5jb2Rlci5hZGRCb2R5QXR0cmlidXRlKFVTRVJOQU1FX0tFWSwgdXNlcm5hbWUpOwogICAgICAgIHBvc3RSZXF1ZXN0RW5jb2Rlci5hZGRCb2R5QXR0cmlidXRlKFBBU1NXT1JEX0tFWSwgcGFzc3dvcmQpOwogICAgICAgIHBvc3RSZXF1ZXN0RW5jb2Rlci5maW5hbGl6ZVJlcXVlc3QoKTsK</text>
+        <text encoding="base64">ICBkZWYgdGltZXMoY2hhcnM6IExpc3RbQ2hhcl0pOiBMaXN0WyhDaGFyLCBJbnQpXSA9IHsKICAgIC8vIFRPRE8gdXNlIGZvbGQKICAgIGRlZiBoZWxwZXIoY2hhcnM6IExpc3RbQ2hhcl0sIGFjYzogTGlzdFsoQ2hhciwgSW50KV0pOiBMaXN0WyhDaGFyLCBJbnQpXSA9IHsKICAgICAgY2hhcnMgbWF0Y2ggewogICAgICAgIGNhc2UgTmlsICAgPT4gYWNjCiAgICAgICAgY2FzZSB4Ojp4cyA9PiBoZWxwZXIoeHMsIGFkZFRvTGlzdCh4LCBhY2MpKQogICAgICB9CiAgICB9CiAgICBkZWYgYWRkVG9MaXN0KGNoYXI6IENoYXIsIGFjYzogTGlzdFsoQ2hhciwgSW50KV0pOiBMaXN0WyhDaGFyLCBJbnQpXSA9IHsKICAgICAgaWYgKGFjYy5maWx0ZXIoXy5fMSA9PSBjaGFyKSA9PSBOaWwpIChjaGFyLDEpIDo6IGFjYwogICAgICBlbHNlIGFjYy5tYXAodCA9PiBpZiAodC5fMSA9PSBjaGFyKSAodC5fMSwgMSsgdC5fMikgZWxzZSB0KQovLyAgICAgIGRlZiBmKHQ6IChDaGFyLCBJbnQpKTogKENoYXIsIEludCkgPSBpZiAodC5fMSA9PSBjaGFyKSAodC5fMSwgdC5fMisxKSBlbHNlIHQKLy8gICAgICBhY2MubWFwKGYpCi8vICAgICAgYWNjLm1hcCgoYyxpKSA9PiBpZiAoYyA9PSBjaGFyKSAoYyxpKzEpIGVsc2UgKGMsaSkpCiAgICB9CiAgICBoZWxwZXIoY2hhcnMsIE5pbCkKICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>chars</text>
+        <text>d</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aXNFbXB0eSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNoYXJzLnNvcnRCeSgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNoYXJzLmZvbGRMZWZ0KE5pbCkoKGFjYyxjKSA9PiBpZiAoYWNjLmZpbHRlcih0ID0+IHQuXzEgPT0gY2hhcikgPT0gTmlsKSApCgoKICAgIH0pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBOaWwgPT4gCg==</text>
       </register>
       <register name="6" type="4">
-        <text>?</text>
+        <text encoding="base64">bWF0Y2gg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13808,13 +13809,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>?</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dCA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</text>
