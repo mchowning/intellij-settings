@@ -579,11 +579,12 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466193616619">
-        <mark key="[" line="119" column="55" />
-        <mark key="]" line="119" column="55" />
-        <mark key="." line="119" column="55" />
-        <mark key="^" line="119" column="57" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466196014854">
+        <mark key="'" line="114" column="6" />
+        <mark key="[" line="166" column="55" />
+        <mark key="]" line="166" column="55" />
+        <mark key="^" line="166" column="55" />
+        <mark key="." line="166" column="55" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -681,11 +682,10 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466192836627">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="37" column="4" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466195660655">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/problems/1-2.hs" timestamp="1453902315702">
         <mark key="[" line="0" column="22" />
@@ -1789,7 +1789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="119" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="127" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="135" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1889,13 +1888,14 @@
       <jump line="33" column="4" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" />
       <jump line="39" column="19" filename="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandlerTest.java" />
       <jump line="89" column="34" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="113" column="6" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12489,37 +12489,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>singleton</text>
+        <text>asdlfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhYnN0cmFjdCBjbGFzcyBDb2RlVHJlZQoKICBjYXNlIGNsYXNzIEZvcmsobGVmdDogQ29kZVRyZWUsIHJpZ2h0OiBDb2RlVHJlZSwgY2hhcnM6IExpc3RbQ2hhcl0sIHdlaWdodDogSW50KSBleHRlbmRzIENvZGVUcmVlCgogIGNhc2UgY2xhc3MgTGVhZihjaGFyOiBDaGFyLCB3ZWlnaHQ6IEludCkgZXh0ZW5kcyBDb2RlVHJlZQo=</text>
+        <text encoding="base64">ICAgIHVudGlsKHNpbmdsZXRvbiwgY29tYmluZSkobWFrZU9yZGVyZWRMZWFmTGlzdCh0aW1lcyhjaGFycykpKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>+</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>+</text>
+        <text>andThen</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>:</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>x</text>
+        <text encoding="base64">dGltZXMg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13807,31 +13807,29 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>q</text>
+        <text>chars</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</text>
+        <text encoding="base64">JzwsJz5zLzEvMi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>singleton</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern>singleton</last-pattern>
-      <last-replace>private</last-replace>
-      <last-substitute>protected</last-substitute>
+      <last-pattern>asdlfj</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>host</entry>
-        <entry>tools</entry>
         <entry>javascript</entry>
         <entry>url</entry>
         <entry>dialBrandAdvisor</entry>
@@ -13850,10 +13848,10 @@
         <entry>makeLeaf</entry>
         <entry>makeLeafList</entry>
         <entry>singleton</entry>
+        <entry>1</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
-        <entry>d/Int</entry>
-        <entry>help d</entry>
         <entry>16</entry>
         <entry>1</entry>
         <entry>1gg</entry>
@@ -13872,6 +13870,8 @@
         <entry>485</entry>
         <entry>95</entry>
         <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
