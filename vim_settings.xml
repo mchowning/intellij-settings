@@ -579,12 +579,12 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466196014854">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466197095448">
         <mark key="'" line="114" column="6" />
-        <mark key="[" line="166" column="55" />
-        <mark key="]" line="166" column="55" />
-        <mark key="^" line="166" column="55" />
-        <mark key="." line="166" column="55" />
+        <mark key="[" line="191" column="31" />
+        <mark key="]" line="191" column="34" />
+        <mark key="." line="191" column="34" />
+        <mark key="^" line="191" column="34" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -1895,7 +1895,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>subTree</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12489,7 +12489,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>subTree</text>
       </register>
       <register name="/" type="4">
         <text>asdlfj</text>
@@ -12501,25 +12501,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>subTree</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>tree</text>
       </register>
       <register name="3" type="4">
-        <text>andThen</text>
+        <text>]()))(</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>Char</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>[</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dGltZXMg</text>
+        <text>List</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13806,14 +13806,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>chars</text>
+        <text>Nothing</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
