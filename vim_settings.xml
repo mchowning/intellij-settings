@@ -579,12 +579,12 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466197095448">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466198215675">
         <mark key="'" line="114" column="6" />
-        <mark key="[" line="191" column="31" />
-        <mark key="]" line="191" column="34" />
-        <mark key="." line="191" column="34" />
-        <mark key="^" line="191" column="34" />
+        <mark key="[" line="208" column="36" />
+        <mark key="]" line="208" column="61" />
+        <mark key="." line="208" column="61" />
+        <mark key="^" line="208" column="61" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -682,10 +682,11 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466195660655">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466198224779">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="46" column="12" />
+        <mark key="^" line="46" column="12" />
+        <mark key="." line="46" column="12" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/problems/1-2.hs" timestamp="1453902315702">
         <mark key="[" line="0" column="22" />
@@ -1895,7 +1896,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>subTree</text>
+        <text>?</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12489,37 +12490,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>subTree</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>asdlfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVudGlsKHNpbmdsZXRvbiwgY29tYmluZSkobWFrZU9yZGVyZWRMZWFmTGlzdCh0aW1lcyhjaGFycykpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBmKHQ6IChDb2RlVHJlZSwgTGlzdFtDaGFyXSksIGI6IEJpdCk6ICAoQ29kZVRyZWUsIExpc3RbQ2hhcl0pID0gewogICAgICB2YWwgc3ViVHJlZSA9IHQuXzEgbWF0Y2ggeyBjYXNlIEZvcmsobCxyLF8sXykgPT4gaWYgKGIgPT0gMCkgbCBlbHNlIHIgfQogICAgICBzdWJUcmVlIG1hdGNoIHsKICAgICAgICBjYXNlIExlYWYoYywgXykgICAgPT4gKHRyZWUsIGMgOjogdC5fMikKICAgICAgICBjYXNlIEZvcmsoXyxfLF8sXykgPT4gKHN1YlRyZWUsIHQuXzIpCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>subTree</text>
+        <text>?</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>tree</text>
+        <text>?</text>
       </register>
       <register name="3" type="4">
-        <text>]()))(</text>
+        <text>?</text>
       </register>
-      <register name="4" type="4">
-        <text>Char</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBGSVhNRSBnZXQgYXdheSBmcm9tIGFwcGVuZGluZyB0byBlbmQgb2YgdGhlIGxpc3QK</text>
       </register>
       <register name="5" type="4">
-        <text>[</text>
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>List</text>
+        <text encoding="base64">Oisg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13806,14 +13807,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>Nothing</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIExlYWYoYywgXykgICAgPT4gKHRyZWUsIGMgOjogdC5fMiA6KyBjKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
