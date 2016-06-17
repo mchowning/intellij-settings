@@ -580,11 +580,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466016045167">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466187803768">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -1149,9 +1149,6 @@
         <mark key="]" line="80" column="46" />
         <mark key="." line="80" column="46" />
         <mark key="^" line="80" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/proguard-rules.pro" timestamp="1466089543681">
-        <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw2.hs" timestamp="1420481693331">
         <mark key="[" line="1" column="7" />
@@ -1898,8 +1895,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// tree match ...</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12493,7 +12490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GRANT_TYPE_PASSWORD</text>
+        <text>// tree match ...</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -12504,26 +12501,26 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>// tree match ...</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX1BBU1NXT1JEID0gImFueV9wYXNzd29yZCI7Cg==</text>
+      <register name="5" type="4">
+        <text>tree</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX1VTRVJOQU1FID0gInNsZWVweW5hdGUiOwo=</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13810,14 +13807,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>GRANT_TYPE_PASSWORD</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</text>
