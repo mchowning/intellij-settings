@@ -371,7 +371,6 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/util/ReferenceCountUtil.java" timestamp="1466156697113" />
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -580,12 +579,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466191935431">
-        <mark key="'" line="94" column="34" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="5" />
-        <mark key="." line="84" column="5" />
-        <mark key="^" line="84" column="5" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466193616619">
+        <mark key="[" line="119" column="55" />
+        <mark key="]" line="119" column="55" />
+        <mark key="." line="119" column="55" />
+        <mark key="^" line="119" column="57" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -683,11 +681,11 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466191848588">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="27" column="32" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466192836627">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/problems/1-2.hs" timestamp="1453902315702">
         <mark key="[" line="0" column="22" />
@@ -1896,8 +1894,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgY2hhcnMuZ3JvdXBCeShpZGVudGl0eSkudG9MaXN0Lm1hcCh0ID0+ICh0Ll8xLCB0Ll8yLmxlbmd0aCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12491,37 +12489,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>protected</text>
+        <text>singleton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bC5ncm91cEJ5KGlkZW50aXR5KS50b0xpc3QubWFwKHQgPT4gKHQuXzEsIHQuXzIubGVuZ3RoKSkK</text>
+        <text encoding="base64">ICBhYnN0cmFjdCBjbGFzcyBDb2RlVHJlZQoKICBjYXNlIGNsYXNzIEZvcmsobGVmdDogQ29kZVRyZWUsIHJpZ2h0OiBDb2RlVHJlZSwgY2hhcnM6IExpc3RbQ2hhcl0sIHdlaWdodDogSW50KSBleHRlbmRzIENvZGVUcmVlCgogIGNhc2UgY2xhc3MgTGVhZihjaGFyOiBDaGFyLCB3ZWlnaHQ6IEludCkgZXh0ZW5kcyBDb2RlVHJlZQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgY2hhcnMuZ3JvdXBCeShpZGVudGl0eSkudG9MaXN0Lm1hcCh0ID0+ICh0Ll8xLCB0Ll8yLmxlbmd0aCkpCg==</text>
+      <register name="1" type="4">
+        <text>+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgY2hhcnMuZ3JvdXBCeShpZGVudGl0eSkudG9MaXN0Lm1hcCh7IGNhc2UgKGEsYikgPT4gKGEsYi5sZW5ndGgpIH0pCg==</text>
+      <register name="2" type="4">
+        <text>+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXJzLmdyb3VwQnkoaWRlbnRpdHkpLnRvTGlzdC5tYXAodCA9PiAodC5fMSwgdC5fMi5sZW5ndGgpKQo=</text>
+      <register name="3" type="4">
+        <text>+</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>sorted</text>
+        <text>:</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bC5ncm91cEJ5KGlkZW50aXR5KQo=</text>
+      <register name="6" type="4">
+        <text>x</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13809,22 +13807,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Lm1hcCh0ID0+ICh0Ll8xLCB0Ll8yLmxlbmd0aCkp</text>
+        <text>}</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>sorted</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</text>
       </register>
     </registers>
     <search>
-      <last-search>loadData</last-search>
+      <last-search>singleton</last-search>
       <last-offset />
-      <last-pattern>protected</last-pattern>
+      <last-pattern>singleton</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>protected</last-substitute>
       <last-dir>1</last-dir>
@@ -13832,9 +13830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>webviewclient</entry>
-        <entry>http</entry>
-        <entry>retrofit</entry>
         <entry>host</entry>
         <entry>tools</entry>
         <entry>javascript</entry>
@@ -13852,6 +13847,9 @@
         <entry>UTC</entry>
         <entry encoding="base64">XDxUT0RPXD4=</entry>
         <entry>protected</entry>
+        <entry>makeLeaf</entry>
+        <entry>makeLeafList</entry>
+        <entry>singleton</entry>
       </history-search>
       <history-cmd>
         <entry>d/Int</entry>
