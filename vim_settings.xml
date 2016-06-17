@@ -12591,7 +12591,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>webview</text>
+        <text>webvi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0IG9raHR0cFJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC51cmwodXJsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmhlYWRlcnMoSGVhZGVycy5vZihyZXF1ZXN0LmdldFJlcXVlc3RIZWFkZXJzKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
@@ -13933,9 +13933,9 @@
       </register>
     </registers>
     <search>
-      <last-search>webview</last-search>
+      <last-search>webvi</last-search>
       <last-offset />
-      <last-pattern>webview</last-pattern>
+      <last-pattern>webvi</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13943,7 +13943,6 @@
     </search>
     <history>
       <history-search>
-        <entry>persist</entry>
         <entry encoding="base64">XDxQZXJzaXN0ZWRWZWhpY2xlUmVxdWVzdFw+</entry>
         <entry>asdlfj</entry>
         <entry>webviewclient</entry>
@@ -13963,6 +13962,7 @@
         <entry>alsdkjf</entry>
         <entry>loadData</entry>
         <entry>webview</entry>
+        <entry>webvi</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
