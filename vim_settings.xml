@@ -238,9 +238,9 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandler.java" timestamp="1466161156508">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandler.java" timestamp="1466181905406">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="121" column="35" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="42" />
       </file>
@@ -1692,11 +1692,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandlerTest.java" timestamp="1466161987914">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="80" column="31" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandlerTest.java" timestamp="1466183067955">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="90" column="26" />
+        <mark key="]" line="93" column="20" />
+        <mark key="." line="93" column="20" />
+        <mark key="^" line="93" column="20" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandlerTest.java" timestamp="1466159340741">
         <mark key="'" line="26" column="0" />
@@ -1792,7 +1793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="103" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="111" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="119" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1892,13 +1892,14 @@
       <jump line="30" column="0" filename="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandlerTest.java" />
       <jump line="42" column="87" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" />
       <jump line="33" column="4" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" />
+      <jump line="39" column="19" filename="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthRequestHandlerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gcGFzc3dvcmQgZXJyb3JzCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12492,37 +12493,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>loadData</text>
+        <text>protected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkodG9rZW5NYXApLmFkZChhbnkoT0F1dGhUb2tlbi5jbGFzcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSA9IEdTT04udG9Kc29uKHRva2VuKTsKCiAgICAgICAgRnVsbEh0dHBSZXNwb25zZSByZXNwb25zZSA9IG5ldyBEZWZhdWx0RnVsbEh0dHBSZXNwb25zZShIdHRwVmVyc2lvbi5IVFRQXzFfMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBSZXNwb25zZVN0YXR1cy5PSywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVucG9vbGVkLmNvcGllZEJ1ZmZlcihib2R5LCBSRVNQT05TRV9DSEFSU0VUKSk7CiAgICAgICAgcmVzcG9uc2UuaGVhZGVycygpLnNldChIdHRwSGVhZGVyTmFtZXMuQ09OVEVOVF9UWVBFLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD1VVEYtOCIpOwogICAgICAgIHJlc3BvbnNlLmhlYWRlcnMoKS5zZXQoSHR0cEhlYWRlck5hbWVzLkRBVEUsIHNlcnZlclV0aWwuZ2V0RGF0ZSgpKTsKICAgICAgICByZXNwb25zZS5oZWFkZXJzKCkuc2V0KEh0dHBIZWFkZXJOYW1lcy5DT05URU5UX0xFTkdUSCwgYm9keS5sZW5ndGgoKSk7CgogICAgICAgIGN0eC53cml0ZUFuZEZsdXNoKHJlc3BvbnNlKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gcGFzc3dvcmQgZXJyb3JzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>:</text>
+      <register name="2" type="2">
+        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBQYXNzd29yZFJlcXVlc3RUZXN0cyBleHRlbmRzIFNlcnZlck9BdXRoUmVxdWVzdEhhbmRsZXJUZXN0IHsKCiAgICAgICAgQFRlc3QgcHVibGljIHZvaWQgc2hvdWxkUGFzcygpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCh0cnVlKS5pc1RydWUoKTsKICAgICAgICB9CiAgICAgICAgQFRlc3QgcHVibGljIHZvaWQgc2hvdWxkRmFpbCgpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCh0cnVlKS5pc0ZhbHNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAVGVzdCBwdWJsaWMgdm9pZCBwcm9jZXNzZXNfdmFsaWRfcGFzc3dvcmRfcmVxdWVzdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICBzZXR1cFN1Y2Nlc3NmdWxQYXNzd29yZFJlcXVlc3QoKTsKICAgICAgICAgICAgc3ViamVjdC5jaGFubmVsUmVhZDAoY3R4LCByZXF1ZXN0KTsKICAgICAgICAgICAgdmVyaWZ5TmV3VG9rZW5TZW50QmFja0FzUmVzcG9uc2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>any(OAuthToken.class)</text>
+        <text encoding="base64">ZXh0ZW5kcyBTZXJ2ZXJPQXV0aFJlcXVlc3RIYW5kbGVyVGVzdCA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13810,32 +13811,29 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>verify(tokenMap).removeToken(preexistingToken);
-        verify(tokenMap).add(any(OAuthToken.class));
-        verify(tokenMap).add(a</text>
+        <text>private</text>
       </register>
       <register name="8" type="4">
-        <text>any(OAuthToken.class)</text>
+        <text>private</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>private</text>
       </register>
       <register name=":" type="4">
-        <text>64</text>
+        <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</text>
       </register>
     </registers>
     <search>
       <last-search>loadData</last-search>
       <last-offset />
-      <last-pattern>loadData</last-pattern>
-      <last-replace>OnsSubCode</last-replace>
-      <last-substitute>OnsCode</last-substitute>
+      <last-pattern>protected</last-pattern>
+      <last-replace>private</last-replace>
+      <last-substitute>protected</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>asdlfj</entry>
         <entry>webviewclient</entry>
         <entry>http</entry>
         <entry>retrofit</entry>
@@ -13855,9 +13853,9 @@
         <entry>822</entry>
         <entry>UTC</entry>
         <entry encoding="base64">XDxUT0RPXD4=</entry>
+        <entry>protected</entry>
       </history-search>
       <history-cmd>
-        <entry>dInt</entry>
         <entry>d/Int</entry>
         <entry>help d</entry>
         <entry>16</entry>
@@ -13877,6 +13875,7 @@
         <entry>420</entry>
         <entry>485</entry>
         <entry>95</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
