@@ -256,6 +256,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1466249615953">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="58" />
+        <mark key="." line="57" column="58" />
+        <mark key="^" line="57" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/exercism/leap.hs" timestamp="1446067629482">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="10" />
@@ -529,14 +535,6 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" timestamp="1466098858531">
-        <mark key="'" line="86" column="34" />
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="55" column="49" />
-        <mark key="n" line="46" column="51" />
-        <mark key="." line="55" column="49" />
-        <mark key="^" line="55" column="49" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/FileReadWriteClient.java" timestamp="1466158959741">
         <mark key="[" line="32" column="79" />
         <mark key="]" line="32" column="80" />
@@ -579,12 +577,12 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466214194271">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="238" column="5" />
-        <mark key="^" line="242" column="2" />
-        <mark key="." line="219" column="0" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1466266830095">
+        <mark key="'" line="191" column="9" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="115" column="49" />
       </file>
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
@@ -682,11 +680,11 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466214792965">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466265957051">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/problems/1-2.hs" timestamp="1453902315702">
         <mark key="[" line="0" column="22" />
@@ -1793,14 +1791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="159" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="167" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="106" column="0" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
-      <jump line="100" column="15" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
-      <jump line="61" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
-      <jump line="67" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
-      <jump line="69" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
       <jump line="50" column="59" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteServerHandler.java" />
       <jump line="29" column="35" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteServerHandler.java" />
       <jump line="79" column="64" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteServerHandler.java" />
@@ -1891,15 +1881,23 @@
       <jump line="113" column="6" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="248" column="18" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="223" column="39" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
-      <jump line="226" column="40" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="226" column="28" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="227" column="73" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="228" column="77" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="229" column="16" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="230" column="55" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="231" column="15" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="234" column="58" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="235" column="47" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="236" column="9" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBGSVhNRSB0aWdodGVuIHRoaXMgdXA/Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12493,37 +12491,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tree</text>
+        <text>asdlfj</text>
       </register>
-      <register name="0" type="4">
-        <text>List(List((1,'a'),(2,'b'),List((3,'c'))))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vICBjYXNlIEZvcmsoXyxfLF8sdykgPT4gdwogICAgLy8gIGNhc2UgTGVhZihfLHcpICAgICA9PiB3CiAgICAvL30K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLyBGSVhNRSB0aWdodGVuIHRoaXMgdXA/Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>flatten</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICB0cmVlcyBtYXRjaCB7CiAgICAgIGNhc2UgdDEgOjogdDIgOjogdHMgPT4KICAgICAgICB2YWwgbmV3Rm9yayA9IEZvcmsodDEsIHQyLCBjb21iaW5lZENoYXJzKHQxLCB0MiksIGNvbWJpbmVkV2VpZ2h0KHQxLCB0MikpCiAgICAgICAgKG5ld0ZvcmsgOjogdHMpLnNvcnRCeShnZXRXZWlnaHQpCiAgICAgIGNhc2UgXyA9PiB0cmVlcwogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRXZWlnaHQoY3Q6IENvZGVUcmVlKTogSW50ID0gY3QgbWF0Y2ggewogICAgICBjYXNlIGY6Rm9yayA9PiBmLndlaWdodAogICAgICBjYXNlIGw6TGVhZiA9PiBsLndlaWdodAogICAgfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>map</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>flatten</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13811,22 +13809,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>flatten</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bmVzdGVkLmZsYXRNYXAoKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>flatten</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>tree</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern>tree</last-pattern>
+      <last-pattern>asdlfj</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -13834,7 +13832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>dialBrandAdvisor</entry>
         <entry>dialBrand</entry>
         <entry>showEv</entry>
@@ -13852,8 +13849,9 @@
         <entry>makeLeafList</entry>
         <entry>singleton</entry>
         <entry>1</entry>
-        <entry>asdlfj</entry>
         <entry>tree</entry>
+        <entry>l</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
