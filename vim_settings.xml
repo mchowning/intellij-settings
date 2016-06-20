@@ -699,11 +699,12 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1466427605488">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1466429718094">
         <mark key="'" line="61" column="69" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+        <mark key="[" line="122" column="24" />
+        <mark key="]" line="122" column="26" />
+        <mark key="." line="122" column="26" />
+        <mark key="^" line="122" column="26" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
         <mark key="[" line="48" column="0" />
@@ -918,7 +919,7 @@
         <mark key="^" line="56" column="65" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1466200659616">
+      <file name="/Dummy.scala" timestamp="1466429474753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij/cabal.config" timestamp="1418945387277">
@@ -1666,12 +1667,6 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebViewPresenter.java" timestamp="1466084561957">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/auth/config/ServiceEnum.java" timestamp="1465218055434">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="17" />
@@ -1927,8 +1922,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12522,19 +12517,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>webvi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbHMubWFwIHsgY2FzZSAoYywgaSkgPT4gKGZvciAoeCA8LSAwIHRvIGkpIHlpZWxkIChjLHgpKS50b0xpc3QgfQo=</text>
+        <text encoding="base64">ICAgIC8vICAvL2xzLm1hcCB7IGNhc2UgKGMsIGkpID0+IChmb3IgKHggPC0gMCB0byBpKSB5aWVsZCAoYywgeCkpLnRvTGlzdCB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>y</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12553,20 +12548,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgID4uPgo=</text>
+      <register name="2" type="4">
+        <text>Y</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy9scy5tYXAgeyBjYXNlIChjLCBpKSA9PiAoZm9yICh4IDwtIDAgdG8gaSkgeWllbGQgKGMsIHgpKS50b0xpc3QgfQo=</text>
+      <register name="3" type="4">
+        <text>yContainsChar</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>1</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13853,14 +13848,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHkuY29udGFpbnMoKQo=</text>
       </register>
       <register name="8" type="4">
         <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>!</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
