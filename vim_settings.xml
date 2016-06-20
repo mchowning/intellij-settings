@@ -699,10 +699,10 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1466448346670">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1466449648709">
         <mark key="'" line="61" column="69" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="38" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="24" column="37" />
         <mark key="." line="166" column="52" />
         <mark key="^" line="166" column="52" />
       </file>
@@ -1479,11 +1479,11 @@
         <mark key="." line="62" column="8" />
         <mark key="^" line="65" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/worksheet.sc" timestamp="1466448807866">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="45" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/worksheet.sc" timestamp="1466449934798">
+        <mark key="[" line="12" column="76" />
+        <mark key="]" line="12" column="76" />
+        <mark key="^" line="12" column="76" />
+        <mark key="." line="12" column="76" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw3a.hs" timestamp="1449108636977">
         <mark key="[" line="67" column="0" />
@@ -1923,7 +1923,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dictionary</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12517,19 +12517,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dictionary</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>webvi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGYoc2VudGVuY2VPY2N1cnJlbmNlczogT2NjdXJyZW5jZXMsIGFjYzogU2VudGVuY2UpOiBTZW50ZW5jZSA9IHsK</text>
+        <text encoding="base64">ICBjb21iaW5hdGlvbnMoc2VudGVuY2VPY2N1cnJlbmNlcykubWFwKG9jYyA9PiApCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>dictionary</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12549,19 +12549,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">U2VudGVuY2Ug</text>
+        <text encoding="base64">PT4g</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">OiA=</text>
+        <text encoding="base64">b2NjIA==</text>
       </register>
       <register name="4" type="4">
-        <text>elements</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>filter</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gIGRpY3Rpb25hcnkuZ3JvdXBCeSh3b3JkT2NjdXJyZW5jZXMpCg==</text>
+      <register name="6" type="4">
+        <text>map</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13848,14 +13848,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bGF6eSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ci8qKiBgT2NjdXJyZW5jZXNgIGlzIGEgYExpc3RgIG9mIHBhaXJzIG9mIGNoYXJhY3RlcnMgYW5kIHBvc2l0aXZlIGludGVnZXJzIHNheWluZwogICogIGhvdyBvZnRlbiB0aGUgY2hhcmFjdGVyIGFwcGVhcnMuCiAgKiAgVGhpcyBsaXN0IGlzIHNvcnRlZCBhbHBoYWJldGljYWxseSB3LnIudC4gdG8gdGhlIGNoYXJhY3RlciBpbiBlYWNoIHBhaXIuCiAgKiAgQWxsIGNoYXJhY3RlcnMgaW4gdGhlIG9jY3VycmVuY2UgbGlzdCBhcmUgbG93ZXJjYXNlLgogICoKICAqICBBbnkgbGlzdCBvZiBwYWlycyBvZiBsb3dlcmNhc2UgY2hhcmFjdGVycyBhbmQgdGhlaXIgZnJlcXVlbmN5IHdoaWNoIGlzIG5vdCBzb3J0ZWQKICAqICBpcyAqKm5vdCoqIGFuIG9jY3VycmVuY2UgbGlzdC4KICAqCiAgKiAgTm90ZTogSWYgdGhlIGZyZXF1ZW5jeSBvZiBzb21lIGNoYXJhY3RlciBpcyB6ZXJvLCB0aGVuIHRoYXQgY2hhcmFjdGVyIHNob3VsZCBub3QgYmUKICAqICBpbiB0aGUgbGlzdC4KICAqLwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>sentence</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqIEEgc2VudGVuY2UgaXMgYSBgTGlzdGAgb2Ygd29yZHMuICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIGwyID0gTGlzdCgoJ2EnLCAyKSwgKCdiJywgMikpCnZhbCBsMyA9IExpc3QoKCdhJywgMSksICgnYicsIDEpLCAoJ2MnLCAyKSkKCmRlZiBwZXJtcyhsczogTGlzdFsoQ2hhciwgSW50KV0pOiBMaXN0W0xpc3RbKENoYXIsIEludCldXSA9CiAgbHMubWFwIHsKICAgIGNhc2UgKGMsIGkpID0+IHsKICAgICAgZm9yICh4IDwtIDAgdG8gaSkgeWllbGQgKGMseCkKICAgIH0udG9MaXN0CiAgfQoKZGVmIG1hdGNoZXIobHM6IExpc3RbTGlzdFsoQ2hhciwgSW50KV1dKTogTGlzdFtMaXN0WyhDaGFyLCBJbnQpXV0gPSBscyBtYXRjaCB7CiAgY2FzZSBOaWwgPT4gTmlsCiAgY2FzZSB4cyA6OiBOaWwgPT4geHMubWFwKExpc3QoXykpCiAgY2FzZSB4cyA6OiB5bHMgPT4geHMuZmxhdE1hcCh4ID0+IG1hdGNoZXIoeWxzKS5tYXAoeXMgPT4geCA6OiB5cykpCn0KCnZhbCBwMiA9IG1hdGNoZXIocGVybXMobDIpKQp2YWwgcDMgPSBtYXRjaGVyKHBlcm1zKGwzKSkKCnZhbCByZXN1bHQgPSBwMy5tYXAobHMgPT4gbHMuZmlsdGVyKF8uXzIgIT0gMCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
