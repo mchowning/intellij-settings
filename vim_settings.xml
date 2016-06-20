@@ -1479,11 +1479,11 @@
         <mark key="." line="62" column="8" />
         <mark key="^" line="65" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/worksheet.sc" timestamp="1466459257229">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-        <mark key="^" line="19" column="4" />
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/worksheet.sc" timestamp="1466460361972">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw3a.hs" timestamp="1449108636977">
         <mark key="[" line="67" column="0" />
@@ -1817,7 +1817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="55" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="63" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="71" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1917,13 +1916,14 @@
       <jump line="122" column="28" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
       <jump line="123" column="26" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
       <jump line="88" column="34" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
+      <jump line="15" column="56" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/worksheet.sc" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmludGxuKHMpCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12517,19 +12517,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>webvi</text>
+        <text encoding="base64">XDxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFsIHJlc3VsdGluZ1dvcmRzMTogTGlzdFtXb3JkXSA9IHZhbGlkQ29tYm9zLmZsYXRNYXAoZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXMuZ2V0T3JFbHNlKF8sIE5pbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc18gPSBzLmZpbHRlck5vdCh3LmNvbnRhaW5zKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcmludGxuKHMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12548,20 +12548,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tIikK</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL3ByaW50bG4oc18pCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL3ByaW50bG4ocykK</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>Sentence</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13849,22 +13849,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>sOccurrences</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBzT2NjdXJyZW5jZXM6IE9jY3VycmVuY2VzID0gc2VudGVuY2VPY2N1cnJlbmNlcyhzKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>Occurrences</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>webvi</last-search>
+      <last-search encoding="base64">XDxzXD4=</last-search>
       <last-offset />
-      <last-pattern>webvi</last-pattern>
+      <last-pattern encoding="base64">XDxzXD4=</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13872,7 +13872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dialBrandAdvisor</entry>
         <entry>dialBrand</entry>
         <entry>showEv</entry>
         <entry>asdlfkj</entry>
@@ -13892,6 +13891,7 @@
         <entry>tree</entry>
         <entry>l</entry>
         <entry>asdlfj</entry>
+        <entry encoding="base64">XDxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
