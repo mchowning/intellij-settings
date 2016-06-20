@@ -1850,11 +1850,11 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466176234178">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="158" column="36" />
-        <mark key="." line="287" column="62" />
-        <mark key="^" line="287" column="62" />
+      <file name="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MyWebView.java" timestamp="1466434870742">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="286" column="62" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1465227800977">
         <mark key="[" line="5" column="69" />
@@ -1994,7 +1994,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0IG9raHR0cFJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC51cmwodXJsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmhlYWRlcnMoSGVhZGVycy5vZihyZXF1ZXN0LmdldFJlcXVlc3RIZWFkZXJzKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9yZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtZW5jb2RpbmciLCAiVVRGLTgiKSwK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12600,7 +12600,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9yZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtZW5jb2RpbmciLCAiVVRGLTgiKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12620,19 +12620,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL3dlYlZpZXcubG9hZERhdGEoYm9keSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgY29udGVudFR5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgIGVuY29kaW5nKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vd2ViVmlldy5sb2FkRGF0YVdpdGhCYXNlVVJMKHVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY29kaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJsb2NhdGlvblJlZGlyZWN0VXJsIiwgIiIgKyBsb2NhdGlvblJlZGlyZWN0VXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL3dlYlZpZXcubG9hZERhdGEoYm9keSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgY29udGVudFR5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgIGVuY29kaW5nKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vd2ViVmlldy5sb2FkRGF0YVdpdGhCYXNlVVJMKHVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY29kaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb24iLCByZXNwb25zZS5tZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJsb2NhdGlvblJlZGlyZWN0VXJsIiwgIiIgKyBsb2NhdGlvblJlZGlyZWN0VXJsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJzdGF0dXNDb2RlIiwgU3RyaW5nLnZhbHVlT2YocmVzcG9uc2UuY29kZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb24iLCByZXNwb25zZS5tZXNzYWdlKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJzdGF0dXNDb2RlIiwgU3RyaW5nLnZhbHVlT2YocmVzcG9uc2UuY29kZSgpKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13920,13 +13920,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>getReasonPhrase</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>getReasonPhrase</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
