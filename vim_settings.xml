@@ -428,9 +428,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" timestamp="1465834819087">
         <mark key="'" line="191" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/service/web/entitlements/UpsellAysEntitlementTest.java" timestamp="1466441051210">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/service/web/entitlements/UpsellAysEntitlementTest.java" timestamp="1466443378128">
+        <mark key="'" line="91" column="27" />
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
+        <mark key="^" line="110" column="41" />
         <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/sum_testcases/3" timestamp="1425324419415">
@@ -1820,6 +1822,12 @@
         <mark key="^" line="76" column="9" />
         <mark key="." line="76" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/service/web/entitlements/UpsellAysEntitlement.java" timestamp="1466443076615">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/median_testcases/148" timestamp="1425331584813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
@@ -1893,10 +1901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="55" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="63" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="71" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="79" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="87" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="95" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -1993,13 +1997,17 @@
       <jump line="122" column="28" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
       <jump line="123" column="26" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
       <jump line="88" column="34" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
+      <jump line="98" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/service/web/entitlements/UpsellAysEntitlementTest.java" />
+      <jump line="99" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/service/web/entitlements/UpsellAysEntitlementTest.java" />
+      <jump line="94" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/service/web/entitlements/UpsellAysEntitlementTest.java" />
+      <jump line="103" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/service/web/entitlements/UpsellAysEntitlementTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12593,51 +12601,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>webvi</text>
+        <text>should_return_tru</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBpc0VudGl0bGVkX3Nob3VsZF9yZXR1cm5fdHJ1ZV93aGVuX3ZlaGljbGVfaGFzX29uc3RhclNjb3BlX2tleUZvYkNvbW1hbmRzX2FuZF9kaWFnbm9zdGljc1NlcnZpY2VfaXNfbm90X2VudGl0bGVkX2FuZF9jYXBhYmxlKCl7CiAgICAgICAgc2V0T25zdGFyQXV0aGVudGljYXRpb24odHJ1ZSk7CiAgICAgICAgc2V0dXBNb2NrT3B0aW9uYWxWZWhpY2xlT25TdGFyRW50aXRsZW1lbnQodHJ1ZSk7CiAgICAgICAgc2V0RGlhZ25vc3RpY3NFbnRpdGxlZChmYWxzZSwgdHJ1ZSk7CgogICAgICAgIGFzc2VydFRydWUoc3ViamVjdC5pc0VudGl0bGVkKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tCYXNpY1BsYW5FbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>l</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="106" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
           <key char="48" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="118" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
         <text>false</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>public</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9yZXNwb25zZS5oZWFkZXIoImNvbnRlbnQtZW5jb2RpbmciLCAiVVRGLTgiKSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13925,22 +13937,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL3dlYlZpZXcubG9hZERhdGEoYm9keSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgY29udGVudFR5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgIGVuY29kaW5nKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vd2ViVmlldy5sb2FkRGF0YVdpdGhCYXNlVVJMKHVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY29kaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJsb2NhdGlvblJlZGlyZWN0VXJsIiwgIiIgKyBsb2NhdGlvblJlZGlyZWN0VXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIExvZy5lKCJyZWFzb24iLCByZXNwb25zZS5tZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>webvi</last-search>
+      <last-search>should_return_tru</last-search>
       <last-offset />
-      <last-pattern>webvi</last-pattern>
+      <last-pattern>should_return_tru</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13948,9 +13960,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQZXJzaXN0ZWRWZWhpY2xlUmVxdWVzdFw+</entry>
-        <entry>asdlfj</entry>
-        <entry>webviewclient</entry>
         <entry>http</entry>
         <entry>retrofit</entry>
         <entry>host</entry>
@@ -13968,6 +13977,9 @@
         <entry>loadData</entry>
         <entry>webview</entry>
         <entry>webvi</entry>
+        <entry>shouldReturnTrue</entry>
+        <entry>true</entry>
+        <entry>should_return_tru</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
