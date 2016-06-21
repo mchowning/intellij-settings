@@ -300,7 +300,6 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/CountryConfigUtil.java" timestamp="1466450634273" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/SynchronousVehicleTask.java" timestamp="1464365162802">
         <mark key="[" line="39" column="49" />
         <mark key="]" line="40" column="47" />
@@ -679,7 +678,6 @@
         <mark key="^" line="12" column="106" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/resources/countryconfig_test.json" timestamp="1466450470133" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/test/java/com/gm/gemini/security/JSONValidateTest.java" timestamp="1464983333168">
         <mark key="[" line="49" column="47" />
         <mark key="]" line="49" column="48" />
@@ -1489,12 +1487,12 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1466448034538">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1466505020905">
         <mark key="'" line="60" column="52" />
         <mark key="[" line="104" column="62" />
-        <mark key="]" line="104" column="62" />
+        <mark key="]" line="104" column="73" />
         <mark key="." line="104" column="73" />
-        <mark key="^" line="103" column="68" />
+        <mark key="^" line="104" column="73" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/plugin_app.gradle" timestamp="1457624779787">
         <mark key="[" line="12" column="0" />
@@ -2026,8 +2024,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBjb3JlLmdlbWluaV9hcHBfc2hlbGwK</text>
+      <register name="&quot;" type="4">
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12621,7 +12619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="/" type="4">
         <text>invalid</text>
@@ -12632,8 +12630,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBjb3JlLmdlbWluaV9hcHBfc2hlbGwK</text>
+      <register name="1" type="4">
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12656,20 +12654,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuR2VtaW5pQXBwbGljYXRpb247Cg==</text>
+      <register name="2" type="4">
+        <text>geminiArtifactVersion</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBjb3JlLmdlbWluaV9hcHBfc2hlbGwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuR2VtaW5pQXBwbGljYXRpb247Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgRklYTUUgYXBwIHNoZWxsIHNob3VsZG4ndCBiZSBoZXJlCiAgICBjb21waWxlIGNvcmUuZ2VtaW5pX2FwcF9zaGVsbAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
-      </register>
-      <register name="5" type="4">
-        <text>(</text>
-      </register>
       <register name="6" type="4">
-        <text>b</text>
+        <text>)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13957,13 +13955,13 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text>(</text>
+      </register>
+      <register name="8" type="4">
+        <text>b</text>
+      </register>
+      <register name="9" type="4">
         <text>aysEntitlement</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2FyZF9zaG91bGRfYmVfdmlzaWJsZV93aGVuX25vdF9pbl9kZW1vX21vZGVfYW5kX2Jhc2ljX3BsYW5faXNfZW50aXRsZWQoKSB7CiAgICAgICAgd2hlbihtb2NrQXV0aE1hbmFnZXIuaXNEZW1vTW9kZSgpKS50aGVuUmV0dXJuKGZhbHNlKTsKICAgICAgICB3aGVuKG1vY2tBeXNFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwogICAgICAgIHdoZW4obW9ja1Vwc2VsbEF5c0VudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tCYXNpY1BsYW5FbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4odHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
