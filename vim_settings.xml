@@ -864,7 +864,7 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/display/ChargeInfoDisplay.java" timestamp="1466526449178">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/display/ChargeInfoDisplay.java" timestamp="1466532734211">
         <mark key="[" line="172" column="89" />
         <mark key="]" line="173" column="15" />
         <mark key="^" line="173" column="15" />
@@ -2018,6 +2018,9 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/test/java/com/gm/gemini/pluginlogon/ui/fullscreen/LogonFragmentPresenterTest.java" timestamp="1466532762735">
+        <mark key="'" line="193" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Matsano.hs" timestamp="1453902413822">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="22" />
@@ -2080,7 +2083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="143" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="151" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="159" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -2180,6 +2182,7 @@
       <jump line="75" column="125" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
       <jump line="74" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
       <jump line="72" column="125" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="193" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/test/java/com/gm/gemini/pluginlogon/ui/fullscreen/LogonFragmentPresenterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -12783,7 +12786,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>basic</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjYXJkX3Nob3VsZF9iZV92aXNpYmxlX3doZW5fbm90X2luX2RlbW9fbW9kZV9hbmRfYXlzX2VudGl0bGVtZW50X25vdF9lbnRpdGxlZF9hbmRfdXBzZWxsX2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKGZhbHNlKTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxBeXNFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4odHJ1ZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
@@ -14125,9 +14128,9 @@
       </register>
     </registers>
     <search>
-      <last-search>basic</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>basic</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -14135,7 +14138,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry>buick</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>alsdkjf</entry>
@@ -14155,6 +14157,7 @@
         <entry>asldkfj</entry>
         <entry>ben-manes</entry>
         <entry>basic</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
