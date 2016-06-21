@@ -1960,6 +1960,12 @@
         <mark key="^" line="57" column="58" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/client/calls/OAuthCall.scala" timestamp="1466521030591">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandlerTest.java" timestamp="1466159340741">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="51" column="31" />
@@ -2170,7 +2176,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Unit</text>
+        <text>]</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12764,7 +12770,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>asdlfkj</text>
@@ -12776,7 +12782,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>Unit</text>
+        <text>]</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12796,19 +12802,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>Supplier[OAuthToken</text>
       </register>
       <register name="3" type="4">
-        <text>String</text>
+        <text>]</text>
       </register>
       <register name="4" type="4">
         <text>[</text>
       </register>
       <register name="5" type="4">
-        <text>Consumer</text>
+        <text>Supplier</text>
       </register>
-      <register name="6" type="4">
-        <text>newFileContent</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14096,13 +14102,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgdGhpcygpIHsKICAgIHRoaXMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMoKQogICAgdmFsIGluaXRpYWxBdXRoSGFuZGxlcjogQ2xpZW50SW5pdGlhbEF1dGhIYW5kbGVyID0gbmV3IENsaWVudEluaXRpYWxBdXRoSGFuZGxlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGBzdXBlcmAoU2hhcmVkQ29uc3RhbnRzLk9BVVRIX0hPU1QsIFNoYXJlZENvbnN0YW50cy5PQVVUSF9QT1JUKQo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
