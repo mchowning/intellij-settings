@@ -1275,11 +1275,12 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" timestamp="1466448870108">
-        <mark key="'" line="60" column="31" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" timestamp="1466517888746">
+        <mark key="'" line="80" column="125" />
+        <mark key="[" line="88" column="68" />
+        <mark key="]" line="88" column="68" />
+        <mark key="." line="88" column="68" />
+        <mark key="^" line="88" column="64" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MyDeliberationGamer.java" timestamp="1429359926654">
         <mark key="[" line="14" column="23" />
@@ -1608,10 +1609,11 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1466514933766">
-        <mark key="[" line="15" column="68" />
-        <mark key="]" line="15" column="68" />
-        <mark key="." line="15" column="68" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1466517707025">
+        <mark key="[" line="104" column="62" />
+        <mark key="]" line="104" column="62" />
+        <mark key="." line="104" column="73" />
+        <mark key="^" line="103" column="68" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/plugin_app.gradle" timestamp="1457624779787">
         <mark key="[" line="12" column="0" />
@@ -1899,12 +1901,6 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebViewPresenter.java" timestamp="1466084561957">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerFileReadWriteHandler.java" timestamp="1466051368244">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="12" />
@@ -2080,15 +2076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="71" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="79" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="87" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="95" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="103" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="111" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="119" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="127" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="135" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="143" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
       <jump line="151" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
@@ -2180,13 +2167,22 @@
       <jump line="88" column="34" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
       <jump line="15" column="56" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/main/scala/worksheet.sc" />
       <jump line="29" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="79" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="88" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="93" column="65" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="97" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="10" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="45" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="75" column="125" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="74" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
+      <jump line="72" column="125" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.android.tools.build:gradle:2.1.0</text>
+        <text>_</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12780,19 +12776,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.android.tools.build:gradle:2.1.0</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>ben-manes</text>
+        <text>basic</text>
       </register>
-      <register name="0" type="4">
-        <text>com.android.tools.build:gradle:1.2.3</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjYXJkX3Nob3VsZF9iZV92aXNpYmxlX3doZW5fbm90X2luX2RlbW9fbW9kZV9hbmRfYXlzX2VudGl0bGVtZW50X25vdF9lbnRpdGxlZF9hbmRfdXBzZWxsX2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKGZhbHNlKTsKICAgICAgICB3aGVuKG1vY2tVcHNlbGxBeXNFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkpLnRoZW5SZXR1cm4odHJ1ZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>com.android.tools.build:gradle:2.1.0</text>
+        <text>_</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12812,19 +12808,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>Occurrences</text>
+        <text>_</text>
       </register>
       <register name="3" type="4">
-        <text>subtract1</text>
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlbWFpbmluZ09jY3VycmVuY2VzID0gCg==</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2FyZF9zaG91bGRfYmVfdmlzaWJsZV93aGVuX25vdF9pbl9kZW1vX21vZGVfYW5kX2F5c2VudGl0bGVtZW50X2VudGl0bGVkX2FuZF91cHNlbGxfbm90X2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4obW9ja1Vwc2VsbEF5c0VudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>true</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14111,23 +14107,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlCg==</text>
+      <register name="7" type="4">
+        <text>false</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vLmZpbHRlcihkaWN0aW9uYXJ5QnlPY2N1cnJlbmNlcy5jb250YWlucykK</text>
+      <register name="8" type="4">
+        <text>_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vLmZsYXRNYXAoZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXMuZ2V0T3JFbHNlKF8sIE5pbCkpCg==</text>
+      <register name="9" type="4">
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>ben-manes</last-search>
+      <last-search>basic</last-search>
       <last-offset />
-      <last-pattern>ben-manes</last-pattern>
+      <last-pattern>basic</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -14146,7 +14142,6 @@
         <entry>true</entry>
         <entry>should_return_tru</entry>
         <entry>core</entry>
-        <entry>basic</entry>
         <entry>demo</entry>
         <entry>invalid</entry>
         <entry>entitlement</entry>
@@ -14155,6 +14150,7 @@
         <entry encoding="base64">XDxnZW1pbmlOb3RpZmljYXRpb25NYW5hZ2VyXD4=</entry>
         <entry>asldkfj</entry>
         <entry>ben-manes</entry>
+        <entry>basic</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
