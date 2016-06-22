@@ -282,6 +282,12 @@
         <mark key="." line="57" column="58" />
         <mark key="^" line="57" column="58" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/legal/TermsAndConditionsInfoBlock.java" timestamp="1466608654663">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/exercism/leap.hs" timestamp="1446067629482">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="10" />
@@ -334,6 +340,12 @@
         <mark key="]" line="1" column="34" />
         <mark key="^" line="6" column="16" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466609446978">
+        <mark key="[" line="114" column="77" />
+        <mark key="]" line="115" column="19" />
+        <mark key="." line="115" column="19" />
+        <mark key="^" line="115" column="19" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/Buffer.hs" timestamp="1421898168920">
         <mark key="[" line="0" column="0" />
@@ -843,11 +855,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1460562838124">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466609940900">
+        <mark key="a" line="22" column="34" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -2205,7 +2218,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>web_view</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12799,19 +12812,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>web_view</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVzZW50ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewoKICAgIC8qcGxlYXNlIHB1dCBhbGwgcHJvamVjdC13aWRlIHZhcmlhYmxlcyBzdWNoIGFzIGZpbGUgcGF0aHMgaW4gdGhlICdlbnZpcm9ubWVudC5ncmFkbGUnCiAgICBmaWxlIGFuZCBmb2xsb3cgdGhlIHBhdHRlcm4geW91IHNlZSB0aGVyZS4gSW4geW91ciBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwKICAgIHJlbWVtYmVyIHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgZXh0LnVzZUVudmlyb25tZW50TG9jYWwgdG8gdHJ1ZSBpZiB5b3Ugd2FudCB0byB0ZXN0IGEgbW9kdWxlIGxvY2FsbHkuCiAgICBJZiB5b3UgZG9uJ3QgaGF2ZSBhbiBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwgbWFrZSBvbmUgaW4gdGhlIGJhc2UgcHJvamVjdCBkaXJlY3RvcnkKICAgIGFuZCBjb3B5IHdoYXQncyBpbiBlbnZpcm9ubWVudC5ncmFkbGUgdG8gaXQgYW5kIGFkZCBhIGJvb2xlYW4gZXh0LnVzZUVudmlyb25tZW50TG9jYWwuCiAgICBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgaXMgaWdub3JlZCBieSBnaXQsIHNvIG1lc3Mgd2l0aCB5b3VycyBhbGwgeW91IHdhbnQqLwogICAgYXBwbHkgZnJvbTogJ2Vudmlyb25tZW50LmdyYWRsZScKICAgIGlmIChmaWxlKCdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnKS5leGlzdHMoKSkgewogICAgICAgIGFwcGx5IGZyb206ICdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnCiAgICB9CgoKICAgIGFwcGx5IGZyb206IHNjcmlwdHMuZGVwZW5kZW5jaWVzCgogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLmZhYnJpYyB9CiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucwogICAgICAgIGNsYXNzcGF0aCBsaWJyYXJpZXMuYW5kcm9pZF9ncmFkbGVfcGx1Z2luCiAgICAgICAgY2xhc3NwYXRoIGxpYnJhcmllcy5jcmFzaGx5dGljc19mYWJyaWMKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmFwdF9wbHVnaW4KICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLm1hdmVuX3BsdWdpbgogICAgICAgIC8vIE5PVEU6IERvIG5vdCBwbGFjZSB5b3VyIGFwcGxpY2F0aW9uIGRlcGVuZGVuY2llcyBoZXJlOyB0aGV5IGJlbG9uZwogICAgICAgIC8vIGluIHRoZSBpbmRpdmlkdWFsIG1vZHVsZSBidWlsZC5ncmFkbGUgZmlsZXMKICAgIH0KfQoKc3VicHJvamVjdHMgewogICAgdGFzayBsaXN0QWxsRGVwZW5kZW5jaWVzKHR5cGU6IERlcGVuZGVuY3lSZXBvcnRUYXNrKSB7fQp9CgphbGxwcm9qZWN0cyB7CgogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnNvbmF0eXBlIH0KICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCiAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3Muc25hcHNob3QKICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5mYWJyaWMgfQogICAgICAgIG1hdmVuTG9jYWwoKQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZGVjbGluZUJ1dHRvbiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>web_view</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12831,19 +12844,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>view</text>
+        <text>legalTermsText</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>android</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text encoding="base64">cGVyc2lzdGVkTGVnYWxBY2NlcHRhbmNlIA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14131,13 +14144,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text encoding="base64">TGVnYWxBY2NlcHRhbmNlIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2FyZF9zaG91bGRfYmVfdmlzaWJsZV93aGVuX25vdF9pbl9kZW1vX21vZGVfYW5kX2F5c2VudGl0bGVtZW50X2VudGl0bGVkX2FuZF91cHNlbGxfbm90X2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4obW9ja1Vwc2VsbEF5c0VudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
