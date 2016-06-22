@@ -138,7 +138,7 @@
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/BaseWebView.java" timestamp="1465316344765">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/BaseWebView.java" timestamp="1466626830438">
         <mark key="[" line="31" column="44" />
         <mark key="]" line="34" column="15" />
         <mark key="." line="34" column="15" />
@@ -229,9 +229,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466613718883">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466627516980">
         <mark key="'" line="31" column="12" />
-        <mark key="[" line="213" column="40" />
+        <mark key="[" line="64" column="49" />
+        <mark key="]" line="64" column="49" />
+        <mark key="^" line="64" column="49" />
+        <mark key="." line="64" column="49" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462455584323">
         <mark key="[" line="44" column="44" />
@@ -669,6 +672,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/src/main/AndroidManifest.xml" timestamp="1466626212248">
+        <mark key="[" line="14" column="54" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/src/Server.hs" timestamp="1461192115623">
         <mark key="[" line="42" column="24" />
         <mark key="]" line="42" column="29" />
@@ -784,12 +793,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466623775624">
-        <mark key="a" line="24" column="34" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="12" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466627807756">
+        <mark key="a" line="23" column="34" />
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="32" />
+        <mark key="^" line="75" column="32" />
+        <mark key="." line="75" column="32" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -1262,7 +1271,7 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragment.java" timestamp="1466612197182">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragment.java" timestamp="1466624401822">
         <mark key="'" line="46" column="4" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="142" column="4" />
@@ -2012,8 +2021,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2NvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMudWkudmlldy5Bc3NldFdlYlZpZXc+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@string/terms.button.label.decline</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12607,19 +12616,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Right</text>
+        <text>@string/terms.button.label.decline</text>
       </register>
       <register name="/" type="4">
         <text>resource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Rlcm1zLmJ1dHRvbi5sYWJlbC5kZWNsaW5lIgo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2NvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMudWkudmlldy5Bc3NldFdlYlZpZXc+Cg==</text>
+      <register name="1" type="4">
+        <text>@string/terms.button.label.decline</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12638,20 +12647,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>Right</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3Njcm9sbFZpZXciLS0+Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>Left</text>
-      </register>
-      <register name="4" type="4">
-        <text>true</text>
-      </register>
-      <register name="5" type="4">
         <text>match_parent</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpmaWxsVmlld3BvcnQ9InRydWUiLS0+Cg==</text>
+      <register name="4" type="4">
+        <text>match_parent</text>
+      </register>
+      <register name="5" type="4">
+        <text>wrap_content</text>
+      </register>
+      <register name="6" type="4">
+        <text>100dp</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13938,14 +13947,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSIK</text>
+      <register name="7" type="4">
+        <text>&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL2RlY2xpbmVCdXR0b24iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci9ob2xvX2dyZWVuX2RhcmsiCg==</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>wrap_content</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
