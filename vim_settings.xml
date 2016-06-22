@@ -784,12 +784,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466619209080">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466623775624">
         <mark key="a" line="24" column="34" />
-        <mark key="[" line="101" column="49" />
-        <mark key="]" line="102" column="45" />
-        <mark key="^" line="102" column="45" />
-        <mark key="." line="102" column="45" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -2012,8 +2012,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Right</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2NvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMudWkudmlldy5Bc3NldFdlYlZpZXc+Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12618,8 +12618,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>Right</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8L2NvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMudWkudmlldy5Bc3NldFdlYlZpZXc+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12639,19 +12639,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>Left</text>
+        <text>Right</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>Left</text>
       </register>
       <register name="4" type="4">
+        <text>true</text>
+      </register>
+      <register name="5" type="4">
         <text>match_parent</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpmaWxsVmlld3BvcnQ9InRydWUiLS0+Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpmaWxsVmlld3BvcnQ9InRydWUiLS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13939,13 +13939,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSIK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL2RlY2xpbmVCdXR0b24iCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
-      </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
