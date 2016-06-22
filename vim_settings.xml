@@ -241,6 +241,11 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466600516946">
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462455584323">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="48" />
@@ -1140,6 +1145,13 @@
         <mark key="]" line="14" column="39" />
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalInfoBlock.java" timestamp="1466600636377">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/AndroidManifest.xml" timestamp="1461262067895">
         <mark key="[" line="3" column="0" />
@@ -2087,12 +2099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="151" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="159" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="167" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/mygm.json" />
-      <jump line="106" column="0" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
-      <jump line="100" column="15" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_server/FileReadWriteHandler.java" />
       <jump line="61" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
       <jump line="67" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
       <jump line="69" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
@@ -2187,13 +2193,19 @@
       <jump line="74" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
       <jump line="72" column="125" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/PluginAtYourServiceTest.java" />
       <jump line="193" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/test/java/com/gm/gemini/pluginlogon/ui/fullscreen/LogonFragmentPresenterTest.java" />
+      <jump line="94" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalInfoBlock.java" />
+      <jump line="95" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalInfoBlock.java" />
+      <jump line="27" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalInfoBlock.java" />
+      <jump line="35" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalInfoBlock.java" />
+      <jump line="62" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalInfoBlock.java" />
+      <jump line="63" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalInfoBlock.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewoKICAgIC8qcGxlYXNlIHB1dCBhbGwgcHJvamVjdC13aWRlIHZhcmlhYmxlcyBzdWNoIGFzIGZpbGUgcGF0aHMgaW4gdGhlICdlbnZpcm9ubWVudC5ncmFkbGUnCiAgICBmaWxlIGFuZCBmb2xsb3cgdGhlIHBhdHRlcm4geW91IHNlZSB0aGVyZS4gSW4geW91ciBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwKICAgIHJlbWVtYmVyIHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgZXh0LnVzZUVudmlyb25tZW50TG9jYWwgdG8gdHJ1ZSBpZiB5b3Ugd2FudCB0byB0ZXN0IGEgbW9kdWxlIGxvY2FsbHkuCiAgICBJZiB5b3UgZG9uJ3QgaGF2ZSBhbiBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwgbWFrZSBvbmUgaW4gdGhlIGJhc2UgcHJvamVjdCBkaXJlY3RvcnkKICAgIGFuZCBjb3B5IHdoYXQncyBpbiBlbnZpcm9ubWVudC5ncmFkbGUgdG8gaXQgYW5kIGFkZCBhIGJvb2xlYW4gZXh0LnVzZUVudmlyb25tZW50TG9jYWwuCiAgICBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgaXMgaWdub3JlZCBieSBnaXQsIHNvIG1lc3Mgd2l0aCB5b3VycyBhbGwgeW91IHdhbnQqLwogICAgYXBwbHkgZnJvbTogJ2Vudmlyb25tZW50LmdyYWRsZScKICAgIGlmIChmaWxlKCdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnKS5leGlzdHMoKSkgewogICAgICAgIGFwcGx5IGZyb206ICdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnCiAgICB9CgoKICAgIGFwcGx5IGZyb206IHNjcmlwdHMuZGVwZW5kZW5jaWVzCgogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLmZhYnJpYyB9CiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucwogICAgICAgIGNsYXNzcGF0aCBsaWJyYXJpZXMuYW5kcm9pZF9ncmFkbGVfcGx1Z2luCiAgICAgICAgY2xhc3NwYXRoIGxpYnJhcmllcy5jcmFzaGx5dGljc19mYWJyaWMKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmFwdF9wbHVnaW4KICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLm1hdmVuX3BsdWdpbgogICAgICAgIC8vIE5PVEU6IERvIG5vdCBwbGFjZSB5b3VyIGFwcGxpY2F0aW9uIGRlcGVuZGVuY2llcyBoZXJlOyB0aGV5IGJlbG9uZwogICAgICAgIC8vIGluIHRoZSBpbmRpdmlkdWFsIG1vZHVsZSBidWlsZC5ncmFkbGUgZmlsZXMKICAgIH0KfQoKc3VicHJvamVjdHMgewogICAgdGFzayBsaXN0QWxsRGVwZW5kZW5jaWVzKHR5cGU6IERlcGVuZGVuY3lSZXBvcnRUYXNrKSB7fQp9CgphbGxwcm9qZWN0cyB7CgogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnNvbmF0eXBlIH0KICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCiAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3Muc25hcHNob3QKICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5mYWJyaWMgfQogICAgICAgIG1hdmVuTG9jYWwoKQogICAgfQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12787,10 +12799,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxwcmVzZW50ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YnVpbGRzY3JpcHQgewoKICAgIC8qcGxlYXNlIHB1dCBhbGwgcHJvamVjdC13aWRlIHZhcmlhYmxlcyBzdWNoIGFzIGZpbGUgcGF0aHMgaW4gdGhlICdlbnZpcm9ubWVudC5ncmFkbGUnCiAgICBmaWxlIGFuZCBmb2xsb3cgdGhlIHBhdHRlcm4geW91IHNlZSB0aGVyZS4gSW4geW91ciBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwKICAgIHJlbWVtYmVyIHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgZXh0LnVzZUVudmlyb25tZW50TG9jYWwgdG8gdHJ1ZSBpZiB5b3Ugd2FudCB0byB0ZXN0IGEgbW9kdWxlIGxvY2FsbHkuCiAgICBJZiB5b3UgZG9uJ3QgaGF2ZSBhbiBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwgbWFrZSBvbmUgaW4gdGhlIGJhc2UgcHJvamVjdCBkaXJlY3RvcnkKICAgIGFuZCBjb3B5IHdoYXQncyBpbiBlbnZpcm9ubWVudC5ncmFkbGUgdG8gaXQgYW5kIGFkZCBhIGJvb2xlYW4gZXh0LnVzZUVudmlyb25tZW50TG9jYWwuCiAgICBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgaXMgaWdub3JlZCBieSBnaXQsIHNvIG1lc3Mgd2l0aCB5b3VycyBhbGwgeW91IHdhbnQqLwogICAgYXBwbHkgZnJvbTogJ2Vudmlyb25tZW50LmdyYWRsZScKICAgIGlmIChmaWxlKCdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnKS5leGlzdHMoKSkgewogICAgICAgIGFwcGx5IGZyb206ICdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnCiAgICB9CgoKICAgIGFwcGx5IGZyb206IHNjcmlwdHMuZGVwZW5kZW5jaWVzCgogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLmZhYnJpYyB9CiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucwogICAgICAgIGNsYXNzcGF0aCBsaWJyYXJpZXMuYW5kcm9pZF9ncmFkbGVfcGx1Z2luCiAgICAgICAgY2xhc3NwYXRoIGxpYnJhcmllcy5jcmFzaGx5dGljc19mYWJyaWMKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmFwdF9wbHVnaW4KICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLm1hdmVuX3BsdWdpbgogICAgICAgIC8vIE5PVEU6IERvIG5vdCBwbGFjZSB5b3VyIGFwcGxpY2F0aW9uIGRlcGVuZGVuY2llcyBoZXJlOyB0aGV5IGJlbG9uZwogICAgICAgIC8vIGluIHRoZSBpbmRpdmlkdWFsIG1vZHVsZSBidWlsZC5ncmFkbGUgZmlsZXMKICAgIH0KfQoKc3VicHJvamVjdHMgewogICAgdGFzayBsaXN0QWxsRGVwZW5kZW5jaWVzKHR5cGU6IERlcGVuZGVuY3lSZXBvcnRUYXNrKSB7fQp9CgphbGxwcm9qZWN0cyB7CgogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnNvbmF0eXBlIH0KICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCiAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3Muc25hcHNob3QKICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5mYWJyaWMgfQogICAgICAgIG1hdmVuTG9jYWwoKQogICAgfQp9Cg==</text>
@@ -12799,7 +12811,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12819,19 +12831,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text>view</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>android</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2FyZF9zaG91bGRfYmVfdmlzaWJsZV93aGVuX25vdF9pbl9kZW1vX21vZGVfYW5kX2F5c2VudGl0bGVtZW50X2VudGl0bGVkX2FuZF91cHNlbGxfbm90X2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4obW9ja1Vwc2VsbEF5c0VudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
+      <register name="5" type="4">
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>true</text>
+        <text>_</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14119,22 +14131,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>i</text>
       </register>
-      <register name="9" type="4">
-        <text>_</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2FyZF9zaG91bGRfYmVfdmlzaWJsZV93aGVuX25vdF9pbl9kZW1vX21vZGVfYW5kX2F5c2VudGl0bGVtZW50X2VudGl0bGVkX2FuZF91cHNlbGxfbm90X2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4obW9ja1Vwc2VsbEF5c0VudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxwcmVzZW50ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVzZW50ZXJcPg==</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -14142,7 +14154,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buick</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>alsdkjf</entry>
         <entry>loadData</entry>
@@ -14162,6 +14173,7 @@
         <entry>ben-manes</entry>
         <entry>basic</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxwcmVzZW50ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
