@@ -328,12 +328,12 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466614294144">
-        <mark key="'" line="21" column="20" />
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="29" column="46" />
-        <mark key="." line="29" column="46" />
-        <mark key="^" line="53" column="39" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466617643576">
+        <mark key="'" line="96" column="9" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="8" />
+        <mark key="." line="100" column="8" />
+        <mark key="^" line="94" column="38" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/Buffer.hs" timestamp="1421898168920">
         <mark key="[" line="0" column="0" />
@@ -639,11 +639,11 @@
         <mark key="^" line="48" column="16" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceComponent.java" timestamp="1466615306777">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceComponent.java" timestamp="1466616264926">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="25" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/assets/migrations/10.sql" timestamp="1464366655978">
         <mark key="[" line="0" column="12" />
@@ -784,12 +784,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466609940900">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466617591703">
         <mark key="a" line="22" column="34" />
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="36" />
+        <mark key="[" line="93" column="49" />
+        <mark key="]" line="93" column="53" />
+        <mark key="." line="93" column="53" />
+        <mark key="^" line="93" column="53" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -1034,6 +1034,7 @@
         <mark key="^" line="64" column="69" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/plugin-legal/123.456.789/plugin-legal-123.456.789-sources.jar!/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466617622663" />
       <file name="$USER_HOME$/dev/courses/algorithms1/week4/test_cases/testcase_33110.txt" timestamp="1423521781455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="2" />
@@ -1906,7 +1907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="108" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java" />
       <jump line="44" column="15" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/OAuthClientHandler.java" />
       <jump line="36" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
       <jump line="455" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -2006,13 +2006,14 @@
       <jump line="33" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" />
       <jump line="44" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" />
+      <jump line="96" column="9" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UHJlc2VudGVyIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12606,19 +12607,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJlc2VudGVyIA==</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text>resource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnNob3dBcHBJblByb2dyZXNzRGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Rlcm1zLmJ1dHRvbi5sYWJlbC5zZW5kX2VtYWlsIgo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">UHJlc2VudGVyIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12638,19 +12639,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>else {</text>
       </register>
       <register name="3" type="4">
-        <text>LegalInfoBlock</text>
+        <text>send_email</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyA=</text>
+        <text>decline</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>agree</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13937,14 +13938,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlc291cmNlVXRpbCA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>ResourceModule</text>
       </register>
       <register name="9" type="4">
-        <text>get</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
