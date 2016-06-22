@@ -784,12 +784,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466617591703">
-        <mark key="a" line="22" column="34" />
-        <mark key="[" line="93" column="49" />
-        <mark key="]" line="93" column="53" />
-        <mark key="." line="93" column="53" />
-        <mark key="^" line="93" column="53" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466619209080">
+        <mark key="a" line="24" column="34" />
+        <mark key="[" line="101" column="49" />
+        <mark key="]" line="102" column="45" />
+        <mark key="^" line="102" column="45" />
+        <mark key="." line="102" column="45" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -2012,8 +2012,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Right</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12607,19 +12607,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text>Right</text>
       </register>
       <register name="/" type="4">
         <text>resource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Rlcm1zLmJ1dHRvbi5sYWJlbC5zZW5kX2VtYWlsIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIgo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>Right</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12639,19 +12639,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>else {</text>
+        <text>Left</text>
       </register>
       <register name="3" type="4">
-        <text>send_email</text>
+        <text>true</text>
       </register>
       <register name="4" type="4">
-        <text>decline</text>
+        <text>match_parent</text>
       </register>
-      <register name="5" type="4">
-        <text>agree</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpmaWxsVmlld3BvcnQ9InRydWUiLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13939,13 +13939,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlc291cmNlVXRpbCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL2RlY2xpbmVCdXR0b24iCg==</text>
       </register>
       <register name="8" type="4">
-        <text>ResourceModule</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
