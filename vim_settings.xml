@@ -230,11 +230,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="15" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/server/model/OAuthTokenMap.scala" timestamp="1466560755568">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/server/model/OAuthTokenMap.scala" timestamp="1466590584394">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="72" />
+        <mark key="^" line="22" column="72" />
+        <mark key="." line="22" column="72" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/response/CommandResponse.java" timestamp="1464279088504">
         <mark key="[" line="19" column="28" />
@@ -675,11 +675,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/model/OAuthTokenMap.java" timestamp="1466158937212">
-        <mark key="[" line="37" column="56" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="59" />
+      <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/model/OAuthTokenMap.java" timestamp="1466590639968">
+        <mark key="[" line="32" column="72" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="72" />
+        <mark key="^" line="32" column="72" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorParserTest.java" timestamp="1464960381814">
         <mark key="[" line="199" column="0" />
@@ -2286,7 +2286,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text>c</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12880,19 +12880,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>basic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlzc3VlZFRva2Vucy5zdHJlYW0uZmlsdGVyKHByZWRpY2F0ZSkuZmluZEZpcnN0LmdldAo=</text>
+        <text encoding="base64">ICAgIGlzc3VlZFRva2Vucy5maW5kKGlzc3VlZFRva2VuID0+IGlzc3VlZFRva2VuLmFjY2Vzc1Rva2VuID09IGFjY2Vzc1Rva2VuKS5nZXQK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text>c</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12912,19 +12912,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>count</text>
       </register>
       <register name="3" type="4">
-        <text>result</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>}</text>
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzc3VlZFRva2Vucy5yZW1vdmUodG9rZW4pCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14212,13 +14212,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgaXNzdWVkVG9rZW5zLmNvdW50KGlzc3VlZFRva2VuID0+IGlzc3VlZFRva2VuLmFjY2Vzc1Rva2VuID09IG9BdXRoVG9rZW4uYWNjZXNzVG9rZW4pID4gMAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBnZXRGaXJzdE1hdGNoKHByZWRpY2F0ZTogUHJlZGljYXRlW09BdXRoVG9rZW5dKTogT0F1dGhUb2tlbiA9IHsKLy8gICAgaXNzdWVkVG9rZW5zLnN0cmVhbS5maWx0ZXIocHJlZGljYXRlKS5maW5kRmlyc3QuZ2V0CiAgICBpc3N1ZWRUb2tlbnMKICB9Cg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlzc3VlZFRva2Vucy5zdHJlYW0uZmlsdGVyKHByZWRpY2F0ZSkuZmluZEZpcnN0LmdldAo=</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
