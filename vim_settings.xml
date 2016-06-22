@@ -229,12 +229,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466627516980">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466629831598">
         <mark key="'" line="31" column="12" />
-        <mark key="[" line="64" column="49" />
-        <mark key="]" line="64" column="49" />
-        <mark key="^" line="64" column="49" />
-        <mark key="." line="64" column="49" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="48" column="31" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462455584323">
         <mark key="[" line="44" column="44" />
@@ -793,12 +793,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466627807756">
-        <mark key="a" line="23" column="34" />
-        <mark key="[" line="75" column="26" />
-        <mark key="]" line="75" column="32" />
-        <mark key="^" line="75" column="32" />
-        <mark key="." line="75" column="32" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466629750005">
+        <mark key="a" line="16" column="34" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -1203,6 +1203,9 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" timestamp="1466629788024">
+        <mark key="'" line="99" column="22" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/Main.hs" timestamp="1451133307947">
         <mark key="[" line="0" column="32" />
@@ -1916,14 +1919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="15" filename="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/OAuthClientHandler.java" />
-      <jump line="36" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
-      <jump line="455" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="485" column="78" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="488" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="512" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="535" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="574" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="576" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="605" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="636" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -2016,13 +2011,21 @@
       <jump line="17" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" />
       <jump line="44" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenter.java" />
       <jump line="96" column="9" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="48" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="147" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="49" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="63" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="64" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="87" column="93" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="88" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="99" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>@string/terms.button.label.decline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL3dlYlZpZXcgPSBuZXcgQXNzZXRXZWJWaWV3KGdldEFjdGl2aXR5KCkpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12616,10 +12619,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@string/terms.button.label.decline</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
-        <text>resource</text>
+        <text>back</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Rlcm1zLmJ1dHRvbi5sYWJlbC5kZWNsaW5lIgo=</text>
@@ -12627,8 +12630,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>@string/terms.button.label.decline</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL3dlYlZpZXcgPSBuZXcgQXNzZXRXZWJWaWV3KGdldEFjdGl2aXR5KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12648,19 +12651,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3Njcm9sbFZpZXciLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>match_parent</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPEZyYW1lTGF5b3V0LS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgIDwhLS0mZ3Q7LS0+CgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g7RklYTUUmbmRhc2g7Jmd0Oy0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IFRoaXMgbGF5b3V0IHByb2R1Y2VzIHRoZSBoZWFkZXIgc2hhZG93IGZvciBhbGwgdmVyc2lvbnMgb2YgQW5kcm9pZCAmbmRhc2g7Jmd0Oy0tPgogICAgICAgICAgICA8IS0tPGluY2x1ZGUgbGF5b3V0PSJAbGF5b3V0L3RvcF9zaGFkb3ciIC8+LS0+CgogICAgICAgICAgICA8IS0tPExpbmVhckxheW91dC0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiLS0+CiAgICAgICAgICAgICAgICA8IS0tJmd0Oy0tPgoKICAgICAgICAgICAgICAgIDwhLS08Y29tLmdtLnBsdWdpbi5sZWdhbC51aS5mdWxsc2NyZWVuLmxlZ2FsLkxlZ2FsSW5mb0Jsb2NrLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6aWQ9IkAraWQvbGVnYWxJbmZvQmxvY2siLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9pbmZvX2Jsb2NrX21hcmdpbiItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tLz4tLT4KCiAgICAgICAgICAgICAgICA8IS0tPEJ1dHRvbi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL2FncmVlQnV0dG9uIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1zdHlsZT0iQHN0eWxlL1ByaW1hcnlCdXR0b24iLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL3ByaW1hcnlfYnV0dG9uX2hlaWdodCItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL2luZm9fYmxvY2tfbWFyZ2luIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iQGRpbWVuL2luZm9fYmxvY2tfbWFyZ2luIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IkBkaW1lbi9pbmZvX2Jsb2NrX21hcmdpbiItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Rlcm1zLmJ1dHRvbi5sYWJlbC5hZ3JlZSItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tLz4tLT4KICAgICAgICAgICAgPCEtLTwvTGluZWFyTGF5b3V0Pi0tPgoKICAgICAgICA8IS0tPC9GcmFtZUxheW91dD4tLT4KICAgIDwhLS08L1Njcm9sbFZpZXc+LS0+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>match_parent</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICA8IS0tPFNjcm9sbFZpZXctLT4KICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9zY3JvbGxWaWV3Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tJmd0Oy0tPgogICAgICAgIDwhLS1hbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSItLT4K</text>
       </register>
       <register name="5" type="4">
-        <text>wrap_content</text>
+        <text>match_parent</text>
       </register>
       <register name="6" type="4">
-        <text>100dp</text>
+        <text>wrap_content</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13948,10 +13951,10 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>wrap_content</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci9ob2xvX2dyZWVuX2RhcmsiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSIK</text>
       </register>
       <register name="9" type="4">
         <text>wrap_content</text>
@@ -13961,9 +13964,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resource</last-search>
+      <last-search>back</last-search>
       <last-offset />
-      <last-pattern>resource</last-pattern>
+      <last-pattern>back</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13971,7 +13974,6 @@
     </search>
     <history>
       <history-search>
-        <entry>true</entry>
         <entry>should_return_tru</entry>
         <entry>core</entry>
         <entry>demo</entry>
@@ -13991,6 +13993,7 @@
         <entry>sendEmail</entry>
         <entry>setTitle</entry>
         <entry>resource</entry>
+        <entry>back</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
