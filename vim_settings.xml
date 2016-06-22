@@ -229,12 +229,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466629831598">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="48" column="31" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466631238631">
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="221" column="32" />
+        <mark key="]" line="222" column="28" />
+        <mark key="^" line="222" column="28" />
+        <mark key="." line="222" column="28" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/LazyDiagnosticViewProviderTest.java" timestamp="1462455584323">
         <mark key="[" line="44" column="44" />
@@ -331,12 +331,12 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466617643576">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466631527110">
         <mark key="'" line="96" column="9" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="8" />
+        <mark key="[" line="100" column="8" />
+        <mark key="]" line="100" column="46" />
         <mark key="." line="100" column="8" />
-        <mark key="^" line="94" column="38" />
+        <mark key="^" line="100" column="7" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/Buffer.hs" timestamp="1421898168920">
         <mark key="[" line="0" column="0" />
@@ -793,12 +793,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466629750005">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466631005321">
         <mark key="a" line="16" column="34" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="8" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
         <mark key="^" line="17" column="37" />
-        <mark key="." line="19" column="8" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -2024,8 +2024,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3dlYlZpZXcgPSBuZXcgQXNzZXRXZWJWaWV3KGdldEFjdGl2aXR5KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>// FIXME do these need to be centered?</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12619,7 +12619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>// FIXME do these need to be centered?</text>
       </register>
       <register name="/" type="4">
         <text>back</text>
@@ -12630,8 +12630,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3dlYlZpZXcgPSBuZXcgQXNzZXRXZWJWaWV3KGdldEFjdGl2aXR5KCkpOwo=</text>
+      <register name="1" type="4">
+        <text>// FIXME do these need to be centered?</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12650,20 +12650,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPEZyYW1lTGF5b3V0LS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgIDwhLS0mZ3Q7LS0+CgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g7RklYTUUmbmRhc2g7Jmd0Oy0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IFRoaXMgbGF5b3V0IHByb2R1Y2VzIHRoZSBoZWFkZXIgc2hhZG93IGZvciBhbGwgdmVyc2lvbnMgb2YgQW5kcm9pZCAmbmRhc2g7Jmd0Oy0tPgogICAgICAgICAgICA8IS0tPGluY2x1ZGUgbGF5b3V0PSJAbGF5b3V0L3RvcF9zaGFkb3ciIC8+LS0+CgogICAgICAgICAgICA8IS0tPExpbmVhckxheW91dC0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiLS0+CiAgICAgICAgICAgICAgICA8IS0tJmd0Oy0tPgoKICAgICAgICAgICAgICAgIDwhLS08Y29tLmdtLnBsdWdpbi5sZWdhbC51aS5mdWxsc2NyZWVuLmxlZ2FsLkxlZ2FsSW5mb0Jsb2NrLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6aWQ9IkAraWQvbGVnYWxJbmZvQmxvY2siLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9pbmZvX2Jsb2NrX21hcmdpbiItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tLz4tLT4KCiAgICAgICAgICAgICAgICA8IS0tPEJ1dHRvbi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL2FncmVlQnV0dG9uIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1zdHlsZT0iQHN0eWxlL1ByaW1hcnlCdXR0b24iLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL3ByaW1hcnlfYnV0dG9uX2hlaWdodCItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL2luZm9fYmxvY2tfbWFyZ2luIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iQGRpbWVuL2luZm9fYmxvY2tfbWFyZ2luIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IkBkaW1lbi9pbmZvX2Jsb2NrX21hcmdpbiItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Rlcm1zLmJ1dHRvbi5sYWJlbC5hZ3JlZSItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tLz4tLT4KICAgICAgICAgICAgPCEtLTwvTGluZWFyTGF5b3V0Pi0tPgoKICAgICAgICA8IS0tPC9GcmFtZUxheW91dD4tLT4KICAgIDwhLS08L1Njcm9sbFZpZXc+LS0+Cg==</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICA8IS0tPFNjcm9sbFZpZXctLT4KICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9zY3JvbGxWaWV3Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tJmd0Oy0tPgogICAgICAgIDwhLS1hbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSItLT4K</text>
+      <register name="4" type="4">
+        <text>getAssetPath</text>
       </register>
       <register name="5" type="4">
-        <text>match_parent</text>
+        <text>url</text>
       </register>
       <register name="6" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13951,13 +13951,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>wrap_content</text>
+        <text>legalDocument.getAssetPath(), legalDocument.title</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpbGxWaWV3cG9ydD0idHJ1ZSIK</text>
+      <register name="8" type="4">
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>wrap_content</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
