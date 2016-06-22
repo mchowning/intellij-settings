@@ -762,11 +762,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/build.gradle" timestamp="1464523410277">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="72" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/NettySample/build.gradle" timestamp="1466558866390">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/discard_server/DiscardServer.java" timestamp="1464780365812">
         <mark key="[" line="15" column="9" />
@@ -1519,6 +1519,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="66" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/NettySample/java/build.gradle" timestamp="1466558592826">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
         <mark key="[" line="2" column="31" />
@@ -2274,8 +2279,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12880,8 +12885,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12900,20 +12905,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMScK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnM6YW5ub3RhdGlvbnMtamF2YTU6MTUuMCcKCiAgICB0ZXN0Q29tcGlsZSBncm91cDogJ2p1bml0JywgbmFtZTogJ2p1bml0JywgdmVyc2lvbjogJzQuMTEnCiAgICB0ZXN0Q29tcGlsZSAnb3JnLm1vY2tpdG86bW9ja2l0by1jb3JlOjEuMTAuMTknCiAgICB0ZXN0Q29tcGlsZSAnb3JnLmFzc2VydGo6YXNzZXJ0ai1jb3JlOjMuNC4xJwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>_</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
-      </register>
-      <register name="4" type="4">
-        <text>i</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2FyZF9zaG91bGRfYmVfdmlzaWJsZV93aGVuX25vdF9pbl9kZW1vX21vZGVfYW5kX2F5c2VudGl0bGVtZW50X2VudGl0bGVkX2FuZF91cHNlbGxfbm90X2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4obW9ja1Vwc2VsbEF5c0VudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
-      </register>
       <register name="6" type="4">
-        <text>true</text>
+        <text>_</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14201,13 +14206,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>i</text>
       </register>
-      <register name="9" type="4">
-        <text>_</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgY2FyZF9zaG91bGRfYmVfdmlzaWJsZV93aGVuX25vdF9pbl9kZW1vX21vZGVfYW5kX2F5c2VudGl0bGVtZW50X2VudGl0bGVkX2FuZF91cHNlbGxfbm90X2VudGl0bGVkKCkgewogICAgICAgIHdoZW4obW9ja0F1dGhNYW5hZ2VyLmlzRGVtb01vZGUoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgd2hlbihtb2NrQXlzRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwogICAgICAgIHdoZW4obW9ja1Vwc2VsbEF5c0VudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmNhblNob3dEYXNoYm9hcmRDYXJkVmlldygpKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
