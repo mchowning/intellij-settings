@@ -119,11 +119,11 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/color/primary_button_bg_na_color.xml" timestamp="1466706241631">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/color/primary_button_bg_na_color.xml" timestamp="1466715657315">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_1_4-5.txt" timestamp="1423192717508">
         <mark key="[" line="0" column="0" />
@@ -1571,12 +1571,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466714713774">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466715316471">
         <mark key="a" line="16" column="34" />
-        <mark key="[" line="62" column="35" />
-        <mark key="]" line="62" column="60" />
-        <mark key="." line="62" column="60" />
-        <mark key="^" line="62" column="60" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="61" column="60" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -2161,6 +2161,12 @@
         <mark key="." line="51" column="40" />
         <mark key="^" line="51" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/res/color/primary_button_bg_na_color.xml" timestamp="1466715597126">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/minCut.hs" timestamp="1423172430172">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="19" column="10" />
@@ -2324,7 +2330,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>button_primary_color_na</text>
+        <text encoding="base64">eG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12918,7 +12924,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>button_primary_color_na</text>
+        <text encoding="base64">eG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4=</text>
       </register>
       <register name="/" type="4">
         <text>drawable</text>
@@ -12930,7 +12936,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>button_primary_color_na</text>
+        <text encoding="base64">eG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12961,19 +12967,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>button_primary_color_na</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YnJhbmRQcmltYXJ5QnV0dG9uQmFja2dyb3VuZENvbG9yIi0tPgo=</text>
+      <register name="4" type="4">
+        <text>android:state_selected=&quot;true&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9idXR0b25fcHJpbWFyeV9jb2xvcl9uYSItLT4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>@color/button_primary_color_na</text>
+        <text encoding="base64">CiAgICAgICAgIA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14260,14 +14266,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>android:state_pressed=&quot;true&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICA=</text>
       </register>
       <register name="9" type="4">
-        <text>?brandSecondaryButtonBackgroundButtonBackground</text>
+        <text>android:state_enabled=&quot;false&quot;</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
