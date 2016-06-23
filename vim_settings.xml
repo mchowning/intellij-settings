@@ -1446,11 +1446,11 @@
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/color/test_color.xml" timestamp="1466716918389">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/color/test_color.xml" timestamp="1466717926352">
         <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -1752,11 +1752,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/drawable/test_background.xml" timestamp="1466717235056">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/drawable/test_background.xml" timestamp="1466717900095">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
@@ -2337,7 +2337,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>color</text>
+        <text>drawable</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12931,7 +12931,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text>drawable</text>
       </register>
       <register name="/" type="4">
         <text>asdlkfj</text>
@@ -12943,7 +12943,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>color</text>
+        <text>drawable</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12974,16 +12974,16 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>primary_button_bg_color</text>
+        <text>drawable</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>drawable</text>
       </register>
       <register name="4" type="4">
-        <text>color</text>
+        <text>drawable</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>drawable</text>
       </register>
       <register name="6" type="4">
         <text>color</text>
@@ -14274,10 +14274,10 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>color</text>
+        <text>primary_button_bg_color</text>
       </register>
-      <register name="8" type="4">
-        <text>color</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
         <text>color</text>
