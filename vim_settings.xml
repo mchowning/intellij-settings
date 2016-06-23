@@ -1571,12 +1571,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466712492346">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466714713774">
         <mark key="a" line="16" column="34" />
-        <mark key="[" line="62" column="28" />
-        <mark key="]" line="62" column="61" />
-        <mark key="." line="62" column="61" />
-        <mark key="^" line="62" column="61" />
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="62" column="60" />
+        <mark key="." line="62" column="60" />
+        <mark key="^" line="62" column="60" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -1613,7 +1613,7 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1466711887218">
+      <file name="/a.regexp" timestamp="1466714569889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2324,7 +2324,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>@color/button_primary_color_na</text>
+        <text>button_primary_color_na</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12918,10 +12918,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@color/button_primary_color_na</text>
+        <text>button_primary_color_na</text>
       </register>
       <register name="/" type="4">
-        <text>brandPrimary</text>
+        <text>drawable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9idXR0b25fcHJpbWFyeV9jb2xvcl9uYSIK</text>
@@ -12930,7 +12930,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>@color/button_primary_color_na</text>
+        <text>button_primary_color_na</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12960,20 +12960,20 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>button_primary_color_na</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>?brandSecondaryButtonBackgroundButtonBackground</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YnJhbmRQcmltYXJ5QnV0dG9uQmFja2dyb3VuZENvbG9yIi0tPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>y</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9idXR0b25fcHJpbWFyeV9jb2xvcl9uYSItLT4K</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>@color/button_primary_color_na</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14260,23 +14260,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>m</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>?brandSecondaryButtonBackgroundButtonBackground</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>brandPrimary</last-search>
+      <last-search>drawable</last-search>
       <last-offset />
-      <last-pattern>brandPrimary</last-pattern>
+      <last-pattern>drawable</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -14284,7 +14284,6 @@
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
         <entry>asldfj</entry>
         <entry encoding="base64">XDxwZXJzaXN0QWNjZXB0YW5jZVRvTW9kZWxcPg==</entry>
         <entry>accept</entry>
@@ -14304,6 +14303,7 @@
         <entry>alsdfj</entry>
         <entry>color</entry>
         <entry>brandPrimary</entry>
+        <entry>drawable</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
