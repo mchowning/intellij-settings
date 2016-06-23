@@ -21,7 +21,7 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1466613447805">
+      <file name="/a.dummy" timestamp="1466682934860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
@@ -229,7 +229,7 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466631238631">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466682326211">
         <mark key="'" line="30" column="12" />
         <mark key="[" line="221" column="32" />
         <mark key="]" line="222" column="28" />
@@ -331,12 +331,12 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466631527110">
-        <mark key="'" line="96" column="9" />
-        <mark key="[" line="100" column="8" />
-        <mark key="]" line="100" column="46" />
-        <mark key="." line="100" column="8" />
-        <mark key="^" line="100" column="7" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466683197362">
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="157" column="16" />
+        <mark key="]" line="158" column="63" />
+        <mark key="." line="158" column="63" />
+        <mark key="^" line="158" column="63" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/Buffer.hs" timestamp="1421898168920">
         <mark key="[" line="0" column="0" />
@@ -857,9 +857,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1466102058777">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -908,7 +905,7 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1466612906687">
+      <file name="/fragment.java" timestamp="1466683071956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/plugin_common_resources/util/CountryConfigUtilTest.java" timestamp="1466450008821">
@@ -1919,14 +1916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="605" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="636" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="1018" column="73" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="1029" column="73" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="1701" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="50" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="188" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="430" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="433" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="437" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -2019,13 +2008,21 @@
       <jump line="87" column="93" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
       <jump line="88" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
       <jump line="99" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/GeminiHeader.java" />
+      <jump line="138" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="149" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="151" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="156" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="173" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
+      <jump line="40" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>// FIXME do these need to be centered?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL0xpc3Q8TGVnYWxEb2N1bWVudD4gbGVnYWxEb2N1bWVudExpc3QgPSBnZXREb2NzU29ydGVkQnlEaXNwbGF5T3JkZXIoKTsKICAgICAgICAvLyBUT0RPIGRldGVybWluZSB3aGljaCBkb2N1bWVudHMgaGF2ZSBhbHJlYWR5IGJlZW4gYWNjZXB0ZWQKCiAgICAgICAgLy9sZWdhbERvY3VtZW50ID0gbGVnYWxEb2N1bWVudExpc3QuZ2V0KDApOwogICAgICAgIC8vIEZJWE1FIGRvIHRoZXNlIG5lZWQgdG8gYmUgY2VudGVyZWQ/CiAgICAgICAgLy92aWV3LnNob3dMZWdhbERvY3VtZW50KGxlZ2FsRG9jdW1lbnQuZ2V0QXNzZXRQYXRoKCksIGxlZ2FsRG9jdW1lbnQudGl0bGUpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12619,19 +12616,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>// FIXME do these need to be centered?</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
-        <text>back</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Rlcm1zLmJ1dHRvbi5sYWJlbC5kZWNsaW5lIgo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KGRvY3VtZW50TGlzdCwgbmV3IENvbXBhcmF0b3I8TGVnYWxEb2N1bWVudD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgaW50IGNvbXBhcmUoTGVnYWxEb2N1bWVudCBsaHMsIExlZ2FsRG9jdW1lbnQgcmhzKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbGhzLmRpc3BsYXlfb3JkZXIgLSByaHMuZGlzcGxheV9vcmRlcjsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>// FIXME do these need to be centered?</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL0xpc3Q8TGVnYWxEb2N1bWVudD4gbGVnYWxEb2N1bWVudExpc3QgPSBnZXREb2NzU29ydGVkQnlEaXNwbGF5T3JkZXIoKTsKICAgICAgICAvLyBUT0RPIGRldGVybWluZSB3aGljaCBkb2N1bWVudHMgaGF2ZSBhbHJlYWR5IGJlZW4gYWNjZXB0ZWQKCiAgICAgICAgLy9sZWdhbERvY3VtZW50ID0gbGVnYWxEb2N1bWVudExpc3QuZ2V0KDApOwogICAgICAgIC8vIEZJWE1FIGRvIHRoZXNlIG5lZWQgdG8gYmUgY2VudGVyZWQ/CiAgICAgICAgLy92aWV3LnNob3dMZWdhbERvY3VtZW50KGxlZ2FsRG9jdW1lbnQuZ2V0QXNzZXRQYXRoKCksIGxlZ2FsRG9jdW1lbnQudGl0bGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12651,19 +12648,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>void</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>getAssetPath</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZG9jTGlzdDsK</text>
       </register>
-      <register name="5" type="4">
-        <text>url</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>d</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -13951,22 +13948,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>legalDocument.getAssetPath(), legalDocument.title</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>k</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>back</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>back</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -13974,8 +13971,6 @@
     </search>
     <history>
       <history-search>
-        <entry>should_return_tru</entry>
-        <entry>core</entry>
         <entry>demo</entry>
         <entry>invalid</entry>
         <entry>entitlement</entry>
@@ -13994,6 +13989,8 @@
         <entry>setTitle</entry>
         <entry>resource</entry>
         <entry>back</entry>
+        <entry>load</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>dInt</entry>
