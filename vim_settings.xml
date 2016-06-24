@@ -185,11 +185,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466780659763">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="44" column="67" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1466792179183">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="79" column="45" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
@@ -487,7 +488,7 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1466783794252">
+      <file name="/Dummy.txt" timestamp="1466792090753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
@@ -1430,11 +1431,11 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466782188851">
-        <mark key="[" line="158" column="44" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="155" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenter.java" timestamp="1466792224987">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="146" column="70" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/Buffer.hs" timestamp="1421898168920">
         <mark key="[" line="0" column="0" />
@@ -1818,7 +1819,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1466791710970">
+      <file name="/fragment.java" timestamp="1466792090756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/test.hs" timestamp="1420518236298">
@@ -2473,7 +2474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="443" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="445" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="449" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -2573,13 +2573,14 @@
       <jump line="86" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="105" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="85" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvbkVtYWlsQ2xpY2tlZCgpIHsKICAgICAgICBTdHJpbmcgY29udGVudCA9ICJleHBlY3RlZF9jb250ZW50IjsKICAgICAgICBzdWJqZWN0Lm9uRW1haWxDbGlja2VkKGNvbnRlbnQpOwogICAgICAgIHZlcmlmeShtb2NrRW1haWxMZWdhbERvY1V0aWwpLnNlbmRFbWFpbChtb2NrTGVnYWxEb2N1bWVudCwgY29udGVudCk7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBmaW5hbCBFbWFpbFV0aWwgZW1haWxVdGlsOwogICAgLy9wcml2YXRlIGZpbmFsIEFzc2V0VXRpbCBhc3NldFV0aWw7CiAgICAvL3ByaXZhdGUgZmluYWwgUmVzb3VyY2VVdGlsIHJlc291cmNlVXRpbDsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13173,10 +13174,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onConstructor_should_loadUrl_for_LegalDocument</text>
+        <text>sendEmail</text>
       </register>
       <register name="/" type="4">
-        <text>alsdjf</text>
+        <text>email</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBJbmplY3RNb2NrcyBwcml2YXRlIExlZ2FsQWdyZWVtZW50RnJhZ21lbnRQcmVzZW50ZXIgc3ViamVjdDsK</text>
@@ -13185,7 +13186,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvbkVtYWlsQ2xpY2tlZCgpIHsKICAgICAgICBTdHJpbmcgY29udGVudCA9ICJleHBlY3RlZF9jb250ZW50IjsKICAgICAgICBzdWJqZWN0Lm9uRW1haWxDbGlja2VkKGNvbnRlbnQpOwogICAgICAgIHZlcmlmeShtb2NrRW1haWxMZWdhbERvY1V0aWwpLnNlbmRFbWFpbChtb2NrTGVnYWxEb2N1bWVudCwgY29udGVudCk7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBmaW5hbCBFbWFpbFV0aWwgZW1haWxVdGlsOwogICAgLy9wcml2YXRlIGZpbmFsIEFzc2V0VXRpbCBhc3NldFV0aWw7CiAgICAvL3ByaXZhdGUgZmluYWwgUmVzb3VyY2VVdGlsIHJlc291cmNlVXRpbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13198,19 +13199,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uQ29uc3RydWN0b3Jfc2hvdWxkX3NldFRpdGxlX3RvX0xlZ2FsRG9jdW1lbnRfdGl0bGUoKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBGSUxFUFJPVklERVJfUEFDS0FHRU5BTUVfRk9STUFUID0gIiVzLmxlZ2FsLkZpbGVQcm92aWRlciI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIENoYXJTZXF1ZW5jZSBnZXRBcHBsaWNhdGlvbkxhYmVsKCkgewogICAgICAgIENvbnRleHQgY29udGV4dCA9IGdldEFjdGl2aXR5KCk7CiAgICAgICAgcmV0dXJuIGNvbnRleHQuZ2V0UGFja2FnZU1hbmFnZXIoKS5nZXRBcHBsaWNhdGlvbkxhYmVsKGNvbnRleHQuZ2V0QXBwbGljYXRpb25JbmZvKCkpOwogICAgfQoKICAgIHB1YmxpYyBDaGFyU2VxdWVuY2UgZ2V0QXBwbGljYXRpb25JZCgpIHsKICAgICAgICByZXR1cm4gZ2V0QWN0aXZpdHkoKS5nZXRBcHBsaWNhdGlvbigpLmdldFBhY2thZ2VOYW1lKCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQ2hhclNlcXVlbmNlIGFwcGxpY2F0aW9uTmFtZSA9IExlZ2FsQWNjZXB0YW5jZUZyYWdtZW50LnRoaXMuZ2V0QXBwbGljYXRpb25MYWJlbCgpOwogICAgICAgICAgICAgICAgLy9DaGFyU2VxdWVuY2UgYXBwbGljYXRpb25JZCA9IExlZ2FsQWNjZXB0YW5jZUZyYWdtZW50LnRoaXMuZ2V0QXBwbGljYXRpb25JZCgpOwogICAgICAgICAgICAgICAgLy9TcGFubmVkIGh0bWwgPSBIdG1sLmZyb21IdG1sKExlZ2FsQWNjZXB0YW5jZUZyYWdtZW50LnRoaXMud2ViVmlldy5nZXRDb250ZW50KCkpOwogICAgICAgICAgICAgICAgLy9MZWdhbEFjY2VwdGFuY2VGcmFnbWVudC50aGlzLnByZXNlbnRlci5zZW5kRW1haWwoYXBwbGljYXRpb25OYW1lLAogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBwbGljYXRpb25JZCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0bWwpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text>sendEmail</text>
       </register>
       <register name="6" type="4">
-        <text>onConstructor_should_loadUrl_for_LegalDocument</text>
+        <text>content</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14498,22 +14499,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvL0BUZXN0CiAgICAvL3B1YmxpYyB2b2lkIHNlbmRFbWFpbF9zaG91bGRfc2VuZEVtYWlsV2l0aEF0dGFjaG1lbnRfaWZfTGVnYWxEb2N1bWVudF9oYXNBdHRhY2htZW50UGF0aF9pc190cnVlKCkgewogICAgLy8gICAgd2hlbihtb2NrTGVnYWxEb2N1bWVudC5nZXRFbWFpbEF0dGFjaG1lbnRQYXRoKCkpLnRoZW5SZXR1cm4oImVtYWlsL2F0dGFjaG1lbnQvcGF0aC5wZGYiKTsKICAgIC8vICAgIHdoZW4obW9ja0xlZ2FsRG9jdW1lbnQuaGFzQXR0YWNobWVudFBhdGgoKSkudGhlblJldHVybih0cnVlKTsKICAgIC8vICAgIFVyaSBzaGFyZWFibGVVcmkgPSBtb2NrKFVyaS5jbGFzcyk7CiAgICAvLyAgICB3aGVuKG1vY2tBc3NldFV0aWwuZ2V0U2hhcmVhYmxlVXJpRm9yQXNzZXRzKCJlbWFpbC9hdHRhY2htZW50L3BhdGgucGRmIiwgImNvbS5nbS5hcHAuaWQubGVnYWwuRmlsZVByb3ZpZGVyIikpLnRoZW5SZXR1cm4oc2hhcmVhYmxlVXJpKTsKICAgIC8vCiAgICAvLyAgICBzdWJqZWN0LnNlbmRFbWFpbChBUFBMSUNBVElPTl9OQU1FLCBBUFBMSUNBVElPTl9JRCwgIkRPTlQgQ0FSRSBTRU5ESU5HIEFUVEFDSE1FTlQiKTsKICAgIC8vCiAgICAvLyAgICB2ZXJpZnkobW9ja0VtYWlsTGVnYWxEb2NVdGlsKS5zZW5kRW1haWxXaXRoQXR0YWNobWVudChFTUFJTF9TVUJKRUNULCBzaGFyZWFibGVVcmkpOwogICAgLy8gICAgdmVyaWZ5KG1vY2tFbWFpbExlZ2FsRG9jVXRpbCwgbmV2ZXIoKSkuc2VuZEVtYWlsV2l0aEJvZHkoRU1BSUxfU1VCSkVDVCwgIkRPTlQgQ0FSRSBTRU5ESU5HIEFUVEFDSE1FTlQiKTsKICAgIC8vfQogICAgLy8KICAgIC8vQFRlc3QKICAgIC8vcHVibGljIHZvaWQgc2VuZEVtYWlsX3Nob3VsZF9zZW5kRW1haWxXaXRoQ29udGVudE9mSHRtbF9pZl9MZWdhbERvdWNtZW50X2hhc0F0dGFjaG1lbnRQYXRoX2lzX2ZhbHNlKCkgewogICAgLy8gICAgd2hlbihtb2NrTGVnYWxEb2N1bWVudC5oYXNBdHRhY2htZW50UGF0aCgpKS50aGVuUmV0dXJuKGZhbHNlKTsKICAgIC8vCiAgICAvLyAgICBzdWJqZWN0LnNlbmRFbWFpbChBUFBMSUNBVElPTl9OQU1FLCBBUFBMSUNBVElPTl9JRCwgIkNPTlRFTlQgRlJPTSBXRUIgVklFVyIpOwogICAgLy8KICAgIC8vICAgIHZlcmlmeShtb2NrRW1haWxMZWdhbERvY1V0aWwpLnNlbmRFbWFpbFdpdGhCb2R5KEVNQUlMX1NVQkpFQ1QsICJDT05URU5UIEZST00gV0VCIFZJRVciKTsKICAgIC8vICAgIHZlcmlmeShtb2NrRW1haWxMZWdhbERvY1V0aWwsIG5ldmVyKCkpLnNlbmRFbWFpbFdpdGhBdHRhY2htZW50KGVxKEVNQUlMX1NVQkpFQ1QpLCBhbnkoVXJpLmNsYXNzKSk7CiAgICAvL30KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBTdHJpbmcgZ2V0RW1haWxTdWJqZWN0KENoYXJTZXF1ZW5jZSBhcHBsaWNhdGlvbk5hbWUsIExlZ2FsRG9jdW1lbnQgbGVnYWxEb2MpIHsKICAgIC8vICAgIFN0cmluZyBlbWFpbFN1YmplY3RGb3JtYXQgPSByZXNvdXJjZVV0aWwuZ2V0U3RyaW5nKFIuc3RyaW5nLmxlZ2FsX2Zvcm1hdF9lbWFpbF9zdWJqZWN0KTsKICAgIC8vICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KGVtYWlsU3ViamVjdEZvcm1hdCwgYXBwbGljYXRpb25OYW1lLCBsZWdhbERvYy50aXRsZSk7CiAgICAvL30KICAgIC8vCiAgICAvL3B1YmxpYyBTdHJpbmcgZ2V0RmlsZVByb3ZpZGVyQXV0aG9yaXR5KENoYXJTZXF1ZW5jZSBhcHBsaWNhdGlvbklkKSB7CiAgICAvLyAgICByZXR1cm4gU3RyaW5nLmZvcm1hdChGSUxFUFJPVklERVJfUEFDS0FHRU5BTUVfRk9STUFULCBhcHBsaWNhdGlvbklkKTsKICAgIC8vfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>expectedContent</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBlbWFpbFN1YmplY3QgPSBnZXRFbWFpbFN1YmplY3QoYXBwbGljYXRpb25OYW1lLCBjdXJyZW50bHlEaXNwbGF5ZWRMZWdhbERvYyk7CiAgICAgICAgLy9pZiAoY3VycmVudGx5RGlzcGxheWVkTGVnYWxEb2MuaGFzQXR0YWNobWVudFBhdGgoKSkgewogICAgICAgIC8vICAgIFVyaSBhdHRhY2hhYmxlVXJpID0gYXNzZXRVdGlsLmdldFNoYXJlYWJsZVVyaUZvckFzc2V0cyhjdXJyZW50bHlEaXNwbGF5ZWRMZWdhbERvYy5nZXRFbWFpbEF0dGFjaG1lbnRQYXRoKCksCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldEZpbGVQcm92aWRlckF1dGhvcml0eShhcHBsaWNhdGlvbklkKSk7CiAgICAgICAgLy8gICAgZW1haWxVdGlsLnNlbmRFbWFpbFdpdGhBdHRhY2htZW50KGVtYWlsU3ViamVjdCwgYXR0YWNoYWJsZVVyaSk7CiAgICAgICAgLy99IGVsc2UgewogICAgICAgIC8vICAgIGVtYWlsVXRpbC5zZW5kRW1haWxXaXRoQm9keShlbWFpbFN1YmplY3QsIGNvbnRlbnRPZkxlZ2FsRG9jdW1lbnQpOwogICAgICAgIC8vfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RvYzEvbW9ja0RvY3VtZW50</text>
       </register>
     </registers>
     <search>
-      <last-search>alsdjf</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern>alsdjf</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14537,10 +14538,10 @@
         <entry>asdljf</entry>
         <entry>PrimaryButton</entry>
         <entry>secondarybutton</entry>
-        <entry>email</entry>
         <entry>doc1</entry>
         <entry>fromHtml</entry>
         <entry>alsdjf</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
