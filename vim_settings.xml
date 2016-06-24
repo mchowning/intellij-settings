@@ -2473,9 +2473,14 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/EditVehicleFragment.java" timestamp="1466799204781">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="445" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="449" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="99" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" />
@@ -2575,13 +2580,14 @@
       <jump line="105" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="85" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="152" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" />
+      <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/EditVehicleFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRDb250ZW50Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13178,7 +13184,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text encoding="base64">XDx2ZWhpY2xlRGVzY3JpcHRpb25IZWFkZXJGcmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBJbmplY3RNb2NrcyBwcml2YXRlIExlZ2FsQWdyZWVtZW50RnJhZ21lbnRQcmVzZW50ZXIgc3ViamVjdDsK</text>
@@ -13186,8 +13192,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>a</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRDb250ZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13200,19 +13206,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
+        <text>_</text>
+      </register>
+      <register name="5" type="4">
         <text>currentlyDisplayedLegalDoc</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwdWJsaWMgdm9pZCBzZW5kRW1haWwoQ2hhclNlcXVlbmNlIGFwcGxpY2F0aW9uTmFtZSwgQ2hhclNlcXVlbmNlIGFwcGxpY2F0aW9uSWQsIENoYXJTZXF1ZW5jZSBjb250ZW50T2ZMZWdhbERvY3VtZW50KSB7CiAgICAgICAgTGVnYWxEb2N1bWVudCBjdXJyZW50bHlEaXNwbGF5ZWRMZWdhbERvYyA9IGxlZ2FsRG9jdW1lbnRRdWV1ZS5wZWVrKCk7CiAgICAgICAgU3RyaW5nIGVtYWlsU3ViamVjdCA9IGdldEVtYWlsU3ViamVjdChhcHBsaWNhdGlvbk5hbWUsIGN1cnJlbnRseURpc3BsYXllZExlZ2FsRG9jKTsKICAgICAgICBpZiAoY3VycmVudGx5RGlzcGxheWVkTGVnYWxEb2MuaGFzQXR0YWNobWVudFBhdGgoKSkgewogICAgICAgICAgICBVcmkgYXR0YWNoYWJsZVVyaSA9IGFzc2V0VXRpbC5nZXRTaGFyZWFibGVVcmlGb3JBc3NldHMoY3VycmVudGx5RGlzcGxheWVkTGVnYWxEb2MuZ2V0RW1haWxBdHRhY2htZW50UGF0aCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2V0RmlsZVByb3ZpZGVyQXV0aG9yaXR5KGFwcGxpY2F0aW9uSWQpKTsKICAgICAgICAgICAgZW1haWxVdGlsLnNlbmRFbWFpbFdpdGhBdHRhY2htZW50KGVtYWlsU3ViamVjdCwgYXR0YWNoYWJsZVVyaSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZW1haWxVdGlsLnNlbmRFbWFpbFdpdGhCb2R5KGVtYWlsU3ViamVjdCwgY29udGVudE9mTGVnYWxEb2N1bWVudCk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgU3RyaW5nIGdldEVtYWlsU3ViamVjdChDaGFyU2VxdWVuY2UgYXBwbGljYXRpb25OYW1lLCBMZWdhbERvY3VtZW50IGxlZ2FsRG9jKSB7CiAgICAgICAgU3RyaW5nIGVtYWlsU3ViamVjdEZvcm1hdCA9IHJlc291cmNlVXRpbC5nZXRTdHJpbmcoUi5zdHJpbmcubGVnYWxfZm9ybWF0X2VtYWlsX3N1YmplY3QpOwogICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KGVtYWlsU3ViamVjdEZvcm1hdCwgYXBwbGljYXRpb25OYW1lLCBsZWdhbERvYy50aXRsZSk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRGaWxlUHJvdmlkZXJBdXRob3JpdHkoQ2hhclNlcXVlbmNlIGFwcGxpY2F0aW9uSWQpIHsKICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdChGSUxFUFJPVklERVJfUEFDS0FHRU5BTUVfRk9STUFULCBhcHBsaWNhdGlvbklkKTsK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxZWI2ZmRjLi4uIE1DIHwgT00tODM2MiB8IGV4dHJhY3Qgb3V0IGNvbW1vbiBzZW5kLWxlZ2FsLWRvYyBsb2dpYwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwdWJsaWMgdm9pZCBzZW5kRW1haWwoQ2hhclNlcXVlbmNlIGFwcGxpY2F0aW9uTmFtZSwgQ2hhclNlcXVlbmNlIGFwcGxpY2F0aW9uSWQsIENoYXJTZXF1ZW5jZSBjb250ZW50T2ZMZWdhbERvY3VtZW50KSB7CiAgICAgICAgTGVnYWxEb2N1bWVudCBjdXJyZW50bHlEaXNwbGF5ZWRMZWdhbERvYyA9IGxlZ2FsRG9jdW1lbnRRdWV1ZS5wZWVrKCk7CiAgICAgICAgU3RyaW5nIGVtYWlsU3ViamVjdCA9IGdldEVtYWlsU3ViamVjdChhcHBsaWNhdGlvbk5hbWUsIGN1cnJlbnRseURpc3BsYXllZExlZ2FsRG9jKTsKICAgICAgICBpZiAoY3VycmVudGx5RGlzcGxheWVkTGVnYWxEb2MuaGFzQXR0YWNobWVudFBhdGgoKSkgewogICAgICAgICAgICBVcmkgYXR0YWNoYWJsZVVyaSA9IGFzc2V0VXRpbC5nZXRTaGFyZWFibGVVcmlGb3JBc3NldHMoY3VycmVudGx5RGlzcGxheWVkTGVnYWxEb2MuZ2V0RW1haWxBdHRhY2htZW50UGF0aCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2V0RmlsZVByb3ZpZGVyQXV0aG9yaXR5KGFwcGxpY2F0aW9uSWQpKTsKICAgICAgICAgICAgZW1haWxVdGlsLnNlbmRFbWFpbFdpdGhBdHRhY2htZW50KGVtYWlsU3ViamVjdCwgYXR0YWNoYWJsZVVyaSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZW1haWxVdGlsLnNlbmRFbWFpbFdpdGhCb2R5KGVtYWlsU3ViamVjdCwgY29udGVudE9mTGVnYWxEb2N1bWVudCk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgU3RyaW5nIGdldEVtYWlsU3ViamVjdChDaGFyU2VxdWVuY2UgYXBwbGljYXRpb25OYW1lLCBMZWdhbERvY3VtZW50IGxlZ2FsRG9jKSB7CiAgICAgICAgU3RyaW5nIGVtYWlsU3ViamVjdEZvcm1hdCA9IHJlc291cmNlVXRpbC5nZXRTdHJpbmcoUi5zdHJpbmcubGVnYWxfZm9ybWF0X2VtYWlsX3N1YmplY3QpOwogICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KGVtYWlsU3ViamVjdEZvcm1hdCwgYXBwbGljYXRpb25OYW1lLCBsZWdhbERvYy50aXRsZSk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRGaWxlUHJvdmlkZXJBdXRob3JpdHkoQ2hhclNlcXVlbmNlIGFwcGxpY2F0aW9uSWQpIHsKICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdChGSUxFUFJPVklERVJfUEFDS0FHRU5BTUVfRk9STUFULCBhcHBsaWNhdGlvbklkKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14500,22 +14506,22 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxZWI2ZmRjLi4uIE1DIHwgT00tODM2MiB8IGV4dHJhY3Qgb3V0IGNvbW1vbiBzZW5kLWxlZ2FsLWRvYyBsb2dpYwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
-      </register>
       <register name="9" type="4">
-        <text>legalDocumentQueue</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RvYzEvbW9ja0RvY3VtZW50</text>
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search encoding="base64">XDx2ZWhpY2xlRGVzY3JpcHRpb25IZWFkZXJGcmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern encoding="base64">XDx2ZWhpY2xlRGVzY3JpcHRpb25IZWFkZXJGcmFtZVw+</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14523,8 +14529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>singleton</entry>
-        <entry>1</entry>
         <entry>tree</entry>
         <entry>l</entry>
         <entry encoding="base64">XDxzXD4=</entry>
@@ -14543,6 +14547,8 @@
         <entry>alsdjf</entry>
         <entry>email</entry>
         <entry>asdlfj</entry>
+        <entry>height</entry>
+        <entry encoding="base64">XDx2ZWhpY2xlRGVzY3JpcHRpb25IZWFkZXJGcmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
