@@ -325,6 +325,11 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/drawable/secondary_button_bg_unrounded.xml" timestamp="1466772867477">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_2/multiAgents.py" timestamp="1426734718518">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -1716,11 +1721,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466772047180">
-        <mark key="[" line="66" column="22" />
-        <mark key="]" line="66" column="28" />
-        <mark key="." line="66" column="28" />
-        <mark key="^" line="66" column="28" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466773896545">
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="33" />
+        <mark key="^" line="64" column="33" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -2541,7 +2546,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3AiPkBkaW1lbi9idXR0b25fbWFyZ2luPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbSI+QGRpbWVuL2J1dHRvbl9tYXJnaW48L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13147,7 +13152,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3AiPkBkaW1lbi9idXR0b25fbWFyZ2luPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbSI+QGRpbWVuL2J1dHRvbl9tYXJnaW48L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13167,19 +13172,19 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHN0cm9rZSBhbmRyb2lkOndpZHRoPSJAZGltZW4vc2Vjb25kYXJ5X2J1dHRvbl9zdHJva2UiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivc2Vjb25kYXJ5X2J1dHRvbl9ib3JkZXIiIC8+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHN0cm9rZSBhbmRyb2lkOndpZHRoPSJAZGltZW4vc2Vjb25kYXJ5X2J1dHRvbl9zdHJva2UiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivc2Vjb25kYXJ5X2J1dHRvbl9ib3JkZXIiIC8+Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3AiPkBkaW1lbi9idXR0b25fbWFyZ2luPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbSI+QGRpbWVuL2J1dHRvbl9tYXJnaW48L2l0ZW0+Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>y</text>
-      </register>
-      <register name="4" type="4">
-        <text>r</text>
-      </register>
-      <register name="5" type="4">
-        <text>a</text>
-      </register>
-      <register name="6" type="4">
-        <text>d</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14466,14 +14471,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>n</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3AiPkBkaW1lbi9idXR0b25fbWFyZ2luPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbSI+QGRpbWVuL2J1dHRvbl9tYXJnaW48L2l0ZW0+Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
