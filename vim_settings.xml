@@ -325,10 +325,10 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/drawable/secondary_button_bg_unrounded.xml" timestamp="1466772867477">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/drawable/secondary_button_bg_unrounded.xml" timestamp="1466779176019">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_2/multiAgents.py" timestamp="1426734718518">
         <mark key="[" line="151" column="0" />
@@ -1721,11 +1721,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466778148625">
-        <mark key="[" line="64" column="31" />
-        <mark key="]" line="64" column="33" />
-        <mark key="." line="64" column="33" />
-        <mark key="^" line="64" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466779208039">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentTest.java" timestamp="1461344403679">
         <mark key="[" line="22" column="37" />
@@ -2545,8 +2545,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>wrap_content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyBmaXggYnV0dG9uIHN0eWxpbmctLT4K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13151,8 +13151,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>wrap_content</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyBmaXggYnV0dG9uIHN0eWxpbmctLT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13171,20 +13171,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHN0cm9rZSBhbmRyb2lkOndpZHRoPSJAZGltZW4vc2Vjb25kYXJ5X2J1dHRvbl9zdHJva2UiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivc2Vjb25kYXJ5X2J1dHRvbl9ib3JkZXIiIC8+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHN0cm9rZSBhbmRyb2lkOndpZHRoPSJAZGltZW4vc2Vjb25kYXJ5X2J1dHRvbl9zdHJva2UiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivc2Vjb25kYXJ5X2J1dHRvbl9ib3JkZXIiIC8+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tc3R5bGU9Ij9zZWNvbmRhcnlCdXR0b24iLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iMGRwIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOnRleHRDb2xvcj0iP2JyYW5kQWNjZW50Ii0tPgoKICAgICAgICA8IS0tVE9ETyBmaXggYnV0dG9uIHN0eWxpbmctLT4K</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwhLS1zdHlsZT0iP3ByaW1hcnlCdXR0b24iLS0+CiAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YnJhbmRBY2NlbnQiLS0+CiAgICA8IS0tYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIwZHAiLS0+CgoKICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW49IjBkcCItLT4KICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS90ZXN0X2JhY2tncm91bmQiLS0+CgogICAgPCEtLWFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3ByaW1hcnlfYnV0dG9uX2JnX25hX2NvbG9yIi0tPgogICAgPCEtLXN0eWxlPSI/cHJpbWFyeUJ1dHRvbiItLT4KICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9idXR0b25fcHJpbWFyeV9jb2xvcl9uYSItLT4KICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9Ij9icmFuZFByaW1hcnlCdXR0b25CYWNrZ3JvdW5kQ29sb3IiLS0+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwhLS1UT0RPIGZpeCBidXR0b24gc3R5bGluZy0tPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14471,14 +14471,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDp0ZXh0Q29sb3I9Ij9icmFuZEFjY2VudCItLT4K</text>
       </register>
-      <register name="8" type="4">
-        <text>1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tc3R5bGU9Ij9zZWNvbmRhcnlCdXR0b24iLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iMGRwIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICA8VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIxZHAiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvbGluZV9kaXZpZGVyIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
