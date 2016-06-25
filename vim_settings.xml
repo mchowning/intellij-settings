@@ -385,6 +385,9 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" timestamp="1466863908298">
+        <mark key="'" line="69" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" timestamp="1465574111980">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="49" />
@@ -1172,11 +1175,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerFileReadWriteHandlerTest.java" timestamp="1466863418318">
-        <mark key="[" line="81" column="61" />
-        <mark key="]" line="81" column="68" />
-        <mark key="." line="81" column="68" />
-        <mark key="^" line="81" column="68" />
+      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerFileReadWriteHandlerTest.java" timestamp="1466864316617">
+        <mark key="[" line="108" column="5" />
+        <mark key="]" line="111" column="20" />
+        <mark key="^" line="111" column="20" />
+        <mark key="." line="111" column="20" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/DeliberationPlayer.java" timestamp="1429321151496">
         <mark key="[" line="16" column="13" />
@@ -2218,9 +2221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="485" column="78" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="488" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="512" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="535" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="574" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -2318,13 +2318,16 @@
       <jump line="235" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="238" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="44" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
+      <jump line="61" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
+      <jump line="67" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
+      <jump line="69" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.0.Final/d2cf9d7328f802f350be9e7dfdb0f5a76d744ccd/netty-all-4.1.0.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NO_CONTENT</text>
+        <text>t</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12918,19 +12921,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NO_CONTENT</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>asdlfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gdGVzdCB3aXRob3V0IGF1dGhvcml6YXRpb24K</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBoYW5kbGVzX3N1Y2Nlc3NmdWxfcG9zdF9yZXF1ZXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgc2V0QXV0aG9yaXphdGlvblN0YXRlKHRydWUsIHRydWUpOwogICAgICAgIHdoZW4ocmVxdWVzdC5tZXRob2QoKSkudGhlblJldHVybihIdHRwTWV0aG9kLlBPU1QpOwogICAgICAgIHdoZW4oZmlsZU1hbmFnZXIud3JpdGVGaWxlQ29udGVudChmaWxlQ29udGVudCkpLnRoZW5SZXR1cm4odHJ1ZSk7CgogICAgICAgIHN1YmplY3QuY2hhbm5lbFJlYWQwKGN0eCwgcmVxdWVzdCk7CgogICAgICAgIHZlcmlmeShmaWxlTWFuYWdlcikud3JpdGVGaWxlQ29udGVudChmaWxlQ29udGVudCk7CiAgICAgICAgdmVyaWZ5UmV0dXJuRmlsZUNvbnRlbnQoKTsKICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>NO_CONTENT</text>
+        <text>t</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12950,19 +12953,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>TEST</text>
+        <text>u</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
+        <text>o</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNoYW5uZWwuYXR0cihTZXJ2ZXJPQXV0aFZlcmlmaWNhdGlvbkhhbmRsZXIuQVVUSE9SSVpFRCkpLnRoZW5SZXR1cm4oYXV0aG9yaXphdGlvbkF0dHJpYnV0ZSk7Cg==</text>
+      <register name="4" type="4">
+        <text>_</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguY2hhCg==</text>
+      <register name="5" type="4">
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGN0eC5jCg==</text>
+      <register name="6" type="4">
+        <text>u</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14249,23 +14252,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>@android:color/white</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>?legalAcceptanceButtonDarkBackground</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>asdlfj</last-pattern>
       <last-replace>OnsSubCode</last-replace>
       <last-substitute>OnsCode</last-substitute>
       <last-dir>1</last-dir>
@@ -14273,7 +14276,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>fold</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry>822</entry>
@@ -14286,13 +14288,14 @@
         <entry>1</entry>
         <entry>tree</entry>
         <entry>l</entry>
-        <entry>asdlfj</entry>
         <entry encoding="base64">XDxzXD4=</entry>
         <entry>asdlfkj</entry>
         <entry encoding="base64">XDxvQXV0aFRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRSZXN1bHRzXD4=</entry>
         <entry>initChannel</entry>
         <entry>button</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
