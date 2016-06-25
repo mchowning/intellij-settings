@@ -1172,11 +1172,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerFileReadWriteHandlerTest.java" timestamp="1466051983834">
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="59" column="55" />
-        <mark key="." line="59" column="55" />
-        <mark key="^" line="59" column="55" />
+      <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerFileReadWriteHandlerTest.java" timestamp="1466863418318">
+        <mark key="[" line="81" column="61" />
+        <mark key="]" line="81" column="68" />
+        <mark key="." line="81" column="68" />
+        <mark key="^" line="81" column="68" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/DeliberationPlayer.java" timestamp="1429321151496">
         <mark key="[" line="16" column="13" />
@@ -2324,7 +2324,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>@android:color/white</text>
+        <text>NO_CONTENT</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12918,19 +12918,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@android:color/white</text>
+        <text>NO_CONTENT</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJMZWdhbEFjY2VwdGFuY2VEYXJrQnV0dG9uIj4KICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmJhY2tncm91bmQiPj9sZWdhbEFjY2VwdGFuY2VCdXR0b25EYXJrQmFja2dyb3VuZDwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+QGFuZHJvaWQ6Y29sb3Ivd2hpdGU8L2l0ZW0+CiAgICA8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdGVzdCB3aXRob3V0IGF1dGhvcml6YXRpb24K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>@android:color/white</text>
+        <text>NO_CONTENT</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12950,19 +12950,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>?legalAcceptanceButtonDarkBackground</text>
+        <text>TEST</text>
       </register>
       <register name="3" type="4">
-        <text>k</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="4" type="4">
-        <text>r</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGNoYW5uZWwuYXR0cihTZXJ2ZXJPQXV0aFZlcmlmaWNhdGlvbkhhbmRsZXIuQVVUSE9SSVpFRCkpLnRoZW5SZXR1cm4oYXV0aG9yaXphdGlvbkF0dHJpYnV0ZSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>a</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjdHguY2hhCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>D</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGN0eC5jCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14250,13 +14250,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxhdHRyIG5hbWU9ImFjY2VwdExlZ2FsVGVybXNCdXR0b24iCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT0iP3ByaW1hcnlCdXR0b25GdWxsIgo=</text>
+      <register name="8" type="4">
+        <text>@android:color/white</text>
       </register>
       <register name="9" type="4">
-        <text>primary</text>
+        <text>?legalAcceptanceButtonDarkBackground</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
