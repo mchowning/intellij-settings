@@ -432,6 +432,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1466907651025">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="15" />
+        <mark key="^" line="55" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -511,6 +517,12 @@
         <mark key="]" line="3" column="21" />
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/worksheet.sc" timestamp="1466907371112">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
@@ -1975,6 +1987,12 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466907118598">
+        <mark key="[" line="148" column="30" />
+        <mark key="]" line="148" column="37" />
+        <mark key="^" line="148" column="37" />
+        <mark key="." line="148" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/gradle/wrapper/gradle-wrapper.properties" timestamp="1462468085956">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -2318,8 +2336,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12913,7 +12931,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>asdlfj</text>
@@ -12924,8 +12942,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12944,20 +12962,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAvLyBUT0RPIHVzZSBjYWxsYmFjayBpbnN0ZWFkIG9mIHN0b3Jpbmcgc3RhdGUKICAgIHByaXZhdGUgT0F1dGhUb2tlbiBvQXV0aFRva2VuOwo9PT09PT09Cg==</text>
+      <register name="2" type="4">
+        <text>n</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="3" type="4">
+        <text>I</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAvLyBUT0RPIHVzZSBjYWxsYmFjayBpbnN0ZWFkIG9mIHN0b3Jpbmcgc3RhdGUKICAgIHByaXZhdGUgU3RyaW5nIGZpbGVDb250ZW50Owo9PT09PT09Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9mLmNoYW5uZWwoKS5jbG9zZUZ1dHVyZSgpLmFkZExpc3RlbmVyKGNvbXBsZXRpb25MaXN0ZW5lcik7Cg==</text>
+      <register name="5" type="4">
+        <text>:</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIHZvaWQgZXhlY3V0ZShDb25zdW1lcjxUPiByZXN1bHRDb25zdW1lcikgewogICAgLy8gICAgQ2hhbm5lbEZ1dHVyZUxpc3RlbmVyIGNvbXBsZXRpb25MaXN0ZW5lciA9IGlnbm9yZWQgLT4KICAgIC8vICAgICAgICAgICAgcmVzdWx0Q29uc3VtZXIuYWNjZXB0KGdldFJlc3VsdFN1cHBsaWVyKCkuZ2V0KCkpOwogICAgLy8gICAgc3RhcnRDbGllbnQoY29tcGxldGlvbkxpc3RlbmVyKTsKICAgIC8vfQoKICAgIC8vcHJpdmF0ZSB2b2lkIHN0YXJ0Q2xpZW50KENoYW5uZWxGdXR1cmVMaXN0ZW5lciBjb21wbGV0aW9uTGlzdGVuZXIpIHsKCg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14244,14 +14262,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vcHJvdGVjdGVkIGFic3RyYWN0IFN1cHBsaWVyPFQ+IGdldFJlc3VsdFN1cHBsaWVyKCk7Cg==</text>
+      <register name="7" type="4">
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN0eC5jaGFubmVsKCkuYXR0cihBVVRIT1JJWkVEKS5zZXQodHJ1ZSk7Cg==</text>
+      <register name="8" type="4">
+        <text>I</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4LmNoYW5uZWwoKS5hdHRyKEFVVEhPUklaRUQpLnNldChmYWxzZSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
