@@ -498,6 +498,9 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1467043489716">
+        <mark key="'" line="119" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/learnyouahaskell/PolishCalculator.hs" timestamp="1420044206134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -2302,9 +2305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="99" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" />
-      <jump line="11" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" />
       <jump line="92" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" />
       <jump line="66" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="108" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2402,6 +2402,9 @@
       <jump line="152" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" />
       <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/EditVehicleFragment.java" />
       <jump line="53" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/EmailLegalDocUtil.java" />
+      <jump line="156" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="71" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="119" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13005,7 +13008,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
@@ -14336,13 +14339,13 @@
         <text>O</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2RvYzEvbW9ja0RvY3VtZW50</text>
+        <text>362</text>
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14350,8 +14353,6 @@
     </search>
     <history>
       <history-search>
-        <entry>l</entry>
-        <entry encoding="base64">XDxzXD4=</entry>
         <entry>asdlfkj</entry>
         <entry encoding="base64">XDxvQXV0aFRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRSZXN1bHRzXD4=</entry>
@@ -14370,19 +14371,10 @@
         <entry encoding="base64">XDx2ZWhpY2xlRGVzY3JpcHRpb25IZWFkZXJGcmFtZVw+</entry>
         <entry>rxpermissions</entry>
         <entry>asdlfj</entry>
+        <entry>BehaviorSubject</entry>
+        <entry encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
-        <entry>1gg</entry>
-        <entry>1G</entry>
-        <entry>238</entry>
-        <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL09uc0Vycm9yL0Vycm9yL2c=</entry>
-        <entry>s/findOns/getOns/g</entry>
-        <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
-        <entry>225</entry>
-        <entry>302</entry>
         <entry>85</entry>
         <entry>284</entry>
         <entry>420</entry>
@@ -14392,6 +14384,17 @@
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zL2RvYzEvbW9ja0RvY3VtZW50</entry>
+        <entry>190</entry>
+        <entry>264</entry>
+        <entry>183</entry>
+        <entry>157</entry>
+        <entry>246</entry>
+        <entry>255</entry>
+        <entry>297</entry>
+        <entry>280</entry>
+        <entry>306</entry>
+        <entry>289</entry>
+        <entry>362</entry>
       </history-cmd>
       <history-expr />
       <history-input />
