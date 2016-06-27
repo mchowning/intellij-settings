@@ -2001,12 +2001,12 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/Solver.scala" timestamp="1466975815450">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/Solver.scala" timestamp="1466981814066">
         <mark key="'" line="10" column="39" />
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="47" />
-        <mark key="." line="29" column="47" />
-        <mark key="^" line="29" column="47" />
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="72" column="30" />
+        <mark key="." line="72" column="30" />
+        <mark key="^" line="72" column="30" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -2358,7 +2358,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12952,19 +12952,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBsZWdhbE5laWdoYm9yczogTGlzdFsoQmxvY2ssIE1vdmUpXSA9IG5laWdoYm9ycy5maWx0ZXIoeyBjYXNlIChiLF8pID0+IGIuaXNMZWdhbCB9KQo=</text>
+        <text encoding="base64">ICAgIG5laWdoYm9ycy5maWx0ZXIoeyBjYXNlIChiLCBfKSA9PiBleHBsb3JlZC5jb250YWlucyhiKSB9KQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12983,20 +12983,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3SGlzdG9yeSA9IGV4cGxvcmVkCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YiBtYXRjaCB7CiAgICBjYXNlIEJsb2NrKHAxLCBwMikgPT4=</text>
+        <text>;</text>
       </register>
-      <register name="5" type="4">
-        <text>y</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICkgeWllbGQK</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14284,13 +14284,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>:</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
