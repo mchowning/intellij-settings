@@ -1992,12 +1992,12 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/Solver.scala" timestamp="1466995931676">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/Solver.scala" timestamp="1466997703928">
         <mark key="'" line="8" column="39" />
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="23" />
-        <mark key="^" line="76" column="23" />
-        <mark key="." line="76" column="23" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="99" column="52" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -2348,8 +2348,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAvL3ZhbCBhY2N1bXVsYXRvcjogU3RyZWFtWyhCbG9jaywgTGlzdFtNb3ZlXSldID0gU3RyZWFtKCkKICAgIC8vaW5pdGlhbC5mb2xkTGVmdChhY2N1bXVsYXRvcikoKGFjYywgdikgPT4gewogICAgLy8gIHZhbCBuID0gbmV3TmVpZ2hib3JzT25seSh2LCBleHBsb3JlZCkKICAgIC8vfSkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -12943,19 +12943,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>).</text>
       </register>
       <register name="/" type="4">
         <text>asldkfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgdmFsIG5ld0luaXRpYWw6IFN0cmVhbVsoQmxvY2ssIExpc3RbTW92ZV0pXSA9IG5ld05laWdoYm9yc09ubHkobmVpZ2hib3JzV2l0aEhpc3RvcnkoYiwgbXMpLAogIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBsb3JlZCkKICAvLyAgdmFsIG5ld0V4cGxvcmVkOiBTZXRbQmxvY2tdID0gZXhwbG9yZWQgKyBiCiAgLy8gIGZyb20obmV3SW5pdGlhbCwgbmV3RXhwbG9yZWQpCg==</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBzb2x1dGlvbjogTGlzdFtNb3ZlXSA9IHBhdGhzVG9Hb2FsLm1hcChfLl8yKS5zb3J0QnkoXy5sZW5ndGgpLmhlYWQK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAvL3ZhbCBhY2N1bXVsYXRvcjogU3RyZWFtWyhCbG9jaywgTGlzdFtNb3ZlXSldID0gU3RyZWFtKCkKICAgIC8vaW5pdGlhbC5mb2xkTGVmdChhY2N1bXVsYXRvcikoKGFjYywgdikgPT4gewogICAgLy8gIHZhbCBuID0gbmV3TmVpZ2hib3JzT25seSh2LCBleHBsb3JlZCkKICAgIC8vfSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -12975,19 +12975,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgoKICAvLyhmb3IgKChiLCBtcykgPC0gaW5pdGlhbCkgeWllbGQgewogIC8vICB2YWwgbmV3SW5pdGlhbDogU3RyZWFtWyhCbG9jaywgTGlzdFtNb3ZlXSldID0gbmV3TmVpZ2hib3JzT25seShuZWlnaGJvcnNXaXRoSGlzdG9yeShiLCBtcyksCiAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGxvcmVkKQogIC8vICB2YWwgbmV3RXhwbG9yZWQ6IFNldFtCbG9ja10gPSBleHBsb3JlZCArIGIKICAvLyAgZnJvbShuZXdJbml0aWFsLCBuZXdFeHBsb3JlZCkKICAvL30pLmZsYXR0ZW4KCiAgICAgICAgICAgLy8oZm9yICgKICAgICAgICAgICAvLyAgKGIsIG1zKSA8LSBpbml0aWFsOwogICAgICAgICAgIC8vICBuZXdJbml0aWFsOiAoQmxvY2ssIE1vdmUpID0gbmV3TmVpZ2hib3JzT25seShuZWlnaGJvcnNXaXRoSGlzdG9yeShiLCBtcyksIGV4cGxvcmVkKQogICAgICAgICAgIC8vICBuZXdFeHBsb3JlZCA9IGV4cGxvcmVkICsgYikgeWllbGQgZnJvbShuZXdJbml0aWFsLCBuZXdFeHBsb3JlZCkpLmZsYXR0ZW4K</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text>).</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwbG9yZWQpCg==</text>
+      <register name="4" type="4">
+        <text>_2</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIChmb3IgKChiLCBtcykgPC0gaW5pdGlhbCkgeWllbGQgewogICAgICB2YWwgbmV3SW5pdGlhbDogU3RyZWFtWyhCbG9jaywgTGlzdFtNb3ZlXSldID0gbmV3TmVpZ2hib3JzT25seShuZWlnaGJvcnNXaXRoSGlzdG9yeShiLCBtcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGxvcmVkKQogICAgICB2YWwgbmV3RXhwbG9yZWQ6IFNldFtCbG9ja10gPSBleHBsb3JlZCArIGIKICAgICAgKG5ld0luaXRpYWwsIG5ld0V4cGxvcmVkKQogICAgfSkuKSkK</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14275,13 +14275,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>map</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
