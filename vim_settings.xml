@@ -18,8 +18,8 @@
       <file name="/a.dummy" timestamp="1466783794262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" timestamp="1467138976700">
-        <mark key="'" line="343" column="0" />
+      <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" timestamp="1467139228185">
+        <mark key="'" line="254" column="22" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts/scripts.cabal" timestamp="1448639213605">
         <mark key="[" line="19" column="42" />
@@ -2466,8 +2466,8 @@
       <jump line="156" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="71" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="119" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="254" column="16" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
       <jump line="343" column="0" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
+      <jump line="254" column="22" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13071,7 +13071,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</text>
+        <text encoding="base64">XDxhY3R1YWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsYXp5IHZhbCBzb2x1dGlvbjogTGlzdFtNb3ZlXSA9IHBhdGhzVG9Hb2FsLm1hcChfLl8yKS5oZWFkCg==</text>
@@ -14406,9 +14406,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</last-search>
+      <last-search encoding="base64">XDxhY3R1YWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhY3R1YWxcPg==</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14416,7 +14416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UTC</entry>
         <entry encoding="base64">XDxUT0RPXD4=</entry>
         <entry>protected</entry>
         <entry>makeLeaf</entry>
@@ -14436,6 +14435,7 @@
         <entry>findChar</entry>
         <entry>level</entry>
         <entry>asldkfj</entry>
+        <entry encoding="base64">XDxhY3R1YWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>238</entry>
