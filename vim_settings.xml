@@ -18,6 +18,9 @@
       <file name="/a.dummy" timestamp="1466783794262">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" timestamp="1467138976700">
+        <mark key="'" line="343" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/scripts/scripts.cabal" timestamp="1448639213605">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="42" />
@@ -2365,8 +2368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="110" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="111" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="120" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="14" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" />
@@ -2465,6 +2466,8 @@
       <jump line="156" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="71" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="119" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="254" column="16" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
+      <jump line="343" column="0" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14399,7 +14402,7 @@
         <text>_</text>
       </register>
       <register name=":" type="4">
-        <text>362</text>
+        <text>104</text>
       </register>
     </registers>
     <search>
@@ -14435,10 +14438,6 @@
         <entry>asldkfj</entry>
       </history-search>
       <history-cmd>
-        <entry>16</entry>
-        <entry>1</entry>
-        <entry>1gg</entry>
-        <entry>1G</entry>
         <entry>238</entry>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL09uc0Vycm9yL0Vycm9yL2c=</entry>
@@ -14455,6 +14454,10 @@
         <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
+        <entry>253</entry>
+        <entry>160</entry>
+        <entry>393</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
