@@ -42,7 +42,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1467056938696">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1467134489853">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -1684,6 +1684,9 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar!/com/google/android/gms/maps/MapView.class" timestamp="1467134687653">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2314,7 +2317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="7" filename="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="91" column="48" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
       <jump line="96" column="26" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
       <jump line="122" column="28" filename="$USER_HOME$/dev/gm/omnibus/MyApplication/app/src/main/java/gemini/gm/com/webviewtestapp/MainActivity.java" />
@@ -2414,6 +2416,7 @@
       <jump line="71" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="119" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="170" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar!/com/google/android/gms/maps/MapView.class" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13017,7 +13020,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>\/\/</text>
+        <text>onresume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
@@ -14348,13 +14351,13 @@
         <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>362</text>
+        <text>157</text>
       </register>
     </registers>
     <search>
-      <last-search>\/\/</last-search>
+      <last-search>onresume</last-search>
       <last-offset />
-      <last-pattern>\/\/</last-pattern>
+      <last-pattern>onresume</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14362,7 +14365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdljf</entry>
         <entry>PrimaryButton</entry>
         <entry>secondarybutton</entry>
         <entry>doc1</entry>
@@ -14382,9 +14384,9 @@
         <entry>emit</entry>
         <entry encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</entry>
         <entry>\/\/</entry>
+        <entry>onresume</entry>
       </history-search>
       <history-cmd>
-        <entry>85</entry>
         <entry>284</entry>
         <entry>420</entry>
         <entry>485</entry>
@@ -14396,7 +14398,6 @@
         <entry>190</entry>
         <entry>264</entry>
         <entry>183</entry>
-        <entry>157</entry>
         <entry>246</entry>
         <entry>255</entry>
         <entry>297</entry>
@@ -14404,6 +14405,8 @@
         <entry>306</entry>
         <entry>289</entry>
         <entry>362</entry>
+        <entry>162</entry>
+        <entry>157</entry>
       </history-cmd>
       <history-expr />
       <history-input />
