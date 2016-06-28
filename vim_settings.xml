@@ -258,12 +258,6 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" timestamp="1466764974844">
-        <mark key="'" line="44" column="42" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1466461675012">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="51" column="25" />
@@ -1474,6 +1468,7 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/internal/operators/OperatorPublish.java" timestamp="1467140746513" />
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileClientHandler.java" timestamp="1465219310461">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="27" column="75" />
@@ -1666,6 +1661,12 @@
         <mark key="." line="81" column="58" />
         <mark key="^" line="81" column="58" />
       </file>
+      <file name="$USER_HOME$/dev/rxjavasample/settings.gradle" timestamp="1467142320274">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/res/layout/fragment_vehicle_status_diagnostic_layout.xml" timestamp="1462207717895">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="53" />
@@ -1676,6 +1677,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/rxjavasample/build.gradle" timestamp="1467142368107">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="38" />
+        <mark key="." line="12" column="37" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/layout/fragment_legal.xml" timestamp="1466780291582">
         <mark key="[" line="7" column="0" />
@@ -2023,6 +2030,12 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/rxjavasample/src/main/java/TestClass.java" timestamp="1467143059658">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+        <mark key="^" line="22" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/server/BasicServer.scala" timestamp="1466593997424">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="29" />
@@ -2094,18 +2107,18 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1467030800840">
-        <mark key="'" line="38" column="42" />
-        <mark key="[" line="69" column="62" />
-        <mark key="]" line="69" column="62" />
-        <mark key="." line="69" column="73" />
-      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/Solver.scala" timestamp="1467061006013">
         <mark key="'" line="8" column="39" />
         <mark key="[" line="103" column="34" />
         <mark key="]" line="103" column="70" />
         <mark key="^" line="103" column="70" />
         <mark key="." line="103" column="70" />
+      </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="46" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/gradle/wrapper/gradle-wrapper.properties" timestamp="1462468085956">
         <mark key="[" line="5" column="69" />
@@ -2481,7 +2494,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>d</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13075,19 +13088,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>get()</text>
+        <text>onNext</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBzb2x1dGlvbjogTGlzdFtNb3ZlXSA9IHBhdGhzVG9Hb2FsLm1hcChfLl8yKS5oZWFkCg==</text>
+      <register name="0" type="4">
+        <text>();</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>w</text>
+        <text>d</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13100,19 +13113,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVEVTVElORwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIHdvcmxkIik7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>new Object()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>next</text>
+        <text>null</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14399,23 +14412,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAvL2xhenkgdmFsIHNvbHV0aW9uOiBMaXN0W01vdmVdID0gcGF0aHNUb0dvYWwubWFwKF8uXzIpLnNvcnRCeShfLmxlbmd0aCkuaGVhZAogIC8vbGF6eSB2YWwgc29sdXRpb246IExpc3RbTW92ZV0gPSBwYXRoc1RvR29hbC5tYXAoXy5fMikuaGVhZAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PE9iamVjdD4=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvL2xhenkgdmFsIHNvbHV0aW9uOiBMaXN0W01vdmVdID0KICAvLyAgaWYgKHBhdGhzVG9Hb2FsLmlzRW1wdHkpIExpc3QoKQogIC8vICBlbHNlIHBhdGhzVG9Hb2FsLmhlYWQuXzIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text encoding="base64">PyA=</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
       </register>
     </registers>
     <search>
-      <last-search>get()</last-search>
+      <last-search>onNext</last-search>
       <last-offset />
-      <last-pattern>get()</last-pattern>
+      <last-pattern>onNext</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14423,7 +14436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>l</entry>
         <entry encoding="base64">XDxzXD4=</entry>
         <entry>asdlfkj</entry>
         <entry encoding="base64">XDxvQXV0aFRva2VuXD4=</entry>
@@ -14443,6 +14455,7 @@
         <entry>setLatest</entry>
         <entry>active</entry>
         <entry>get()</entry>
+        <entry>onNext</entry>
       </history-search>
       <history-cmd>
         <entry>238</entry>
