@@ -1157,12 +1157,12 @@
         <mark key="^" line="110" column="1" />
         <mark key="." line="110" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467299294167">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467300219914">
         <mark key="'" line="10" column="23" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="36" />
+        <mark key="." line="37" column="36" />
+        <mark key="^" line="37" column="36" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -2525,8 +2525,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13120,19 +13120,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9wZXJ0eSgiZGVsZXRlTWluIikgPSBmb3JBbGwgeyAoaDogSCkgPT4KICAgIHZhbCBtID0gaWYgKGlzRW1wdHkoaCkpIDAgZWxzZSBmaW5kTWluKGgpCiAgICBpZiAobS0xIDwgbSkgewogICAgICB2YWwgaDEgPSBpbnNlcnQobSwgaCkKICAgICAgZGVsZXRlTWluKGgxKSA9PSBoCiAgICB9CiAgICBlbHNlIHRydWUKICB9Cg==</text>
+        <text encoding="base64">ICBwcm9wZXJ0eSgiZGVsZXRlTWluMSIpID0gZm9yQWxsIHsgKGg6IEgpID0+CiAgICB2YWwgbSA9IGlmIChpc0VtcHR5KGgpKSAwIGVsc2UgZmluZE1pbihoKQogICAgdmFsIG5ld00gPSBtIC0gMQogICAgaWYgKG5ld00gPCBtKSB7CiAgICAgIHZhbCBoMSA9IGluc2VydChuZXdNLCBoKQogICAgICBkZWxldGVNaW4oaDEpID09IGgKICAgIH0KICAgIGVsc2UgdHJ1ZQogIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13144,20 +13144,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKGlzRW1wdHkoaCkpIHRocm93cyhjbGFzc09mW05vU3VjaEVsZW1lbnRFeGNlcHRpb25dKShkZWxldGVNaW4oaCkpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICBmaW5kTWluKGgxKSA9PSBtCg==</text>
+        <text encoding="base64">Ci8vICBwcm9wZXJ0eSgiZGVsZXRlTWluMiIpID0gZm9yQWxsIHsgKGg6IEgpID0+Ci8vICAgIHZhbCBtID0gaWYgKGlzRW1wdHkoaCkpIDAgZWxzZSBmaW5kTWluKGgpCi8vICAgIGlmIChtLTEgPCBtKSB7Ci8vICAgICAgdmFsIGgxID0gaW5zZXJ0KG0sIGgpCi8vICAgICAgZGVsZXRlTWluKGgxKSA9PSBoCi8vICAgIH0KLy8gICAgZWxzZSB0cnVlCi8vICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgZGVsZXRlTWluKGgxKSA9PSBoCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">SW50IA==</text>
       </register>
       <register name="5" type="4">
-        <text>j</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text>i</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14445,13 +14445,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBoMSA9IGluc2VydChtLCBoKQogICAgZmluZE1pbihoMSkgPT0gbQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
-        <text>!</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgaWYgKGlzRW1wdHkoaCkpIHRocm93cyhjbGFzc09mW05vU3VjaEVsZW1lbnRFeGNlcHRpb25dKShkZWxldGVNaW4oaCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
