@@ -1157,12 +1157,12 @@
         <mark key="^" line="110" column="1" />
         <mark key="." line="110" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467292943581">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467295657183">
         <mark key="'" line="12" column="23" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="71" />
+        <mark key="^" line="25" column="71" />
+        <mark key="." line="25" column="71" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -1876,6 +1876,9 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" timestamp="1467295372874">
+        <mark key="'" line="287" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticLinearLayoutPresenter.java" timestamp="1461357405938">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="64" />
@@ -2416,9 +2419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="133" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="145" column="35" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="146" column="38" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="149" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="161" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2516,6 +2516,9 @@
       <jump line="51" column="29" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
       <jump line="69" column="6" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Arbitrary.scala" />
       <jump line="15" column="23" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" />
+      <jump line="835" column="6" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
+      <jump line="277" column="33" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
+      <jump line="287" column="14" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13119,10 +13122,10 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>oneOf</text>
+        <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgR2VuLntjb25zdCwgY2hvb3NlLCBzaXplZCwgZnJlcXVlbmN5LCBvbmVPZiwgYnVpbGRhYmxlT2YsIHJlc2l6ZX0K</text>
+        <text encoding="base64">ICAgIHZhbCBtID0gaWYgKGlzRW1wdHkoaCkpIGV4Y2VwdGlvbihOb1N1Y2hFbGVtZW50RXhjZXB0aW9uKSBlbHNlIGRlbGV0ZU1pbihoKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -13141,19 +13144,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>s</text>
-      </register>
-      <register name="3" type="4">
-        <text>i</text>
-      </register>
-      <register name="4" type="4">
         <text>h</text>
       </register>
+      <register name="3" type="4">
+        <text>.</text>
+      </register>
+      <register name="4" type="4">
+        <text>)</text>
+      </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>deleteMin</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14441,22 +14444,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text encoding="base64">bSA=</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
       </register>
     </registers>
     <search>
-      <last-search>oneOf</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>oneOf</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14464,7 +14467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdlfkj</entry>
         <entry encoding="base64">XDxvQXV0aFRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRSZXN1bHRzXD4=</entry>
         <entry>initChannel</entry>
@@ -14484,6 +14486,7 @@
         <entry>get()</entry>
         <entry>onNext</entry>
         <entry>oneOf</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry>238</entry>
