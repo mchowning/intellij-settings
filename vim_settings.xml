@@ -1157,12 +1157,12 @@
         <mark key="^" line="110" column="1" />
         <mark key="." line="110" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467298343426">
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467299294167">
         <mark key="'" line="10" column="23" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -2525,8 +2525,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKGlzRW1wdHkoaCkpIHRocm93cyhjbGFzc09mW05vU3VjaEVsZW1lbnRFeGNlcHRpb25dKShkZWxldGVNaW4oaCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13120,19 +13120,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtID0gaWYgKGlzRW1wdHkoaCkpIDAgZWxzZSBmaW5kTWluKGgpCg==</text>
+        <text encoding="base64">ICBwcm9wZXJ0eSgiZGVsZXRlTWluIikgPSBmb3JBbGwgeyAoaDogSCkgPT4KICAgIHZhbCBtID0gaWYgKGlzRW1wdHkoaCkpIDAgZWxzZSBmaW5kTWluKGgpCiAgICBpZiAobS0xIDwgbSkgewogICAgICB2YWwgaDEgPSBpbnNlcnQobSwgaCkKICAgICAgZGVsZXRlTWluKGgxKSA9PSBoCiAgICB9CiAgICBlbHNlIHRydWUKICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKGlzRW1wdHkoaCkpIHRocm93cyhjbGFzc09mW05vU3VjaEVsZW1lbnRFeGNlcHRpb25dKShkZWxldGVNaW4oaCkpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13145,19 +13145,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBmaW5kTWluKGgxKSA9PSBtCg==</text>
+        <text encoding="base64">Ly8gICAgaWYgKGlzRW1wdHkoaCkpIHRocm93cyhjbGFzc09mW05vU3VjaEVsZW1lbnRFeGNlcHRpb25dKShkZWxldGVNaW4oaCkpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICBmaW5kTWluKGgxKSA9PSBtCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgZGVsZXRlTWluKGgxKSA9PSBoCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>j</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBoMSA9IGluc2VydChtLCBoKQogICAgZmluZE1pbihoMSkgPT0gbQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14444,14 +14444,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBoMSA9IGluc2VydChtLCBoKQogICAgZmluZE1pbihoMSkgPT0gbQo=</text>
       </register>
       <register name="8" type="4">
-        <text>!</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>!</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
