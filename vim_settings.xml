@@ -1157,6 +1157,13 @@
         <mark key="^" line="110" column="1" />
         <mark key="." line="110" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467292943581">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="35" />
@@ -2349,6 +2356,11 @@
         <mark key="." line="68" column="56" />
         <mark key="^" line="68" column="56" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Arbitrary.scala" timestamp="1467292636419">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="74" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/minCut.hs" timestamp="1423172430172">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="19" column="10" />
@@ -2404,8 +2416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="131" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="132" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="133" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="145" column="35" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2504,13 +2514,15 @@
       <jump line="129" column="15" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
       <jump line="141" column="28" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
       <jump line="51" column="29" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
+      <jump line="69" column="6" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Arbitrary.scala" />
+      <jump line="15" column="23" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13104,19 +13116,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>onNext</text>
+        <text>oneOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlPE9iamVjdD4gbyA9IE9wZXJhdG9yUHVibGlzaC5jcmVhdGUocHMsIG5ldyBGdW5jMTxPYnNlcnZhYmxlPE9iamVjdD4sIE9ic2VydmFibGU8T2JqZWN0Pj4oKSB7Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgR2VuLntjb25zdCwgY2hvb3NlLCBzaXplZCwgZnJlcXVlbmN5LCBvbmVPZiwgYnVpbGRhYmxlT2YsIHJlc2l6ZX0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13129,19 +13141,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>T</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>T</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>T</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>getValue</text>
+        <text>.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14429,22 +14441,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>nl.getValue</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
       </register>
     </registers>
     <search>
-      <last-search>onNext</last-search>
+      <last-search>oneOf</last-search>
       <last-offset />
-      <last-pattern>onNext</last-pattern>
+      <last-pattern>oneOf</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14452,7 +14464,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzXD4=</entry>
         <entry>asdlfkj</entry>
         <entry encoding="base64">XDxvQXV0aFRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRSZXN1bHRzXD4=</entry>
@@ -14472,6 +14483,7 @@
         <entry>active</entry>
         <entry>get()</entry>
         <entry>onNext</entry>
+        <entry>oneOf</entry>
       </history-search>
       <history-cmd>
         <entry>238</entry>
