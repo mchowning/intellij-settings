@@ -2139,6 +2139,13 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Calculator.scala" timestamp="1467662795394">
+        <mark key="'" line="22" column="44" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="15" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/Solver.scala" timestamp="1467061006013">
         <mark key="'" line="8" column="39" />
         <mark key="[" line="103" column="34" />
@@ -2431,7 +2438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="161" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="178" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2531,13 +2537,14 @@
       <jump line="277" column="33" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
       <jump line="287" column="14" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
       <jump line="5" column="27" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Polynomial.scala" />
+      <jump line="22" column="44" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Calculator.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13131,19 +13138,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAvIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
       </register>
       <register name="/" type="4">
         <text>Int</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICBTZXQoKC1iKCkgLSBtYXRoLnNxcnQoZGVsdGEoKSkpIC8gMiAqIGEoKSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PT4gZXZhbFdpdGhPcGVyYXRvcihhLCBiLCBfK18p</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13156,19 +13163,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBkZWx0YShhOiBEb3VibGUsIGI6IERvdWJsZSwgYzogRG91YmxlKSA9IGIgKiBiIC0gNCAqIGEgKiBjCg==</text>
+        <text encoding="base64">ICAgIGRlZiBldmFsV2l0aE9wZXJhdG9yKGV4cHIxOiBFeHByLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwcjI6IEV4cHIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmOiAoRG91YmxlLCBEb3VibGUpID0+IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgZihldmFsKGV4cHIxLCByZWZlcmVuY2VzKSwgZXZhbChleHByMiwgcmVmZXJlbmNlcykpCiAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>delta(a(), b(), c())</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBQbHVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXytfKQogICAgICBjYXNlIE1pbnVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXy1fKQogICAgICBjYXNlIFRpbWVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXypfKQogICAgICBjYXNlIERpdmlkZShhLCBiKSA9PiBldmFsV2l0aE9wZXJhdG9yKGEsIGIsIF8vXykK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAvIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGQgPSBkZWx0YSgpCi8vICAgIGlmIChkIDwgMCkgU2lnbmFsKFNldCgpKQovLyAgICBlbHNlIGlmIChkID09IDApIFNpZ25hbChTZXQoLWIoKS8oMiphKCkpKSkKLy8gICAgZWxzZSB7Ci8vICAgICAgZGVmIHNvbHMoYTogRG91YmxlLCBiOiBEb3VibGUsIGRlbHRhOiBEb3VibGUpOiBTZXRbRG91YmxlXSA9IHsKLy8gICAgICAgIFNldCgoLWIgLSBtYXRoLnNxcnQoZGVsdGEpKSAvICgyICogYSksICgtYiArIG1hdGguc3FydChkZWx0YSkpIC8gKDIgKiBhKSkKLy8gICAgICB9Ci8vICAgICAgU2lnbmFsKHNvbHMoYSgpLCBiKCksIGQpKQovLyAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAqIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PT4gZXZhbA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14455,14 +14462,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgU2lnbmFsIHsKLy8gICAgICAgICAgICAgZGVsdGEoKSBtYXRjaCB7Ci8vICAgICAgICAgICAgICAgY2FzZSBkOiBEb3VibGUgaWYgKGQgPCAwKSA9PiBTZXQoKQovLyAgICAgICAgICAgICAgIGNhc2UgZDogRG91YmxlIGlmIGQgPT0gMCA9PiBTZXQoLSBiKCkvICgyICogYSgpKSkKLy8gICAgICAgICAgICAgICBjYXNlIGQ6IERvdWJsZSA9PiBTZXQoKC0gYigpICsgbWF0aC5zcXJ0KGQpKSAvICgyKmEoKSksICgtYigpIC0gbWF0aC5zcXJ0KGQpKSAvICgyKmEoKSkpCi8vICAgICAgICAgICAgIH0KLy8gICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text>(a, references) - eval(b, references)</text>
       </register>
-      <register name="8" type="4">
-        <text>delta()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHJlZmVyZW5jZXM6IE1hcFtTdHJpbmcsIFNpZ25hbFtFeHByXV0sCg==</text>
       </register>
       <register name="9" type="4">
-        <text>delta()</text>
+        <text>eval(a, references) + eval(b, references)</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
