@@ -1056,6 +1056,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Polynomial.scala" timestamp="1467599282655">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/gradle/wrapper/gradle-wrapper.properties" timestamp="1462469079181">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -1248,6 +1254,12 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/TweetLength.scala" timestamp="1467597365949">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts-cabal/src/Main.hs" timestamp="1448902414117">
         <mark key="[" line="27" column="20" />
@@ -2419,7 +2431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="38" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="149" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="161" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2519,13 +2530,14 @@
       <jump line="835" column="6" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
       <jump line="277" column="33" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
       <jump line="287" column="14" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
+      <jump line="5" column="27" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Polynomial.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>insert(m+1, h)</text>
+        <text>(</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13119,19 +13131,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>insert(m+1, h)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>Int</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9wZXJ0eSgiZGVsZXRlTWluMSIpID0gZm9yQWxsIHsgKGg6IEgpID0+CiAgICB2YWwgbSA9IGlmIChpc0VtcHR5KGgpKSAwIGVsc2UgZmluZE1pbihoKQogICAgdmFsIG5ld00gPSBtIC0gMQogICAgaWYgKG5ld00gPCBtKSB7CiAgICAgIHZhbCBoMSA9IGluc2VydChuZXdNLCBoKQogICAgICBkZWxldGVNaW4oaDEpID09IGgKICAgIH0KICAgIGVsc2UgdHJ1ZQogIH0K</text>
+        <text encoding="base64">Ly8gICAgICBTZXQoKC1iKCkgLSBtYXRoLnNxcnQoZGVsdGEoKSkpIC8gMiAqIGEoKSkK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>insert(m+1, h)</text>
+        <text>(</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13144,19 +13156,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGgyID0gaW5zZXJ0KG0rMSwgaCkK</text>
+        <text encoding="base64">ICAgIGRlZiBkZWx0YShhOiBEb3VibGUsIGI6IERvdWJsZSwgYzogRG91YmxlKSA9IGIgKiBiIC0gNCAqIGEgKiBjCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>delta(a(), b(), c())</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8vICBwcm9wZXJ0eSgiZGVsZXRlTWluMiIpID0gZm9yQWxsIHsgKGg6IEgpID0+Ci8vICAgIHZhbCBtID0gaWYgKGlzRW1wdHkoaCkpIDAgZWxzZSBmaW5kTWluKGgpCi8vICAgIGlmIChtLTEgPCBtKSB7Ci8vICAgICAgdmFsIGgxID0gaW5zZXJ0KG0sIGgpCi8vICAgICAgZGVsZXRlTWluKGgxKSA9PSBoCi8vICAgIH0KLy8gICAgZWxzZSB0cnVlCi8vICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGQgPSBkZWx0YSgpCi8vICAgIGlmIChkIDwgMCkgU2lnbmFsKFNldCgpKQovLyAgICBlbHNlIGlmIChkID09IDApIFNpZ25hbChTZXQoLWIoKS8oMiphKCkpKSkKLy8gICAgZWxzZSB7Ci8vICAgICAgZGVmIHNvbHMoYTogRG91YmxlLCBiOiBEb3VibGUsIGRlbHRhOiBEb3VibGUpOiBTZXRbRG91YmxlXSA9IHsKLy8gICAgICAgIFNldCgoLWIgLSBtYXRoLnNxcnQoZGVsdGEpKSAvICgyICogYSksICgtYiArIG1hdGguc3FydChkZWx0YSkpIC8gKDIgKiBhKSkKLy8gICAgICB9Ci8vICAgICAgU2lnbmFsKHNvbHMoYSgpLCBiKCksIGQpKQovLyAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">SW50IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14443,31 +14455,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgU2lnbmFsIHsKLy8gICAgICAgICAgICAgZGVsdGEoKSBtYXRjaCB7Ci8vICAgICAgICAgICAgICAgY2FzZSBkOiBEb3VibGUgaWYgKGQgPCAwKSA9PiBTZXQoKQovLyAgICAgICAgICAgICAgIGNhc2UgZDogRG91YmxlIGlmIGQgPT0gMCA9PiBTZXQoLSBiKCkvICgyICogYSgpKSkKLy8gICAgICAgICAgICAgICBjYXNlIGQ6IERvdWJsZSA9PiBTZXQoKC0gYigpICsgbWF0aC5zcXJ0KGQpKSAvICgyKmEoKSksICgtYigpIC0gbWF0aC5zcXJ0KGQpKSAvICgyKmEoKSkpCi8vICAgICAgICAgICAgIH0KLy8gICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>delta()</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>delta()</text>
       </register>
       <register name=":" type="4">
-        <text>104</text>
+        <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
       <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
-      <last-replace>mockDocument</last-replace>
-      <last-substitute>doc1</last-substitute>
+      <last-pattern>Int</last-pattern>
+      <last-replace>Double</last-replace>
+      <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvQXV0aFRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRSZXN1bHRzXD4=</entry>
         <entry>initChannel</entry>
         <entry>button</entry>
@@ -14487,9 +14498,9 @@
         <entry>onNext</entry>
         <entry>oneOf</entry>
         <entry>throw</entry>
+        <entry>Int</entry>
       </history-search>
       <history-cmd>
-        <entry>238</entry>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL09uc0Vycm9yL0Vycm9yL2c=</entry>
         <entry>s/findOns/getOns/g</entry>
@@ -14509,6 +14520,7 @@
         <entry>160</entry>
         <entry>393</entry>
         <entry>104</entry>
+        <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
