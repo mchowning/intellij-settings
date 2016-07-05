@@ -1630,6 +1630,9 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.plugin/plugin-nav/3.2.0-SNAPSHOT/eb5dcd42c623468f9ddddc137dc1e61a7ab99fa2/plugin-nav-3.2.0-SNAPSHOT-sources.jar!/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" timestamp="1467742496011">
+        <mark key="'" line="298" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/client/calls/GetOAuthCall.scala" timestamp="1466599707078">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="63" />
@@ -2326,11 +2329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="133" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="145" column="35" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="146" column="38" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="149" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="161" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="178" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2426,6 +2424,11 @@
       <jump line="103" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="118" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="15" column="31" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/plugin-legal/123.456.789/plugin-legal-123.456.789-sources.jar!/com/gm/plugin/legal/PluginLegal.java" />
+      <jump line="47" column="64" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.plugin/plugin-nav/3.2.0-SNAPSHOT/eb5dcd42c623468f9ddddc137dc1e61a7ab99fa2/plugin-nav-3.2.0-SNAPSHOT-sources.jar!/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
+      <jump line="446" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.plugin/plugin-nav/3.2.0-SNAPSHOT/eb5dcd42c623468f9ddddc137dc1e61a7ab99fa2/plugin-nav-3.2.0-SNAPSHOT-sources.jar!/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
+      <jump line="252" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.plugin/plugin-nav/3.2.0-SNAPSHOT/eb5dcd42c623468f9ddddc137dc1e61a7ab99fa2/plugin-nav-3.2.0-SNAPSHOT-sources.jar!/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
+      <jump line="303" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.plugin/plugin-nav/3.2.0-SNAPSHOT/eb5dcd42c623468f9ddddc137dc1e61a7ab99fa2/plugin-nav-3.2.0-SNAPSHOT-sources.jar!/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
+      <jump line="298" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.plugin/plugin-nav/3.2.0-SNAPSHOT/eb5dcd42c623468f9ddddc137dc1e61a7ab99fa2/plugin-nav-3.2.0-SNAPSHOT-sources.jar!/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13029,7 +13032,7 @@
         <text>SOURCE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</text>
+        <text encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JTZWFyY2hcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRTdHJpbmcoQFN0cmluZ1JlcyBpbnQgc3RyaW5nSWQpIHsKICAgICAgICByZXR1cm4gY29udGV4dC5nZXRTdHJpbmcoc3RyaW5nSWQpOwogICAgfQo=</text>
@@ -14364,9 +14367,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</last-search>
+      <last-search encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JTZWFyY2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JTZWFyY2hcPg==</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14374,9 +14377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
-        <entry>height</entry>
-        <entry encoding="base64">XDx2ZWhpY2xlRGVzY3JpcHRpb25IZWFkZXJGcmFtZVw+</entry>
         <entry>rxpermissions</entry>
         <entry>BehaviorSubject</entry>
         <entry encoding="base64">XDxvblJlc3VtZVw+</entry>
@@ -14394,6 +14394,9 @@
         <entry encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</entry>
         <entry>emit</entry>
         <entry encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</entry>
+        <entry>sendResponse</entry>
+        <entry encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JFcnJvclw+</entry>
+        <entry encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JTZWFyY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
