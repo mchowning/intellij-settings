@@ -1161,6 +1161,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AndroidResourceUtil.java" timestamp="1467737585525">
+        <mark key="[" line="22" column="103" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Matsano.hs" timestamp="1453902413822">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="22" />
@@ -2414,7 +2420,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>io.reactivex:rxjava:1.0.16</text>
+        <text>return</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13008,19 +13014,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Void</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>io.reactivex:rxjava:1.0.16</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRTdHJpbmcoQFN0cmluZ1JlcyBpbnQgc3RyaW5nSWQpIHsKICAgICAgICByZXR1cm4gY29udGV4dC5nZXRTdHJpbmcoc3RyaW5nSWQpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>Void</text>
+        <text>return</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13033,19 +13039,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>Void</text>
+        <text>);</text>
       </register>
       <register name="3" type="4">
-        <text>Void</text>
+        <text>stringId</text>
       </register>
       <register name="4" type="4">
-        <text>Void</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>Void</text>
+        <text>getString</text>
       </register>
       <register name="6" type="4">
-        <text>Void</text>
+        <text>@StringRes int stringId</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14332,14 +14338,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>d</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>Void</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>Void</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
