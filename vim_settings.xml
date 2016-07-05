@@ -39,7 +39,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1467134489853">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1467735508110">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -2285,6 +2285,9 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/plugin-legal/123.456.789/plugin-legal-123.456.789-sources.jar!/com/gm/plugin/legal/PluginLegal.java" timestamp="1467735245556">
+        <mark key="'" line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileReadWriteClient.java" timestamp="1465220792681">
         <mark key="[" line="101" column="45" />
         <mark key="]" line="101" column="64" />
@@ -2305,7 +2308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="132" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="133" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="145" column="35" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2405,6 +2407,7 @@
       <jump line="119" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="103" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="118" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="15" column="31" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/plugin-legal/123.456.789/plugin-legal-123.456.789-sources.jar!/com/gm/plugin/legal/PluginLegal.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13008,7 +13011,7 @@
         <text>Void</text>
       </register>
       <register name="/" type="4">
-        <text>emit</text>
+        <text encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</text>
       </register>
       <register name="0" type="4">
         <text>io.reactivex:rxjava:1.0.16</text>
@@ -14343,9 +14346,9 @@
       </register>
     </registers>
     <search>
-      <last-search>emit</last-search>
+      <last-search encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</last-search>
       <last-offset />
-      <last-pattern>emit</last-pattern>
+      <last-pattern encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</last-pattern>
       <last-replace>mockDocument</last-replace>
       <last-substitute>doc1</last-substitute>
       <last-dir>1</last-dir>
@@ -14353,7 +14356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alsdjf</entry>
         <entry>email</entry>
         <entry>height</entry>
         <entry encoding="base64">XDx2ZWhpY2xlRGVzY3JpcHRpb25IZWFkZXJGcmFtZVw+</entry>
@@ -14373,6 +14375,7 @@
         <entry encoding="base64">XDxxdWV1ZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</entry>
         <entry>emit</entry>
+        <entry encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
