@@ -45,6 +45,11 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1467042652936">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1868,7 +1873,7 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" timestamp="1467041940926">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" timestamp="1467980531531">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -2179,7 +2184,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1467141034288">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1467980894740">
+        <mark key="'" line="25" column="16" />
         <mark key="[" line="68" column="32" />
         <mark key="]" line="68" column="57" />
         <mark key="." line="68" column="57" />
@@ -2430,11 +2436,6 @@
         <mark key="." line="68" column="56" />
         <mark key="^" line="68" column="56" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Arbitrary.scala" timestamp="1467292636419">
-        <mark key="'" line="69" column="6" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="74" />
-      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/minCut.hs" timestamp="1423172430172">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="19" column="10" />
@@ -2493,7 +2494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="178" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="179" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2593,6 +2593,7 @@
       <jump line="287" column="14" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
       <jump line="5" column="27" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Polynomial.scala" />
       <jump line="22" column="44" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Calculator.scala" />
+      <jump line="25" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13196,7 +13197,7 @@
         <text>RuntimeEnvironment.application</text>
       </register>
       <register name="/" type="4">
-        <text>Int</text>
+        <text>support</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbmZpZyhjb25zdGFudHMgPSBCdWlsZENvbmZpZy5jbGFzcywgc2RrID0gMjEpCg==</text>
@@ -14531,9 +14532,9 @@
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>support</last-search>
       <last-offset />
-      <last-pattern>Int</last-pattern>
+      <last-pattern>support</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14541,7 +14542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rxpermissions</entry>
         <entry>BehaviorSubject</entry>
         <entry encoding="base64">XDxvblJlc3VtZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVGb3JBdXRoZW50aWNhdGlvbkV2ZW50XD4=</entry>
@@ -14561,6 +14561,7 @@
         <entry>sendResponse</entry>
         <entry encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JFcnJvclw+</entry>
         <entry encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JTZWFyY2hcPg==</entry>
+        <entry>support</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
