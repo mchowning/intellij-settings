@@ -2188,8 +2188,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1467989715850">
-        <mark key="'" line="27" column="29" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1468010000666">
+        <mark key="'" line="97" column="63" />
         <mark key="[" line="68" column="32" />
         <mark key="]" line="68" column="57" />
         <mark key="." line="68" column="57" />
@@ -2498,10 +2498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="178" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="179" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
-      <jump line="180" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="186" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="192" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="193" column="30" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2598,6 +2594,10 @@
       <jump line="5" column="27" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Polynomial.scala" />
       <jump line="22" column="44" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Calculator.scala" />
       <jump line="27" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="15" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="47" column="60" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="87" column="60" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="97" column="63" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13201,7 +13201,7 @@
         <text>RobolectricTestRunner</text>
       </register>
       <register name="/" type="4">
-        <text>sdlj</text>
+        <text>alsdjkf</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PT4gZXZhbFdpdGhPcGVyYXRvcihhLCBiLCBfK18p</text>
@@ -14536,9 +14536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sdlj</last-search>
+      <last-search>alsdjkf</last-search>
       <last-offset />
-      <last-pattern>sdlj</last-pattern>
+      <last-pattern>alsdjkf</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14546,8 +14546,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblJlc3VtZVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVGb3JBdXRoZW50aWNhdGlvbkV2ZW50XD4=</entry>
         <entry>asdlfj</entry>
         <entry encoding="base64">XDx1cGRhdGVTdWJzY3JpcHRpb25cPg==</entry>
         <entry encoding="base64">XDxtb2NrUnhVdGlsc1w+</entry>
@@ -14566,6 +14564,8 @@
         <entry encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JTZWFyY2hcPg==</entry>
         <entry>support</entry>
         <entry>sdlj</entry>
+        <entry>service</entry>
+        <entry>alsdjkf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
