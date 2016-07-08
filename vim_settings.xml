@@ -2145,12 +2145,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/LocalBroadcastManagerTest.java" timestamp="1467990124524">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/LocalBroadcastManagerTest.java" timestamp="1467991228704" />
       <file name="$USER_HOME$/dev/haskell/class/src/downoader.hs" timestamp="1419260811881">
         <mark key="[" line="4" column="86" />
         <mark key="]" line="5" column="17" />
@@ -2608,8 +2603,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>RobolectricTestRunner</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL21vY2tMb2NhbE1hbmFnZXIgPSBhbmRyb2lkLnN1cHBvcnQudjQuY29udGVudC5Mb2NhbEJyb2FkY2FzdE1hbmFnZXIuZ2V0SW5zdGFuY2UoUnVudGltZUVudmlyb25tZW50LmFwcGxpY2F0aW9uKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13206,7 +13201,7 @@
         <text>RobolectricTestRunner</text>
       </register>
       <register name="/" type="4">
-        <text>support</text>
+        <text>sdlj</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PT4gZXZhbFdpdGhPcGVyYXRvcihhLCBiLCBfK18p</text>
@@ -13214,8 +13209,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>RobolectricTestRunner</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL21vY2tMb2NhbE1hbmFnZXIgPSBhbmRyb2lkLnN1cHBvcnQudjQuY29udGVudC5Mb2NhbEJyb2FkY2FzdE1hbmFnZXIuZ2V0SW5zdGFuY2UoUnVudGltZUVudmlyb25tZW50LmFwcGxpY2F0aW9uKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13227,20 +13222,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>RobolectricTestRunner</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBNb2NraXRvLm1vY2sK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>1</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBldmFsV2l0aE9wZXJhdG9yKGV4cHIxOiBFeHByLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwcjI6IEV4cHIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmOiAoRG91YmxlLCBEb3VibGUpID0+IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgZihldmFsKGV4cHIxLCByZWZlcmVuY2VzKSwgZXZhbChleHByMiwgcmVmZXJlbmNlcykpCiAgICB9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14528,22 +14523,22 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBldmFsV2l0aE9wZXJhdG9yKGV4cHIxOiBFeHByLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwcjI6IEV4cHIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmOiAoRG91YmxlLCBEb3VibGUpID0+IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgZihldmFsKGV4cHIxLCByZWZlcmVuY2VzKSwgZXZhbChleHByMiwgcmVmZXJlbmNlcykpCiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBQbHVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXytfKQogICAgICBjYXNlIE1pbnVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXy1fKQogICAgICBjYXNlIFRpbWVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXypfKQogICAgICBjYXNlIERpdmlkZShhLCBiKSA9PiBldmFsV2l0aE9wZXJhdG9yKGEsIGIsIF8vXykK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAvIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAqIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
+        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAvIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>support</last-search>
+      <last-search>sdlj</last-search>
       <last-offset />
-      <last-pattern>support</last-pattern>
+      <last-pattern>sdlj</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14551,7 +14546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BehaviorSubject</entry>
         <entry encoding="base64">XDxvblJlc3VtZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVGb3JBdXRoZW50aWNhdGlvbkV2ZW50XD4=</entry>
         <entry>asdlfj</entry>
@@ -14571,6 +14565,7 @@
         <entry encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JFcnJvclw+</entry>
         <entry encoding="base64">XDxzZW5kUmVzcG9uc2VGb3JTZWFyY2hcPg==</entry>
         <entry>support</entry>
+        <entry>sdlj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
