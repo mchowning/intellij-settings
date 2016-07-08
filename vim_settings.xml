@@ -2145,11 +2145,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/LocalBroadcastManagerTest.java" timestamp="1467989468491">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/LocalBroadcastManagerTest.java" timestamp="1467990124524">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="16" column="35" />
       </file>
       <file name="$USER_HOME$/dev/haskell/class/src/downoader.hs" timestamp="1419260811881">
         <mark key="[" line="4" column="86" />
@@ -2193,8 +2193,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1467980894740">
-        <mark key="'" line="25" column="16" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1467989715850">
+        <mark key="'" line="27" column="29" />
         <mark key="[" line="68" column="32" />
         <mark key="]" line="68" column="57" />
         <mark key="." line="68" column="57" />
@@ -2503,7 +2503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="178" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
       <jump line="179" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" />
@@ -2603,13 +2602,14 @@
       <jump line="287" column="14" filename="$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Prop.scala" />
       <jump line="5" column="27" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Polynomial.scala" />
       <jump line="22" column="44" filename="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Calculator.scala" />
+      <jump line="27" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLm1vY2sK</text>
+      <register name="&quot;" type="4">
+        <text>RobolectricTestRunner</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13203,10 +13203,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>RobolectricTestRunner</text>
       </register>
       <register name="/" type="4">
-        <text>Int</text>
+        <text>support</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PT4gZXZhbFdpdGhPcGVyYXRvcihhLCBiLCBfK18p</text>
@@ -13214,8 +13214,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLm1vY2sK</text>
+      <register name="1" type="4">
+        <text>RobolectricTestRunner</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13227,20 +13227,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBNb2NraXRvLm1vY2sK</text>
       </register>
       <register name="3" type="4">
+        <text>1</text>
+      </register>
+      <register name="4" type="4">
         <text>0</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBldmFsV2l0aE9wZXJhdG9yKGV4cHIxOiBFeHByLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwcjI6IEV4cHIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmOiAoRG91YmxlLCBEb3VibGUpID0+IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgZihldmFsKGV4cHIxLCByZWZlcmVuY2VzKSwgZXZhbChleHByMiwgcmVmZXJlbmNlcykpCiAgICB9Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBQbHVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXytfKQogICAgICBjYXNlIE1pbnVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXy1fKQogICAgICBjYXNlIFRpbWVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXypfKQogICAgICBjYXNlIERpdmlkZShhLCBiKSA9PiBldmFsV2l0aE9wZXJhdG9yKGEsIGIsIF8vXykK</text>
+        <text encoding="base64">ICAgIGRlZiBldmFsV2l0aE9wZXJhdG9yKGV4cHIxOiBFeHByLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwcjI6IEV4cHIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmOiAoRG91YmxlLCBEb3VibGUpID0+IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgZihldmFsKGV4cHIxLCByZWZlcmVuY2VzKSwgZXZhbChleHByMiwgcmVmZXJlbmNlcykpCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14527,23 +14527,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAvIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBQbHVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXytfKQogICAgICBjYXNlIE1pbnVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXy1fKQogICAgICBjYXNlIFRpbWVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXypfKQogICAgICBjYXNlIERpdmlkZShhLCBiKSA9PiBldmFsV2l0aE9wZXJhdG9yKGEsIGIsIF8vXykK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAqIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
+        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAvIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PT4gZXZhbA==</text>
+        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAqIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>support</last-search>
       <last-offset />
-      <last-pattern>Int</last-pattern>
+      <last-pattern>support</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
