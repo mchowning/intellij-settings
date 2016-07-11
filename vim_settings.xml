@@ -13180,7 +13180,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</text>
+        <text>callback</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdlbWluaUN1cnJlbnRWZXJzaW9uID0gJzMuMi4wJwo=</text>
@@ -14515,9 +14515,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</last-search>
+      <last-search>callback</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</last-pattern>
+      <last-pattern>callback</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14525,7 +14525,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWV1ZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</entry>
         <entry>emit</entry>
         <entry encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</entry>
@@ -14545,6 +14544,7 @@
         <entry>BleService</entry>
         <entry>BleCommand</entry>
         <entry encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</entry>
+        <entry>callback</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
