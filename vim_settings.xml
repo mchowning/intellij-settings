@@ -1067,6 +1067,11 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468245572470">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/downloader.hs" timestamp="1420043882212">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="5" column="8" />
@@ -2543,7 +2548,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>T</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13137,7 +13142,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>Int</text>
@@ -13149,7 +13154,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>T</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13162,19 +13167,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>O</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="3" type="4">
+        <text>H</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBldmFsV2l0aE9wZXJhdG9yKGV4cHIxOiBFeHByLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwcjI6IEV4cHIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmOiAoRG91YmxlLCBEb3VibGUpID0+IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgZihldmFsKGV4cHIxLCByZWZlcmVuY2VzKSwgZXZhbChleHByMiwgcmVmZXJlbmNlcykpCiAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>S</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBQbHVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXytfKQogICAgICBjYXNlIE1pbnVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXy1fKQogICAgICBjYXNlIFRpbWVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXypfKQogICAgICBjYXNlIERpdmlkZShhLCBiKSA9PiBldmFsV2l0aE9wZXJhdG9yKGEsIGIsIF8vXykK</text>
+      <register name="5" type="4">
+        <text>P</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAvIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
+        <text>A</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14462,13 +14467,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PT4gZXZhbChhLCByZWZlcmVuY2VzKSAqIGV2YWwoYiwgcmVmZXJlbmNlcyk=</text>
+        <text>N</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PT4gZXZhbA==</text>
+        <text>-</text>
       </register>
       <register name="9" type="4">
-        <text>(a, references) - eval(b, references)</text>
+        <text>S</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
