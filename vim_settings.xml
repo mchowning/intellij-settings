@@ -1135,6 +1135,9 @@
         <mark key="^" line="8" column="73" />
         <mark key="." line="8" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMVehicleService.java" timestamp="1468260018460">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/PluginWifi.java" timestamp="1464207821259">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -1181,13 +1184,6 @@
         <mark key="]" line="110" column="1" />
         <mark key="^" line="110" column="1" />
         <mark key="." line="110" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1467301425523">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/build.gradle" timestamp="1462910509356">
         <mark key="[" line="25" column="35" />
@@ -2171,13 +2167,6 @@
         <mark key="^" line="7" column="103" />
         <mark key="." line="7" column="103" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/styles.xml" timestamp="1466763703949">
-        <mark key="'" line="225" column="59" />
-        <mark key="[" line="219" column="21" />
-        <mark key="]" line="219" column="21" />
-        <mark key="." line="219" column="21" />
-        <mark key="^" line="219" column="21" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/META-INF/gradle-plugins/com.gm.gemini.feature-plugin.properties" timestamp="1457459947281">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="41" />
@@ -2201,20 +2190,6 @@
         <mark key="[" line="19" column="43" />
         <mark key="]" line="19" column="43" />
         <mark key="." line="19" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Calculator.scala" timestamp="1467662795394">
-        <mark key="'" line="22" column="44" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="15" column="70" />
-      </file>
-      <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/Solver.scala" timestamp="1467061006013">
-        <mark key="'" line="8" column="39" />
-        <mark key="[" line="103" column="34" />
-        <mark key="]" line="103" column="70" />
-        <mark key="^" line="103" column="70" />
-        <mark key="." line="103" column="70" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -2281,13 +2256,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/BehaviorSubject.java" timestamp="1467140086341">
-        <mark key="'" line="147" column="27" />
-        <mark key="[" line="160" column="19" />
-        <mark key="]" line="160" column="20" />
-        <mark key="." line="160" column="20" />
-        <mark key="^" line="160" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="106" />
@@ -2329,6 +2297,7 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/SetChargingProfileCommandTask.java" timestamp="1468260118755" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenterTest.java" timestamp="1466791908534">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="55" column="0" />
@@ -2505,8 +2474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenterTest.java" />
-      <jump line="72" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/EmailLegalDocUtilTest.java" />
       <jump line="752" column="1" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="52" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="86" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
@@ -2605,6 +2572,8 @@
       <jump line="15" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="82" column="62" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="93" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="397" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMVehicleService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMVehicleService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
