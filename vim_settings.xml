@@ -261,6 +261,9 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandData.java" timestamp="1468264226444">
+        <mark key="'" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1466461675012">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="51" column="25" />
@@ -2477,12 +2480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/EditVehicleFragment.java" />
-      <jump line="53" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/EmailLegalDocUtil.java" />
-      <jump line="258" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="127" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="128" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="156" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="71" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="119" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="343" column="0" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
@@ -2577,6 +2574,12 @@
       <jump line="511" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="70" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="99" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="33" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandData.java" />
+      <jump line="34" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandData.java" />
+      <jump line="37" column="54" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandData.java" />
+      <jump line="38" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandData.java" />
+      <jump line="2" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandData.java" />
+      <jump line="12" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandData.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13180,7 +13183,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>callback</text>
+        <text encoding="base64">XDx2ZWhpY2xlU2RrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdlbWluaUN1cnJlbnRWZXJzaW9uID0gJzMuMi4wJwo=</text>
@@ -14515,9 +14518,9 @@
       </register>
     </registers>
     <search>
-      <last-search>callback</last-search>
+      <last-search encoding="base64">XDx2ZWhpY2xlU2RrXD4=</last-search>
       <last-offset />
-      <last-pattern>callback</last-pattern>
+      <last-pattern encoding="base64">XDx2ZWhpY2xlU2RrXD4=</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14525,7 +14528,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</entry>
         <entry>emit</entry>
         <entry encoding="base64">XDxMRUdBTF9TSE9XX09XTkVSU0hJUF9QUk9NUFRfVVJJXD4=</entry>
         <entry>sendResponse</entry>
@@ -14545,6 +14547,7 @@
         <entry>BleCommand</entry>
         <entry encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</entry>
         <entry>callback</entry>
+        <entry encoding="base64">XDx2ZWhpY2xlU2RrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
