@@ -18,9 +18,6 @@
       <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" timestamp="1467140242015">
         <mark key="'" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" timestamp="1468261190717">
-        <mark key="'" line="32" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/scripts/scripts.cabal" timestamp="1448639213605">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="42" />
@@ -1498,6 +1495,9 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1468262555635">
+        <mark key="'" line="99" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -1783,7 +1783,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar!/com/google/android/gms/maps/MapView.class" timestamp="1467134687653">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1468256903872">
+      <file name="/a.regexp" timestamp="1468262432648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2477,10 +2477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
-      <jump line="105" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
-      <jump line="85" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
-      <jump line="152" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" />
       <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/EditVehicleFragment.java" />
       <jump line="53" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/EmailLegalDocUtil.java" />
       <jump line="258" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
@@ -2577,6 +2573,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMVehicleService.java" />
       <jump line="39" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" />
       <jump line="32" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" />
+      <jump line="197" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="511" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="70" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="99" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13180,7 +13180,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>sendCommand</text>
+        <text encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdlbWluaUN1cnJlbnRWZXJzaW9uID0gJzMuMi4wJwo=</text>
@@ -14515,9 +14515,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sendCommand</last-search>
+      <last-search encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</last-search>
       <last-offset />
-      <last-pattern>sendCommand</last-pattern>
+      <last-pattern encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14525,9 +14525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onNext</entry>
-        <entry>null</entry>
-        <entry>next</entry>
         <entry encoding="base64">XDxxdWV1ZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVQbHVnaW5FdmVudFN1YmplY3RcPg==</entry>
         <entry>emit</entry>
@@ -14545,6 +14542,9 @@
         <entry>remotesdk</entry>
         <entry>gatekeeper</entry>
         <entry>sendCommand</entry>
+        <entry>BleService</entry>
+        <entry>BleCommand</entry>
+        <entry encoding="base64">XDxibGVDb21tYW5kU2VydmljZUhlbHBlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
