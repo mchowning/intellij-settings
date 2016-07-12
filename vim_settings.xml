@@ -1093,10 +1093,10 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468320517830">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468321618919">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="35" column="12" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="." line="35" column="12" />
         <mark key="^" line="36" column="41" />
       </file>
@@ -2596,8 +2596,12 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZSA9ICdnZW1pbmktc2VjdXJpdHknCg==</text>
+      <register name="&quot;" type="4">
+        <text>install {
+    repositories.mavenInstaller {
+        pom.artifactId = &quot;gemini-security&quot;
+    }
+}</text>
       </register>
       <register name="d" type="4">
         <keys>
