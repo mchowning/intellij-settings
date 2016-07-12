@@ -2089,8 +2089,8 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" timestamp="1468322244837">
-        <mark key="'" line="134" column="16" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" timestamp="1468329437947">
+        <mark key="'" line="181" column="15" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" timestamp="1466866090423">
         <mark key="[" line="41" column="0" />
@@ -2467,7 +2467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/EditVehicleFragment.java" />
       <jump line="53" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/EmailLegalDocUtil.java" />
       <jump line="258" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="127" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
@@ -2567,6 +2566,7 @@
       <jump line="9" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/encrypt/connect" />
       <jump line="7" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/encrypt/connect" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/encrypt/connect" />
+      <jump line="181" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13170,7 +13170,7 @@
         <text>'class'</text>
       </register>
       <register name="/" type="4">
-        <text>configurations</text>
+        <text encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;${project.name}-${project.version}&quot;</text>
@@ -14505,9 +14505,9 @@
       </register>
     </registers>
     <search>
-      <last-search>configurations</last-search>
+      <last-search encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>configurations</last-pattern>
+      <last-pattern encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14515,7 +14515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>findChar</entry>
         <entry>level</entry>
         <entry>asldkfj</entry>
         <entry encoding="base64">XDxhY3R1YWxcPg==</entry>
@@ -14535,6 +14534,7 @@
         <entry encoding="base64">XDxmMVw+</entry>
         <entry encoding="base64">XDxvdXRGaWxlXD4=</entry>
         <entry>configurations</entry>
+        <entry encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
