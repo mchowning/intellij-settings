@@ -861,6 +861,7 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/encrypt/connect" timestamp="1468339382139" />
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="4" column="67" />
@@ -1102,11 +1103,12 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468335973647">
-        <mark key="'" line="39" column="13" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468341136104">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="21" column="79" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/downloader.hs" timestamp="1420043882212">
         <mark key="[" line="5" column="3" />
@@ -2573,7 +2575,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGFzayBleGVjdXRlU2VydmljZUhlbHBlcih0eXBlOiBKYXZhRXhlYywgZGVwZW5kc09uOiAnY2xhc3NlcycpIHsK</text>
+        <text encoding="base64">Ly8gICAgYXJjaGl2ZXMgYXNzZW1ibGVTZWN1cml0eUFydGlmYWN0cwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13167,19 +13169,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>.files</text>
       </register>
       <register name="/" type="4">
         <text>asldfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVUcmVlKCIke3Byb2plY3QucHJvamVjdERpcn0vZW5jcnlwdCIpLmZpbGVzLmVhY2ggeyBwcmludGxuICJmb3VuZCBmaWxlOiAke2l0fSIgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZyb20gZmlsZVRyZWUoIiR7cHJvamVjdC5wcm9qZWN0RGlyfS9lbmNyeXB0IikuZmlsZXMK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFzayBleGVjdXRlU2VydmljZUhlbHBlcih0eXBlOiBKYXZhRXhlYywgZGVwZW5kc09uOiAnY2xhc3NlcycpIHsK</text>
+        <text encoding="base64">Ly8gICAgYXJjaGl2ZXMgYXNzZW1ibGVTZWN1cml0eUFydGlmYWN0cwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13195,16 +13197,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgZnJvbSBzb3VyY2VTZXRzLm1haW4ub3V0cHV0IGluY2x1ZGUgIiR7cHJvamVjdC5uYW1lfS0ke3Byb2plY3QudmVyc2lvbn0vKioiCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXNzZW1ibGVTZWN1cml0eUFydGlmYWN0cyIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVUcmVlKCIke3Byb2plY3QucHJvamVjdERpcn0vZW5jcnlwdCIpLmZpbGVzLmVhY2ggeyBwcmludGxuICJmb3VuZCBmaWxlOiAke2l0fSIgfQo=</text>
+        <text encoding="base64">ICAgIC8vdGFzayBhc3NlbWJsZVNlY3VyaXR5QXJ0aWZhY3RzKHR5cGU6IFppcCwgZGVwZW5kc09uIDogWydleGVjdXRlU2VydmljZUhlbHBlcicsICdjbGFzc2VzJ10pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlVHJlZSgiJHtwcm9qZWN0LnByb2plY3REaXJ9L2VuY3J5cHQiKS5maWxlcy5lYWNoIHsgcHJpbnRsbiAiZm91bmQgZmlsZTogJHtpdH0iIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpbGVUcmVlKCIke3Byb2plY3QucHJvamVjdERpcn0vZW5jcnlwdCIpLmZpbGVzLmVhY2gge3ByaW50bG4gImZvdW5kIGZpbGU6ICR7aXR9In0KLy8gICAgICAgIGZyb20gZmlsZVRyZWUoIiR7cHJvamVjdC5wcm9qZWN0RGlyfS9lbmNyeXB0IikuZmlsZXMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14492,13 +14494,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCA9IHNvdXJjZVNldHMubWFpbi5ydW50aW1lQ2xhc3NwYXRoOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>f</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRvTGFzdCB7CiAgICAgICAgYXNzZW1ibGVTZWN1cml0eUFydGlmYWN0cwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
