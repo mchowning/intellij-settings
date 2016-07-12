@@ -2088,6 +2088,9 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" timestamp="1468322244837">
+        <mark key="'" line="134" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" timestamp="1466866090423">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -2491,10 +2494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/EmailLegalDocUtilTest.java" />
-      <jump line="752" column="1" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
-      <jump line="52" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
-      <jump line="86" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="105" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="85" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="152" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" />
@@ -2591,6 +2590,10 @@
       <jump line="15" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="82" column="62" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
+      <jump line="114" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
+      <jump line="116" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
+      <jump line="125" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
+      <jump line="134" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13198,7 +13201,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text encoding="base64">XDxvdXRGaWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb20uYXJ0aWZhY3RJZCA9ICJnZW1pbmktc2VjdXJpdHkiCg==</text>
@@ -14533,9 +14536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search encoding="base64">XDxvdXRGaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern encoding="base64">XDxvdXRGaWxlXD4=</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14543,8 +14546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initChannel</entry>
-        <entry>button</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>findChar</entry>
         <entry>level</entry>
@@ -14563,6 +14564,8 @@
         <entry>Int</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry>asdlfj</entry>
+        <entry encoding="base64">XDxmMVw+</entry>
+        <entry encoding="base64">XDxvdXRGaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
