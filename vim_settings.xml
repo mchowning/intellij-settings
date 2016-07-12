@@ -42,7 +42,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1468254238011">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1468014985567">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -1093,10 +1093,12 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468245572470">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468320517830">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/downloader.hs" timestamp="1420043882212">
         <mark key="[" line="5" column="3" />
@@ -1818,12 +1820,6 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment.gradle" timestamp="1468254400847">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="70" />
-        <mark key="." line="3" column="70" />
-        <mark key="^" line="3" column="70" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/themes/opel/values/theme.xml" timestamp="1466771323298">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="103" />
@@ -2192,11 +2188,6 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1468246115318">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/calculator/src/main/scala/calculator/Calculator.scala" timestamp="1467662795394">
         <mark key="'" line="22" column="44" />
         <mark key="[" line="24" column="0" />
@@ -2500,7 +2491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenterTest.java" />
       <jump line="72" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/EmailLegalDocUtilTest.java" />
       <jump line="752" column="1" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
       <jump line="52" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/android/text/Html.java" />
@@ -2600,13 +2590,14 @@
       <jump line="19" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="82" column="62" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bmFtZSA9ICdnZW1pbmktc2VjdXJpdHknCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13200,19 +13191,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbHVnaW5WZXJzaW9uXD4=</text>
+        <text>asdlfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdlbWluaUN1cnJlbnRWZXJzaW9uID0gJzMuMi4wJwo=</text>
+        <text encoding="base64">ICAgICAgICBwb20uYXJ0aWZhY3RJZCA9ICJnZW1pbmktc2VjdXJpdHkiCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdlbWluaUN1cnJlbnRWZXJzaW9uID0gJ0JsdWUtU05BUFNIT1QnCg==</text>
+        <text encoding="base64">bmFtZSA9ICdnZW1pbmktc2VjdXJpdHknCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13225,19 +13216,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL21vY2tMb2NhbE1hbmFnZXIgPSBhbmRyb2lkLnN1cHBvcnQudjQuY29udGVudC5Mb2NhbEJyb2FkY2FzdE1hbmFnZXIuZ2V0SW5zdGFuY2UoUnVudGltZUVudmlyb25tZW50LmFwcGxpY2F0aW9uKTsK</text>
+        <text encoding="base64">YXJ0aWZhY3RJZCA9ICJnZW1pbmktc2VjdXJpdHkiCg==</text>
       </register>
       <register name="3" type="4">
-        <text>RobolectricTestRunner</text>
+        <text>.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLm1vY2sK</text>
+      <register name="4" type="4">
+        <text>pom</text>
       </register>
-      <register name="5" type="4">
-        <text>1</text>
+      <register name="5" type="2">
+        <text encoding="base64">YXJ0aWZhY3RJZCA9ICcnCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVzY3JpcHRpb24gPSAnR2VtaW5pIFNlY3VyaXR5Jwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14524,35 +14515,33 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBldmFsV2l0aE9wZXJhdG9yKGV4cHIxOiBFeHByLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwcjI6IEV4cHIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmOiAoRG91YmxlLCBEb3VibGUpID0+IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgZihldmFsKGV4cHIxLCByZWZlcmVuY2VzKSwgZXZhbChleHByMiwgcmVmZXJlbmNlcykpCiAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBQbHVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXytfKQogICAgICBjYXNlIE1pbnVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXy1fKQogICAgICBjYXNlIFRpbWVzKGEsIGIpID0+IGV2YWxXaXRoT3BlcmF0b3IoYSwgYiwgXypfKQogICAgICBjYXNlIERpdmlkZShhLCBiKSA9PiBldmFsV2l0aE9wZXJhdG9yKGEsIGIsIF8vXykK</text>
+      <register name="9" type="4">
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbHVnaW5WZXJzaW9uXD4=</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbHVnaW5WZXJzaW9uXD4=</last-pattern>
+      <last-pattern>asdlfj</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSZXN1bHRzXD4=</entry>
         <entry>initChannel</entry>
         <entry>button</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
-        <entry>asdlfj</entry>
         <entry>findChar</entry>
         <entry>level</entry>
         <entry>asldkfj</entry>
@@ -14568,6 +14557,8 @@
         <entry>oneOf</entry>
         <entry>throw</entry>
         <entry>Int</entry>
+        <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
