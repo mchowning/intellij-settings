@@ -1093,12 +1093,9 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468322946155">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" timestamp="1468324349950">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="46" />
-        <mark key="." line="34" column="46" />
-        <mark key="^" line="34" column="46" />
+        <mark key="[" line="30" column="104" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/downloader.hs" timestamp="1420043882212">
         <mark key="[" line="5" column="3" />
@@ -2599,12 +2596,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>install {
-    repositories.mavenInstaller {
-        pom.artifactId = &quot;gemini-security&quot;
-    }
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFyY2hpdmVzIGZpbGU6IGZpbGUoIiR7cHJvamVjdC5idWlsZERpcn0vZGlzdHJpYnV0aW9ucy8ke3Byb2plY3QubmFtZX0tJHtwcm9qZWN0LnZlcnNpb259LWdlbWluaS56aXAiKSwgdHlwZTogJ3ppcCc7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13201,7 +13194,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRGaWxlXD4=</text>
+        <text>configurations</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb20uYXJ0aWZhY3RJZCA9ICJnZW1pbmktc2VjdXJpdHkiCg==</text>
@@ -13210,7 +13203,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmFtZSA9ICdnZW1pbmktc2VjdXJpdHknCg==</text>
+        <text encoding="base64">ICAgIGFyY2hpdmVzIGZpbGU6IGZpbGUoIiR7cHJvamVjdC5idWlsZERpcn0vZGlzdHJpYnV0aW9ucy8ke3Byb2plY3QubmFtZX0tJHtwcm9qZWN0LnZlcnNpb259LWdlbWluaS56aXAiKSwgdHlwZTogJ3ppcCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13223,19 +13216,19 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">bmFtZSA9ICdnZW1pbmktc2VjdXJpdHknCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">YXJ0aWZhY3RJZCA9ICJnZW1pbmktc2VjdXJpdHkiCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>pom</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YXJ0aWZhY3RJZCA9ICcnCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVzY3JpcHRpb24gPSAnR2VtaW5pIFNlY3VyaXR5Jwo=</text>
+        <text encoding="base64">YXJ0aWZhY3RJZCA9ICcnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14522,23 +14515,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVzY3JpcHRpb24gPSAnR2VtaW5pIFNlY3VyaXR5Jwo=</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRGaWxlXD4=</last-search>
+      <last-search>configurations</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRGaWxlXD4=</last-pattern>
+      <last-pattern>configurations</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14546,7 +14539,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>findChar</entry>
         <entry>level</entry>
         <entry>asldkfj</entry>
@@ -14566,6 +14558,7 @@
         <entry>asdlfj</entry>
         <entry encoding="base64">XDxmMVw+</entry>
         <entry encoding="base64">XDxvdXRGaWxlXD4=</entry>
+        <entry>configurations</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
