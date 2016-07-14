@@ -1265,8 +1265,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" timestamp="1468511244264">
-        <mark key="'" line="136" column="11" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" timestamp="1468521448771">
+        <mark key="'" line="43" column="34" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="^" line="475" column="1" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/server/FileReadWriteServer.scala" timestamp="1466599796669">
         <mark key="[" line="9" column="0" />
@@ -2491,12 +2495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="60" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="23" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="86" column="62" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="87" column="69" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="88" column="69" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="89" column="59" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="90" column="63" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="91" column="59" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="92" column="68" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2585,19 +2583,25 @@
       <jump line="167" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="198" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="222" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="229" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="12" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="43" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="74" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="105" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="136" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="228" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="475" column="69" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="7" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="353" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="229" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="291" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="283" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="74" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="12" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="43" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQW5kcm9pZFN5c3RlbVV0aWwgbW9ja0FuZHJvaWRTeXN0ZW1VdGlsOwo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13194,7 +13198,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>package_name</text>
+        <text>alskdjf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcm9hZHNpZGVBc3Npc3RhbmNlVXJsID0gcm9hZHNpZGVBc3Npc3RhbmNlVXRpbC5nZXRSb2Fkc2lkZUFzc2lzdGFuY2VVcmwoKTsKICAgICAgICBpZiAocm9hZHNpZGVBc3Npc3RhbmNlVXJsICE9IG51bGwpIHsK</text>
@@ -13203,7 +13207,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQW5kcm9pZFN5c3RlbVV0aWwgbW9ja0FuZHJvaWRTeXN0ZW1VdGlsOwo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13216,19 +13220,49 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQXV0aE1hbmFnZXIgbW9ja0F1dGhNYW5hZ2VyOwo=</text>
+        <text encoding="base64">ewogICAgICAiY2xpZW50X2luZm8iOiB7CiAgICAgICAgIm1vYmlsZXNka19hcHBfaWQiOiAiMTo5MzE1Mjc2NjQ3MTU6YW5kcm9pZDo3MGQ5NDU1ZWU0YmI1NGE4IiwKICAgICAgICAiYW5kcm9pZF9jbGllbnRfaW5mbyI6IHsKICAgICAgICAgICJwYWNrYWdlX25hbWUiOiAiY29tLmdtZS52YXV4aGFsbC5vd25lci5hbmRyb2lkLmRlYnVnIgogICAgICAgIH0KICAgICAgfSwKICAgICAgIm9hdXRoX2NsaWVudCI6IFsKICAgICAgICB7CiAgICAgICAgICAiY2xpZW50X2lkIjogIjkzMTUyNzY2NDcxNS1jNmkydTBmZGkzYjdwdnZjNTg1M2EyZWZvcW5ic2kwci5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsCiAgICAgICAgICAiY2xpZW50X3R5cGUiOiAzCiAgICAgICAgfQogICAgICBdLAogICAgICAiYXBpX2tleSI6IFsKICAgICAgICB7CiAgICAgICAgICAiY3VycmVudF9rZXkiOiAiQUl6YVN5REFfdmNMVWtySkFpOG1WdGtkVjMyc04zVWZLakhFNllBIgogICAgICAgIH0KICAgICAgXSwKICAgICAgInNlcnZpY2VzIjogewogICAgICAgICJhbmFseXRpY3Nfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAxCiAgICAgICAgfSwKICAgICAgICAiYXBwaW52aXRlX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMSwKICAgICAgICAgICJvdGhlcl9wbGF0Zm9ybV9vYXV0aF9jbGllbnQiOiBbXQogICAgICAgIH0sCiAgICAgICAgImFkc19zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDIKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vY2tBdXRoTWFuYWdlciwK</text>
+        <text encoding="base64">ewogICAgICAiY2xpZW50X2luZm8iOiB7CiAgICAgICAgIm1vYmlsZXNka19hcHBfaWQiOiAiMTo5MzE1Mjc2NjQ3MTU6YW5kcm9pZDo3MGQ5NDU1ZWU0YmI1NGE4IiwKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vY2tBbmRyb2lkU3lzdGVtVXRpbCwK</text>
+        <text encoding="base64">ICAgICAgICAiYW5kcm9pZF9jbGllbnRfaW5mbyI6IHsKICAgICAgICAgICJwYWNrYWdlX25hbWUiOiAiY29tLmdtZS52YXV4aGFsbC5vd25lci5hbmRyb2lkLmRlYnVnIgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQW5kcm9pZFN5c3RlbVV0aWwgYW5kcm9pZFN5c3RlbVV0aWw7Cg==</text>
+      <register name="5" type="4">
+        <text>{
+      &quot;client_info&quot;: {
+        &quot;mobilesdk_app_id&quot;: &quot;1:931527664715:android:70d9455ee4bb54a8&quot;,
+        &quot;android_client_info&quot;: {
+          &quot;package_name&quot;: &quot;com.gme.vauxhall.owner.android.debug&quot;
+        }
+      },
+      &quot;oauth_client&quot;: [
+        {
+          &quot;client_id&quot;: &quot;931527664715-c6i2u0fdi3b7pvvc5853a2efoqnbsi0r.apps.googleusercontent.com&quot;,
+          &quot;client_type&quot;: 3
+        }
+      ],
+      &quot;api_key&quot;: [
+        {
+          &quot;current_key&quot;: &quot;AIzaSyDA_vcLUkrJAi8mVtkdV32sN3UfKjHE6YA&quot;
+        }
+      ],
+      &quot;services&quot;: {
+        &quot;analytics_service&quot;: {
+          &quot;status&quot;: 1
+        },
+        &quot;appinvite_service&quot;: {
+          &quot;status&quot;: 1,
+          &quot;other_platform_oauth_client&quot;: []
+        },
+        &quot;ads_service&quot;: {
+          &quot;status&quot;: 2
+        }
+      }
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdXRoTWFuYWdlciBhdXRoTWFuYWdlciwK</text>
+        <text encoding="base64">ewogICJwcm9qZWN0X2luZm8iOiB7CiAgICAicHJvamVjdF9udW1iZXIiOiAiOTMxNTI3NjY0NzE1IiwKICAgICJmaXJlYmFzZV91cmwiOiAiaHR0cHM6Ly9vbW5pYnVzLTY2YWFiLmZpcmViYXNlaW8uY29tIiwKICAgICJwcm9qZWN0X2lkIjogIm9tbmlidXMtNjZhYWIiLAogICAgInN0b3JhZ2VfYnVja2V0IjogIm9tbmlidXMtNjZhYWIuYXBwc3BvdC5jb20iCiAgfSwKICAiY2xpZW50IjogWwogICAgewogICAgICAiY2xpZW50X2luZm8iOiB7CiAgICAgICAgIm1vYmlsZXNka19hcHBfaWQiOiAiMTo5MzE1Mjc2NjQ3MTU6YW5kcm9pZDoxMzU1NTdjNjU1NTQwYmY5IiwKICAgICAgICAiYW5kcm9pZF9jbGllbnRfaW5mbyI6IHsKICAgICAgICAgICJwYWNrYWdlX25hbWUiOiAiY29tLmdtLmNoZXZyb2xldC5ub21hZC5vd25lcnNoaXAuZGVidWciCiAgICAgICAgfQogICAgICB9LAogICAgICAib2F1dGhfY2xpZW50IjogWwogICAgICAgIHsKICAgICAgICAgICJjbGllbnRfaWQiOiAiOTMxNTI3NjY0NzE1LWM2aTJ1MGZkaTNiN3B2dmM1ODUzYTJlZm9xbmJzaTByLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwKICAgICAgICAgICJjbGllbnRfdHlwZSI6IDMKICAgICAgICB9CiAgICAgIF0sCiAgICAgICJhcGlfa2V5IjogWwogICAgICAgIHsKICAgICAgICAgICJjdXJyZW50X2tleSI6ICJBSXphU3lEQV92Y0xVa3JKQWk4bVZ0a2RWMzJzTjNVZktqSEU2WUEiCiAgICAgICAgfQogICAgICBdLAogICAgICAic2VydmljZXMiOiB7CiAgICAgICAgImFuYWx5dGljc19zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDEKICAgICAgICB9LAogICAgICAgICJhcHBpbnZpdGVfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAxLAogICAgICAgICAgIm90aGVyX3BsYXRmb3JtX29hdXRoX2NsaWVudCI6IFtdCiAgICAgICAgfSwKICAgICAgICAiYWRzX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMgogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImNsaWVudF9pbmZvIjogewogICAgICAgICJtb2JpbGVzZGtfYXBwX2lkIjogIjE6OTMxNTI3NjY0NzE1OmFuZHJvaWQ6ZTQ1YzMxZGU0ZmJhNzBkNSIsCiAgICAgICAgImFuZHJvaWRfY2xpZW50X2luZm8iOiB7CiAgICAgICAgICAicGFja2FnZV9uYW1lIjogImNvbS5nbS5jaGV2cm9sZXQubm9tYWQub3duZXJzaGlwLnZhbGlkYXRpb24iCiAgICAgICAgfQogICAgICB9LAogICAgICAib2F1dGhfY2xpZW50IjogWwogICAgICAgIHsKICAgICAgICAgICJjbGllbnRfaWQiOiAiOTMxNTI3NjY0NzE1LWM2aTJ1MGZkaTNiN3B2dmM1ODUzYTJlZm9xbmJzaTByLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwKICAgICAgICAgICJjbGllbnRfdHlwZSI6IDMKICAgICAgICB9CiAgICAgIF0sCiAgICAgICJhcGlfa2V5IjogWwogICAgICAgIHsKICAgICAgICAgICJjdXJyZW50X2tleSI6ICJBSXphU3lEQV92Y0xVa3JKQWk4bVZ0a2RWMzJzTjNVZktqSEU2WUEiCiAgICAgICAgfQogICAgICBdLAogICAgICAic2VydmljZXMiOiB7CiAgICAgICAgImFuYWx5dGljc19zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDEKICAgICAgICB9LAogICAgICAgICJhcHBpbnZpdGVfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAxLAogICAgICAgICAgIm90aGVyX3BsYXRmb3JtX29hdXRoX2NsaWVudCI6IFtdCiAgICAgICAgfSwKICAgICAgICAiYWRzX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMgogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImNsaWVudF9pbmZvIjogewogICAgICAgICJtb2JpbGVzZGtfYXBwX2lkIjogIjE6OTMxNTI3NjY0NzE1OmFuZHJvaWQ6MmYwMzU0MzI3NjM2OTAzMyIsCiAgICAgICAgImFuZHJvaWRfY2xpZW50X2luZm8iOiB7CiAgICAgICAgICAicGFja2FnZV9uYW1lIjogImNvbS5nbS5jaGV2cm9sZXQubm9tYWQub3duZXJzaGlwLmJsdWUiCiAgICAgICAgfQogICAgICB9LAogICAgICAib2F1dGhfY2xpZW50IjogWwogICAgICAgIHsKICAgICAgICAgICJjbGllbnRfaWQiOiAiOTMxNTI3NjY0NzE1LWM2aTJ1MGZkaTNiN3B2dmM1ODUzYTJlZm9xbmJzaTByLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwKICAgICAgICAgICJjbGllbnRfdHlwZSI6IDMKICAgICAgICB9CiAgICAgIF0sCiAgICAgICJhcGlfa2V5IjogWwogICAgICAgIHsKICAgICAgICAgICJjdXJyZW50X2tleSI6ICJBSXphU3lEQV92Y0xVa3JKQWk4bVZ0a2RWMzJzTjNVZktqSEU2WUEiCiAgICAgICAgfQogICAgICBdLAogICAgICAic2VydmljZXMiOiB7CiAgICAgICAgImFuYWx5dGljc19zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDEKICAgICAgICB9LAogICAgICAgICJhcHBpbnZpdGVfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAxLAogICAgICAgICAgIm90aGVyX3BsYXRmb3JtX29hdXRoX2NsaWVudCI6IFtdCiAgICAgICAgfSwKICAgICAgICAiYWRzX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMgogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImNsaWVudF9pbmZvIjogewogICAgICAgICJtb2JpbGVzZGtfYXBwX2lkIjogIjE6OTMxNTI3NjY0NzE1OmFuZHJvaWQ6YTg0NWE0ZmI0NGJlYTQ0OCIsCiAgICAgICAgImFuZHJvaWRfY2xpZW50X2luZm8iOiB7CiAgICAgICAgICAicGFja2FnZV9uYW1lIjogImNvbS5nbS5nbWMubm9tYWQub3duZXJzaGlwLmRlYnVnIgogICAgICAgIH0KICAgICAgfSwKICAgICAgIm9hdXRoX2NsaWVudCI6IFsKICAgICAgICB7CiAgICAgICAgICAiY2xpZW50X2lkIjogIjkzMTUyNzY2NDcxNS1jNmkydTBmZGkzYjdwdnZjNTg1M2EyZWZvcW5ic2kwci5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsCiAgICAgICAgICAiY2xpZW50X3R5cGUiOiAzCiAgICAgICAgfQogICAgICBdLAogICAgICAiYXBpX2tleSI6IFsKICAgICAgICB7CiAgICAgICAgICAiY3VycmVudF9rZXkiOiAiQUl6YVN5REFfdmNMVWtySkFpOG1WdGtkVjMyc04zVWZLakhFNllBIgogICAgICAgIH0KICAgICAgXSwKICAgICAgInNlcnZpY2VzIjogewogICAgICAgICJhbmFseXRpY3Nfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAxCiAgICAgICAgfSwKICAgICAgICAiYXBwaW52aXRlX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMSwKICAgICAgICAgICJvdGhlcl9wbGF0Zm9ybV9vYXV0aF9jbGllbnQiOiBbXQogICAgICAgIH0sCiAgICAgICAgImFkc19zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICJjbGllbnRfaW5mbyI6IHsKICAgICAgICAibW9iaWxlc2RrX2FwcF9pZCI6ICIxOjkzMTUyNzY2NDcxNTphbmRyb2lkOjJkNTRlMGU0ZGY2YjViNmMiLAogICAgICAgICJhbmRyb2lkX2NsaWVudF9pbmZvIjogewogICAgICAgICAgInBhY2thZ2VfbmFtZSI6ICJjb20uZ20uY2FkaWxsYWMubm9tYWQub3duZXJzaGlwLmRlYnVnIgogICAgICAgIH0KICAgICAgfSwKICAgICAgIm9hdXRoX2NsaWVudCI6IFsKICAgICAgICB7CiAgICAgICAgICAiY2xpZW50X2lkIjogIjkzMTUyNzY2NDcxNS1jNmkydTBmZGkzYjdwdnZjNTg1M2EyZWZvcW5ic2kwci5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsCiAgICAgICAgICAiY2xpZW50X3R5cGUiOiAzCiAgICAgICAgfQogICAgICBdLAogICAgICAiYXBpX2tleSI6IFsKICAgICAgICB7CiAgICAgICAgICAiY3VycmVudF9rZXkiOiAiQUl6YVN5REFfdmNMVWtySkFpOG1WdGtkVjMyc04zVWZLakhFNllBIgogICAgICAgIH0KICAgICAgXSwKICAgICAgInNlcnZpY2VzIjogewogICAgICAgICJhbmFseXRpY3Nfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAxCiAgICAgICAgfSwKICAgICAgICAiYXBwaW52aXRlX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMSwKICAgICAgICAgICJvdGhlcl9wbGF0Zm9ybV9vYXV0aF9jbGllbnQiOiBbXQogICAgICAgIH0sCiAgICAgICAgImFkc19zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICJjbGllbnRfaW5mbyI6IHsKICAgICAgICAibW9iaWxlc2RrX2FwcF9pZCI6ICIxOjkzMTUyNzY2NDcxNTphbmRyb2lkOjNhMWJhN2QyYmI4M2NmODciLAogICAgICAgICJhbmRyb2lkX2NsaWVudF9pbmZvIjogewogICAgICAgICAgInBhY2thZ2VfbmFtZSI6ICJjb20uZ20uYnVpY2subm9tYWQub3duZXJzaGlwLmRlYnVnIgogICAgICAgIH0KICAgICAgfSwKICAgICAgIm9hdXRoX2NsaWVudCI6IFsKICAgICAgICB7CiAgICAgICAgICAiY2xpZW50X2lkIjogIjkzMTUyNzY2NDcxNS1jNmkydTBmZGkzYjdwdnZjNTg1M2EyZWZvcW5ic2kwci5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsCiAgICAgICAgICAiY2xpZW50X3R5cGUiOiAzCiAgICAgICAgfQogICAgICBdLAogICAgICAiYXBpX2tleSI6IFsKICAgICAgICB7CiAgICAgICAgICAiY3VycmVudF9rZXkiOiAiQUl6YVN5REFfdmNMVWtySkFpOG1WdGtkVjMyc04zVWZLakhFNllBIgogICAgICAgIH0KICAgICAgXSwKICAgICAgInNlcnZpY2VzIjogewogICAgICAgICJhbmFseXRpY3Nfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAxCiAgICAgICAgfSwKICAgICAgICAiYXBwaW52aXRlX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMSwKICAgICAgICAgICJvdGhlcl9wbGF0Zm9ybV9vYXV0aF9jbGllbnQiOiBbXQogICAgICAgIH0sCiAgICAgICAgImFkc19zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICJjbGllbnRfaW5mbyI6IHsKICAgICAgICAibW9iaWxlc2RrX2FwcF9pZCI6ICIxOjkzMTUyNzY2NDcxNTphbmRyb2lkOmUzMTRmMWNmMDcwMzAyNmUiLAogICAgICAgICJhbmRyb2lkX2NsaWVudF9pbmZvIjogewogICAgICAgICAgInBhY2thZ2VfbmFtZSI6ICJjb20uZ21lLm9wZWwub3duZXIuYW5kcm9pZC5kZWJ1ZyIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICJvYXV0aF9jbGllbnQiOiBbCiAgICAgICAgewogICAgICAgICAgImNsaWVudF9pZCI6ICI5MzE1Mjc2NjQ3MTUtYzZpMnUwZmRpM2I3cHZ2YzU4NTNhMmVmb3FuYnNpMHIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLAogICAgICAgICAgImNsaWVudF90eXBlIjogMwogICAgICAgIH0KICAgICAgXSwKICAgICAgImFwaV9rZXkiOiBbCiAgICAgICAgewogICAgICAgICAgImN1cnJlbnRfa2V5IjogIkFJemFTeURBX3ZjTFVrckpBaThtVnRrZFYzMnNOM1VmS2pIRTZZQSIKICAgICAgICB9CiAgICAgIF0sCiAgICAgICJzZXJ2aWNlcyI6IHsKICAgICAgICAiYW5hbHl0aWNzX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMQogICAgICAgIH0sCiAgICAgICAgImFwcGludml0ZV9zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDEsCiAgICAgICAgICAib3RoZXJfcGxhdGZvcm1fb2F1dGhfY2xpZW50IjogW10KICAgICAgICB9LAogICAgICAgICJhZHNfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAyCiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgewogICAgICAiY2xpZW50X2luZm8iOiB7CiAgICAgICAgIm1vYmlsZXNka19hcHBfaWQiOiAiMTo5MzE1Mjc2NjQ3MTU6YW5kcm9pZDozODhiMzMwZjUzNmI2YWIyIiwKICAgICAgICAiYW5kcm9pZF9jbGllbnRfaW5mbyI6IHsKICAgICAgICAgICJwYWNrYWdlX25hbWUiOiAidWsuY28udmF1eGhhbGwubXl2YXV4aGFsbC5kZWJ1ZyIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICJvYXV0aF9jbGllbnQiOiBbCiAgICAgICAgewogICAgICAgICAgImNsaWVudF9pZCI6ICI5MzE1Mjc2NjQ3MTUtYzZpMnUwZmRpM2I3cHZ2YzU4NTNhMmVmb3FuYnNpMHIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLAogICAgICAgICAgImNsaWVudF90eXBlIjogMwogICAgICAgIH0KICAgICAgXSwKICAgICAgImFwaV9rZXkiOiBbCiAgICAgICAgewogICAgICAgICAgImN1cnJlbnRfa2V5IjogIkFJemFTeURBX3ZjTFVrckpBaThtVnRrZFYzMnNOM1VmS2pIRTZZQSIKICAgICAgICB9CiAgICAgIF0sCiAgICAgICJzZXJ2aWNlcyI6IHsKICAgICAgICAiYW5hbHl0aWNzX3NlcnZpY2UiOiB7CiAgICAgICAgICAic3RhdHVzIjogMQogICAgICAgIH0sCiAgICAgICAgImFwcGludml0ZV9zZXJ2aWNlIjogewogICAgICAgICAgInN0YXR1cyI6IDEsCiAgICAgICAgICAib3RoZXJfcGxhdGZvcm1fb2F1dGhfY2xpZW50IjogW10KICAgICAgICB9LAogICAgICAgICJhZHNfc2VydmljZSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAyCiAgICAgICAgfQogICAgICB9CiAgICB9CiAgXSwKICAiY29uZmlndXJhdGlvbl92ZXJzaW9uIjogIjEiCn0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14516,22 +14550,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbmRyb2lkU3lzdGVtVXRpbCBhbmRyb2lkU3lzdGVtVXRpbCwK</text>
+        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQW5kcm9pZFN5c3RlbVV0aWwgbW9ja0FuZHJvaWRTeXN0ZW1VdGlsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFuZHJvaWRTeXN0ZW1VdGlsID0gYW5kcm9pZFN5c3RlbVV0aWw7Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQXV0aE1hbmFnZXIgbW9ja0F1dGhNYW5hZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vY2tBdXRoTWFuYWdlciwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>package_name</last-search>
+      <last-search>alskdjf</last-search>
       <last-offset />
-      <last-pattern>package_name</last-pattern>
+      <last-pattern>alskdjf</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14539,11 +14573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assemble</entry>
-        <entry>asldfj</entry>
-        <entry>1.2.0</entry>
-        <entry>asdlfj</entry>
-        <entry encoding="base64">XDxyb3V0ZXJcPg==</entry>
         <entry>countryConfig</entry>
         <entry encoding="base64">XDxicmFuZEFkdmlzb3JVdGlsXD4=</entry>
         <entry>authManager</entry>
@@ -14559,6 +14588,11 @@
         <entry>validation</entry>
         <entry>blue</entry>
         <entry>package_name</entry>
+        <entry>com.gem.vaux</entry>
+        <entry>gme.vauxhall</entry>
+        <entry>vauxhall</entry>
+        <entry>chev</entry>
+        <entry>alskdjf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
