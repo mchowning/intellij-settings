@@ -287,6 +287,11 @@
         <mark key="^" line="99" column="7" />
         <mark key="." line="99" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" timestamp="1468493689379">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/client/handler/ClientInitialAuthHandlerTest.java" timestamp="1466734333856">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -1705,11 +1710,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" timestamp="1468426116297">
-        <mark key="'" line="2" column="26" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" timestamp="1468494267450">
+        <mark key="'" line="51" column="53" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466265957051">
         <mark key="[" line="24" column="29" />
@@ -2488,17 +2493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="37" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/BehaviorSubject.java" />
-      <jump line="147" column="27" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/BehaviorSubject.java" />
-      <jump line="15" column="4" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="31" column="26" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="35" column="106" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="40" column="72" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="91" column="6" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="98" column="12" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="107" column="64" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="88" column="54" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
-      <jump line="83" column="29" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
       <jump line="41" column="12" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
       <jump line="85" column="15" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
       <jump line="94" column="29" filename="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" />
@@ -2564,7 +2558,6 @@
       <jump line="77" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="62" column="47" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="2" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="85" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
       <jump line="80" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
       <jump line="62" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
@@ -2588,13 +2581,25 @@
       <jump line="16" column="62" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="59" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="69" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
+      <jump line="57" column="47" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="2" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="65" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="8" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="44" column="36" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="55" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="54" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
+      <jump line="60" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="92" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="6" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="41" column="36" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
+      <jump line="51" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQW5kcm9pZFN5c3RlbVV0aWwgbW9ja0FuZHJvaWRTeXN0ZW1VdGlsOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13188,10 +13193,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localVersion</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ntitlement</text>
+        <text encoding="base64">XDxhbmRyb2lkU3lzdGVtVXRpbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcm9hZHNpZGVBc3Npc3RhbmNlVXJsID0gcm9hZHNpZGVBc3Npc3RhbmNlVXRpbC5nZXRSb2Fkc2lkZUFzc2lzdGFuY2VVcmwoKTsKICAgICAgICBpZiAocm9hZHNpZGVBc3Npc3RhbmNlVXJsICE9IG51bGwpIHsK</text>
@@ -13200,7 +13205,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQW5kcm9pZFN5c3RlbVV0aWwgbW9ja0FuZHJvaWRTeXN0ZW1VdGlsOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13213,19 +13218,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJldHJvZml0Lmh0dHAuSEVBRDsK</text>
+        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgQXV0aE1hbmFnZXIgbW9ja0F1dGhNYW5hZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9CbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vY2tBdXRoTWFuYWdlciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vY2tBbmRyb2lkU3lzdGVtVXRpbCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmVoaWNsZUxvY2F0aW9uRW50aXRsZW1lbnQgbW9ja1ZlaGljbGVMb2NhdGlvbkVudGl0bGVtZW50Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQW5kcm9pZFN5c3RlbVV0aWwgYW5kcm9pZFN5c3RlbVV0aWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQW5kcm9pZERldmljZVV0aWxzIG1vY2tBbmRyb2lkRGV2aWNlVXRpbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdXRoTWFuYWdlciBhdXRoTWFuYWdlciwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14513,22 +14518,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vQmx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbmRyb2lkU3lzdGVtVXRpbCBhbmRyb2lkU3lzdGVtVXRpbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFuZHJvaWRTeXN0ZW1VdGlsID0gYW5kcm9pZFN5c3RlbVV0aWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>ntitlement</last-search>
+      <last-search encoding="base64">XDxhbmRyb2lkU3lzdGVtVXRpbFw+</last-search>
       <last-offset />
-      <last-pattern>ntitlement</last-pattern>
+      <last-pattern encoding="base64">XDxhbmRyb2lkU3lzdGVtVXRpbFw+</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14536,9 +14541,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
-        <entry encoding="base64">XDxmMVw+</entry>
-        <entry encoding="base64">XDxvdXRGaWxlXD4=</entry>
         <entry>configurations</entry>
         <entry encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxzYWx0XD4=</entry>
@@ -14556,6 +14558,9 @@
         <entry encoding="base64">XDxwcmVzZW50ZXJcPg==</entry>
         <entry encoding="base64">XDxtb2NrVmVoaWNsZUxvY2F0aW9uRW50aXRsZW1lbnRcPg==</entry>
         <entry>ntitlement</entry>
+        <entry encoding="base64">XDxhdXRoTWFuYWdlclw+</entry>
+        <entry encoding="base64">XDxtb2NrQXV0aE1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxhbmRyb2lkU3lzdGVtVXRpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
