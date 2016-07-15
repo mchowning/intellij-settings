@@ -341,11 +341,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoView.java" timestamp="1468600970307">
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="40" column="33" />
-        <mark key="^" line="36" column="38" />
-        <mark key="." line="40" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoView.java" timestamp="1468601671262">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="36" />
       </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_2/multiAgents.py" timestamp="1426734718518">
         <mark key="[" line="151" column="0" />
@@ -2247,8 +2247,11 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1468597623327">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1468601769140">
         <mark key="'" line="33" column="8" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -2656,8 +2659,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Button</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkX2dyYWRsZV9wbHVnaW46ICJjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6Mi4xLjIiLAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13251,19 +13254,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Button</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>alsdjf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJvdy5hbmltYXRlKCkucm90YXRpb24oMjcwZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2Fycm93LmFuaW1hdGUoKS5yb3RhdGlvbigwZik7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkX2dyYWRsZV9wbHVnaW46ICJjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6Mi4xLjIiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13276,19 +13279,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS1GSVhNRSB0aW50IGFycm93IEBjb2xvci9ncmF5Xzk3LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2Fycm93LmFuaW1hdGUoKS5yb3RhdGlvbigwZik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgLy9GSVhNRSB0ZXN0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwhLS1GSVhNRSB0aW50IGFycm93IEBjb2xvci9ncmF5Xzk3LS0+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgLy9GSVhNRSB0ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tBeXNEYXRhSGVscGVyLnJvdW5kVG9PbmVEZWNpbWFsKDcuNTEpKS50aGVuUmV0dXJuKDcuNSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14576,13 +14579,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tOZWFyYnlQb2kuZ2V0RGlzdGFuY2VNaWxlcygpKS50aGVuUmV0dXJuKDcuNTEpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBOZWFyYnlQT0kgbW9ja05lYXJieVBvaSA9IG1vY2soTmVhcmJ5UE9JLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tBeXNEYXRhSGVscGVyLnJvdW5kVG9PbmVEZWNpbWFsKDcuNTEpKS50aGVuUmV0dXJuKDcuNSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tOZWFyYnlQb2kuZ2V0RGlzdGFuY2VNaWxlcygpKS50aGVuUmV0dXJuKDcuNTEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
