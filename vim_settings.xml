@@ -192,8 +192,8 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1468589350461">
-        <mark key="'" line="58" column="26" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1468590174177">
+        <mark key="'" line="191" column="36" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
@@ -2509,10 +2509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="72" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="98" column="70" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="99" column="60" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="103" column="57" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="104" column="62" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="19" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2609,6 +2605,10 @@
       <jump line="52" column="68" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="72" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="73" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="176" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="182" column="74" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="183" column="85" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="191" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13212,7 +13212,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWN5Y2xlcnZpZXdcPg==</text>
+        <text>alsdjf</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Cg==</text>
@@ -14547,9 +14547,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWN5Y2xlcnZpZXdcPg==</last-search>
+      <last-search>alsdjf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWN5Y2xlcnZpZXdcPg==</last-pattern>
+      <last-pattern>alsdjf</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14557,9 +14557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ntitlement</entry>
-        <entry encoding="base64">XDxhdXRoTWFuYWdlclw+</entry>
-        <entry encoding="base64">XDxtb2NrQXV0aE1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxhbmRyb2lkU3lzdGVtVXRpbFw+</entry>
         <entry>validation</entry>
         <entry>blue</entry>
@@ -14577,6 +14574,9 @@
         <entry>extractor</entry>
         <entry encoding="base64">XDxyZWFsbVw+</entry>
         <entry encoding="base64">XDxyZWN5Y2xlcnZpZXdcPg==</entry>
+        <entry>response</entry>
+        <entry>pushresponse</entry>
+        <entry>alsdjf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
