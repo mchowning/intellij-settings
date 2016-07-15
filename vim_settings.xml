@@ -336,6 +336,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoView.java" timestamp="1468596037450">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_2/multiAgents.py" timestamp="1426734718518">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -514,13 +520,19 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info.xml" timestamp="1468596119782">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/TimeServerHandler.java" timestamp="1464543061404">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="4" />
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468327724903">
+      <file name="/Dummy.txt" timestamp="1468596012014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
@@ -1403,6 +1415,11 @@
         <mark key="]" line="44" column="48" />
         <mark key="^" line="44" column="48" />
         <mark key="." line="44" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" timestamp="1468595387419">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="18" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/service/web/DataSourceModule.java" timestamp="1462216063178">
         <mark key="[" line="7" column="7" />
@@ -2439,6 +2456,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/offer_detail_info_block.xml" timestamp="1468595017407">
+        <mark key="[" line="64" column="20" />
+        <mark key="]" line="65" column="38" />
+        <mark key="^" line="65" column="38" />
+        <mark key="." line="65" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandlerTest.java" timestamp="1466865730283">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="68" column="56" />
@@ -2608,8 +2631,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>VERTICAL</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13203,7 +13226,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>VERTICAL</text>
       </register>
       <register name="/" type="4">
         <text>alsdjf</text>
@@ -13215,7 +13238,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBPTS04NjM4Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13228,19 +13251,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWxlbmF2X3NkayAgICAgICAgICA6ICdjb20uZ20ub25zdGFyLnRlbGVuYXY6dGVsZW5hdi1zZGs6MS4wLjAnLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBwb3J0X3Y0ICAgICAgICAgICA6ICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjMuMC4xJywK</text>
+        <text encoding="base64">ICAgICAgICB0ZWxlbmF2X3NkayAgICAgICAgICA6ICdjb20uZ20ub25zdGFyLnRlbGVuYXY6dGVsZW5hdi1zZGs6MS4wLjAnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBwb3J0X2dyaWRsYXlvdXQgICA6ICdjb20uYW5kcm9pZC5zdXBwb3J0OmdyaWRsYXlvdXQtdjc6MjMuMS4wJywK</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0X3Y0ICAgICAgICAgICA6ICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjMuMC4xJywK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14528,13 +14551,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBwb3J0X2Rlc2lnbiAgICAgICA6ICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyMi4yLjEnLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0X2dyaWRsYXlvdXQgICA6ICdjb20uYW5kcm9pZC5zdXBwb3J0OmdyaWRsYXlvdXQtdjc6MjMuMS4wJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByeGphdmEgICAgICAgICAgICAgICA6ICdpby5yZWFjdGl2ZXg6cnhqYXZhOjEuMC4xNicsCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0X2Rlc2lnbiAgICAgICA6ICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyMi4yLjEnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByeGFuZHJvaWQgICAgICAgICAgICA6ICdpby5yZWFjdGl2ZXg6cnhhbmRyb2lkOjEuMC4xJywK</text>
+        <text encoding="base64">ICAgICAgICByeGphdmEgICAgICAgICAgICAgICA6ICdpby5yZWFjdGl2ZXg6cnhqYXZhOjEuMC4xNicsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
