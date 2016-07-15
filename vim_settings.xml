@@ -273,6 +273,11 @@
         <mark key="." line="51" column="25" />
         <mark key="^" line="52" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlockPresenter.java" timestamp="1468599034295">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/advent-of-code/src/Day5.hs" timestamp="1452824213239">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -520,11 +525,11 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info.xml" timestamp="1468597805646">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info.xml" timestamp="1468598687253">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="62" />
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/TimeServerHandler.java" timestamp="1464543061404">
         <mark key="[" line="25" column="0" />
@@ -1415,10 +1420,12 @@
         <mark key="^" line="44" column="48" />
         <mark key="." line="44" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" timestamp="1468595387419">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="18" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" timestamp="1468599047897">
+        <mark key="'" line="90" column="8" />
+        <mark key="[" line="179" column="25" />
+        <mark key="]" line="179" column="39" />
+        <mark key="." line="179" column="39" />
+        <mark key="^" line="179" column="39" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/service/web/DataSourceModule.java" timestamp="1462216063178">
         <mark key="[" line="7" column="7" />
@@ -1828,7 +1835,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar!/com/google/android/gms/maps/MapView.class" timestamp="1467134687653">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1468597192909">
+      <file name="/a.regexp" timestamp="1468598444849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2461,11 +2468,10 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/offer_detail_info_block.xml" timestamp="1468597091371">
-        <mark key="[" line="68" column="24" />
-        <mark key="]" line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-        <mark key="." line="68" column="24" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/offer_detail_info_block.xml" timestamp="1468598795509">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandlerTest.java" timestamp="1466865730283">
         <mark key="[" line="67" column="0" />
@@ -2537,7 +2543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
       <jump line="116" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
       <jump line="125" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
       <jump line="134" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" />
@@ -2637,13 +2642,14 @@
       <jump line="20" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/styles.xml" />
       <jump line="21" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="33" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="90" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LnNldE9mZmVyRGlzdGFuY2UoKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13237,19 +13243,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>appcompat</text>
+        <text encoding="base64">XDxvZmZlckRpc3RhbmNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2dyYXlfOTciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29tLmdtLmdlbWluaS5wbHVnaW5fY29tbW9uX3Jlc291cmNlcy51aS52aWV3LkZvbnRUZXh0VmlldwogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL29mZmVyX3RoaXJkX3N1YmhlYWRlciIKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9PZmZlckxpc3REaXN0YW5jZVRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICB0b29sczp0ZXh0PSJOZXcgVGV4dCIgLz4K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LnNldE9mZmVyRGlzdGFuY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13262,19 +13268,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICA8U3BhY2UKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iOGRwIgogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9kcm9wX2Rvd24iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIGhpZGVPZmZlckRpc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9icmlnaHRfZ3JlZW4iCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvZHJvcF9kb3duIi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgdGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPTS04NjM4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy5oaWRlT2ZmZXJEaXN0YW5jZSgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14562,22 +14568,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPGNvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMudWkudmlldy5Gb250VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIHRvb2xzOnRleHQ9ImNyYXp5IGN1c3RvbSB0ZXh0IiAvPgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9PZmZlckxpc3REaXN0YW5jZVRleHQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9vZmZlcl90aGlyZF9zdWJoZWFkZXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>appcompat</last-search>
+      <last-search encoding="base64">XDxvZmZlckRpc3RhbmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>appcompat</last-pattern>
+      <last-pattern encoding="base64">XDxvZmZlckRpc3RhbmNlXD4=</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14585,7 +14591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>package_name</entry>
         <entry>com.gem.vaux</entry>
         <entry>gme.vauxhall</entry>
         <entry>vauxhall</entry>
@@ -14605,6 +14610,7 @@
         <entry>14</entry>
         <entry>medium</entry>
         <entry>appcompat</entry>
+        <entry encoding="base64">XDxvZmZlckRpc3RhbmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
