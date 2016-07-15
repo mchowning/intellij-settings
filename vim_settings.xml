@@ -1316,6 +1316,7 @@
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1468531489050" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
         <mark key="]" line="11" column="108" />
@@ -2282,6 +2283,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1468531806929">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="106" />
@@ -2499,8 +2507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="63" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="91" column="59" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="92" column="68" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="93" column="63" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="94" column="72" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2599,6 +2605,8 @@
       <jump line="74" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="12" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="43" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
+      <jump line="16" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="18" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13202,7 +13210,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>alskdjf</text>
+        <text>ReleaseNotes</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Cg==</text>
@@ -14567,9 +14575,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alskdjf</last-search>
+      <last-search>ReleaseNotes</last-search>
       <last-offset />
-      <last-pattern>alskdjf</last-pattern>
+      <last-pattern>ReleaseNotes</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14577,9 +14585,6 @@
     </search>
     <history>
       <history-search>
-        <entry>countryConfig</entry>
-        <entry encoding="base64">XDxicmFuZEFkdmlzb3JVdGlsXD4=</entry>
-        <entry>authManager</entry>
         <entry>mockAuthManager</entry>
         <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">XDxtb2NrQW5kcm9pZERldmljZVV0aWxzXD4=</entry>
@@ -14597,6 +14602,9 @@
         <entry>vauxhall</entry>
         <entry>chev</entry>
         <entry>alskdjf</entry>
+        <entry>notes</entry>
+        <entry>asdlfj</entry>
+        <entry>ReleaseNotes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
