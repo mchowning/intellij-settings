@@ -961,6 +961,9 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" timestamp="1468852870329">
+        <mark key="'" line="207" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/prepcrashlytics" timestamp="1464026361454">
         <mark key="[" line="32" column="34" />
         <mark key="]" line="32" column="38" />
@@ -2107,12 +2110,6 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1468842551077">
-        <mark key="'" line="129" column="13" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientReadInboundFileHandler.java" timestamp="1466734808665">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -2584,9 +2581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="68" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="80" column="23" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="77" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="62" column="47" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
@@ -2684,6 +2678,9 @@
       <jump line="453" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="101" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="129" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="48" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" />
+      <jump line="200" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" />
+      <jump line="207" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13287,7 +13284,7 @@
         <text>aBoolean</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</text>
+        <text>activity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1JvdXRlcikuc2hvdyhTSE9XX1NDSEVEVUxFX1NFUlZJQ0VfVVJJKTsK</text>
@@ -14622,9 +14619,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</last-search>
+      <last-search>activity</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</last-pattern>
+      <last-pattern>activity</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14632,7 +14629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>response</entry>
         <entry>pushresponse</entry>
         <entry>14</entry>
         <entry>medium</entry>
@@ -14652,6 +14648,7 @@
         <entry encoding="base64">XDxvZmZlckxheW91dFw+</entry>
         <entry encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
         <entry encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</entry>
+        <entry>activity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
