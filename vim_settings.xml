@@ -374,6 +374,9 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" timestamp="1468806723037">
+        <mark key="'" line="78" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/client/handler/ClientReadInboundFileHandler.scala" timestamp="1466559300324">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="8" />
@@ -993,6 +996,11 @@
         <mark key="]" line="62" column="64" />
         <mark key="^" line="58" column="26" />
         <mark key="." line="62" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/res/layout/vehicle_service_dashboard_card.xml" timestamp="1468807128271">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/objectecho/ObjectEchoClient.java" timestamp="1464661880157">
         <mark key="[" line="24" column="0" />
@@ -1878,7 +1886,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar!/com/google/android/gms/maps/MapView.class" timestamp="1467134687653">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1468611124861">
+      <file name="/a.regexp" timestamp="1468806215098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2598,8 +2606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
-      <jump line="24" column="5" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
       <jump line="25" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
       <jump line="26" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
       <jump line="40" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
@@ -2698,13 +2704,15 @@
       <jump line="7935" column="26" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/extras/android/m2repository/com/android/support/recyclerview-v7/22.2.1/recyclerview-v7-22.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" />
       <jump line="53" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/offers/ServiceOffersRecyclerRowAdapter.java" />
       <jump line="57" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/offers/ServiceOffersRecyclerRowAdapter.java" />
+      <jump line="34" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
+      <jump line="78" column="56" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXdkZAo=</text>
+        <text encoding="base64">ICAgIAogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IiIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIKICAgICAgICBhbmRyb2lkOnRleAogICAgICAgIC8+Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13301,7 +13309,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZmZlckxheW91dFw+</text>
+        <text encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ5ZWxsb3ciPiNGN0Q5MDA8L2NvbG9yPgo=</text>
@@ -13310,7 +13318,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXdkZAo=</text>
+        <text encoding="base64">ICAgIAogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IiIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIKICAgICAgICBhbmRyb2lkOnRleAogICAgICAgIC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13323,19 +13331,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXdkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25hbFZlaGljbGUub3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS1UT0RPIGV4dHJhY3Qgc3R5bGUgZm9yIFRleHRWaWV3cy0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25hbFZlaGljbGUub3IoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14626,19 +14634,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjMiCg==</text>
+        <text encoding="base64">ICAgIDwhLS1UT0RPIGV4dHJhY3Qgc3R5bGUgZm9yIFRleHRWaWV3cy0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZmZlckxheW91dFw+</last-search>
+      <last-search encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZmZlckxheW91dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14646,7 +14654,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWFsbVw+</entry>
         <entry encoding="base64">XDxyZWN5Y2xlcnZpZXdcPg==</entry>
         <entry>response</entry>
         <entry>pushresponse</entry>
@@ -14666,6 +14673,7 @@
         <entry>createOneButton</entry>
         <entry>itemView</entry>
         <entry encoding="base64">XDxvZmZlckxheW91dFw+</entry>
+        <entry encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
