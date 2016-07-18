@@ -1782,6 +1782,9 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/location/SponsoredLocationsFragment.java" timestamp="1468856133531">
+        <mark key="'" line="75" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466265957051">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="25" column="18" />
@@ -2279,6 +2282,12 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1468855925061">
+        <mark key="[" line="36" column="74" />
+        <mark key="]" line="36" column="83" />
+        <mark key="." line="36" column="83" />
+        <mark key="^" line="36" column="83" />
+      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -2578,10 +2587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="72" column="59" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="421" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="503" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="517" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="586" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="14" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
@@ -2678,13 +2683,17 @@
       <jump line="66" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
       <jump line="60" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
       <jump line="61" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
+      <jump line="63" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/location/SponsoredLocationsFragment.java" />
+      <jump line="73" column="91" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/location/SponsoredLocationsFragment.java" />
+      <jump line="74" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/location/SponsoredLocationsFragment.java" />
+      <jump line="75" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/location/SponsoredLocationsFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dChuZXcgQWN0aW9uMTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBjYWxsKEJvb2xlYW4gc2hvdWxkU2hvdykgewogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>localVersion</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13278,10 +13287,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aBoolean</text>
+        <text>localVersion</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text>poi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1JvdXRlcikuc2hvdyhTSE9XX1NDSEVEVUxFX1NFUlZJQ0VfVVJJKTsK</text>
@@ -14616,9 +14625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>click</last-search>
+      <last-search>poi</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern>poi</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14626,7 +14635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvZmZlckRpc3RhbmNlXD4=</entry>
         <entry>setOfferDistance</entry>
         <entry>nearby</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -14646,6 +14654,7 @@
         <entry>setAysRequest</entry>
         <entry encoding="base64">XDxheXNSZXF1ZXN0VHlwZVw+</entry>
         <entry>click</entry>
+        <entry>poi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
