@@ -2107,7 +2107,8 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1468841492903">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1468842551077">
+        <mark key="'" line="129" column="13" />
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
@@ -2583,10 +2584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
-      <jump line="26" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
-      <jump line="40" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-security/security/build.gradle" />
-      <jump line="32" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="52" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="68" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
       <jump line="80" column="23" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
@@ -2683,6 +2680,10 @@
       <jump line="57" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/offers/ServiceOffersRecyclerRowAdapter.java" />
       <jump line="34" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
       <jump line="78" column="56" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
+      <jump line="148" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="453" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="101" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="129" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13286,7 +13287,7 @@
         <text>aBoolean</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</text>
+        <text encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1JvdXRlcikuc2hvdyhTSE9XX1NDSEVEVUxFX1NFUlZJQ0VfVVJJKTsK</text>
@@ -14621,9 +14622,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</last-search>
+      <last-search encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14631,7 +14632,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWN5Y2xlcnZpZXdcPg==</entry>
         <entry>response</entry>
         <entry>pushresponse</entry>
         <entry>14</entry>
@@ -14651,6 +14651,7 @@
         <entry>itemView</entry>
         <entry encoding="base64">XDxvZmZlckxheW91dFw+</entry>
         <entry encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
+        <entry encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
