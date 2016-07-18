@@ -885,6 +885,9 @@
         <mark key="^" line="16" column="93" />
         <mark key="." line="16" column="93" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" timestamp="1468854682639">
+        <mark key="'" line="103" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/test.hs" timestamp="1448639474257">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="29" />
@@ -1138,10 +1141,6 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/colors.xml" timestamp="1468614941732">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/advent-of-code/src/run.hs" timestamp="1452860627637">
         <mark key="[" line="45" column="71" />
         <mark key="]" line="45" column="71" />
@@ -1229,10 +1228,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="78" column="75" />
         <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/Blue-SNAPSHOT/jars/classes.jar!/com/gm/gemini/plugin_common_resources/RxPermissionsFacade.class" timestamp="1468524541615">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/ServerUtil.java" timestamp="1464539642247">
         <mark key="[" line="2" column="4" />
@@ -1354,6 +1349,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/location/FeaturedLocationViewPagerAdapter.java" timestamp="1468854642776">
+        <mark key="'" line="59" column="31" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/build.gradle" timestamp="1457457818586">
         <mark key="[" line="1" column="11" />
@@ -1964,10 +1962,6 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/data/serializer/PropertyMapSerializerTest.java" timestamp="1467901742865">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="48" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" timestamp="1467989032867">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -1993,6 +1987,9 @@
         <mark key="]" line="57" column="0" />
         <mark key="^" line="56" column="65" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" timestamp="1468855100762">
+        <mark key="'" line="61" column="42" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/gradle/wrapper/gradle-wrapper.properties" timestamp="1463412065598">
         <mark key="[" line="5" column="69" />
@@ -2581,21 +2578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="62" column="47" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="85" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
-      <jump line="80" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
-      <jump line="62" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/test/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenterTest.java" />
-      <jump line="553" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="76" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="129" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="74" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="128" column="45" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="123" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="117" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="111" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
-      <jump line="105" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="100" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="72" column="59" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
       <jump line="421" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" />
@@ -2681,6 +2663,21 @@
       <jump line="48" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" />
       <jump line="200" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" />
       <jump line="207" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" />
+      <jump line="39" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/location/FeaturedLocationViewPagerAdapter.java" />
+      <jump line="59" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/location/FeaturedLocationViewPagerAdapter.java" />
+      <jump line="126" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" />
+      <jump line="106" column="11" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" />
+      <jump line="107" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" />
+      <jump line="17" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" />
+      <jump line="22" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" />
+      <jump line="102" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" />
+      <jump line="103" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AysDataHelper.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
+      <jump line="62" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
+      <jump line="65" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
+      <jump line="66" column="49" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
+      <jump line="60" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
+      <jump line="61" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13284,7 +13281,7 @@
         <text>aBoolean</text>
       </register>
       <register name="/" type="4">
-        <text>activity</text>
+        <text>click</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1JvdXRlcikuc2hvdyhTSE9XX1NDSEVEVUxFX1NFUlZJQ0VfVVJJKTsK</text>
@@ -14619,9 +14616,9 @@
       </register>
     </registers>
     <search>
-      <last-search>activity</last-search>
+      <last-search>click</last-search>
       <last-offset />
-      <last-pattern>activity</last-pattern>
+      <last-pattern>click</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14629,10 +14626,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pushresponse</entry>
-        <entry>14</entry>
-        <entry>medium</entry>
-        <entry>appcompat</entry>
         <entry encoding="base64">XDxvZmZlckRpc3RhbmNlXD4=</entry>
         <entry>setOfferDistance</entry>
         <entry>nearby</entry>
@@ -14649,6 +14642,10 @@
         <entry encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
         <entry encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</entry>
         <entry>activity</entry>
+        <entry>asdlfj</entry>
+        <entry>setAysRequest</entry>
+        <entry encoding="base64">XDxheXNSZXF1ZXN0VHlwZVw+</entry>
+        <entry>click</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
