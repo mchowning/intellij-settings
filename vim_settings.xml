@@ -276,6 +276,12 @@
         <mark key="." line="51" column="25" />
         <mark key="^" line="52" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlockPresenter.java" timestamp="1468856852458">
+        <mark key="[" line="101" column="12" />
+        <mark key="]" line="101" column="21" />
+        <mark key="." line="101" column="21" />
+        <mark key="^" line="101" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/advent-of-code/src/Day5.hs" timestamp="1452824213239">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1376,6 +1382,7 @@
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/location/SponsoredLocationsFragmentPresenter.java" timestamp="1468856538305" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
         <mark key="]" line="11" column="108" />
@@ -2693,7 +2700,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>localVersion</text>
+        <text>List</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13287,7 +13294,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localVersion</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>poi</text>
@@ -13299,7 +13306,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dChuZXcgQWN0aW9uMTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBjYWxsKEJvb2xlYW4gc2hvdWxkU2hvdykgewogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13311,20 +13318,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFzaG91bGRTaG93KSB2aWV3LnNob3dMb2NhdGlvblBlcm1pc3Npb25Qcm9tcHQoKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFzaG91bGRTaG93KSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBQT0kgcG9pID0gYXlzRGF0YUhlbHBlci5nZXRQb2koKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dChuZXcgQWN0aW9uMTxCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBjYWxsKEJvb2xlYW4gc2hvdWxkU2hvdykgewogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFzaG91bGRTaG93KSB2aWV3LnNob3dMb2NhdGlvblBlcm1pc3Npb25Qcm9tcHQoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14612,13 +14619,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1JvdXRlciwgbmV2ZXIoKSkuc2hvdyhTSE9XX1NDSEVEVUxFX1NFUlZJQ0VfVVJJKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFzaG91bGRTaG93KSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
