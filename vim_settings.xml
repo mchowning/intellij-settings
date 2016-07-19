@@ -691,6 +691,11 @@
         <mark key="^" line="59" column="55" />
         <mark key="." line="59" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysRestProvider.java" timestamp="1468941772245">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/DeliberationPlayer.java" timestamp="1429321151496">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="37" column="74" />
@@ -849,6 +854,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="109" column="75" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/GsonResponseUtil.java" timestamp="1468941873153">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="94" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/MyDeliberationGamer.java" timestamp="1429356845537">
         <mark key="[" line="18" column="0" />
@@ -1843,7 +1853,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar!/com/google/android/gms/maps/MapView.class" timestamp="1467134687653">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1468857385655">
+      <file name="/a.regexp" timestamp="1468941746584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -1886,9 +1896,9 @@
         <mark key="]" line="18" column="103" />
         <mark key="." line="18" column="96" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSFactory.java" timestamp="1468861101334">
-        <mark key="[" line="46" column="53" />
-        <mark key="]" line="46" column="53" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSFactory.java" timestamp="1468941870423">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="94" />
         <mark key="." line="46" column="53" />
         <mark key="^" line="46" column="100" />
       </file>
@@ -2667,8 +2677,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWdpc3RlclR5cGVBZGFwdGVyKE1vcmVJbmZvcm1hdGlvbi5jbGFzcywgbmV3IE1vcmVJbmZvcm1hdGlvbkRlc2VyaWFsaXplcigpKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13268,13 +13278,13 @@
         <text encoding="base64">XDxtZW1iZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuZW50cmllcyA9IGVudHJpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWdpc3RlclR5cGVBZGFwdGVyKE1vcmVJbmZvcm1hdGlvbi5jbGFzcywgbmV3IE1vcmVJbmZvcm1hdGlvbkRlc2VyaWFsaXplcigpKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRUeQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13287,19 +13297,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb3JlSW5mb3JtYXRpb24gcmVzdWx0ID0gbmV3IE1vcmVJbmZvcm1hdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb3JlSW5mb3JtYXRpb24gcmVzdWx0ID0gbmV3IE1vcmVJbmZvcm1hdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmVudHJpZXMuYWRkKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuZW50cmllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmVudHJpZXMuYWRkKGl0ZW0pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14587,13 +14597,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuZW50cmllcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5VmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5VmFsdWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
