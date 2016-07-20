@@ -340,12 +340,6 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/JsonResponseTest.java" timestamp="1468942632794">
-        <mark key="[" line="64" column="41" />
-        <mark key="]" line="64" column="47" />
-        <mark key="^" line="64" column="47" />
-        <mark key="." line="64" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/drawable/secondary_button_bg_unrounded.xml" timestamp="1466779176019">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -2094,11 +2088,16 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/model/MoreInformationList.java" timestamp="1469016940886">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/model/MoreInformationList.java" timestamp="1469017607388">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/LiveTrackTest.java" timestamp="1469017704109">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/dev/katas/FizzBuzz/java/src/test/java/FizzBuzzTest.java" timestamp="1411342357295">
         <mark key="[" line="34" column="0" />
@@ -2701,8 +2700,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13307,8 +13306,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13321,19 +13320,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBPbnN0YXJBWVNGYWN0b3J5LmdldEdzb24oKTsKICAgICAgICAvLyBGSVhNRSBhZGQgdGVzdCBmb3IgYWRkaW5nIFR5cGVBZGFwdGVyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgLy9wdWJsaWMgU3RyaW5nIGdldEtleSgpIHsKICAgICAgICAvLyAgICByZXR1cm4ga2V5OwogICAgICAgIC8vfQogICAgICAgIC8vCiAgICAgICAgLy9wdWJsaWMgTGlzdDxTdHJpbmc+IGdldFZhbHVlcygpIHsKICAgICAgICAvLyAgICByZXR1cm4gdmFsdWVzOwogICAgICAgIC8vfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIEpzb25EZXNlcmlhbGl6YXRpb25Db250ZXh0IGdldEpzb25EZXNlcmlhbGl6YXRpb25Db250ZXh0KCkgewogICAgICAgIHJldHVybiBuZXcgSnNvbkRlc2VyaWFsaXphdGlvbkNvbnRleHQoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyA8VD4gVCBkZXNlcmlhbGl6ZShKc29uRWxlbWVudCBqc29uLCBUeXBlIHR5cGVPZlQpIHRocm93cyBKc29uUGFyc2VFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgR3NvbigpLmZyb21Kc29uKGpzb24sIHR5cGVPZlQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9OwogICAgfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uRGVzZXJpYWxpemF0aW9uQ29udGV4dCBtb2NrSnNvbkRlc2VyaWFsaXphdGlvbkNvbnRleHQgPSBnZXRKc29uRGVzZXJpYWxpemF0aW9uQ29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14621,13 +14620,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0TW9ja3ModGhpcyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNb2NrIEpzb25EZXNlcmlhbGl6YXRpb25Db250ZXh0IG1vY2tKc29uRGVzZXJpYWxpemF0aW9uQ29udGV4dDsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIEpzb25EZXNlcmlhbGl6YXRpb25Db250ZXh0IGdldEpzb25EZXNlcmlhbGl6YXRpb25Db250ZXh0KCkgewogICAgICAgIHJldHVybiBuZXcgSnNvbkRlc2VyaWFsaXphdGlvbkNvbnRleHQoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyA8VD4gVCBkZXNlcmlhbGl6ZShKc29uRWxlbWVudCBqc29uLCBUeXBlIHR5cGVPZlQpIHRocm93cyBKc29uUGFyc2VFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgR3NvbigpLmZyb21Kc29uKGpzb24sIHR5cGVPZlQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9OwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</text>
