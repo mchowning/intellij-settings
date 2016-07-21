@@ -1464,6 +1464,9 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-schedule-service/plugin-schedule-service/src/main/java/com/gm/plugin/schedule_service/ui/fullscreen/EuScheduleServiceFragmentPresenter.java" timestamp="1469100592597">
+        <mark key="'" line="33" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1464887707934">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="14" column="0" />
@@ -1530,6 +1533,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-schedule-service/build.gradle" timestamp="1469100482770" />
       <file name="$USER_HOME$/dev/katas/CalcStats/java/src/main/java/CalcStats.java" timestamp="1411344094173">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="21" />
@@ -1858,6 +1862,9 @@
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-schedule-service/plugin-schedule-service/src/main/java/com/gm/plugin/schedule_service/ui/fullscreen/NaScheduleServiceFragmentPresenter.java" timestamp="1469100852970">
+        <mark key="'" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientReadInboundFileHandler.java" timestamp="1466734808665">
         <mark key="[" line="14" column="0" />
@@ -2293,8 +2300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/Blue-SNAPSHOT/11a90b89f875cf4033b8fa91adf080c5de8aaedb/gemini-core-Blue-SNAPSHOT-sources.jar!/com/gm/gemini/core/util/AlertDialogUtil.java" />
-      <jump line="7934" column="33" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/extras/android/m2repository/com/android/support/recyclerview-v7/22.2.1/recyclerview-v7-22.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" />
       <jump line="7939" column="13" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/extras/android/m2repository/com/android/support/recyclerview-v7/22.2.1/recyclerview-v7-22.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" />
       <jump line="7935" column="26" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/extras/android/m2repository/com/android/support/recyclerview-v7/22.2.1/recyclerview-v7-22.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" />
       <jump line="53" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/offers/ServiceOffersRecyclerRowAdapter.java" />
@@ -2393,6 +2398,8 @@
       <jump line="114" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
       <jump line="116" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
       <jump line="119" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
+      <jump line="33" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-schedule-service/plugin-schedule-service/src/main/java/com/gm/plugin/schedule_service/ui/fullscreen/EuScheduleServiceFragmentPresenter.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-schedule-service/plugin-schedule-service/src/main/java/com/gm/plugin/schedule_service/ui/fullscreen/NaScheduleServiceFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -12996,7 +13003,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3JlSW5mb1RhYmxlXD4=</text>
+        <text>addVehicleDetails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb1JldHVybihyb3cxVmFsdWUpLndoZW4oc3ViamVjdCkud2l0aE5ld0xpbmVzKHZhbHVlczEpOwo=</text>
@@ -14324,9 +14331,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb3JlSW5mb1RhYmxlXD4=</last-search>
+      <last-search>addVehicleDetails</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3JlSW5mb1RhYmxlXD4=</last-pattern>
+      <last-pattern>addVehicleDetails</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -14334,8 +14341,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
-        <entry encoding="base64">XDxpc0xvY2F0aW9uUGVybWlzc2lvblJldm9rZWRcPg==</entry>
         <entry>activity</entry>
         <entry>setAysRequest</entry>
         <entry encoding="base64">XDxheXNSZXF1ZXN0VHlwZVw+</entry>
@@ -14354,6 +14359,8 @@
         <entry>1</entry>
         <entry>asdljf</entry>
         <entry encoding="base64">XDxtb3JlSW5mb1RhYmxlXD4=</entry>
+        <entry>addVehicle</entry>
+        <entry>addVehicleDetails</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VSZXNwb25zZS9Db21tYW5kUmVzcG9uc2UvZw==</entry>
