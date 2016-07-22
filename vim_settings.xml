@@ -753,7 +753,8 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" timestamp="1469028232272">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" timestamp="1469201386907">
+        <mark key="'" line="383" column="77" />
         <mark key="[" line="528" column="73" />
         <mark key="]" line="528" column="73" />
         <mark key="^" line="528" column="43" />
@@ -2090,7 +2091,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1469131718834">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1469201332261">
+        <mark key="'" line="74" column="30" />
         <mark key="[" line="38" column="73" />
         <mark key="]" line="38" column="83" />
         <mark key="^" line="38" column="83" />
@@ -2380,11 +2382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="36" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="51" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/plugin-assist/src/main/java/com/gm/plugin/assist/ui/fullscreen/AssistFragmentPresenter.java" />
-      <jump line="71" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="169" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="224" column="5" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="45" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="61" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="75" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
@@ -2480,6 +2477,11 @@
       <jump line="103" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="105" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="90" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="74" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="119" column="51" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
+      <jump line="197" column="73" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
+      <jump line="199" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
+      <jump line="383" column="77" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13083,7 +13085,7 @@
         <text encoding="base64">ZXJ2YWJsZTxW</text>
       </register>
       <register name="/" type="4">
-        <text>garage</text>
+        <text>POI.Data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXh0LnRvb2xzID0gWwogICAgICAgIGJ1aWxkX3Rvb2xzX3ZlcnNpb246ICIyMi4wLjEiLAogICAgICAgIGNvbXBpbGVfc2RrX3ZlcnNpb246IDIyLAogICAgICAgIHRhcmdldF9zZGtfdmVyc2lvbiA6IDIyLAogICAgICAgIG1pblNka1ZlcnNpb24gICAgICA6IDE1Cl0K</text>
@@ -14428,13 +14430,13 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTaXplPSJAZGltZW4vbW9yZV9pbmZvX3RhYmxlX3Jvd190ZXh0X3NpemUiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9tb3JlX2luZm9fdGV4dCIK</text>
       </register>
       <register name=":" type="4">
-        <text>86</text>
+        <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search>garage</last-search>
+      <last-search>POI.Data</last-search>
       <last-offset />
-      <last-pattern>garage</last-pattern>
+      <last-pattern>POI.Data</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14442,8 +14444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>medium</entry>
-        <entry>asldjf</entry>
         <entry>click</entry>
         <entry>1</entry>
         <entry>asdljf</entry>
@@ -14462,9 +14462,10 @@
         <entry encoding="base64">PFBPST4=</entry>
         <entry>rxpermissions</entry>
         <entry>garage</entry>
+        <entry>commerce</entry>
+        <entry>POI.Data</entry>
       </history-search>
       <history-cmd>
-        <entry>s/findOns/getOns/g</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
         <entry>225</entry>
@@ -14484,6 +14485,7 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry>86</entry>
         <entry>NERDTreeToggle</entry>
+        <entry>120</entry>
       </history-cmd>
       <history-expr />
       <history-input />
