@@ -2091,13 +2091,7 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1469201332261">
-        <mark key="'" line="74" column="30" />
-        <mark key="[" line="38" column="73" />
-        <mark key="]" line="38" column="83" />
-        <mark key="^" line="38" column="83" />
-        <mark key="." line="38" column="83" />
-      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1469203958788" />
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -2382,11 +2376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="61" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="75" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="167" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="198" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="222" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="105" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="136" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
@@ -2482,6 +2471,11 @@
       <jump line="197" column="73" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
       <jump line="199" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
       <jump line="383" column="77" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
+      <jump line="40" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="30" column="46" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="36" column="69" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="37" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="43" column="70" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13085,7 +13079,7 @@
         <text encoding="base64">ZXJ2YWJsZTxW</text>
       </register>
       <register name="/" type="4">
-        <text>POI.Data</text>
+        <text>sdk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXh0LnRvb2xzID0gWwogICAgICAgIGJ1aWxkX3Rvb2xzX3ZlcnNpb246ICIyMi4wLjEiLAogICAgICAgIGNvbXBpbGVfc2RrX3ZlcnNpb246IDIyLAogICAgICAgIHRhcmdldF9zZGtfdmVyc2lvbiA6IDIyLAogICAgICAgIG1pblNka1ZlcnNpb24gICAgICA6IDE1Cl0K</text>
@@ -14434,9 +14428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>POI.Data</last-search>
+      <last-search>sdk</last-search>
       <last-offset />
-      <last-pattern>POI.Data</last-pattern>
+      <last-pattern>sdk</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14444,8 +14438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>click</entry>
-        <entry>1</entry>
         <entry>asdljf</entry>
         <entry encoding="base64">XDxtb3JlSW5mb1RhYmxlXD4=</entry>
         <entry>addVehicle</entry>
@@ -14464,6 +14456,8 @@
         <entry>garage</entry>
         <entry>commerce</entry>
         <entry>POI.Data</entry>
+        <entry>mygm</entry>
+        <entry>sdk</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
