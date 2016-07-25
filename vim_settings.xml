@@ -509,7 +509,6 @@
         <mark key="]" line="49" column="48" />
         <mark key="." line="49" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" timestamp="1469467445978" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/test.java" timestamp="1467901092909">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
@@ -1881,6 +1880,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/gradle.properties" timestamp="1469472128888">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/location/SponsoredLocationsFragment.java" timestamp="1468856133531">
         <mark key="'" line="75" column="37" />
       </file>
@@ -2583,7 +2587,6 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/core/injection/QuickViewControllerModule.java" timestamp="1469467405552" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/util/EVChargeState.java" timestamp="1461069515167">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="26" />
@@ -2857,8 +2860,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13452,7 +13455,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(dependencies = PluginAccountComponent.class)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>onpause</text>
@@ -14810,7 +14813,7 @@
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
