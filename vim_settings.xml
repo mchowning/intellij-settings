@@ -422,11 +422,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccountComponent.java" timestamp="1469456998440">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccountComponent.java" timestamp="1469460588290">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="53" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/main/java/com/gm/gemini/pluginlogon/ui/PluginLogonFragment.java" timestamp="1467038756787">
         <mark key="[" line="12" column="0" />
@@ -625,7 +625,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccount.java" timestamp="1469456954815" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccount.java" timestamp="1469460528903">
+        <mark key="[" line="32" column="60" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mytests/MyRandomGamer.java" timestamp="1428491481134">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="46" />
@@ -650,8 +654,8 @@
         <mark key="." line="23" column="69" />
         <mark key="^" line="23" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/FrankenModule.java" timestamp="1469452242765">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/FrankenModule.java" timestamp="1469458808752">
+        <mark key="[" line="4" column="20" />
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
@@ -818,6 +822,12 @@
         <mark key="]" line="15" column="84" />
         <mark key="^" line="15" column="84" />
         <mark key="." line="15" column="84" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/FrankenComponent.java" timestamp="1469458824816">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/build.gradle" timestamp="1462964072556">
         <mark key="[" line="25" column="35" />
@@ -1967,7 +1977,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1469445036053">
+      <file name="/a.regexp" timestamp="1469459555853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2063,6 +2073,11 @@
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" timestamp="1469459767873">
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/403c0215220d990f2856904658185a7b5ba8b521/rxjava-1.1.1-sources.jar!/rx/internal/operators/OnSubscribePublishMulticast.java" timestamp="1467138348818">
         <mark key="'" line="142" column="54" />
@@ -2738,16 +2753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="74" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="12" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="43" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="16" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="18" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="58" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
-      <jump line="56" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="52" column="68" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="72" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="73" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="176" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="182" column="74" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
@@ -2838,13 +2843,23 @@
       <jump line="123" column="0" filename="$USER_HOME$/dev/u2020/build.gradle" />
       <jump line="147" column="31" filename="$USER_HOME$/dev/u2020/build.gradle" />
       <jump line="148" column="27" filename="$USER_HOME$/dev/u2020/build.gradle" />
+      <jump line="208" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="209" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="23" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="70" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="87" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="92" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="97" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="102" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="119" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="128" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">UGx1Z2luQ29tcG9uZW50IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13438,19 +13453,21 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">UGx1Z2luQ29tcG9uZW50IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dagger</text>
+        <text>plugincomponent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2RrLmRpcj0vVXNlcnMvbWF0dC9kZXYvYW5kcm9pZC10b29scy9hbmRyb2lkLXNkay1tYWNvc3gK</text>
+      <register name="0" type="4">
+        <text>PluginModule.class,
+                    BleModule.class,
+                    GeminiApplicationModule.class</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZWQocGx1Z2luQ29tcG9uZW50KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13477,19 +13494,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZW1pbmlBcHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBsaWNhdGlvbk1vZHVsZShuZXcgQXBwbGljYXRpb25Nb2R1bGUodGhpcykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuc2VydmljZS53ZWIuZW50aXRsZW1lbnRzLkdtZVNlcnZpY2VFbnRpdGxlbWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ibGVNb2R1bGUobmV3IEJsZU1vZHVsZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAUHJvdmlkZXMKICAgIHB1YmxpYyBHbWVTZXJ2aWNlRW50aXRsZW1lbnQgZ2V0R21lU2VydmljZUVudGl0bGVtZW50KCkgewogICAgICAgIHJldHVybiBuZXcgR21lU2VydmljZUVudGl0bGVtZW50KG5ldyBQcm92aWRlcjxPcHRpb25hbDxWZWhpY2xlPj4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgT3B0aW9uYWw8VmVoaWNsZT4gZ2V0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHBsdWdpbkNvbXBvbmVudC5nZXRTZWxlY3RlZFZlaGljbGUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBQcm92aWRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEZyYW5rZW5Nb2R1bGUoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14777,32 +14794,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAUHJvdmlkZXMKICAgIHB1YmxpYyBHbWVTZXJ2aWNlRW50aXRsZW1lbnQgZ2V0R21lU2VydmljZUVudGl0bGVtZW50KCkgewogICAgICAgIHJldHVybiBuZXcgR21lU2VydmljZUVudGl0bGVtZW50KG5ldyBQcm92aWRlcjxPcHRpb25hbDxWZWhpY2xlPj4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgT3B0aW9uYWw8VmVoaWNsZT4gZ2V0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHBsdWdpbkNvbXBvbmVudC5nZXRTZWxlY3RlZFZlaGljbGUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJiYgdmVoaWNsZVNlcnZpY2VFbnRpdGxlbWVudC5pc0VudGl0bGVkKGxvY2FsZVByb3ZpZGVyLmdldEFjY291bnRMb2NhbGUoKS5nZXRDb3VudHJ5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZW1pbmlBcHAK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search>dagger</last-search>
+      <last-search>plugincomponent</last-search>
       <last-offset />
-      <last-pattern>dagger</last-pattern>
+      <last-pattern>plugincomponent</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getFeaturedOffers</entry>
-        <entry>data.merchant.name</entry>
-        <entry>merchant</entry>
         <entry>observable</entry>
         <entry>should</entry>
         <entry encoding="base64">XDxtb2NrUG9pXD4=</entry>
@@ -14820,6 +14834,9 @@
         <entry>router</entry>
         <entry encoding="base64">XDxhY3Rpdml0eUdyYXBoXD4=</entry>
         <entry>dagger</entry>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry encoding="base64">XDxnZW1pbmlBcHBsaWNhdGlvbkNvbXBvbmVudFw+</entry>
+        <entry>plugincomponent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
