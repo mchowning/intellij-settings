@@ -422,11 +422,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccountComponent.java" timestamp="1469454673185">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccountComponent.java" timestamp="1469456998440">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/main/java/com/gm/gemini/pluginlogon/ui/PluginLogonFragment.java" timestamp="1467038756787">
         <mark key="[" line="12" column="0" />
@@ -625,6 +625,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccount.java" timestamp="1469456954815" />
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mytests/MyRandomGamer.java" timestamp="1428491481134">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="46" />
@@ -2841,8 +2842,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
+      <register name="&quot;" type="4">
+        <text>view</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13436,7 +13437,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>dagger</text>
