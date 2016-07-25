@@ -151,6 +151,9 @@
         <mark key="]" line="1" column="39" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/u2020/build.gradle" timestamp="1469453648404">
+        <mark key="'" line="148" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/client/FileReadWriteClientCLI.scala" timestamp="1466545249301">
         <mark key="[" line="27" column="47" />
         <mark key="]" line="28" column="23" />
@@ -914,12 +917,6 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/PluginAtYourService.java" timestamp="1469125632515">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="86" column="58" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/res/layout/data_usage_info_block.xml" timestamp="1460471504497">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="17" column="57" />
@@ -1609,6 +1606,10 @@
         <mark key="]" line="27" column="18" />
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/local.properties" timestamp="1469453476887">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlockModule.java" timestamp="1461783238884">
         <mark key="[" line="12" column="64" />
@@ -2610,6 +2611,9 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/u2020/src/main/java/com/jakewharton/u2020/ui/MainActivity.java" timestamp="1469453610542">
+        <mark key="'" line="37" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/GetFileAction.java" timestamp="1465214001751">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -2737,10 +2741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="353" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="229" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
-      <jump line="291" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="283" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="74" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="12" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
@@ -2837,13 +2837,17 @@
       <jump line="17" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
       <jump line="42" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
       <jump line="51" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/ui/plugin/AbstractNavigablePlugin.java" />
+      <jump line="37" column="22" filename="$USER_HOME$/dev/u2020/src/main/java/com/jakewharton/u2020/ui/MainActivity.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/u2020/build.gradle" />
+      <jump line="147" column="31" filename="$USER_HOME$/dev/u2020/build.gradle" />
+      <jump line="148" column="27" filename="$USER_HOME$/dev/u2020/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZW1pbmlBcHAK</text>
+        <text encoding="base64">c2RrLmRpcj0vVXNlcnMvbWF0dC9kZXYvYW5kcm9pZC10b29scy9hbmRyb2lkLXNkay1tYWNvc3gK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13440,10 +13444,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>dagger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8vLyAgICAgICAgICAgIGV4Y2x1ZGUgbW9kdWxlOiAnanNyMzA1JwovLy8vICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdqY2lwLWFubm90YXRpb25zJwo=</text>
+        <text encoding="base64">c2RrLmRpcj0vVXNlcnMvbWF0dC9kZXYvYW5kcm9pZC10b29scy9hbmRyb2lkLXNkay1tYWNvc3gK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -14789,9 +14793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>dagger</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
+      <last-pattern>dagger</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14799,8 +14803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hasBac</entry>
-        <entry>inject</entry>
         <entry>getFeaturedOffers</entry>
         <entry>data.merchant.name</entry>
         <entry>merchant</entry>
@@ -14819,6 +14821,8 @@
         <entry>GmeServiceEntitlement</entry>
         <entry encoding="base64">XDx2ZWhpY2xlU2VydmljZUVudGl0bGVtZW50XD4=</entry>
         <entry>router</entry>
+        <entry encoding="base64">XDxhY3Rpdml0eUdyYXBoXD4=</entry>
+        <entry>dagger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
