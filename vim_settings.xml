@@ -640,11 +640,11 @@
         <mark key="." line="23" column="69" />
         <mark key="^" line="23" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/FrankenModule.java" timestamp="1469451073305">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/FrankenModule.java" timestamp="1469452242765">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
@@ -2431,6 +2431,9 @@
         <mark key="^" line="147" column="46" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/ui/plugin/AbstractNavigablePlugin.java" timestamp="1469452162319">
+        <mark key="'" line="51" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/gradle/wrapper/gradle-wrapper.properties" timestamp="1462468085956">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -2734,7 +2737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="475" column="69" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="7" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="353" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
       <jump line="229" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/debug/google-services.json" />
@@ -2834,13 +2836,14 @@
       <jump line="29" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
       <jump line="17" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
       <jump line="42" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" />
+      <jump line="51" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/ui/plugin/AbstractNavigablePlugin.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZW1pbmlBcHAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13434,10 +13437,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZWhpY2xlU2VydmljZUVudGl0bGVtZW50XD4=</text>
+        <text>router</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8vLyAgICAgICAgICAgIGV4Y2x1ZGUgbW9kdWxlOiAnanNyMzA1JwovLy8vICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdqY2lwLWFubm90YXRpb25zJwo=</text>
@@ -13446,7 +13449,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuc2VydmljZS53ZWIuZW50aXRsZW1lbnRzLkdtZVNlcnZpY2VFbnRpdGxlbWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZW1pbmlBcHAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13473,19 +13476,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuc2VydmljZS53ZWIuZW50aXRsZW1lbnRzLkdtZVNlcnZpY2VFbnRpdGxlbWVudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAUHJvdmlkZXMKICAgIHB1YmxpYyBHbWVTZXJ2aWNlRW50aXRsZW1lbnQgZ2V0R21lU2VydmljZUVudGl0bGVtZW50KCkgewogICAgICAgIHJldHVybiBuZXcgR21lU2VydmljZUVudGl0bGVtZW50KG5ldyBQcm92aWRlcjxPcHRpb25hbDxWZWhpY2xlPj4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgT3B0aW9uYWw8VmVoaWNsZT4gZ2V0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHBsdWdpbkNvbXBvbmVudC5nZXRTZWxlY3RlZFZlaGljbGUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgICBAUHJvdmlkZXMKICAgIHB1YmxpYyBHbWVTZXJ2aWNlRW50aXRsZW1lbnQgZ2V0R21lU2VydmljZUVudGl0bGVtZW50KCkgewogICAgICAgIHJldHVybiBuZXcgR21lU2VydmljZUVudGl0bGVtZW50KG5ldyBQcm92aWRlcjxPcHRpb25hbDxWZWhpY2xlPj4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgT3B0aW9uYWw8VmVoaWNsZT4gZ2V0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHBsdWdpbkNvbXBvbmVudC5nZXRTZWxlY3RlZFZlaGljbGUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBAUHJvdmlkZXMKICAgIHB1YmxpYyBHbWVTZXJ2aWNlRW50aXRsZW1lbnQgZ2V0R21lU2VydmljZUVudGl0bGVtZW50KCkgewogICAgICAgIHJldHVybiBuZXcgR21lU2VydmljZUVudGl0bGVtZW50KG5ldyBQcm92aWRlcjxPcHRpb25hbDxWZWhpY2xlPj4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgT3B0aW9uYWw8VmVoaWNsZT4gZ2V0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHBsdWdpbkNvbXBvbmVudC5nZXRTZWxlY3RlZFZlaGljbGUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14773,22 +14776,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJiYgdmVoaWNsZVNlcnZpY2VFbnRpdGxlbWVudC5pc0VudGl0bGVkKGxvY2FsZVByb3ZpZGVyLmdldEFjY291bnRMb2NhbGUoKS5nZXRDb3VudHJ5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuc2VydmljZS53ZWIuZW50aXRsZW1lbnRzLkdtZVNlcnZpY2VFbnRpdGxlbWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJiYgdmVoaWNsZVNlcnZpY2VFbnRpdGxlbWVudC5pc0VudGl0bGVkKGxvY2FsZVByb3ZpZGVyLmdldEFjY291bnRMb2NhbGUoKS5nZXRDb3VudHJ5KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkuc2VydmljZS53ZWIuZW50aXRsZW1lbnRzLkdtZVNlcnZpY2VFbnRpdGxlbWVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZWhpY2xlU2VydmljZUVudGl0bGVtZW50XD4=</last-search>
+      <last-search>router</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZWhpY2xlU2VydmljZUVudGl0bGVtZW50XD4=</last-pattern>
+      <last-pattern>router</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14796,7 +14799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addVehicleDetails</entry>
         <entry>hasBac</entry>
         <entry>inject</entry>
         <entry>getFeaturedOffers</entry>
@@ -14816,6 +14818,7 @@
         <entry>findbugs</entry>
         <entry>GmeServiceEntitlement</entry>
         <entry encoding="base64">XDx2ZWhpY2xlU2VydmljZUVudGl0bGVtZW50XD4=</entry>
+        <entry>router</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
