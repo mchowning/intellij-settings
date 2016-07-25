@@ -266,6 +266,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" timestamp="1469467808151">
+        <mark key="'" line="200" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/advent-of-code/src/adb-login.hs" timestamp="1453156216963">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="61" />
@@ -506,6 +509,7 @@
         <mark key="]" line="49" column="48" />
         <mark key="." line="49" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" timestamp="1469467445978" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/test.java" timestamp="1467901092909">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
@@ -1979,7 +1983,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1469461935791">
+      <file name="/a.regexp" timestamp="1469466994511">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2034,7 +2038,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1469454617551">
+      <file name="/fragment.java" timestamp="1469467211078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2583,6 +2587,7 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/core/injection/QuickViewControllerModule.java" timestamp="1469467405552" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/util/EVChargeState.java" timestamp="1461069515167">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="26" />
@@ -2620,6 +2625,9 @@
       </file>
       <file name="$USER_HOME$/dev/u2020/src/main/java/com/jakewharton/u2020/ui/MainActivity.java" timestamp="1469453610542">
         <mark key="'" line="37" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickViewPresenter.java" timestamp="1469467512040">
+        <mark key="'" line="30" column="32" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/GetFileAction.java" timestamp="1465214001751">
         <mark key="[" line="2" column="13" />
@@ -2748,8 +2756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" />
-      <jump line="197" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" />
       <jump line="206" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" />
       <jump line="212" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" />
       <jump line="233" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" />
@@ -2848,6 +2854,8 @@
       <jump line="119" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="29" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="241" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
+      <jump line="30" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickViewPresenter.java" />
+      <jump line="200" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13451,7 +13459,7 @@
         <text>(dependencies = PluginAccountComponent.class)</text>
       </register>
       <register name="/" type="4">
-        <text>quickview</text>
+        <text>onpause</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL2dldEFueVRva2VuKGRhdGFTb3VyY2UuZ2V0U2VsZWN0ZWRBY2NvdW50S2V5KCksIG5ldyBUb2tlblJlcXVlc3RDYWxsYmFjaygpIHsKICAgICAgICAvLyAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoZmluYWwgU3RyaW5nIHRva2VuKSB7CiAgICAgICAgLy8gICAgICAgIHRhc2tSdW5uZXIubGF1bmNoVGFzayhuZXcgUnVubmFibGUoKSB7CiAgICAgICAgLy8gICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICBhdXRoU2RrKCkucmVxdWVzdFNzbyh0YXJnZXRVcmwsIHRva2VuLCBuZXcgQ2FsbGJhY2soKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzdWNjZXNzKE9iamVjdCBvLCBSZXNwb25zZSByZXNwb25zZSkge30KICAgICAgICAvLwogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgZmFpbHVyZShSZXRyb2ZpdEVycm9yIGVycm9yKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoU1NPX1JFU1BPTlNFX1NUQVRVUyA9PSBlcnJvci5nZXRSZXNwb25zZSgpLmdldFN0YXR1cygpKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChIZWFkZXIgaGVhZGVyIDogZXJyb3IuZ2V0UmVzcG9uc2UoKS5nZXRIZWFkZXJzKCkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFJFRElSRUNUX1VSTF9IRUFERVJfS0VZLmVxdWFsc0lnbm9yZUNhc2UoaGVhZGVyLmdldE5hbWUoKSkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNzb1ByZXNlbnRlci5vcGVuV2ViVmlldyhoZWFkZXIuZ2V0VmFsdWUoKSk7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICAgICB9KTsKICAgICAgICAvLyAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgfSk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vCiAgICAgICAgLy8gICAgQE92ZXJyaWRlCiAgICAgICAgLy8gICAgcHVibGljIHZvaWQgb25FcnJvcigpIHt9CiAgICAgICAgLy8KICAgICAgICAvLyAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICBwdWJsaWMgdm9pZCBvbkNhbmNlbCgpIHt9CiAgICAgICAgLy99LCB0cnVlKTsK</text>
@@ -14800,9 +14808,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quickview</last-search>
+      <last-search>onpause</last-search>
       <last-offset />
-      <last-pattern>quickview</last-pattern>
+      <last-pattern>onpause</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14810,8 +14818,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2NrUG9pXD4=</entry>
-        <entry>alsdjf</entry>
         <entry encoding="base64">PFBPST4=</entry>
         <entry>rxpermissions</entry>
         <entry>garage</entry>
@@ -14830,6 +14836,8 @@
         <entry>plugincomponent</entry>
         <entry encoding="base64">XDxwbHVnaW5Db21wb25lbnRQcm92aWRlclw+</entry>
         <entry>quickview</entry>
+        <entry>hide</entry>
+        <entry>onpause</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
