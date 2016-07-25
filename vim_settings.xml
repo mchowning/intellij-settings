@@ -422,11 +422,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccountComponent.java" timestamp="1469460588290">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="4" column="53" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/java/com/gm/plugin/account/PluginAccountComponent.java" timestamp="1469461141886">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+        <mark key="." line="8" column="63" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/main/java/com/gm/gemini/pluginlogon/ui/PluginLogonFragment.java" timestamp="1467038756787">
         <mark key="[" line="12" column="0" />
@@ -1695,6 +1695,9 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" timestamp="1469461255810">
+        <mark key="'" line="222" column="118" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileClientHandler.java" timestamp="1465219310461">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="27" column="75" />
@@ -2753,9 +2756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="176" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
-      <jump line="182" column="74" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="183" column="85" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="191" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="198" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" />
@@ -2853,13 +2853,16 @@
       <jump line="102" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="119" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="128" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
+      <jump line="72" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" />
+      <jump line="221" column="9" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" />
+      <jump line="222" column="118" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">UGx1Z2luQ29tcG9uZW50IA==</text>
+        <text>(dependencies = PluginAccountComponent.class)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13453,15 +13456,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGx1Z2luQ29tcG9uZW50IA==</text>
+        <text>(dependencies = PluginAccountComponent.class)</text>
       </register>
       <register name="/" type="4">
-        <text>plugincomponent</text>
+        <text encoding="base64">XDxwbHVnaW5Db21wb25lbnRQcm92aWRlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>PluginModule.class,
-                    BleModule.class,
-                    GeminiApplicationModule.class</text>
+      <register name="0" type="2">
+        <text encoding="base64">QENvbXBvbmVudChkZXBlbmRlbmNpZXMgPSBQbHVnaW5BY2NvdW50Q29tcG9uZW50LmNsYXNzKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -14807,9 +14808,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plugincomponent</last-search>
+      <last-search encoding="base64">XDxwbHVnaW5Db21wb25lbnRQcm92aWRlclw+</last-search>
       <last-offset />
-      <last-pattern>plugincomponent</last-pattern>
+      <last-pattern encoding="base64">XDxwbHVnaW5Db21wb25lbnRQcm92aWRlclw+</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14817,7 +14818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>observable</entry>
         <entry>should</entry>
         <entry encoding="base64">XDxtb2NrUG9pXD4=</entry>
         <entry>alsdjf</entry>
@@ -14837,6 +14837,7 @@
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxnZW1pbmlBcHBsaWNhdGlvbkNvbXBvbmVudFw+</entry>
         <entry>plugincomponent</entry>
+        <entry encoding="base64">XDxwbHVnaW5Db21wb25lbnRQcm92aWRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
