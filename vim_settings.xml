@@ -1273,6 +1273,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/themes/gmc/values/theme.xml" timestamp="1469641085805">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="66" />
+        <mark key="." line="11" column="66" />
+        <mark key="^" line="11" column="66" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/values/styles.xml" timestamp="1469123677750">
         <mark key="[" line="96" column="36" />
         <mark key="]" line="96" column="55" />
@@ -2024,7 +2030,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1469640008404">
+      <file name="/a.regexp" timestamp="1469640838094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2916,8 +2922,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2RrLmRpcj0vVXNlcnMvbWF0dC9kZXYvYW5kcm9pZC10b29scy9hbmRyb2lkLXNkay1tYWNvc3gK</text>
+      <register name="&quot;" type="4">
+        <text>header_gmc_oc</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13511,7 +13517,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>header_gmc_oc</text>
       </register>
       <register name="/" type="4">
         <text>hero</text>
@@ -13522,8 +13528,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcm92aWRlcjxCdW5kbGU+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgPGl0ZW0gbmFtZT0iYnJhbmRIZXJvIj5AZHJhd2FibGUvaA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13550,19 +13556,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBATm9uTnVsbAogICAgcHJpdmF0ZSBMaXN0PFRleHRWaWV3PiBnZXRCdXR0b25zV2l0aFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgICAgIExpc3Q8VGV4dFZpZXc+IHJlc3VsdHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGdldENoaWxkQ291bnQoKTsgaSsrKSB7CiAgICAgICAgICAgIFZpZXcgdmlldyA9IGdldENoaWxkQXQoaSk7CiAgICAgICAgICAgIGlmICh2aWV3IGluc3RhbmNlb2YgVGV4dFZpZXcpIHsKICAgICAgICAgICAgICAgIFRleHRWaWV3IHRleHRWaWV3ID0gKFRleHRWaWV3KSB2aWV3OwogICAgICAgICAgICAgICAgaWYgKHRleHRWaWV3LmdldFRleHQoKS50b1N0cmluZygpLmVxdWFsc0lnbm9yZUNhc2UodGl0bGUpKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0cy5hZGQodGV4dFZpZXcpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBQcm92aWRlcjxCdW5kbGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZG9Tb21ldGhpbmdUb0J1dHRvbnNXaXRoVGl0bGUoU3RyaW5nIHRpdGxlKSB7CiAgICAgICAgZm9yIChUZXh0VmlldyB0diA6IGdldEJ1dHRvbnNXaXRoVGl0bGUodGl0bGUpKSB7CiAgICAgICAgICAgIGRvU29tZXRoaW5nKCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">CiAgICBATm9uTnVsbAogICAgcHJpdmF0ZSBMaXN0PFRleHRWaWV3PiBnZXRCdXR0b25zV2l0aFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgICAgIExpc3Q8VGV4dFZpZXc+IHJlc3VsdHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGdldENoaWxkQ291bnQoKTsgaSsrKSB7CiAgICAgICAgICAgIFZpZXcgdmlldyA9IGdldENoaWxkQXQoaSk7CiAgICAgICAgICAgIGlmICh2aWV3IGluc3RhbmNlb2YgVGV4dFZpZXcpIHsKICAgICAgICAgICAgICAgIFRleHRWaWV3IHRleHRWaWV3ID0gKFRleHRWaWV3KSB2aWV3OwogICAgICAgICAgICAgICAgaWYgKHRleHRWaWV3LmdldFRleHQoKS50b1N0cmluZygpLmVxdWFsc0lnbm9yZUNhc2UodGl0bGUpKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0cy5hZGQodGV4dFZpZXcpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBjbGFzcyBSb3V0ZXJCdW5kbGUgewogICAgICAgIHB1YmxpYyBmaW5hbCBTdHJpbmcgCiAgICB9Cgo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZG9Tb21ldGhpbmdUb0J1dHRvbnNXaXRoVGl0bGUoU3RyaW5nIHRpdGxlKSB7CiAgICAgICAgZm9yIChUZXh0VmlldyB0diA6IGdldEJ1dHRvbnNXaXRoVGl0bGUodGl0bGUpKSB7CiAgICAgICAgICAgIGRvU29tZXRoaW5nKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIHZvaWQgc2hvdyhTdHJpbmcgcm91dGUsIEBOb25OdWxsIExpc3Q8Um91dGVyQnVuZGxlPikgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBjbGFzcyBSb3V0ZXJCdW5kbGUgewogICAgICAgIHB1YmxpYyBmaW5hbCBTdHJpbmcgCiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzQnVuZGxlLnB1dFN0cgo=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHZvaWQgc2hvdyhTdHJpbmcgcm91dGUsIEBOb25OdWxsIExpc3Q8Um91dGVyQnVuZGxlPikgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14850,13 +14856,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGlzdGluZ0ZyYWdtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzQnVuZGxlLnB1dFN0cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGlzdGluZ0ZyYWdtZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
