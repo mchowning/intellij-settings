@@ -832,6 +832,9 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" timestamp="1469627826199">
+        <mark key="'" line="42" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/calls/RefreshOAuthCall.java" timestamp="1466733060640">
         <mark key="[" line="15" column="47" />
         <mark key="]" line="15" column="84" />
@@ -871,6 +874,9 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" timestamp="1469627924306">
+        <mark key="'" line="54" column="19" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlockPresenterTest.java" timestamp="1462390946893">
         <mark key="[" line="24" column="13" />
@@ -2004,7 +2010,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1469556814260">
+      <file name="/a.regexp" timestamp="1469627394546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2780,23 +2786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/build.gradle" />
-      <jump line="32" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
-      <jump line="38" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
-      <jump line="56" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
-      <jump line="67" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
-      <jump line="125" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
-      <jump line="128" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
-      <jump line="113" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" />
-      <jump line="114" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" />
-      <jump line="3" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" />
-      <jump line="29" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" />
-      <jump line="45" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" />
-      <jump line="78" column="65" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" />
-      <jump line="79" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" />
-      <jump line="25" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/LiveAllFeaturedOffersTest.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/Blue-SNAPSHOT/11a90b89f875cf4033b8fa91adf080c5de8aaedb/gemini-core-Blue-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/dealer/PreferredDealerDataFacade.java" />
-      <jump line="298" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
       <jump line="30" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
       <jump line="34" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
       <jump line="36" column="5" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlock.java" />
@@ -2880,6 +2869,23 @@
       <jump line="47" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="87" column="63" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" />
       <jump line="77" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="112" column="11" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="115" column="20" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="116" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="42" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="68" column="73" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="69" column="14" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="80" column="18" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="82" column="37" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="34" column="31" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
+      <jump line="90" column="20" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
+      <jump line="91" column="50" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
+      <jump line="24" column="74" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
+      <jump line="42" column="15" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
+      <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="53" column="33" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
+      <jump line="54" column="19" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13483,7 +13489,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</text>
+        <text encoding="base64">XDxwb2lcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL2dldEFueVRva2VuKGRhdGFTb3VyY2UuZ2V0U2VsZWN0ZWRBY2NvdW50S2V5KCksIG5ldyBUb2tlblJlcXVlc3RDYWxsYmFjaygpIHsKICAgICAgICAvLyAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoZmluYWwgU3RyaW5nIHRva2VuKSB7CiAgICAgICAgLy8gICAgICAgIHRhc2tSdW5uZXIubGF1bmNoVGFzayhuZXcgUnVubmFibGUoKSB7CiAgICAgICAgLy8gICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICBhdXRoU2RrKCkucmVxdWVzdFNzbyh0YXJnZXRVcmwsIHRva2VuLCBuZXcgQ2FsbGJhY2soKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzdWNjZXNzKE9iamVjdCBvLCBSZXNwb25zZSByZXNwb25zZSkge30KICAgICAgICAvLwogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgZmFpbHVyZShSZXRyb2ZpdEVycm9yIGVycm9yKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoU1NPX1JFU1BPTlNFX1NUQVRVUyA9PSBlcnJvci5nZXRSZXNwb25zZSgpLmdldFN0YXR1cygpKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChIZWFkZXIgaGVhZGVyIDogZXJyb3IuZ2V0UmVzcG9uc2UoKS5nZXRIZWFkZXJzKCkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFJFRElSRUNUX1VSTF9IRUFERVJfS0VZLmVxdWFsc0lnbm9yZUNhc2UoaGVhZGVyLmdldE5hbWUoKSkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNzb1ByZXNlbnRlci5vcGVuV2ViVmlldyhoZWFkZXIuZ2V0VmFsdWUoKSk7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICAgICB9KTsKICAgICAgICAvLyAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgfSk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vCiAgICAgICAgLy8gICAgQE92ZXJyaWRlCiAgICAgICAgLy8gICAgcHVibGljIHZvaWQgb25FcnJvcigpIHt9CiAgICAgICAgLy8KICAgICAgICAvLyAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICBwdWJsaWMgdm9pZCBvbkNhbmNlbCgpIHt9CiAgICAgICAgLy99LCB0cnVlKTsK</text>
@@ -14832,9 +14838,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</last-search>
+      <last-search encoding="base64">XDxwb2lcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</last-pattern>
+      <last-pattern encoding="base64">XDxwb2lcPg==</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14842,8 +14848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assemble</entry>
-        <entry>asldfj</entry>
         <entry>poi</entry>
         <entry>\/poi</entry>
         <entry encoding="base64">XDxkZWVwX2xpbmtzXD4=</entry>
@@ -14862,6 +14866,8 @@
         <entry>attached</entry>
         <entry encoding="base64">XDxleHBlY3RlZFBob25lTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</entry>
+        <entry>cancel</entry>
+        <entry encoding="base64">XDxwb2lcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
