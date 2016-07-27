@@ -2181,6 +2181,9 @@
         <mark key="]" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" timestamp="1469626764339">
+        <mark key="'" line="77" column="39" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/internal/operators/NotificationLite.java" timestamp="1467138225901">
         <mark key="'" line="86" column="31" />
       </file>
@@ -2777,8 +2780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/model/POI.java" />
-      <jump line="330" column="38" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/model/POI.java" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/build.gradle" />
       <jump line="32" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
       <jump line="38" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" />
@@ -2877,6 +2878,8 @@
       <jump line="0" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="68" column="54" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="47" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="87" column="63" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" />
+      <jump line="77" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13480,7 +13483,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>attached</text>
+        <text encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL2dldEFueVRva2VuKGRhdGFTb3VyY2UuZ2V0U2VsZWN0ZWRBY2NvdW50S2V5KCksIG5ldyBUb2tlblJlcXVlc3RDYWxsYmFjaygpIHsKICAgICAgICAvLyAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoZmluYWwgU3RyaW5nIHRva2VuKSB7CiAgICAgICAgLy8gICAgICAgIHRhc2tSdW5uZXIubGF1bmNoVGFzayhuZXcgUnVubmFibGUoKSB7CiAgICAgICAgLy8gICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICBhdXRoU2RrKCkucmVxdWVzdFNzbyh0YXJnZXRVcmwsIHRva2VuLCBuZXcgQ2FsbGJhY2soKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzdWNjZXNzKE9iamVjdCBvLCBSZXNwb25zZSByZXNwb25zZSkge30KICAgICAgICAvLwogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgZmFpbHVyZShSZXRyb2ZpdEVycm9yIGVycm9yKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoU1NPX1JFU1BPTlNFX1NUQVRVUyA9PSBlcnJvci5nZXRSZXNwb25zZSgpLmdldFN0YXR1cygpKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChIZWFkZXIgaGVhZGVyIDogZXJyb3IuZ2V0UmVzcG9uc2UoKS5nZXRIZWFkZXJzKCkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFJFRElSRUNUX1VSTF9IRUFERVJfS0VZLmVxdWFsc0lnbm9yZUNhc2UoaGVhZGVyLmdldE5hbWUoKSkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNzb1ByZXNlbnRlci5vcGVuV2ViVmlldyhoZWFkZXIuZ2V0VmFsdWUoKSk7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICAgICB9KTsKICAgICAgICAvLyAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgfSk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vCiAgICAgICAgLy8gICAgQE92ZXJyaWRlCiAgICAgICAgLy8gICAgcHVibGljIHZvaWQgb25FcnJvcigpIHt9CiAgICAgICAgLy8KICAgICAgICAvLyAgICBAT3ZlcnJpZGUKICAgICAgICAvLyAgICBwdWJsaWMgdm9pZCBvbkNhbmNlbCgpIHt9CiAgICAgICAgLy99LCB0cnVlKTsK</text>
@@ -14829,9 +14832,9 @@
       </register>
     </registers>
     <search>
-      <last-search>attached</last-search>
+      <last-search encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</last-search>
       <last-offset />
-      <last-pattern>attached</last-pattern>
+      <last-pattern encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14839,8 +14842,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</entry>
-        <entry encoding="base64">XDxzYWx0XD4=</entry>
         <entry>assemble</entry>
         <entry>asldfj</entry>
         <entry>poi</entry>
@@ -14859,6 +14860,8 @@
         <entry>asdlfj</entry>
         <entry>onattached</entry>
         <entry>attached</entry>
+        <entry encoding="base64">XDxleHBlY3RlZFBob25lTnVtYmVyXD4=</entry>
+        <entry encoding="base64">XDw2OTQ5NjkzNzQ3NDg0Mlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
