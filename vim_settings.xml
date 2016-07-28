@@ -581,6 +581,7 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/plugin-logon/src/main/java/com/gm/gemini/pluginlogon/ui/fullscreen/LogonFragment.java" timestamp="1469726105456" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info.xml" timestamp="1468596119782">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="41" />
@@ -1055,7 +1056,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/build.gradle" timestamp="1468857262296">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1469630003629">
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1469726132498">
         <mark key="[" line="50" column="5" />
         <mark key="]" line="51" column="3" />
         <mark key="." line="51" column="3" />
@@ -2112,7 +2113,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1469467211078">
+      <file name="/fragment.java" timestamp="1469726244372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2516,13 +2517,6 @@
         <mark key="]" line="10" column="59" />
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1469547905196">
-        <mark key="'" line="47" column="55" />
-        <mark key="[" line="70" column="69" />
-        <mark key="]" line="70" column="70" />
-        <mark key="." line="70" column="70" />
-        <mark key="^" line="70" column="67" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -13549,7 +13543,7 @@
         <text>ActionBar</text>
       </register>
       <register name="/" type="4">
-        <text>createInfo</text>
+        <text>onresume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2RrLmRpcj0vVXNlcnMvbWF0dC9kZXYvYW5kcm9pZC10b29scy9hbmRyb2lkLXNkay1tYWNvc3gK</text>
@@ -14898,9 +14892,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createInfo</last-search>
+      <last-search>onresume</last-search>
       <last-offset />
-      <last-pattern>createInfo</last-pattern>
+      <last-pattern>onresume</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14908,7 +14902,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PFBvaT4=</entry>
         <entry encoding="base64">PFBPST4=</entry>
         <entry>23</entry>
         <entry>asdljf</entry>
@@ -14928,6 +14921,7 @@
         <entry>inject</entry>
         <entry encoding="base64">XDxyZW1pbmRlcnNMYXlvdXRcPg==</entry>
         <entry>createInfo</entry>
+        <entry>onresume</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
