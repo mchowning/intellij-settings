@@ -1280,11 +1280,12 @@
         <mark key="." line="11" column="66" />
         <mark key="^" line="11" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" timestamp="1469728784574">
-        <mark key="[" line="36" column="76" />
-        <mark key="]" line="36" column="76" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" timestamp="1469731109633">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
         <mark key="^" line="38" column="0" />
-        <mark key="." line="36" column="76" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/values/styles.xml" timestamp="1469123677750">
         <mark key="[" line="96" column="36" />
@@ -1827,6 +1828,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-schedule-service/plugin-schedule-service/src/main/java/com/gm/plugin/schedule_service/ui/fullscreen/EuScheduleServiceFragmentPresenter.java" timestamp="1469100592597">
         <mark key="'" line="33" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/PluginKeyFob.java" timestamp="1469731204952" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1464887707934">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="14" column="0" />
@@ -1860,6 +1862,7 @@
         <mark key="^" line="45" column="82" />
         <mark key="." line="45" column="82" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/PluginWifi.java" timestamp="1469731153920" />
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragment.java" timestamp="1469722286938">
         <mark key="'" line="142" column="12" />
         <mark key="[" line="159" column="0" />
@@ -2123,7 +2126,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1469726244372">
+      <file name="/fragment.java" timestamp="1469731250671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2850,8 +2853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlockPresenterTest.java" />
-      <jump line="331" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/OfferDetailInfoBlockPresenterTest.java" />
       <jump line="112" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="113" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="115" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
@@ -2950,6 +2951,8 @@
       <jump line="194" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragment.java" />
       <jump line="37" column="25" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragment.java" />
       <jump line="142" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragment.java" />
+      <jump line="53" column="15" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" />
+      <jump line="5" column="26" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13553,7 +13556,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>onresume</text>
+        <text>inflate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgLyAgICAgICAgICBcCg==</text>
@@ -14902,9 +14905,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onresume</last-search>
+      <last-search>inflate</last-search>
       <last-offset />
-      <last-pattern>onresume</last-pattern>
+      <last-pattern>inflate</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14912,7 +14915,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PFBPST4=</entry>
         <entry>23</entry>
         <entry>asdljf</entry>
         <entry>google_play</entry>
@@ -14932,6 +14934,7 @@
         <entry encoding="base64">XDxyZW1pbmRlcnNMYXlvdXRcPg==</entry>
         <entry>createInfo</entry>
         <entry>onresume</entry>
+        <entry>inflate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
