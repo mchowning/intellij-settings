@@ -1758,7 +1758,11 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/environment_local.gradle" timestamp="1469711346274" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/environment_local.gradle" timestamp="1469729700103">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" timestamp="1469461255810">
         <mark key="'" line="222" column="118" />
       </file>
@@ -2951,8 +2955,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13546,19 +13550,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>onresume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2RrLmRpcj0vVXNlcnMvbWF0dC9kZXYvYW5kcm9pZC10b29scy9hbmRyb2lkLXNkay1tYWNvc3gK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgLyAgICAgICAgICBcCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscy5mbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13585,19 +13589,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnbTpiYWNrCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgLyAgICAgICAgICBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnbToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnbTpoZWFkZXJfaWNvbj0iIgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAvICAgICAgICAgICAgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnbTpoZWFkZXIK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAvICAgICAgICAgICAgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnbTpoZWFkZXIK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14885,13 +14889,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcuZm9ybWF0KCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB8ICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSLnN0cmluZy5yZWNhbGxfbGFiZWxfcmVjYWxsX2V4aXN0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgPGl0ZW0gbmFtZT0iYnJhbmRIZXJvIj5AZHJhd2FibGUvaA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
