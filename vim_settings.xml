@@ -1332,12 +1332,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" timestamp="1468942986426">
         <mark key="'" line="79" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" timestamp="1469732294480">
-        <mark key="'" line="212" column="53" />
-        <mark key="[" line="471" column="0" />
-        <mark key="]" line="472" column="48" />
-        <mark key="^" line="472" column="48" />
-        <mark key="." line="472" column="48" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" timestamp="1469797490498">
+        <mark key="'" line="213" column="53" />
+        <mark key="[" line="233" column="41" />
+        <mark key="]" line="233" column="41" />
+        <mark key="^" line="233" column="39" />
+        <mark key="." line="233" column="41" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -2972,8 +2972,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgZXZlbnQ=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13567,13 +13567,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">ICsgZXZlbnQ=</text>
       </register>
       <register name="/" type="4">
         <text>pin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgLyAgICAgICAgICBcCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiYXNkZiIsICJWZWhpY2xlVGFza0V2ZW50IiArIGV2ZW50KTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
