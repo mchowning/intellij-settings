@@ -1357,6 +1357,9 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="48" />
       </file>
+      <file name="/Scala Console" timestamp="1469891490981">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bodyworks_website/.gitignore" timestamp="1429826233049">
         <mark key="[" line="110" column="1" />
         <mark key="]" line="110" column="1" />
@@ -2099,10 +2102,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/403c0215220d990f2856904658185a7b5ba8b521/rxjava-1.1.1-sources.jar!/rx/internal/operators/OnSubscribePublishMulticast.java" timestamp="1467138348818">
         <mark key="'" line="142" column="54" />
       </file>
-      <file name="/tmp/scala-digits-dojo/src/GuidedScript.sc" timestamp="1469888632462">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="205" column="1" />
-        <mark key="." line="201" column="0" />
+      <file name="/tmp/scala-digits-dojo/src/GuidedScript.sc" timestamp="1469891524259">
+        <mark key="[" line="284" column="66" />
+        <mark key="]" line="284" column="71" />
+        <mark key="." line="284" column="71" />
+        <mark key="^" line="284" column="71" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/myplayers/MyMiniMaxGamer.java" timestamp="1429359395156">
         <mark key="[" line="54" column="32" />
@@ -2869,8 +2873,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGRpc3RhbmNlIChwMTogTGlzdFtJbnRdKSAocDI6IExpc3RbSW50XSkgPSB7CiAgdmFsIHppcHBlZCA9IHAxIHppcCBwMgogIHZhbCBwdERpc3RhbmNlcyA9IHppcHBlZC5tYXAgeyBjYXNlIChpMSwgaTIpID0+IChpMSAtIGkyKSAqIChpMSAtIGkyKSB9CiAgcHREaXN0YW5jZXMuc3VtCn0K</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13464,19 +13468,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGRpc3RhbmNlIChwMTogTGlzdFtJbnRdKSAocDI6IExpc3RbSW50XSkgPSA0Mgo=</text>
+        <text encoding="base64">dmFsIHN0cmluZ0xzID0gd2l0aG91dEhlYWRlcnMubWFwKF8ubWFwKG4gPT4gbi50b0ludCkpCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVmIGRpc3RhbmNlIChwMTogTGlzdFtJbnRdKSAocDI6IExpc3RbSW50XSkgPSB7CiAgdmFsIHppcHBlZCA9IHAxIHppcCBwMgogIHZhbCBwdERpc3RhbmNlcyA9IHppcHBlZC5tYXAgeyBjYXNlIChpMSwgaTIpID0+IChpMSAtIGkyKSAqIChpMSAtIGkyKSB9CiAgcHREaXN0YW5jZXMuc3VtCn0K</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13503,19 +13507,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB6aXBwZWQubWFwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgZGlzdCAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAwCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">c3BsaXRMaW5lc0xpc3QuaGVhZAo=</text>
+        <text encoding="base64">ZGVmIGRpc3RhbmNlIChwMTogTGlzdFtJbnRdKSAocDI6IExpc3RbSW50XSkgPSB7CiAgdmFsIHppcHBlZCA9IHAxIHppcCBwMgogIHZhbCBwdERpc3RhbmNlcyA9IHppcHBlZC5tYXAgeyBjYXNlIChpMSwgaTIpID0+IChpMSAtIGkyKSAqIChpMSAtIGkyKSB9CiAgcHREaXN0YW5jZXMuc3VtCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGluZXNMCg==</text>
+        <text encoding="base64">ICB6aXBwZWQubWFwKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14803,13 +14807,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsaW4K</text>
+        <text encoding="base64">ICB2YWwgZGlzdCAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly92YWwgbGluZXNMaXN0ID0gU291cmNlLmZyb21GaWxlKCIvcHJpdmF0ZS90bXAvc2NhbGEtZGlnaXRzLWRvam8vc3JjL3RyYWluaW5nc2FtcGxlLmNzdiIpLmdldExpbmVzKCkudG9MaXN0Cg==</text>
+        <text encoding="base64">c3BsaXRMaW5lc0xpc3QuaGVhZAo=</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
