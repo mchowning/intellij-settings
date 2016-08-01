@@ -658,6 +658,9 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockButtons.java" timestamp="1470061015158">
+        <mark key="'" line="114" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info_button.xml" timestamp="1469035102569">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -2165,6 +2168,12 @@
         <mark key="^" line="119" column="196" />
         <mark key="." line="119" column="196" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/build.gradle" timestamp="1470060704359">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/rxjavasample/src/main/java/TestClass.java" timestamp="1467143059658">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="53" />
@@ -2544,7 +2553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="27" filename="$USER_HOME$/dev/u2020/build.gradle" />
       <jump line="208" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="209" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="23" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
@@ -2644,13 +2652,14 @@
       <jump line="31" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/preferred_dealer_info_block_header.xml" />
       <jump line="52" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/preferred_dealer_info_block_header.xml" />
       <jump line="64" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-preferred-dealer/plugin-preferred-dealer/src/main/res/layout/preferred_dealer_info_block_header.xml" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockButtons.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dFZpZXcuaXNTZWxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13244,10 +13253,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bS5nb29nbGUuYW5kcm9pZCcsIA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>textIsSelectable</text>
+        <text>getButtonLayout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0Jwo=</text>
@@ -13256,7 +13265,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dFZpZXcuaXNTZWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBleAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13283,19 +13292,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dFZpZXcuaXNTZWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIHNob3VsZFNob3dSZXF1ZXN0UGVybWlzc2lvblJhdGlvbmFsZShTdHJpbmcgcGVybWlzc2lvbikgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14583,22 +14592,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuaWlkLkZpcmViYXNlSW5zdGFuY2VJZDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0OwppbXBvcnQgYW5kcm9pZC5wcmVmZXJlbmNlLlByZWZlcmVuY2VNYW5hZ2VyOwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LmFubm90YXRpb24uRHJhd2FibGVSZXM7CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQuYW5ub3RhdGlvbi5TdHlsZVJlczsKaW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5tdWx0aWRleC5NdWx0aURleDsKaW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5tdWx0aWRleC5NdWx0aURleEFwcGxpY2F0aW9uOwoKaW1wb3J0IGNvbS5hY3RpdmVhbmRyb2lkLkFjdGl2ZUFuZHJvaWQ7CmltcG9ydCBjb20uY3Jhc2hseXRpY3MuYW5kcm9pZC5DcmFzaGx5dGljczsKaW1wb3J0IGNvbS5nbS5nZW1pbmkuYXV0aC5BY2Nlc3NJbmZvOwppbXBvcnQgY29tLmdtLmdlbWluaS5hdXRoLkF1dGhNYW5hZ2VyOwppbXBvcnQgY29tLmdtLmdlbWluaS5hdXRoLkF1dGhWYXVsdDsKaW1wb3J0IGNvbS5nbS5nZW1pbmkuYXV0aC5EZXZpY2VJZFByb3ZpZGVyOwppbXBvcnQgY29tLmdtLmdlbWluaS5hdXRoLkdhdGVLZWVwZXI7CmltcG9ydCBjb20uZ20uZ2VtaW5pLmF1dGguY29uZmlnLlNlcnZpY2VTREtDb25maWc7CmltcG9ydCBjb20uZ20uZ2VtaW5pLmF1dGgudXRpbC5TeXN0ZW1DbG9ja0ZhY2FkZUltcGw7CmltcG9ydCBjb20uZ20uZ2VtaW5pLmNvcmUuQnVpbGRDb25maWd1cmF0aW9uOwppbXBvcnQgY29tLmdtLmdlbWluaS5jb3JlLkRldmVsb3BlclByZWZlcmVuY2VzOwppbXBvcnQgY29tLmdtLmdlbWluaS5jb3JlLmluamVjdGlvbi5BcHBsaWNhdGlvbk1vZHVsZTsKaW1wb3J0IGNvbS5nbS5nZW1pbmkuY29yZS5pbmplY3Rpb24uRGFnZ2VyR2VtaW5pQXBwbGljYXRpb25Db21wb25lbnQ7CmltcG9ydCBjb20uZ20uZ2VtaW5pLmNvcmUuaW5qZWN0aW9uLkdlbWluaUFwcGxpY2F0aW9uQ29tcG9uZW50OwppbXBvcnQgY29tLmdtLmdlbWluaS5jb3JlLm1vZHVsZS5WZXJzaW9uUHJvdmlkZXI7CmltcG9ydCBjb20uZ20uZ2VtaW5pLmRhdGEuTXlMaW5rTW9kZWxJbml0aWFsaXplcjsKaW1wb3J0IGNvbS5nbS5nZW1pbmkuZGF0YS5kYXRhc291cmNlLkRhdGFTb3VyY2U7CmltcG9ydCBjb20uZ20uZ2VtaW5pLm1vZGVsLkFjY291bnRLZXk7CmltcG9ydCBjb20uZ20uZ2VtaW5pLnBsdWdpbl9jb21tb25fcmVzb3VyY2VzLkRlZmF1bHRUaGVtZVByb3ZpZGVyOwppbXBvcnQgY29tLmdtLmdlbWluaS5wbHVnaW5fY29tbW9uX3Jlc291cmNlcy5tb2R1bGUuR2VtaW5pTm90aWZpY2F0aW9uTWFuYWdlck1vZHVsZTsKaW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMubm90aWZpY2F0aW9uLkNyaXRpY2FsRGlhZ25vc3RpY0xpc3RlbmVyOwppbXBvcnQgY29tLmdtLmdlbWluaS5wbHVnaW5fY29tbW9uX3Jlc291cmNlcy5ub3RpZmljYXRpb24uR2VtaW5pTm90aWZpY2F0aW9uRmFjdG9yeTsKaW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2luX2NvbW1vbl9yZXNvdXJjZXMubm90aWZpY2F0aW9uLkdlbWluaU5vdGlmaWNhdGlvbk1hbmFnZXI7CmltcG9ydCBjb20uZ20uZ2VtaW5pLnBsdWdpbl9jb21tb25fcmVzb3VyY2VzLm5vdGlmaWNhdGlvbi5Ob3RpZmljYXRpb25SZXNvdXJjZVByb3ZpZGVyOwppbXBvcnQgY29tLmdtLmdlbWluaS5wbHVnaW5fY29tbW9uX3Jlc291cmNlcy5ub3RpZmljYXRpb24uZGlhZ25vc3RpYy5EaWFnbm9zdGljU3RyYXRlZ3lGYWN0b3J5OwppbXBvcnQgY29tLmdtLmdlbWluaS5zZGsuYXBwbGljYXRpb24uU2VydmljZUFwcGxpY2F0aW9uOwppbXBvcnQgY29tLmdtLmdlbWluaS5zZGsuZGF0YXNvdXJjZS5DYWNoZWREYXRhU291cmNlOwppbXBvcnQgY29tLmdtLmdlbWluaS5zZGsudGFza3MuVGFza1J1bm5lcjsKaW1wb3J0IGNvbS5nbS5nZW1pbmkuc2VydmljZS53ZWIuRGF0YVNvdXJjZVByb3ZpZGVyOwppbXBvcnQgY29tLmdtLmdlbWluaS5zZXJ2aWNlLndlYi5lbnRpdGxlbWVudHMuVW5hdXRoZW50aWNhdGVkVXNlckVudGl0bGVtZW50OwppbXBvcnQgY29tLmdtLmdlbWluaS5zaGVsbC5SOwppbXBvcnQgY29tLmdtLmdtb2MuYXBwbGljYXRpb24uT0NTZXJ2aWNlQXBwbGljYXRpb247CmltcG9ydCBjb20uZ20uZ21vYy5jb25maWd1cmF0aW9uLk9DQ29uZmlndXJhdGlvbjsKaW1wb3J0IGNvbS5nbS5nbW9jLmNvbmZpZ3VyYXRpb24uT0NTREtDb25maWc7CmltcG9ydCBjb20uZ20ub25zdGFyLnNkay5TREtDb25maWc7CmltcG9ydCBjb20uZ20ub25zdGFyLnNtcmYuc2RrLmJsZS5CbGVBcHBsaWNhdGlvbjsKaW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuaWlkLkZpcmViYXNlSW5zdGFuY2VJZDsKaW1wb3J0IGNvbS5zcXVhcmV1cC5va2h0dHAuT2tIdHRwQ2xpZW50OwoKaW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7CmltcG9ydCBpby5mYWJyaWMuc2RrLmFuZHJvaWQuRmFicmljOwo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIHNob3VsZFNob3dSZXF1ZXN0UGVybWlzc2lvblJhdGlvbmFsZShTdHJpbmcgcGVybWlzc2lvbikgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuaWlkLkZpcmViYXNlSW5zdGFuY2VJZDsK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search>textIsSelectable</last-search>
+      <last-search>getButtonLayout</last-search>
       <last-offset />
-      <last-pattern>textIsSelectable</last-pattern>
+      <last-pattern>getButtonLayout</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14606,7 +14615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inflate</entry>
         <entry>authen</entry>
         <entry>pin</entry>
         <entry>google</entry>
@@ -14626,6 +14634,7 @@
         <entry>Fragment</entry>
         <entry>22.</entry>
         <entry>textIsSelectable</entry>
+        <entry>getButtonLayout</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
