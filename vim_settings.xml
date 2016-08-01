@@ -1522,7 +1522,7 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/environment_local.gradle" timestamp="1470064775837" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/environment_local.gradle" timestamp="1470069913171" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" timestamp="1469461255810">
         <mark key="'" line="222" column="118" />
       </file>
@@ -2110,10 +2110,11 @@
         <mark key="^" line="119" column="196" />
         <mark key="." line="119" column="196" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/build.gradle" timestamp="1470067681970">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/build.gradle" timestamp="1470071033273">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/dev/rxjavasample/src/main/java/TestClass.java" timestamp="1467143059658">
         <mark key="[" line="19" column="53" />
@@ -2317,11 +2318,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/project-settings/dependencies.gradle" timestamp="1470067826483">
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/project-settings/dependencies.gradle" timestamp="1470070863387">
         <mark key="'" line="33" column="63" />
-        <mark key="[" line="79" column="64" />
-        <mark key="]" line="79" column="65" />
-        <mark key="." line="79" column="65" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientInitialAuthHandlerTest.java" timestamp="1466030343664">
         <mark key="[" line="25" column="38" />
@@ -2604,8 +2606,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQoK</text>
+      <register name="&quot;" type="4">
+        <text>local</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13199,13 +13201,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ompile core.gemini_core</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
-        <text>support-v4</text>
+        <text>active</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgbG9jYWwuZ2VtaW5pX2NvcmUK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -14551,9 +14553,9 @@
       </register>
     </registers>
     <search>
-      <last-search>support-v4</last-search>
+      <last-search>active</last-search>
       <last-offset />
-      <last-pattern>support-v4</last-pattern>
+      <last-pattern>active</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14561,7 +14563,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxzYWx0XD4=</entry>
         <entry>assemble</entry>
         <entry>asldfj</entry>
@@ -14581,6 +14582,7 @@
         <entry>22</entry>
         <entry>appcompat</entry>
         <entry>support-v4</entry>
+        <entry>active</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
