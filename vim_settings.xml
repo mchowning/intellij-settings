@@ -375,10 +375,11 @@
         <mark key="^" line="25" column="82" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/build.gradle" timestamp="1470072275128">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/build.gradle" timestamp="1470078716321">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/model/OAuthTokenMap.java" timestamp="1466590639968">
         <mark key="[" line="32" column="72" />
@@ -1134,13 +1135,6 @@
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/StubServiceProvider.java" timestamp="1468942986426">
         <mark key="'" line="79" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" timestamp="1469797490498">
-        <mark key="'" line="213" column="53" />
-        <mark key="[" line="233" column="41" />
-        <mark key="]" line="233" column="41" />
-        <mark key="^" line="233" column="39" />
-        <mark key="." line="233" column="41" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticInfoBlockLayoutTest.java" timestamp="1462185753096">
         <mark key="[" line="37" column="78" />
@@ -2612,8 +2606,10 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>{
+        exclude module: 'support-v4'
+    }</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13207,7 +13203,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</text>
@@ -13218,8 +13214,10 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0Jwo=</text>
+      <register name="1" type="4">
+        <text>{
+        exclude module: 'support-v4'
+    }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13246,19 +13244,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBleGNsdWRlIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBsb2NhbC5nZW1pbmlfY29yZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBleGNsdWRlIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQo=</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBsb2NhbC5nZW1pbmlfY29yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQoK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14546,7 +14544,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
