@@ -1522,6 +1522,7 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/environment_local.gradle" timestamp="1470064775837" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" timestamp="1469461255810">
         <mark key="'" line="222" column="118" />
       </file>
@@ -1777,7 +1778,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1470061561129">
+      <file name="/a.regexp" timestamp="1470064669493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2105,11 +2106,11 @@
         <mark key="^" line="119" column="196" />
         <mark key="." line="119" column="196" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/build.gradle" timestamp="1470063843391">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="43" />
-        <mark key="^" line="24" column="43" />
-        <mark key="." line="24" column="43" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/build.gradle" timestamp="1470065300465">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
       </file>
       <file name="$USER_HOME$/dev/rxjavasample/src/main/java/TestClass.java" timestamp="1467143059658">
         <mark key="[" line="19" column="53" />
@@ -2313,6 +2314,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/project-settings/dependencies.gradle" timestamp="1470065271386">
+        <mark key="'" line="75" column="44" />
+        <mark key="[" line="79" column="64" />
+        <mark key="]" line="79" column="65" />
+        <mark key="." line="79" column="65" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientInitialAuthHandlerTest.java" timestamp="1466030343664">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="26" column="7" />
@@ -2489,7 +2496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
       <jump line="383" column="77" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/test/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/poi/PoiDetailInfoBlockPresenterTest.java" />
       <jump line="40" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="30" column="46" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2589,6 +2595,7 @@
       <jump line="549" column="20" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="26" column="36" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="92" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="75" column="44" filename="$USER_HOME$/dev/gm/omnibus-repo/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13192,7 +13199,7 @@
         <text>support-v4</text>
       </register>
       <register name="/" type="4">
-        <text>setVeritcalGravity</text>
+        <text>22</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgY29tcGlsZSAoIiRjb3JlLmdlbWluaV9jb3JlIikgewovLyAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0JwovLyAgICB9Cg==</text>
@@ -14541,9 +14548,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setVeritcalGravity</last-search>
+      <last-search>22</last-search>
       <last-offset />
-      <last-pattern>setVeritcalGravity</last-pattern>
+      <last-pattern>22</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14551,8 +14558,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdlfj</entry>
-        <entry encoding="base64">XDxmMVw+</entry>
         <entry encoding="base64">XDxvdXRGaWxlXD4=</entry>
         <entry>configurations</entry>
         <entry encoding="base64">XDxlbmNyeXB0U3RyaW5nXD4=</entry>
@@ -14571,6 +14576,8 @@
         <entry>split</entry>
         <entry>gravity</entry>
         <entry>setVeritcalGravity</entry>
+        <entry>23</entry>
+        <entry>22</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
