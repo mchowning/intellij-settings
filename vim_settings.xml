@@ -2454,6 +2454,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/Blue-SNAPSHOT/11a90b89f875cf4033b8fa91adf080c5de8aaedb/gemini-core-Blue-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/dealer/PreferredDealerDataFacade.java" timestamp="1469101652941">
         <mark key="'" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/README.md" timestamp="1470160000878">
+        <mark key="[" line="58" column="10" />
+        <mark key="]" line="58" column="13" />
+        <mark key="." line="58" column="13" />
+        <mark key="^" line="58" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlock.java" timestamp="1462452771342">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="26" column="33" />
@@ -2612,8 +2618,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGJ1aWxkVHlwZSA9IChwcm9qZWN0Lmhhc1Byb3BlcnR5KCdidWlsZF90eXBlJykgJiYgYnVpbGRfdHlwZSAhPSAiIikgPyBidWlsZF90eXBlIDogIkRlYnVnIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13207,7 +13213,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Debug</text>
@@ -13218,10 +13224,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        exclude module: 'support-v4'
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13248,19 +13252,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0Jwo=</text>
+        <text encoding="base64">CiAgICBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvYW5kcm9pZC1saWJyYXJ5LXNlcnZpY2VzLXdlYi5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS1jb3JlLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvb3duZXItY2VudGVyLXNkay5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL3BsdWdpbi1jb21tb24tcmVzb3VyY2VzLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLXBsYWNlaG9sZGVyLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLWxvZ29uLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLXZlaGljbGUtc3RhdHVzLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLWtleS1mb2IuZ2l0IFwKICAgICYmIGdpdCBjbG9uZSBzc2g6Ly9naXRAb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb206Nzk5OS9hZy9wbHVnaW4tZGV2ZWxvcGVyLXByZWZlcmVuY2VzLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvZ2VtaW5pLWF1dGguZ2l0IFwKICAgICYmIGdpdCBjbG9uZSBzc2g6Ly9naXRAb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb206Nzk5OS9hZy9nZW1pbmktZGF0YS5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS1tb2RlbC5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS1jcnlwdG8uZ2l0IFwKICAgICYmIGdpdCBjbG9uZSBzc2g6Ly9naXRAb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb206Nzk5OS9hZy9nZW1pbmktc2RrLmdpdAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>{
+        exclude module: 'support-v4'
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBleGNsdWRlIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBsb2NhbC5nZW1pbmlfY29yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBleGNsdWRlIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14548,13 +14554,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQoK</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBsb2NhbC5nZW1pbmlfY29yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQoK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
