@@ -597,10 +597,10 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" timestamp="1470153859338">
-        <mark key="'" line="174" column="19" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="123" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" timestamp="1470154651232">
+        <mark key="'" line="98" column="8" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="105" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoTablePresenter.java" timestamp="1469045223666">
         <mark key="[" line="25" column="0" />
@@ -2506,8 +2506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="27" filename="$USER_HOME$/dev/u2020/build.gradle" />
-      <jump line="208" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="209" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="23" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="70" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
@@ -2606,15 +2604,15 @@
       <jump line="393" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="394" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="194" column="18" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" />
+      <jump line="110" column="38" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
+      <jump line="98" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{
-        exclude module: 'support-v4'
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGJ1aWxkVHlwZSA9IChwcm9qZWN0Lmhhc1Byb3BlcnR5KCdidWlsZF90eXBlJykgJiYgYnVpbGRfdHlwZSAhPSAiIikgPyBidWlsZF90eXBlIDogIkRlYnVnIgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13211,7 +13209,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>channel</text>
+        <text>Debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBncm91cDogJ2NvbS5nb29nbGUuYW5kcm9pZCcsIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
@@ -14562,9 +14560,9 @@
       </register>
     </registers>
     <search>
-      <last-search>channel</last-search>
+      <last-search>Debug</last-search>
       <last-offset />
-      <last-pattern>channel</last-pattern>
+      <last-pattern>Debug</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14572,7 +14570,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWVwX2xpbmtzXD4=</entry>
         <entry>retro</entry>
         <entry encoding="base64">XDxtZW1iZXJzXD4=</entry>
         <entry encoding="base64">XDxvbnN0YXJBWVNGYWN0b3J5XD4=</entry>
@@ -14592,6 +14589,7 @@
         <entry>gettoken</entry>
         <entry encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</entry>
         <entry>channel</entry>
+        <entry>Debug</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
