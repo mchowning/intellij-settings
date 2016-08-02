@@ -1532,6 +1532,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" timestamp="1469461255810">
         <mark key="'" line="222" column="118" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/samples/settings.xml" timestamp="1470161581820">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/FileClientHandler.java" timestamp="1465219310461">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="27" column="75" />
@@ -1618,11 +1624,6 @@
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" timestamp="1469800358275">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
@@ -2454,11 +2455,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/Blue-SNAPSHOT/11a90b89f875cf4033b8fa91adf080c5de8aaedb/gemini-core-Blue-SNAPSHOT-sources.jar!/com/gm/gemini/plugin_common_resources/dealer/PreferredDealerDataFacade.java" timestamp="1469101652941">
         <mark key="'" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/README.md" timestamp="1470160000878">
-        <mark key="[" line="58" column="10" />
-        <mark key="]" line="58" column="13" />
-        <mark key="." line="58" column="13" />
-        <mark key="^" line="58" column="13" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/README.md" timestamp="1470161862671">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlock.java" timestamp="1462452771342">
         <mark key="[" line="25" column="25" />
@@ -2619,7 +2620,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>file</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13213,13 +13214,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>Debug</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBncm91cDogJ2NvbS5nb29nbGUuYW5kcm9pZCcsIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
+      <register name="0" type="4">
+        <text>YOUR_ENCRYPTED_ARTIFACTORY_PASSWORD</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -14563,7 +14564,7 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQoK</text>
       </register>
       <register name=":" type="4">
-        <text>120</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
