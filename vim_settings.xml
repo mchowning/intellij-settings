@@ -597,6 +597,11 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" timestamp="1470153859338">
+        <mark key="'" line="174" column="19" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="123" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoTablePresenter.java" timestamp="1469045223666">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -13206,7 +13211,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</text>
+        <text>channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBncm91cDogJ2NvbS5nb29nbGUuYW5kcm9pZCcsIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
@@ -14557,9 +14562,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</last-search>
+      <last-search>channel</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</last-pattern>
+      <last-pattern>channel</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14567,7 +14572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/poi</entry>
         <entry encoding="base64">XDxkZWVwX2xpbmtzXD4=</entry>
         <entry>retro</entry>
         <entry encoding="base64">XDxtZW1iZXJzXD4=</entry>
@@ -14587,6 +14591,7 @@
         <entry encoding="base64">XDxjYWxsQmFja0luUHJvZ3Jlc3NcPg==</entry>
         <entry>gettoken</entry>
         <entry encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</entry>
+        <entry>channel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
