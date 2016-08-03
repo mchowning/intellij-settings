@@ -222,6 +222,9 @@
         <mark key="^" line="40" column="47" />
         <mark key="." line="40" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/PluginComponent.java" timestamp="1470229661107">
+        <mark key="'" line="30" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/LegalDocumentTitleUtilTest.groovy" timestamp="1467901056630">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="28" column="4" />
@@ -2514,7 +2517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="23" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="70" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
       <jump line="87" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
@@ -2614,6 +2616,7 @@
       <jump line="194" column="18" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" />
       <jump line="110" column="38" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
       <jump line="98" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
+      <jump line="30" column="34" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/PluginComponent.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13217,7 +13220,7 @@
         <text>file</text>
       </register>
       <register name="/" type="4">
-        <text>Debug</text>
+        <text>asdlfj</text>
       </register>
       <register name="0" type="4">
         <text>YOUR_ENCRYPTED_ARTIFACTORY_PASSWORD</text>
@@ -14568,9 +14571,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Debug</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern>Debug</last-pattern>
+      <last-pattern>asdlfj</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14578,8 +14581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>retro</entry>
-        <entry encoding="base64">XDxtZW1iZXJzXD4=</entry>
         <entry encoding="base64">XDxvbnN0YXJBWVNGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxQQVRIX1RPX1JFU1BPTlNFXzFcPg==</entry>
         <entry encoding="base64">PFBvaT4=</entry>
@@ -14598,6 +14599,8 @@
         <entry encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</entry>
         <entry>channel</entry>
         <entry>Debug</entry>
+        <entry>getSelected</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
