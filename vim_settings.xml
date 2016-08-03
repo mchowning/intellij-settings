@@ -21,6 +21,12 @@
       <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/subjects/SubjectSubscriptionManager.java" timestamp="1467140242015">
         <mark key="'" line="51" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/VehicleServiceComponent.java" timestamp="1470230743651">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="15" column="47" />
+        <mark key="." line="14" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/scripts/scripts.cabal" timestamp="1448639213605">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="42" />
@@ -1449,7 +1455,6 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/ui/LogNavigationController.java" timestamp="1470158151393" />
       <file name="$USER_HOME$/dev/matasano-challenges/src/Tests.hs" timestamp="1453901925414">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="34" />
@@ -1531,7 +1536,6 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/environment_local.gradle" timestamp="1470075287784" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" timestamp="1469461255810">
         <mark key="'" line="222" column="118" />
       </file>
@@ -1686,7 +1690,6 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/widget/LinearLayout.java" timestamp="1470062922943" />
       <file name="$USER_HOME$/dev/bodyworks_website/app/__init__.py" timestamp="1429726077787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="20" />
@@ -2126,6 +2129,7 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/PluginVehicleService.java" timestamp="1470230715235" />
       <file name="$USER_HOME$/dev/rxjavasample/src/main/java/TestClass.java" timestamp="1467143059658">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="53" />
@@ -2623,7 +2627,8 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>, 
+                      VehicleDataSourceModule.class</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13217,7 +13222,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>asdlfj</text>
@@ -13228,8 +13233,9 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>, 
+                      VehicleDataSourceModule.class</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13256,21 +13262,21 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvYW5kcm9pZC1saWJyYXJ5LXNlcnZpY2VzLXdlYi5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS1jb3JlLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvb3duZXItY2VudGVyLXNkay5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL3BsdWdpbi1jb21tb24tcmVzb3VyY2VzLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLXBsYWNlaG9sZGVyLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLWxvZ29uLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLXZlaGljbGUtc3RhdHVzLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvcGx1Z2luLWtleS1mb2IuZ2l0IFwKICAgICYmIGdpdCBjbG9uZSBzc2g6Ly9naXRAb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb206Nzk5OS9hZy9wbHVnaW4tZGV2ZWxvcGVyLXByZWZlcmVuY2VzLmdpdCBcCiAgICAmJiBnaXQgY2xvbmUgc3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvZ2VtaW5pLWF1dGguZ2l0IFwKICAgICYmIGdpdCBjbG9uZSBzc2g6Ly9naXRAb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb206Nzk5OS9hZy9nZW1pbmktZGF0YS5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS1tb2RlbC5naXQgXAogICAgJiYgZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2dlbWluaS1jcnlwdG8uZ2l0IFwKICAgICYmIGdpdCBjbG9uZSBzc2g6Ly9naXRAb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb206Nzk5OS9hZy9nZW1pbmktc2RrLmdpdAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         exclude module: 'support-v4'
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzdXBwb3J0LXY0Jwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBleGNsdWRlIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14558,13 +14564,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBsb2NhbC5nZW1pbmlfY29yZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBleGNsdWRlIG1vZHVsZTogJ3N1cHBvcnQtdjQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQo=</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBsb2NhbC5nZW1pbmlfY29yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQoK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgY29yZS5nZW1pbmlfY29yZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -14577,7 +14583,7 @@
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
