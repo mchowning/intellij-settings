@@ -909,7 +909,8 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/build.gradle" timestamp="1468857262296">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1469726132498">
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1470313448175">
+        <mark key="'" line="183" column="8" />
         <mark key="[" line="50" column="5" />
         <mark key="]" line="51" column="3" />
         <mark key="." line="51" column="3" />
@@ -2531,7 +2532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="66" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="74" column="58" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="0" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2631,6 +2631,7 @@
       <jump line="123" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="84" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
+      <jump line="183" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13234,7 +13235,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1pbmRlcnNCdXR0b25UaWxlXD4=</text>
+        <text>hide</text>
       </register>
       <register name="0" type="4">
         <text>YOUR_ENCRYPTED_ARTIFACTORY_PASSWORD</text>
@@ -14586,9 +14587,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1pbmRlcnNCdXR0b25UaWxlXD4=</last-search>
+      <last-search>hide</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1pbmRlcnNCdXR0b25UaWxlXD4=</last-pattern>
+      <last-pattern>hide</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14596,7 +14597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setVeritcalGravity</entry>
         <entry>23</entry>
         <entry>22</entry>
         <entry>appcompat</entry>
@@ -14616,6 +14616,7 @@
         <entry encoding="base64">XDxzZWFyY2hCdXR0b25UZXh0UmVzXD4=</entry>
         <entry>getbuttontitle</entry>
         <entry encoding="base64">XDxyZW1pbmRlcnNCdXR0b25UaWxlXD4=</entry>
+        <entry>hide</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
