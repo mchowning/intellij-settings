@@ -612,6 +612,11 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" timestamp="1470154651232">
+        <mark key="'" line="98" column="8" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="105" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoTablePresenter.java" timestamp="1469045223666">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -1689,6 +1694,11 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" timestamp="1470397462157">
+        <mark key="'" line="312" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/RxJava/src/main/java/rx/internal/operators/OnSubscribePublishMulticast.java" timestamp="1467149195230">
         <mark key="[" line="204" column="20" />
         <mark key="]" line="204" column="25" />
@@ -2553,28 +2563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="42" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="68" column="73" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="69" column="14" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="80" column="18" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="82" column="37" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="34" column="31" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
-      <jump line="90" column="20" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
-      <jump line="91" column="50" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
-      <jump line="24" column="74" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
-      <jump line="42" column="15" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtons.java" />
-      <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="53" column="33" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="54" column="19" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/SendNavButtonPresenter.java" />
-      <jump line="252" column="25" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="95" column="46" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockButtons.java" />
-      <jump line="105" column="46" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockButtons.java" />
-      <jump line="119" column="46" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockButtons.java" />
-      <jump line="32" column="34" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceReminderInfoBlock.java" />
-      <jump line="20" column="100" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceReminderInfoBlock.java" />
-      <jump line="70" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
-      <jump line="13" column="20" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="58" column="5" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="82" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragment.java" />
       <jump line="181" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragment.java" />
@@ -2653,6 +2641,28 @@
       <jump line="36" column="32" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/PluginKeyFob.java" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
       <jump line="479" column="18" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
+      <jump line="185" column="32" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="189" column="47" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="194" column="26" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="195" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="196" column="45" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="197" column="47" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="201" column="25" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="204" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="233" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="273" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="280" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="285" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="290" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="295" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="334" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="344" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="68" column="37" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="161" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="302" column="4" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="306" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="307" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
+      <jump line="312" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13256,7 +13266,7 @@
         <text encoding="base64">Tm9uTnVsbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>quickView</text>
+        <text encoding="base64">XDxtYXBJbmZvQmxvY2tIZWFkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogIi4uLy4uL3Byb2plY3Qtc2V0dGluZ3MvZGVwZW5kZW5jaWVzLmdyYWRsZSIK</text>
@@ -14605,9 +14615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quickView</last-search>
+      <last-search encoding="base64">XDxtYXBJbmZvQmxvY2tIZWFkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>quickView</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBJbmZvQmxvY2tIZWFkZXJcPg==</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14615,12 +14625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gettoken</entry>
-        <entry encoding="base64">XDxWZWhpY2xlVGFza1Rva2VuUmVxdWVzdENhbGxiYWNrXD4=</entry>
-        <entry>channel</entry>
-        <entry>Debug</entry>
-        <entry>getSelected</entry>
-        <entry>asdlfj</entry>
         <entry>update</entry>
         <entry encoding="base64">XDx1cGRhdGVCdXR0b25UaXRsZVw+</entry>
         <entry encoding="base64">XDxzZXJ2aWNlUmVtaW5kZXJzTWFpbkluZm9CbG9ja1w+</entry>
@@ -14635,6 +14639,12 @@
         <entry encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
         <entry>asldjkf</entry>
         <entry>quickView</entry>
+        <entry>parkingInfo</entry>
+        <entry>parking</entry>
+        <entry>mapInfoBlockHea</entry>
+        <entry>mapInfo</entry>
+        <entry>info_block_hea</entry>
+        <entry encoding="base64">XDxtYXBJbmZvQmxvY2tIZWFkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
