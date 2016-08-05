@@ -390,11 +390,11 @@
         <mark key="^" line="25" column="82" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/build.gradle" timestamp="1470336394735">
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/build.gradle" timestamp="1470338729778">
         <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/model/OAuthTokenMap.java" timestamp="1466590639968">
         <mark key="[" line="32" column="72" />
@@ -907,12 +907,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/build.gradle" timestamp="1468857262296">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1470335550997">
-        <mark key="'" line="206" column="8" />
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="66" />
-        <mark key="^" line="35" column="66" />
-        <mark key="." line="35" column="66" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1470339102044">
+        <mark key="'" line="208" column="8" />
+        <mark key="[" line="134" column="49" />
+        <mark key="]" line="135" column="41" />
+        <mark key="^" line="135" column="41" />
+        <mark key="." line="135" column="41" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/hw/import_parser/testInput.txt" timestamp="1422934913972">
         <mark key="[" line="11" column="6" />
@@ -1289,6 +1289,7 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="21" column="63" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/plugin-logon/src/main/java/com/gm/gemini/pluginlogon/ui/pinscreen/PinFragment.java" timestamp="1470338147495" />
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/build.gradle" timestamp="1469798883664">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="14" column="42" />
@@ -1712,11 +1713,11 @@
         <mark key="^" line="42" column="29" />
         <mark key="." line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobQuickViewPresenter.java" timestamp="1470336899254">
-        <mark key="[" line="61" column="19" />
-        <mark key="]" line="61" column="49" />
-        <mark key="^" line="61" column="49" />
-        <mark key="." line="61" column="49" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobQuickViewPresenter.java" timestamp="1470338487583">
+        <mark key="[" line="61" column="70" />
+        <mark key="]" line="61" column="58" />
+        <mark key="^" line="61" column="58" />
+        <mark key="." line="61" column="58" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProviderAAAAAA.java" timestamp="1461768120180">
         <mark key="[" line="16" column="0" />
@@ -2200,11 +2201,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" timestamp="1468858189549">
         <mark key="'" line="128" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/app/build.gradle" timestamp="1470336419966">
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/app/build.gradle" timestamp="1470338720362">
         <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/META-INF/gradle-plugins/com.gm.gemini.feature-plugin.properties" timestamp="1457459947281">
         <mark key="[" line="0" column="35" />
@@ -2657,8 +2658,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getPre</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13252,7 +13253,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getPre</text>
+        <text encoding="base64">Tm9uTnVsbCA=</text>
       </register>
       <register name="/" type="4">
         <text>quickView</text>
@@ -13264,7 +13265,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13291,19 +13292,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14591,13 +14592,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudE1hbmFnZXIuYWRkT25CYWNrU3RhY2tDaGFuZ2VkTGlzdGVuZXIobmV3IEZyYWdtZW50TWFuYWdlci5PbkJhY2tTdGFja0NoYW5nZWRMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQmFja1N0YWNrQ2hhbmdlZCgpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvQmxvY2tCdXR0b25zLgo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudE1hbmFnZXIuYWRkT25CYWNrU3RhY2tDaGFuZ2VkTGlzdGVuZXIobmV3IEZyYWdtZW50TWFuYWdlci5PbkJhY2tTdGFja0NoYW5nZWRMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQmFja1N0YWNrQ2hhbmdlZCgpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
