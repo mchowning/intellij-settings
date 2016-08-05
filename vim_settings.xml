@@ -243,8 +243,8 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DepartureTimeTableInfoBlock.java" timestamp="1468603836149">
         <mark key="'" line="52" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" timestamp="1470411789210">
-        <mark key="'" line="130" column="26" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" timestamp="1470418439162">
+        <mark key="'" line="60" column="39" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" timestamp="1469467808151">
         <mark key="'" line="200" column="0" />
@@ -597,8 +597,11 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" timestamp="1470410756826">
-        <mark key="'" line="122" column="27" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" timestamp="1470419380650">
+        <mark key="'" line="7" column="54" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-command-history/src/main/java/com/gm/plugin/commands_history/ui/fullscreen/CommandHistoryDetailFragmentModule.java" timestamp="1464969601509">
         <mark key="[" line="33" column="36" />
@@ -2565,35 +2568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragment.java" />
-      <jump line="53" column="15" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" />
-      <jump line="5" column="26" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/views/KeyFobQuickView.java" />
-      <jump line="153" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="376" column="29" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="329" column="42" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="24" column="37" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="191" column="60" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="200" column="49" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="212" column="53" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/sdk/tasks/vehicle/AsynchronousVehicleTask.java" />
-      <jump line="160" column="42" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
-      <jump line="174" column="19" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
-      <jump line="51" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.3.0-SNAPSHOT/d9c0037acd49cf3aba10217ae2f647d07c952e5/gemini-app-shell-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" />
-      <jump line="51" column="21" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="144" column="23" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiApplication.java" />
-      <jump line="109" column="86" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/GeminiPluginApplication.java" />
-      <jump line="85" column="13" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
-      <jump line="92" column="39" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
-      <jump line="549" column="20" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="26" column="36" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="92" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="75" column="44" filename="$USER_HOME$/dev/gm/omnibus-repo/project-settings/dependencies.gradle" />
-      <jump line="72" column="21" filename="$USER_HOME$/dev/gm/omnibus-repo/project-settings/dependencies.gradle" />
-      <jump line="33" column="63" filename="$USER_HOME$/dev/gm/omnibus-repo/project-settings/dependencies.gradle" />
-      <jump line="46" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
-      <jump line="395" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
-      <jump line="53" column="65" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
-      <jump line="109" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="110" column="36" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="112" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="158" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
@@ -2659,19 +2633,48 @@
       <jump line="160" column="27" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="163" column="23" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="191" column="37" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="16" column="22" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="60" column="21" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="61" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="115" column="10" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="122" column="27" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="130" column="26" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="60" column="19" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="61" column="15" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="115" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="119" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="121" column="23" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="145" column="59" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="146" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="147" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="149" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="201" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
+      <jump line="64" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="8" column="33" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="40" column="15" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="45" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="80" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="92" column="63" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="94" column="28" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="101" column="25" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="103" column="74" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="34" column="19" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
+      <jump line="60" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
+      <jump line="13" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="114" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="116" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="132" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="192" column="23" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="196" column="15" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="17" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="118" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="120" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="122" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="7" column="54" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gb3BlbiBxdWlja3ZpZXcgYmVjYXVzZSB3ZSBqdXN0IGNhbWUgYmFjayAK</text>
+        <text encoding="base64">ICAgICAgICBkcmFnZ2FibGVWaWV3LnNldFgK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13268,7 +13271,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>setoverhang</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogIi4uLy4uL3Byb2plY3Qtc2V0dGluZ3MvZGVwZW5kZW5jaWVzLmdyYWRsZSIK</text>
@@ -13277,7 +13280,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gb3BlbiBxdWlja3ZpZXcgYmVjYXVzZSB3ZSBqdXN0IGNhbWUgYmFjayAK</text>
+        <text encoding="base64">ICAgICAgICBkcmFnZ2FibGVWaWV3LnNldFgK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13303,17 +13306,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gb3BlbiBxdWlja3ZpZXcgYmVjYXVzZSB3ZSBqdXN0IGNhbWUgYmFjayAK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
@@ -14604,22 +14607,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>setoverhang</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern>setoverhang</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14627,16 +14630,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2aWNlUmVtaW5kZXJzTWFpbkluZm9CbG9ja1w+</entry>
-        <entry encoding="base64">XDxzZWFyY2hCdXR0b25UZXh0UmVzXD4=</entry>
-        <entry>getbuttontitle</entry>
-        <entry encoding="base64">XDxyZW1pbmRlcnNCdXR0b25UaWxlXD4=</entry>
-        <entry>hide</entry>
-        <entry>show</entry>
-        <entry encoding="base64">XDxRdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
-        <entry>getDashboard</entry>
-        <entry encoding="base64">XDxlbmdpbmVcPg==</entry>
-        <entry encoding="base64">XDxxdWlja1ZpZXdDb250cm9sbGVyXD4=</entry>
         <entry>asldjkf</entry>
         <entry>quickView</entry>
         <entry>parkingInfo</entry>
@@ -14647,6 +14640,16 @@
         <entry encoding="base64">XDxtYXBJbmZvQmxvY2tIZWFkZXJcPg==</entry>
         <entry>open</entry>
         <entry>setoverhang</entry>
+        <entry>isOpen</entry>
+        <entry encoding="base64">XDxpc09wZW5cPg==</entry>
+        <entry encoding="base64">XDxsZWZ0XD4=</entry>
+        <entry>overhang</entry>
+        <entry>left</entry>
+        <entry encoding="base64">XDx2aWV3RHJhZ0hlbHBlclw+</entry>
+        <entry>visible</entry>
+        <entry encoding="base64">XDxob3Jpem9udGFsUmFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50SG9yaXpvbnRhbFBvc2l0aW9uXD4=</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
