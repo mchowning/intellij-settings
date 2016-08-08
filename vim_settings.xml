@@ -1960,6 +1960,9 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/infoblock/offer/FeaturedOfferInfoBlockPresenter.java" timestamp="1468855100762">
         <mark key="'" line="61" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/datasource/BleVehicle.java" timestamp="1470660110857">
+        <mark key="'" line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/gradle/wrapper/gradle-wrapper.properties" timestamp="1463412065598">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -2578,7 +2581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="158" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="159" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="160" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
@@ -2678,6 +2680,7 @@
       <jump line="122" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="7" column="54" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="175" column="4" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/dev/gm/omnibus-repo/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/datasource/BleVehicle.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13281,7 +13284,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsYmFja1w+</text>
+        <text>rssi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogIi4uLy4uL3Byb2plY3Qtc2V0dGluZ3MvZGVwZW5kZW5jaWVzLmdyYWRsZSIK</text>
@@ -14630,9 +14633,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
+      <last-search>rssi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
+      <last-pattern>rssi</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14640,7 +14643,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asldjkf</entry>
         <entry>quickView</entry>
         <entry>parkingInfo</entry>
         <entry>parking</entry>
@@ -14660,6 +14662,7 @@
         <entry encoding="base64">XDxob3Jpem9udGFsUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50SG9yaXpvbnRhbFBvc2l0aW9uXD4=</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry>rssi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
