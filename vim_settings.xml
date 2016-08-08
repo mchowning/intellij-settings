@@ -243,8 +243,12 @@
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DepartureTimeTableInfoBlock.java" timestamp="1468603836149">
         <mark key="'" line="52" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" timestamp="1470418439162">
-        <mark key="'" line="60" column="39" />
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" timestamp="1470658756351">
+        <mark key="'" line="175" column="4" />
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="175" column="20" />
+        <mark key="^" line="175" column="20" />
+        <mark key="." line="175" column="20" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" timestamp="1469467808151">
         <mark key="'" line="200" column="0" />
@@ -2568,7 +2572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="36" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="112" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="158" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="159" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
@@ -2668,6 +2671,7 @@
       <jump line="120" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="122" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="7" column="54" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
+      <jump line="175" column="4" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
