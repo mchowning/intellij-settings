@@ -13280,7 +13280,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>rssi</text>
+        <text>invalidate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogIi4uLy4uL3Byb2plY3Qtc2V0dGluZ3MvZGVwZW5kZW5jaWVzLmdyYWRsZSIK</text>
@@ -14629,17 +14629,16 @@
       </register>
     </registers>
     <search>
-      <last-search>rssi</last-search>
+      <last-search>invalidate</last-search>
       <last-offset />
-      <last-pattern>rssi</last-pattern>
+      <last-pattern>invalidate</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>quickView</entry>
         <entry>parkingInfo</entry>
         <entry>parking</entry>
         <entry>mapInfoBlockHea</entry>
@@ -14659,6 +14658,7 @@
         <entry encoding="base64">XDxjdXJyZW50SG9yaXpvbnRhbFBvc2l0aW9uXD4=</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry>rssi</entry>
+        <entry>invalidate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
