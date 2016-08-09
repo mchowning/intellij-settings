@@ -51,7 +51,11 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1470757415432" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1470761493102">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -899,7 +903,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.3.0-SNAPSHOT/d9c0037acd49cf3aba10217ae2f647d07c952e5/gemini-app-shell-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" timestamp="1469799185282">
         <mark key="'" line="51" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1470757393121">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1470761485442">
+        <mark key="'" line="21" column="4" />
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
@@ -2597,9 +2602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
-      <jump line="194" column="18" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/VehicleTask.java" />
-      <jump line="110" column="38" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
       <jump line="98" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
       <jump line="30" column="34" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/PluginComponent.java" />
       <jump line="91" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersMainInfoBlock.java" />
@@ -2697,13 +2699,16 @@
       <jump line="77" column="79" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
       <jump line="101" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
       <jump line="102" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
+      <jump line="27" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="73" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="21" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>3.3.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9leHQuZ2VtaW5pX2NvcmUgPSAiY29tLmdtLmdlbWluaS5zZGs6Z2VtaW5pLWNvcmU6VmFsZW50aW5lLVNOQVBTSE9UIgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13297,19 +13302,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3.3.0</text>
+        <text>$localVersion</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnZW1pbmlBcnRpZmFjdFZlcnNpb24K</text>
+        <text encoding="base64">ZXh0LmdlbWluaV9jb3JlID0gImNvbS5nbS5nZW1pbmkuc2RrOmdlbWluaS1jb3JlOiRsb2NhbFZlcnNpb24iCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">Ly9leHQuZ2VtaW5pX2NvcmUgPSAiY29tLmdtLmdlbWluaS5zZGs6Z2VtaW5pLWNvcmU6VmFsZW50aW5lLVNOQVBTSE9UIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13336,19 +13341,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudC5nZXRUYWcoKQo=</text>
+        <text encoding="base64">ZG9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkcmFnZ2FibGVWaWV3LnNldFgK</text>
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudC5nZXRUYWcoKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkcmFnZ2FibGVWaWV3LnNldFgK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gb3BlbiBxdWlja3ZpZXcgYmVjYXVzZSB3ZSBqdXN0IGNhbWUgYmFjayAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14636,10 +14641,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwcmV2aW91c2x5RGlzcGxheWVkRnJhZ21lbnQgPSBnZXRDdXJyZW50bHlEaXNwbGF5ZWRGcmFnbWVudCgpLmdldENsYXNzKCk7Cg==</text>
@@ -14649,9 +14654,9 @@
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14659,7 +14664,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parkingInfo</entry>
         <entry>parking</entry>
         <entry>mapInfoBlockHea</entry>
         <entry>mapInfo</entry>
@@ -14679,6 +14683,7 @@
         <entry>rssi</entry>
         <entry>invalidate</entry>
         <entry>open</entry>
+        <entry encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
