@@ -1043,6 +1043,9 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragment.java" timestamp="1470834137987">
+        <mark key="'" line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning/client/FileReadWriteClientCLI.scala" timestamp="1466473517587">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -2596,7 +2599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="34" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/PluginComponent.java" />
       <jump line="91" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersMainInfoBlock.java" />
       <jump line="122" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="55" column="13" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
@@ -2696,6 +2698,7 @@
       <jump line="73" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="21" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="43" column="11" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/DealerLocateFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13299,7 +13302,7 @@
         <text>com.gm.gmoc.dealer.</text>
       </register>
       <register name="/" type="4">
-        <text>any(</text>
+        <text>dealer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9pbXBvcnQgY29tLmdtLmdtb2MuZGVhbGVyLkRlYWxlcjsKLy9pbXBvcnQgY29tLmdtLmdtb2MuZGVhbGVyLkRlYWxlckxvY2F0ZVN0cmF0ZWd5RmFjdG9yeTsKLy9pbXBvcnQgY29tLmdtLmdtb2MuZXJyb3IuTmV0d29ya2luZ0V4Y2VwdGlvbjsK</text>
@@ -14648,9 +14651,9 @@
       </register>
     </registers>
     <search>
-      <last-search>any(</last-search>
+      <last-search>dealer</last-search>
       <last-offset />
-      <last-pattern>any(</last-pattern>
+      <last-pattern>dealer</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14658,7 +14661,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mapInfoBlockHea</entry>
         <entry>mapInfo</entry>
         <entry>info_block_hea</entry>
         <entry encoding="base64">XDxtYXBJbmZvQmxvY2tIZWFkZXJcPg==</entry>
@@ -14678,6 +14680,7 @@
         <entry>open</entry>
         <entry encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</entry>
         <entry>any(</entry>
+        <entry>dealer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
