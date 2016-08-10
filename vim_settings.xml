@@ -1530,6 +1530,12 @@
         <mark key="^" line="47" column="54" />
         <mark key="." line="46" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/build.gradle" timestamp="1470832956192">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/CriticalDiagnosticUtil.java" timestamp="1461865470265">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="10" />
@@ -2590,7 +2596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini/app/build.gradle" />
       <jump line="30" column="34" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/PluginComponent.java" />
       <jump line="91" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersMainInfoBlock.java" />
       <jump line="122" column="17" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
@@ -2690,13 +2695,14 @@
       <jump line="27" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="73" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="21" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="43" column="11" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECgo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmdtLmdtb2MuZGVhbGVyLkRlYWxlcjsKLy9pbXBvcnQgY29tLmdtLmdtb2MuZGVhbGVyLkRlYWxlckxvY2F0ZVN0cmF0ZWd5RmFjdG9yeTsKLy9pbXBvcnQgY29tLmdtLmdtb2MuZXJyb3IuTmV0d29ya2luZ0V4Y2VwdGlvbjsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13290,19 +13296,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$localVersion</text>
+        <text>com.gm.gmoc.dealer.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</text>
+        <text>any(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXh0LmdlbWluaV9jb3JlID0gImNvbS5nbS5nZW1pbmkuc2RrOmdlbWluaS1jb3JlOiRsb2NhbFZlcnNpb24iCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmdtLmdtb2MuZGVhbGVyLkRlYWxlcjsKLy9pbXBvcnQgY29tLmdtLmdtb2MuZGVhbGVyLkRlYWxlckxvY2F0ZVN0cmF0ZWd5RmFjdG9yeTsKLy9pbXBvcnQgY29tLmdtLmdtb2MuZXJyb3IuTmV0d29ya2luZ0V4Y2VwdGlvbjsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13329,19 +13335,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQpkZWYgZ2VtaW5pQ3VycmVudFZlcnNpb24gPSAnMy4yLjAnCj4+Pj4+Pj4gb3JpZ2luL3JlbGVhc2UvcmMzLjIuMAo=</text>
+        <text encoding="base64">ICAgICAgICA9PT09PT09Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vcmVsZWFzZS9yYzMuMi4wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgQE1vY2sKICAgIC8vcHJpdmF0ZSBEYXNoYm9hcmRGcmFnbWVudFByZXNlbnRlci5GcmFnbWVudEludGVyZmFjZSBtb2NrRGFzaGJvYXJkVmlldzsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBQbHVnaW4gbW9ja1BsdWdpbjsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBQbHVnaW4gbW9ja1BsdWdpbjI7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgVmlldyBtb2NrUGx1Z2luVmlldzsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBWaWV3IG1vY2tQbHVnaW4yVmlldzsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBBdXRoTWFuYWdlciBtb2NrQXV0aE1hbmFnZXI7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgUm91dGVyIG1vY2tSb3V0ZXI7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgUGx1Z2luRW5naW5lIG1vY2tFbmdpbmU7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgUXVpY2tWaWV3Q29udHJvbGxlciBtb2NrUXVpY2tWaWV3Q29udHJvbGxlcjsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBDb21tYW5kU3RhdHVzVXRpbCBtb2NrQ29tbWFuZFN0YXR1c1V0aWw7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgT3B0aW9uYWw8PyBleHRlbmRzIExpc3Q8PyBleHRlbmRzIFZlaGljbGU+PiBtb2NrVmVoaWNsZXM7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgRXZlbnRCdXMgbW9ja0V2ZW50QnVzOwogICAgLy9ATW9jawogICAgLy9wcml2YXRlIFJlZnJlc2hhYmxlVmVoaWNsZUVudGl0bGVtZW50IG1vY2tSZWZyZXNoYWJsZVZlaGljbGVFbnRpdGxlbWVudDsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBPblN0YXJEYXRhUmVmcmVzaFZpZXdEZWxlZ2F0ZSBtb2NrT25TdGFyRGF0YVJlZnJlc2hWaWV3RGVsZWdhdGU7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgT3JkZXJQbHVnaW4gbW9ja09yZGVyYWJsZVBsdWdpbjsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBPcmRlclBsdWdpbiBtb2NrT3JkZXJhYmxlUGx1Z2luMjsKICAgIC8vQE1vY2sKICAgIC8vcHJpdmF0ZSBRdWlja1ZpZXdDb250YWluZXJMYXlvdXQgbW9ja0Rhc2hib2FyZENhcmRWaWV3OwogICAgLy9ATW9jawogICAgLy9wcml2YXRlIFF1aWNrVmlld0NvbnRhaW5lckxheW91dCBtb2NrRGFzaGJvYXJkQ2FyZFZpZXcyOwogICAgLy9ATW9jawogICAgLy9wcml2YXRlIEFuZHJvaWREZXZpY2VVdGlscyBtb2NrRGV2aWNlVXRpbHM7CiAgICAvL0BNb2NrCiAgICAvL3ByaXZhdGUgUnhVdGlsIG1vY2tSeFV0aWxzOwo+Pj4+Pj4+IG9yaWdpbi9yZWxlYXNlL3JjMy4yLjAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9leHQuZ2VtaW5pX2NvcmUgPSAiY29tLmdtLmdlbWluaS5zZGs6Z2VtaW5pLWNvcmU6VmFsZW50aW5lLVNOQVBTSE9UIgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBzdGF0aWMgb3JnLm1vY2tpdG8uTWF0Y2hlcnMuYW55U3RyaW5nOwo9PT09PT09CmltcG9ydCBzdGF0aWMgb3JnLm1vY2tpdG8uTWF0Y2hlcnMuYW55Owo+Pj4+Pj4+IG9yaWdpbi9yZWxlYXNlL3JjMy4yLjAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14629,22 +14635,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudC5nZXRUYWcoKQo=</text>
+        <text encoding="base64">PT09PT09PQpkZWYgZ2VtaW5pQ3VycmVudFZlcnNpb24gPSAnMy4yLjAnCj4+Pj4+Pj4gb3JpZ2luL3JlbGVhc2UvcmMzLjIuMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkcmFnZ2FibGVWaWV3LnNldFgK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</last-search>
+      <last-search>any(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</last-pattern>
+      <last-pattern>any(</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14652,7 +14658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parking</entry>
         <entry>mapInfoBlockHea</entry>
         <entry>mapInfo</entry>
         <entry>info_block_hea</entry>
@@ -14672,6 +14677,7 @@
         <entry>invalidate</entry>
         <entry>open</entry>
         <entry encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</entry>
+        <entry>any(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
