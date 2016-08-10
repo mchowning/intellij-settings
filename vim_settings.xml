@@ -2290,6 +2290,9 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1470849701559">
+        <mark key="'" line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -2605,7 +2608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="84" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-vehicle-service/plugin-vehicle-service/src/main/java/com/gm/plugin/vehicle_service/ui/fullscreen/servicereminders/ServiceRemindersFragmentPresenter.java" />
       <jump line="183" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
@@ -2705,6 +2707,7 @@
       <jump line="528" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
       <jump line="695" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
       <jump line="698" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
+      <jump line="10" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13308,7 +13311,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NrTG9jYXRpb25cPg==</text>
+        <text>translation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HCg==</text>
@@ -14657,9 +14660,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2NrTG9jYXRpb25cPg==</last-search>
+      <last-search>translation</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NrTG9jYXRpb25cPg==</last-pattern>
+      <last-pattern>translation</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14667,7 +14670,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBJbmZvQmxvY2tIZWFkZXJcPg==</entry>
         <entry>setoverhang</entry>
         <entry>isOpen</entry>
         <entry encoding="base64">XDxpc09wZW5cPg==</entry>
@@ -14687,6 +14689,7 @@
         <entry>dealer</entry>
         <entry>locationFacade</entry>
         <entry encoding="base64">XDxtb2NrTG9jYXRpb25cPg==</entry>
+        <entry>translation</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
