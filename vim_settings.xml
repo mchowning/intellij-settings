@@ -51,7 +51,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1470848056846">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1470928169051">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -1579,8 +1579,12 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1470927148849">
-        <mark key="'" line="289" column="38" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1470928454891">
+        <mark key="'" line="310" column="41" />
+        <mark key="[" line="314" column="51" />
+        <mark key="]" line="314" column="77" />
+        <mark key="." line="314" column="77" />
+        <mark key="^" line="314" column="77" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
@@ -2182,8 +2186,12 @@
       <file name="$USER_HOME$/dev/android-tools/android-sdk-macosx/extras/android/m2repository/com/android/support/recyclerview-v7/22.2.1/recyclerview-v7-22.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1468805144433">
         <mark key="'" line="7935" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1470927804644">
-        <mark key="'" line="28" column="4" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1470928151727">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="53" />
+        <mark key="^" line="43" column="53" />
+        <mark key="." line="43" column="53" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" timestamp="1466866090423">
         <mark key="[" line="41" column="0" />
@@ -2368,6 +2376,13 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1470929270822">
+        <mark key="'" line="144" column="15" />
+        <mark key="[" line="142" column="12" />
+        <mark key="]" line="142" column="16" />
+        <mark key="." line="142" column="16" />
+        <mark key="^" line="142" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
@@ -2621,24 +2636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="51" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="87" column="22" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="36" column="32" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/PluginKeyFob.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="479" column="18" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/KeyFobFragmentPresenter.java" />
-      <jump line="185" column="32" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="189" column="47" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="194" column="26" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="195" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="196" column="45" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="197" column="47" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="201" column="25" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="204" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="233" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="273" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="280" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="285" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="290" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="295" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="334" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="344" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
@@ -2721,13 +2718,31 @@
       <jump line="70" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="81" column="114" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="28" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
+      <jump line="368" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="387" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="560" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="38" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="44" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="209" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="310" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="313" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="388" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="561" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="572" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="296" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="250" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="308" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="309" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="311" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13321,19 +13336,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>clearBack</text>
+        <text>alsdfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoInRlc3RpbmciLCAiRGlzcGxheURhc2hib2FyZEV2ZW50OiBkaXNtaXNzUHJvZ3Jlc3NEaWFsb2coKSIpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJEaXNwbGF5RGFzaGJvYXJkRXZlbnQiKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13359,20 +13374,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB0aGVpcnMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14660,22 +14675,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBvdXJzCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiB0aGVpcnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBvdXJzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>217</text>
       </register>
     </registers>
     <search>
-      <last-search>clearBack</last-search>
+      <last-search>alsdfj</last-search>
       <last-offset />
-      <last-pattern>clearBack</last-pattern>
+      <last-pattern>alsdfj</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14683,11 +14698,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3RHJhZ0hlbHBlclw+</entry>
-        <entry>visible</entry>
-        <entry encoding="base64">XDxob3Jpem9udGFsUmFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxjdXJyZW50SG9yaXpvbnRhbFBvc2l0aW9uXD4=</entry>
-        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry>rssi</entry>
         <entry>invalidate</entry>
         <entry>open</entry>
@@ -14703,9 +14713,13 @@
         <entry encoding="base64">XDxVbmF1dGhlbnRpY2F0ZWRVc2VyRW50aXRsZW1lbnRcPg==</entry>
         <entry encoding="base64">XDx1bmF1dGhVc2VyRW50aXRsZW1lbnRcPg==</entry>
         <entry>clearBack</entry>
+        <entry>Dashb</entry>
+        <entry>clear</entry>
+        <entry>Dashboard</entry>
+        <entry>core</entry>
+        <entry>alsdfj</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZpbmRPbnMvZ2V0T25zL2c=</entry>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
         <entry>225</entry>
         <entry>302</entry>
@@ -14725,6 +14739,7 @@
         <entry>NERDTreeToggle</entry>
         <entry>46</entry>
         <entry>wq</entry>
+        <entry>217</entry>
       </history-cmd>
       <history-expr />
       <history-input />
