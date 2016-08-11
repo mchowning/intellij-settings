@@ -614,12 +614,6 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" timestamp="1470419380650">
-        <mark key="'" line="7" column="54" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-command-history/src/main/java/com/gm/plugin/commands_history/ui/fullscreen/CommandHistoryDetailFragmentModule.java" timestamp="1464969601509">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="39" />
@@ -2044,6 +2038,9 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" timestamp="1470933111425">
+        <mark key="'" line="38" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="4" />
@@ -2125,6 +2122,11 @@
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-schedule-service/plugin-schedule-service/src/main/java/com/gm/plugin/schedule_service/ui/fullscreen/NaScheduleServiceFragmentPresenter.java" timestamp="1469100852970">
         <mark key="'" line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/gemini/service/web/entitlements/VehicleLocationEntitlement.java" timestamp="1470933087105">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientReadInboundFileHandler.java" timestamp="1466734808665">
         <mark key="[" line="14" column="0" />
@@ -2636,12 +2638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="334" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="344" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="68" column="37" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="161" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
-      <jump line="302" column="4" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="306" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="307" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="312" column="8" filename="$USER_HOME$/dev/gm/omnibus-repo/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
@@ -2736,6 +2732,12 @@
       <jump line="311" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="337" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
+      <jump line="52" column="60" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
+      <jump line="58" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
+      <jump line="216" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
+      <jump line="15" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
+      <jump line="38" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13339,7 +13341,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>alsdfj</text>
+        <text>Entitlement</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoInRlc3RpbmciLCAiRGlzcGxheURhc2hib2FyZEV2ZW50OiBkaXNtaXNzUHJvZ3Jlc3NEaWFsb2coKSIpOwo=</text>
@@ -14688,9 +14690,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alsdfj</last-search>
+      <last-search>Entitlement</last-search>
       <last-offset />
-      <last-pattern>alsdfj</last-pattern>
+      <last-pattern>Entitlement</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14698,7 +14700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rssi</entry>
         <entry>invalidate</entry>
         <entry>open</entry>
         <entry encoding="base64">XDxhcnRpZmFjdFZlcnNpb25cPg==</entry>
@@ -14718,6 +14719,7 @@
         <entry>Dashboard</entry>
         <entry>core</entry>
         <entry>alsdfj</entry>
+        <entry>Entitlement</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
