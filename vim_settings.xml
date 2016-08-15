@@ -51,8 +51,8 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471281830726">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471283984850">
+        <mark key="[" line="29" column="22" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -145,9 +145,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="9" column="27" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" timestamp="1471275438547">
-        <mark key="'" line="209" column="40" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_1_4-5.txt" timestamp="1423192717508">
         <mark key="[" line="0" column="0" />
@@ -613,6 +610,12 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" timestamp="1470419380650">
+        <mark key="'" line="7" column="54" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-command-history/src/main/java/com/gm/plugin/commands_history/ui/fullscreen/CommandHistoryDetailFragmentModule.java" timestamp="1464969601509">
         <mark key="[" line="33" column="36" />
@@ -1584,13 +1587,6 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1471282104461">
-        <mark key="'" line="310" column="41" />
-        <mark key="[" line="313" column="8" />
-        <mark key="]" line="313" column="9" />
-        <mark key="." line="313" column="9" />
-        <mark key="^" line="313" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -2199,6 +2195,9 @@
       <file name="$USER_HOME$/dev/android-tools/android-sdk-macosx/extras/android/m2repository/com/android/support/recyclerview-v7/22.2.1/recyclerview-v7-22.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1468805144433">
         <mark key="'" line="7935" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1471284450118">
+        <mark key="'" line="135" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" timestamp="1466866090423">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -2317,7 +2316,6 @@
         <mark key="'" line="10" column="14" />
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="28" />
-        <mark key="^" line="73" column="23" />
         <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
@@ -2642,7 +2640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="80" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="92" column="63" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="94" column="28" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
@@ -2742,6 +2739,7 @@
       <jump line="27" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="45" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="52" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
+      <jump line="135" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13345,7 +13343,7 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>eventBus</text>
+        <text>replace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBiYWNrc3RhY2sgcG9zdC1yZXBsYWNlIGNvdW50OiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEJhY2tTdGFja0VudHJ5Q291bnQoKSArICIsICIgKyBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkpOwo=</text>
@@ -14694,9 +14692,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eventBus</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern>eventBus</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14704,8 +14702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>translation</entry>
-        <entry>DisplayDash</entry>
         <entry>postLaunch</entry>
         <entry>execute</entry>
         <entry encoding="base64">XDxVbmF1dGhlbnRpY2F0ZWRVc2VyRW50aXRsZW1lbnRcPg==</entry>
@@ -14724,6 +14720,8 @@
         <entry>dashboard</entry>
         <entry>unauth</entry>
         <entry>eventBus</entry>
+        <entry>remove</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
