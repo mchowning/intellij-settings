@@ -51,7 +51,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471033348837">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471261396532">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -962,12 +962,12 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" timestamp="1470942224487">
-        <mark key="'" line="97" column="58" />
-        <mark key="[" line="223" column="44" />
-        <mark key="]" line="223" column="44" />
-        <mark key="^" line="223" column="44" />
-        <mark key="." line="223" column="44" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" timestamp="1471261242660">
+        <mark key="'" line="94" column="58" />
+        <mark key="[" line="96" column="40" />
+        <mark key="]" line="96" column="40" />
+        <mark key="^" line="96" column="40" />
+        <mark key="." line="96" column="40" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/gradle/wrapper/gradle-wrapper.properties" timestamp="1462464768219">
         <mark key="[" line="5" column="68" />
@@ -2199,12 +2199,10 @@
       <file name="$USER_HOME$/dev/android-tools/android-sdk-macosx/extras/android/m2repository/com/android/support/recyclerview-v7/22.2.1/recyclerview-v7-22.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1468805144433">
         <mark key="'" line="7935" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1471022579765">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="147" column="9" />
-        <mark key="]" line="148" column="20" />
-        <mark key="." line="148" column="20" />
-        <mark key="^" line="148" column="20" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" timestamp="1471261296350">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" timestamp="1466866090423">
         <mark key="[" line="41" column="0" />
@@ -2754,8 +2752,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>local</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBmcmFnbWVudG1hbmFnZXIgZnJhZ21lbnRzOiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEZyCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13349,19 +13347,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>());</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICsgIiwgIiArIGZyYWdtZW50TWFuYWdlci5nZXRGcmFnbWVudHMoKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBiYWNrc3RhY2sgcG9zdC1yZXBsYWNlIGNvdW50OiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEJhY2tTdGFja0VudHJ5Q291bnQoKSArICIsICIgKyBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBmcmFnbWVudG1hbmFnZXIgZnJhZ21lbnRzOiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEZyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13388,19 +13386,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJEaXNwbGF5RGFzaGJvYXJkRXZlbnQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJEaXNwbGF5RGFzaGJvYXJkRXZlbnQiKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14687,14 +14685,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
