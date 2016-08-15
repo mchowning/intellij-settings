@@ -2279,6 +2279,9 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/styles.xml" timestamp="1469034513240">
         <mark key="'" line="20" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" timestamp="1471288228868">
+        <mark key="'" line="34" column="25" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar!/com/google/gson/JsonObject.java" timestamp="1468858189549">
         <mark key="'" line="128" column="22" />
       </file>
@@ -2640,11 +2643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="63" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="94" column="28" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="101" column="25" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="103" column="74" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
-      <jump line="34" column="19" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
       <jump line="60" column="39" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/QuickViewContainerLayout.java" />
       <jump line="13" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="114" column="16" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
@@ -2740,6 +2738,11 @@
       <jump line="52" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="135" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
       <jump line="183" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="110" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="54" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="154" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
+      <jump line="34" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13343,7 +13346,7 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text encoding="base64">XDxmb290ZXJDb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBiYWNrc3RhY2sgcG9zdC1yZXBsYWNlIGNvdW50OiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEJhY2tTdGFja0VudHJ5Q291bnQoKSArICIsICIgKyBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkpOwo=</text>
@@ -14692,9 +14695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search encoding="base64">XDxmb290ZXJDb250YWluZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern encoding="base64">XDxmb290ZXJDb250YWluZXJcPg==</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14702,10 +14705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>execute</entry>
-        <entry encoding="base64">XDxVbmF1dGhlbnRpY2F0ZWRVc2VyRW50aXRsZW1lbnRcPg==</entry>
-        <entry encoding="base64">XDx1bmF1dGhVc2VyRW50aXRsZW1lbnRcPg==</entry>
-        <entry>clearBack</entry>
         <entry>Dashb</entry>
         <entry>clear</entry>
         <entry>Dashboard</entry>
@@ -14722,6 +14721,10 @@
         <entry>remove</entry>
         <entry>replace</entry>
         <entry>style</entry>
+        <entry>hide</entry>
+        <entry>container</entry>
+        <entry>footer</entry>
+        <entry encoding="base64">XDxmb290ZXJDb250YWluZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
