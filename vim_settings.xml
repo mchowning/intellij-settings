@@ -557,8 +557,8 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1469200375501">
-        <mark key="'" line="90" column="32" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1471286406936">
+        <mark key="'" line="183" column="17" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/learnyouahaskell/PolishCalculator.hs" timestamp="1420044206134">
         <mark key="[" line="0" column="0" />
@@ -2640,7 +2640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="12" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="92" column="63" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="94" column="28" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
       <jump line="101" column="25" filename="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/SlidingViewHelper.java" />
@@ -2740,6 +2739,7 @@
       <jump line="45" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="52" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="135" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
+      <jump line="183" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13343,7 +13343,7 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>replace</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBiYWNrc3RhY2sgcG9zdC1yZXBsYWNlIGNvdW50OiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEJhY2tTdGFja0VudHJ5Q291bnQoKSArICIsICIgKyBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkpOwo=</text>
@@ -14692,9 +14692,9 @@
       </register>
     </registers>
     <search>
-      <last-search>replace</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>replace</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute>Int</last-substitute>
       <last-dir>1</last-dir>
@@ -14702,7 +14702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postLaunch</entry>
         <entry>execute</entry>
         <entry encoding="base64">XDxVbmF1dGhlbnRpY2F0ZWRVc2VyRW50aXRsZW1lbnRcPg==</entry>
         <entry encoding="base64">XDx1bmF1dGhVc2VyRW50aXRsZW1lbnRcPg==</entry>
@@ -14722,6 +14721,7 @@
         <entry>eventBus</entry>
         <entry>remove</entry>
         <entry>replace</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
