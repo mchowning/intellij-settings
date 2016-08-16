@@ -51,7 +51,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471283984850">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471378365533">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -274,7 +274,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" timestamp="1468854860730">
         <mark key="'" line="262" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" timestamp="1471370343790">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" timestamp="1471375106278">
         <mark key="'" line="154" column="17" />
         <mark key="[" line="133" column="5" />
         <mark key="]" line="136" column="28" />
@@ -451,12 +451,6 @@
         <mark key="]" line="6" column="29" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehicleFullScreenPresenter.java" timestamp="1471363392048">
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="36" column="51" />
-        <mark key="^" line="36" column="51" />
       </file>
       <file name="$USER_HOME$/dev/flask-mega-tutorial/db_migrate.py" timestamp="1409680611494">
         <mark key="[" line="13" column="61" />
@@ -905,8 +899,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.3.0-SNAPSHOT/d9c0037acd49cf3aba10217ae2f647d07c952e5/gemini-app-shell-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" timestamp="1469799185282">
         <mark key="'" line="51" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" timestamp="1471370560077">
-        <mark key="'" line="48" column="8" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" timestamp="1471376272680">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="63" column="4" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
         <mark key="[" line="2" column="31" />
@@ -954,11 +951,10 @@
         <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" timestamp="1471280395792">
-        <mark key="'" line="52" column="24" />
-        <mark key="[" line="96" column="40" />
-        <mark key="]" line="96" column="40" />
-        <mark key="^" line="96" column="40" />
-        <mark key="." line="96" column="40" />
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/gradle/wrapper/gradle-wrapper.properties" timestamp="1462464768219">
         <mark key="[" line="5" column="68" />
@@ -1206,13 +1202,6 @@
         <mark key="^" line="78" column="75" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" timestamp="1470839723437">
-        <mark key="'" line="701" column="15" />
-        <mark key="[" line="660" column="55" />
-        <mark key="]" line="660" column="55" />
-        <mark key="." line="660" column="55" />
-        <mark key="^" line="669" column="72" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/ServerUtil.java" timestamp="1464539642247">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="10" />
@@ -1332,6 +1321,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/BaseSequenceHandler.java" timestamp="1471374801195">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts-cabal/src/Main.hs" timestamp="1448902414117">
         <mark key="[" line="27" column="20" />
@@ -2598,15 +2592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
-      <jump line="695" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
-      <jump line="698" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
-      <jump line="10" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="106" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="289" column="38" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="96" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
-      <jump line="42" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
-      <jump line="57" column="58" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="70" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="81" column="114" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="28" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
@@ -2698,13 +2683,22 @@
       <jump line="154" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" />
       <jump line="102" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="48" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="63" column="4" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="48" column="15" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="58" column="0" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="67" column="25" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="7" column="41" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="64" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="42" column="8" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
+      <jump line="46" column="16" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJOb1ZlaGljbGVTZWxlY3RlZEV2ZW50OiAiICsgdGhpcyk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13301,7 +13295,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</text>
+        <text>onEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBiYWNrc3RhY2sgcG9zdC1yZXBsYWNlIGNvdW50OiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEJhY2tTdGFja0VudHJ5Q291bnQoKSArICIsICIgKyBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkpOwo=</text>
@@ -13310,7 +13304,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJOb1ZlaGljbGVTZWxlY3RlZEV2ZW50OiAiICsgdGhpcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13337,16 +13331,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HIHNob3VsZCB0aGlzIGdvIGluIHRoZSBpZj8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudEJ1cy5wb3N0KG5ldyBOb1ZlaGljbGVTZWxlY3RlZEV2ZW50KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudEJ1cy4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -14637,22 +14631,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBmcmFnbWVudG1hbmFnZXIgZnJhZ21lbnRzOiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEZyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkK</text>
+        <text encoding="base64">ICAgICAgICBldmVudEJ1cy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</last-search>
+      <last-search>onEvent</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</last-pattern>
+      <last-pattern>onEvent</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14660,9 +14654,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clicked</entry>
-        <entry>click</entry>
-        <entry>dashboard</entry>
         <entry>unauth</entry>
         <entry>remove</entry>
         <entry>replace</entry>
@@ -14680,6 +14671,9 @@
         <entry encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RWZWhpY2xlSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</entry>
+        <entry>NoVehicle</entry>
+        <entry>NoVehic</entry>
+        <entry>onEvent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
