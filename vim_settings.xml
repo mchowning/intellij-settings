@@ -274,8 +274,8 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.java" timestamp="1468854860730">
         <mark key="'" line="262" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" timestamp="1471362966547">
-        <mark key="'" line="82" column="18" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" timestamp="1471370343790">
+        <mark key="'" line="154" column="17" />
         <mark key="[" line="133" column="5" />
         <mark key="]" line="136" column="28" />
         <mark key="." line="136" column="28" />
@@ -602,8 +602,8 @@
         <mark key="." line="23" column="69" />
         <mark key="^" line="23" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" timestamp="1471359877004">
-        <mark key="'" line="139" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" timestamp="1471370433495">
+        <mark key="'" line="102" column="24" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/FrankenModule.java" timestamp="1469458808752">
         <mark key="[" line="4" column="20" />
@@ -904,6 +904,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.3.0-SNAPSHOT/d9c0037acd49cf3aba10217ae2f647d07c952e5/gemini-app-shell-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/GeminiApplication.java" timestamp="1469799185282">
         <mark key="'" line="51" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" timestamp="1471370560077">
+        <mark key="'" line="48" column="8" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
         <mark key="[" line="2" column="31" />
@@ -1383,6 +1386,7 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/orchestration/SelectVehicleHandler.java" timestamp="1471370796891" />
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/server/TokenGenerator.scala" timestamp="1466599171191">
         <mark key="[" line="10" column="60" />
         <mark key="]" line="10" column="58" />
@@ -1855,7 +1859,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1471294530438">
+      <file name="/a.regexp" timestamp="1471370479485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2594,11 +2598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
-      <jump line="280" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
-      <jump line="282" column="45" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
-      <jump line="514" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
-      <jump line="521" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
       <jump line="528" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
       <jump line="695" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
       <jump line="698" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/test/java/com/gm/plugin/dealer_locate/ui/fullscreen/AbstractDealerLocateFragmentPresenterTest.java" />
@@ -2648,7 +2647,6 @@
       <jump line="107" column="35" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
       <jump line="209" column="40" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
       <jump line="88" column="65" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
-      <jump line="102" column="116" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="132" column="89" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="59" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="105" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
@@ -2694,6 +2692,12 @@
       <jump line="314" column="24" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="443" column="8" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="495" column="110" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" />
+      <jump line="101" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" />
+      <jump line="105" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" />
+      <jump line="113" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" />
+      <jump line="154" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SelectVehicleHandler.java" />
+      <jump line="102" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13297,7 +13301,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>bus</text>
+        <text encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBiYWNrc3RhY2sgcG9zdC1yZXBsYWNlIGNvdW50OiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEJhY2tTdGFja0VudHJ5Q291bnQoKSArICIsICIgKyBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkpOwo=</text>
@@ -14646,18 +14650,16 @@
       </register>
     </registers>
     <search>
-      <last-search>bus</last-search>
+      <last-search encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern>bus</last-pattern>
+      <last-pattern encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</last-pattern>
       <last-replace>Double</last-replace>
-      <last-substitute>Int</last-substitute>
+      <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mapping</entry>
-        <entry>listener</entry>
         <entry>clicked</entry>
         <entry>click</entry>
         <entry>dashboard</entry>
@@ -14672,10 +14674,12 @@
         <entry>invokeSuccess</entry>
         <entry>selectVehicleHandler</entry>
         <entry encoding="base64">XDx1bnJlZ2lzdGVyRXZlbnRCdXNcPg==</entry>
-        <entry encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</entry>
         <entry>failure</entry>
         <entry>eventBus</entry>
         <entry>bus</entry>
+        <entry encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RWZWhpY2xlSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
