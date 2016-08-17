@@ -1620,6 +1620,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/main/AndroidManifest.xml" timestamp="1471464787720">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="10" />
@@ -1895,7 +1899,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1471021279263">
+      <file name="/fragment.java" timestamp="1471464615563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="65" />
@@ -2694,8 +2698,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>core</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxhcHBsaWNhdGlvbiBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIj4KICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIudWkucGluc2NyZWVuLlBpbkFjdGl2aXR5IgogICAgICAgICAgICBhbmRyb2lkOnNjcmVlbk9yaWVudGF0aW9uPSJwb3J0cmFpdCIgLz4KICAgIDwvYXBwbGljYXRpb24+Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13295,7 +13299,7 @@
         <text>onEvent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgidGVzdGluZyIsICJzaG93OiBiYWNrc3RhY2sgcG9zdC1yZXBsYWNlIGNvdW50OiAiICsgZnJhZ21lbnRNYW5hZ2VyLmdldEJhY2tTdGFja0VudHJ5Q291bnQoKSArICIsICIgKyBmcmFnbWVudE1hbmFnZXIuZ2V0RnJhZ21lbnRzKCkpOwo=</text>
+        <text encoding="base64">ICAgIDxhcHBsaWNhdGlvbiBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIj4KICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIudWkucGluc2NyZWVuLlBpbkFjdGl2aXR5IgogICAgICAgICAgICBhbmRyb2lkOnNjcmVlbk9yaWVudGF0aW9uPSJwb3J0cmFpdCIgLz4KICAgIDwvYXBwbGljYXRpb24+Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
