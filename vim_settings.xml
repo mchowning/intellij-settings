@@ -900,10 +900,7 @@
         <mark key="'" line="51" column="22" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/GetVehiclesFailureHandler.java" timestamp="1471376272680">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="63" column="4" />
-        <mark key="." line="60" column="0" />
+        <mark key="^" line="54" column="4" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
         <mark key="[" line="2" column="31" />
@@ -2347,6 +2344,12 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1471434179628">
+        <mark key="[" line="142" column="12" />
+        <mark key="]" line="142" column="16" />
+        <mark key="." line="142" column="16" />
+        <mark key="^" line="142" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="106" />
@@ -2697,8 +2700,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJOb1ZlaGljbGVTZWxlY3RlZEV2ZW50OiAiICsgdGhpcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13292,7 +13295,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text>onEvent</text>
