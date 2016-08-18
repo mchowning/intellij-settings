@@ -51,7 +51,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471378365533">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471522030797">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -2389,11 +2389,10 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/AndroidManifest.xml" timestamp="1471465319817">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="33" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/AndroidManifest.xml" timestamp="1471465543304">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/server/DiscardServer.java" timestamp="1464540100099">
         <mark key="[" line="11" column="26" />
@@ -2703,8 +2702,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PinActivity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJQaW5BY3RpIgogICAgICAgICAgICBhbmRyb2lkOnNjcmVlbk9yaWVudGF0aW9uPSJwb3J0cmFpdCIgLz4KCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13310,7 +13309,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJOb1ZlaGljbGVTZWxlY3RlZEV2ZW50OiAiICsgdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJQaW5BY3RpIgogICAgICAgICAgICBhbmRyb2lkOnNjcmVlbk9yaWVudGF0aW9uPSJwb3J0cmFpdCIgLz4KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13337,19 +13336,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HIHNob3VsZCB0aGlzIGdvIGluIHRoZSBpZj8K</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJOb1ZlaGljbGVTZWxlY3RlZEV2ZW50OiAiICsgdGhpcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudEJ1cy5wb3N0KG5ldyBOb1ZlaGljbGVTZWxlY3RlZEV2ZW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HIHNob3VsZCB0aGlzIGdvIGluIHRoZSBpZj8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudEJ1cy5wb3N0KG5ldyBOb1ZlaGljbGVTZWxlY3RlZEV2ZW50KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14640,10 +14639,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudEJ1cy4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudEJ1cy4K</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
