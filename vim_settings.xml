@@ -3,14 +3,44 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/AndroidManifest.xml" timestamp="1471524710206">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="12" column="18" />
+      <file name="/a.dummy" timestamp="1469212715205">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1471522030797">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/geminitests/presenters/DashboardFragmentPresenterTest.java" timestamp="1470829149423">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/legal/LegalDocumentTitleUtilTest.java" timestamp="1471526260595">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="47" />
+        <mark key="." line="45" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/ownership/VehicleOwnershipDeactivateInfoBlock.java" timestamp="1471525801040">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/legal/VehicleOwnershipPresenterTest.java" timestamp="1471526226318">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradleScripts/pr_environment_local.gradle" timestamp="1471527411521">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1469212715131">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1467297455890">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/logon/ui/fullscreen/LogonFragment.java" timestamp="1471524194210">
         <mark key="[" line="35" column="0" />
@@ -32,10 +62,33 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/PluginProvider.java" timestamp="1471525806583">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradleScripts/default_environment_local.gradle" timestamp="1471527436463">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Scala Console" timestamp="1469891490981">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/ownership/VehicleOwnershipInfoBlock.java" timestamp="1471525797976">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/logon/ui/fullscreen/LogonFragmentPresenterTest.java" timestamp="1471524483347">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/ui/LegalCountryFinderDialog.java" timestamp="1471525803726">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/plugin/PluginEngineTest.java" timestamp="1471524524481">
         <mark key="[" line="5" column="0" />
@@ -47,6 +100,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/legal/LegalAgreementFragment.java" timestamp="1471525780809">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/jenkins" timestamp="1470757343918">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -57,33 +115,63 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/strings.xml" timestamp="1471524844639">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="84" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/ownership/VehicleOwnershipFragment.java" timestamp="1471525794799">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1471524236159">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1471525812912">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/UnAuthAddVehiclePresenter.java" timestamp="1471363041680">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/main/AndroidManifest.xml" timestamp="1471465214498">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="50" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/PluginEngineGraph.java" timestamp="1471525824862">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/core/NavigationControllerTest.java" timestamp="1470679233764">
         <mark key="[" line="432" column="0" />
         <mark key="]" line="432" column="0" />
         <mark key="." line="432" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/legal/LegalAcceptanceFragment.java" timestamp="1471525771619">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/EmailLegalDocUtil.java" timestamp="1471526121834">
+        <mark key="[" line="51" column="60" />
+        <mark key="]" line="51" column="60" />
+        <mark key="." line="51" column="60" />
+      </file>
+      <file name="/a.regexp" timestamp="1471527518156">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment.gradle" timestamp="1471527425975">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/plugin/PluginEngine.java" timestamp="1471524228641">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/legal/EmailLegalDocUtilTest.java" timestamp="1471526240044">
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/legal/PluginLegalTest.java" timestamp="1471526270324">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/gemini/service/web/entitlements/VehicleLocationEntitlement.java" timestamp="1470933087105">
         <mark key="[" line="10" column="14" />
@@ -95,11 +183,45 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/AndroidManifest.xml" timestamp="1471524712687">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="7" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/legal/LegalAcceptanceFragmentPresenterTest.java" timestamp="1471526283618">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/legal/LegalAgreementFragmentPresenterTest.java" timestamp="1471526288514">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/LegalDocumentTitleUtil.java" timestamp="1471526138103">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/settings.gradle" timestamp="1471527385512">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/publish-all-local-module" timestamp="1471527416991">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/ui/fullscreen/ownership/VehicleOwnershipPresenter.java" timestamp="1471525790856">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/dependencylist" timestamp="1471527431055">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/legal/TermsAndConditionsFragment.java" timestamp="1471525819911">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/logon/ui/pinscreen/PinFragment.java" timestamp="1471524221510">
         <mark key="[" line="21" column="0" />
@@ -214,7 +336,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGVnYWxfYXBwX25hbWUiPnBsdWdpbi1sZWdhbDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJsZWdhbF9kYXNoYm9hcmRfY2FyZF90aXRsZSI+TGVnYWwgQ2FyZCBUaXRsZTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJsZWdhbF9kYXNoYm9hcmRfY2FyZF90aXRsZV9kZXRhaWwiPkxlZ2FsIENhcmQgVGl0bGUgRGV0YWlsPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECi8vZXh0LnBsdWdpbl9sZWdhbCA9ICJjb20uZ20uZ2VtaW5pLnNkazpwbHVnaW4tbGVnYWw6JGxvY2FsVmVyc2lvbiIKPT09PT09PQovL2V4dC5wbHVnaW5fbG9nb24gPSAiY29tLmdtLmdlbWluaS5zZGs6cGx1Z2luLWxvZ29uOiRsb2NhbFZlcnNpb24iCj4+Pj4+Pj4gODM5M2YyYS4uLiBNQyB8IElRQyB8IG1vdmUgcGx1Z2luLWxlZ2FsIHRvIHBhY2thZ2Ugd2l0aGluIGdlbWluaS1hcHAtc2hlbGwK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -10808,10 +10930,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PinActivity</text>
+        <text encoding="base64">IHBsdWdpbi1sb2dvbg==</text>
       </register>
       <register name="/" type="4">
-        <text>onEvent</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGVnYWxfYXBwX25hbWUiPnBsdWdpbi1sZWdhbDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJsZWdhbF9kYXNoYm9hcmRfY2FyZF90aXRsZSI+TGVnYWwgQ2FyZCBUaXRsZTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJsZWdhbF9kYXNoYm9hcmRfY2FyZF90aXRsZV9kZXRhaWwiPkxlZ2FsIENhcmQgVGl0bGUgRGV0YWlsPC9zdHJpbmc+Cg==</text>
@@ -10820,7 +10942,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcGx1Z2luX2xlZ2FsCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECi8vZXh0LnBsdWdpbl9sZWdhbCA9ICJjb20uZ20uZ2VtaW5pLnNkazpwbHVnaW4tbGVnYWw6JGxvY2FsVmVyc2lvbiIKPT09PT09PQovL2V4dC5wbHVnaW5fbG9nb24gPSAiY29tLmdtLmdlbWluaS5zZGs6cGx1Z2luLWxvZ29uOiRsb2NhbFZlcnNpb24iCj4+Pj4+Pj4gODM5M2YyYS4uLiBNQyB8IElRQyB8IG1vdmUgcGx1Z2luLWxlZ2FsIHRvIHBhY2thZ2Ugd2l0aGluIGdlbWluaS1hcHAtc2hlbGwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -10847,19 +10969,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmRlY2xhcmUgLWEgZ2VtaW5pX2NvcmVEZXBlbmRhbnRzPSgicGx1Z2luLWFjY291bnQgcGx1Z2luLWNvbW1hbmQtaGlzdG9yeSBwbHVnaW4tZGV2ZWxvcGVyLXByZWZlcmVuY2VzIHBsdWdpbi1nYXJhZ2UgcGx1Z2luLWxlZ2FsIikKPT09PT09PQpkZWNsYXJlIC1hIGdlbWluaV9jb3JlRGVwZW5kYW50cz0oInBsdWdpbi1hY2NvdW50IHBsdWdpbi1jb21tYW5kLWhpc3RvcnkgcGx1Z2luLWRldmVsb3Blci1wcmVmZXJlbmNlcyBwbHVnaW4tZ2FyYWdlIHBsdWdpbi1sb2dvbiIpCj4+Pj4+Pj4gODM5M2YyYS4uLiBNQyB8IElRQyB8IG1vdmUgcGx1Z2luLWxlZ2FsIHRvIHBhY2thZ2Ugd2l0aGluIGdlbWluaS1hcHAtc2hlbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2lubG9nb24uUGx1Z2luTG9nb247Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmV4dC5wbHVnaW5fbGVnYWwgPSAiY29tLmdtLmdlbWluaS5zZGs6cGx1Z2luLWxlZ2FsOiRnZW1pbmlDdXJyZW50VmVyc2lvbiIKPT09PT09PQpleHQucGx1Z2luX2xvZ29uID0gImNvbS5nbS5nZW1pbmkuc2RrOnBsdWdpbi1sb2dvbjokZ2VtaW5pQ3VycmVudFZlcnNpb24iCj4+Pj4+Pj4gODM5M2YyYS4uLiBNQyB8IElRQyB8IG1vdmUgcGx1Z2luLWxlZ2FsIHRvIHBhY2thZ2Ugd2l0aGluIGdlbWluaS1hcHAtc2hlbGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2lubG9nb24uUGx1Z2luTG9nb247Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECjpwbHVnaW4tbGVnYWw6Y2xlYW4gOnBsdWdpbi1sZWdhbDphc3NlbWJsZSA6cGx1Z2luLWxlZ2FsOmluc3RhbGwgXAo9PT09PT09CjpwbHVnaW4tbG9nb246Y2xlYW4gOnBsdWdpbi1sb2dvbjphc3NlbWJsZSA6cGx1Z2luLWxvZ29uOmluc3RhbGwgXAo+Pj4+Pj4+IDgzOTNmMmEuLi4gTUMgfCBJUUMgfCBtb3ZlIHBsdWdpbi1sZWdhbCB0byBwYWNrYWdlIHdpdGhpbiBnZW1pbmktYXBwLXNoZWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2lubG9nb24udWkucGluc2NyZWVuLlBpbkZyYWdtZW50Owo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmV4dC5wbHVnaW5fbGVnYWwgPSAiY29tLmdtLmdlbWluaS5zZGs6cGx1Z2luLWxlZ2FsOiRsb2NhbFZlcnNpb24iCj09PT09PT0KZXh0LnBsdWdpbl9sb2dvbiA9ICJjb20uZ20uZ2VtaW5pLnNkazpwbHVnaW4tbG9nb246JGxvY2FsVmVyc2lvbiIKPj4+Pj4+PiA4MzkzZjJhLi4uIE1DIHwgSVFDIHwgbW92ZSBwbHVnaW4tbGVnYWwgdG8gcGFja2FnZSB3aXRoaW4gZ2VtaW5pLWFwcC1zaGVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2lubG9nb24udWkuZnVsbHNjcmVlbi5Mb2dvbkZyYWdtZW50Owo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgJzpwbHVnaW4tbGVnYWwnLAo9PT09PT09CiAgICAgICAgJzpwbHVnaW4tbG9nb24nLAo+Pj4+Pj4+IDgzOTNmMmEuLi4gTUMgfCBJUUMgfCBtb3ZlIHBsdWdpbi1sZWdhbCB0byBwYWNrYWdlIHdpdGhpbiBnZW1pbmktYXBwLXNoZWxsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12147,30 +12269,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2lubG9nb24udWkucGluc2NyZWVuLlBpbkZyYWdtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAnOnBsdWdpbi1sb2dvbicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2lubG9nb24udWkuZnVsbHNjcmVlbi5Mb2dvbkZyYWdtZW50Owo=</text>
+        <text encoding="base64">OnBsdWdpbi1sb2dvbjpjbGVhbiA6cGx1Z2luLWxvZ29uOmFzc2VtYmxlIDpwbHVnaW4tbG9nb246aW5zdGFsbCBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbS5nZW1pbmkucGx1Z2lubG9nb24uQXV0aFZhdWx0TW9kdWxlOwo=</text>
+        <text encoding="base64">ZXh0LnBsdWdpbl9sb2dvbiA9ICJjb20uZ20uZ2VtaW5pLnNkazpwbHVnaW4tbG9nb246JGxvY2FsVmVyc2lvbiIK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
       </register>
     </registers>
     <search>
-      <last-search>onEvent</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>onEvent</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>unauth</entry>
         <entry>remove</entry>
         <entry>replace</entry>
         <entry>style</entry>
@@ -12190,6 +12311,7 @@
         <entry>NoVehicle</entry>
         <entry>NoVehic</entry>
         <entry>onEvent</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
