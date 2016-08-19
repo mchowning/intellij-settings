@@ -750,6 +750,7 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/util/KeyPassSetupUtil.java" timestamp="1471635299189" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoTablePresenter.java" timestamp="1469045223666">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -947,8 +948,8 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" timestamp="1471630928664">
-        <mark key="'" line="15" column="13" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" timestamp="1471635775298">
+        <mark key="'" line="115" column="42" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -2539,13 +2540,6 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" timestamp="1471631882560">
-        <mark key="'" line="8" column="46" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="54" column="38" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/UserAction.java" timestamp="1465215640070">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="17" />
@@ -2782,6 +2776,13 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/util/KeyPassSetupUtilTest.java" timestamp="1471635546956">
+        <mark key="'" line="92" column="15" />
+        <mark key="[" line="118" column="65" />
+        <mark key="]" line="118" column="84" />
+        <mark key="^" line="118" column="84" />
+        <mark key="." line="118" column="84" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
@@ -3096,9 +3097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="64" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehicleFragment.java" />
-      <jump line="171" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
-      <jump line="220" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="24" column="55" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="97" column="58" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="76" column="13" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
@@ -3196,13 +3194,16 @@
       <jump line="37" column="64" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="42" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="8" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
+      <jump line="92" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/util/KeyPassSetupUtilTest.java" />
+      <jump line="89" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
+      <jump line="115" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdmVyaWZ5X29yZGVyX29mX2FkZEluZm9CbG9ja0J1dHRvbl9ub19jb21tYW5kX2hpc3Rvcnlfb3JfdW5pdHMoKSB7CiAgICAgICAgd2hlbihtb2NrT25TdGFyVmVoaWNsZUVudGl0bGVtZW50LmlzRW50aXRsZWQoKSkudGhlblJldHVybihmYWxzZSk7CiAgICAgICAgc2V0VXBVbml0U2V0cygpOwogICAgICAgIEluT3JkZXIgaW5PcmRlciA9IGluT3JkZXIobW9ja1ZpZXcpOwoKICAgICAgICBzdWJqZWN0Lm9uQWN0aXZpdHlDcmVhdGVkKCk7CgogICAgICAgIGluT3JkZXIudmVyaWZ5KG1vY2tWaWV3KS5hZGRJbmZvQmxvY2tCdXR0b24oc3ViamVjdCwgTEVHQUxfVEVSTVMpOwogICAgICAgIGluT3JkZXIudmVyaWZ5KG1vY2tWaWV3KS5hZGRJbmZvQmxvY2tCdXR0b24oc3ViamVjdCwgQUNLTk9XTEVER0VNRU5UUyk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>OneButt</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13796,13 +13797,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mockOnStarScopedUserEntitlement</text>
+        <text>OneButt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblN0YXJTY29wZWRVc2VyRW50aXRsZW1lbnRcPg==</text>
+        <text>withTitle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmVoaWNsZURlc2NyaXB0aW9uIgo=</text>
+        <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZyBtb2NrQWxlcnREaWFsb2cgPSBtb2NrKEFsZXJ0RGlhbG9nLmNsYXNzKTsKICAgICAgICB3aGVuKEFsZXJ0RGlhbG9nVXRpbC5jcmVhdGVUd29CdXR0b25BbGVydERpYWxvZ1dpdGhUaXRsZShhbnlTdHJpbmcoKSwgYW55U3RyaW5nKCksIGFueShUd29CdXR0b25BbGVydERpYWxvZ0NvbnRlbnQuY2xhc3MpKSkudGhlblJldHVybihtb2NrQWxlcnREaWFsb2cpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -15148,9 +15149,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblN0YXJTY29wZWRVc2VyRW50aXRsZW1lbnRcPg==</last-search>
+      <last-search>withTitle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblN0YXJTY29wZWRVc2VyRW50aXRsZW1lbnRcPg==</last-pattern>
+      <last-pattern>withTitle</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15158,8 +15159,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bus</entry>
-        <entry encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RWZWhpY2xlSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</entry>
         <entry>NoVehicle</entry>
@@ -15178,6 +15177,8 @@
         <entry>vehicleDescr</entry>
         <entry>createOneButton</entry>
         <entry encoding="base64">XDxvblN0YXJTY29wZWRVc2VyRW50aXRsZW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxtb2NrQWxlcnREaWFsb2dcPg==</entry>
+        <entry>withTitle</entry>
       </history-search>
       <history-cmd>
         <entry>225</entry>
