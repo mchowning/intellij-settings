@@ -905,6 +905,9 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/LiveAllFeaturedOffersTest.java" timestamp="1468955390831">
         <mark key="'" line="25" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" timestamp="1471897786157">
+        <mark key="'" line="31" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/mock-car-server.cabal" timestamp="1454468383963">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -3105,9 +3108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="89" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
-      <jump line="59" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
-      <jump line="105" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="120" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="20" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="27" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
@@ -3205,6 +3205,9 @@
       <jump line="129" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
       <jump line="150" column="52" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
       <jump line="13" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/service/web/entitlements/Bev2Entitlement.java" />
+      <jump line="59" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
+      <jump line="14" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
+      <jump line="31" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13808,7 +13811,7 @@
         <text>OneButt</text>
       </register>
       <register name="/" type="4">
-        <text>show()</text>
+        <text encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZyBtb2NrQWxlcnREaWFsb2cgPSBtb2NrKEFsZXJ0RGlhbG9nLmNsYXNzKTsKICAgICAgICB3aGVuKEFsZXJ0RGlhbG9nVXRpbC5jcmVhdGVUd29CdXR0b25BbGVydERpYWxvZ1dpdGhUaXRsZShhbnlTdHJpbmcoKSwgYW55U3RyaW5nKCksIGFueShUd29CdXR0b25BbGVydERpYWxvZ0NvbnRlbnQuY2xhc3MpKSkudGhlblJldHVybihtb2NrQWxlcnREaWFsb2cpOwo=</text>
@@ -15157,17 +15160,16 @@
       </register>
     </registers>
     <search>
-      <last-search>show()</last-search>
+      <last-search encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</last-search>
       <last-offset />
-      <last-pattern>show()</last-pattern>
+      <last-pattern encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnZva2VTdWNjZXNzSGFuZGxlcnNcPg==</entry>
         <entry>NoVehicle</entry>
         <entry>NoVehic</entry>
         <entry>onEvent</entry>
@@ -15187,6 +15189,7 @@
         <entry encoding="base64">XDxtb2NrQWxlcnREaWFsb2dcPg==</entry>
         <entry>withTitle</entry>
         <entry>show()</entry>
+        <entry encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</entry>
       </history-search>
       <history-cmd>
         <entry>225</entry>
