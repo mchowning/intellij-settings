@@ -726,6 +726,10 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/PluginVehicleStatus.java" timestamp="1471879083689">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="111" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-command-history/src/main/java/com/gm/plugin/commands_history/ui/fullscreen/CommandHistoryDetailFragmentModule.java" timestamp="1464969601509">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="39" />
@@ -872,6 +876,9 @@
         <mark key="]" line="25" column="35" />
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="19" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/service/web/entitlements/Bev2Entitlement.java" timestamp="1471879136836">
+        <mark key="'" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/client/handler/TimeClientHandler.java" timestamp="1464570142126">
         <mark key="[" line="14" column="0" />
@@ -3094,7 +3101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="65" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="132" column="89" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="59" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="105" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
@@ -3194,13 +3200,14 @@
       <jump line="119" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
       <jump line="129" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
       <jump line="150" column="52" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
+      <jump line="13" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/138fca02a32b154f3dc11643bb4eac4c2d03b0c1/gemini-core-3.3.0-SNAPSHOT-sources.jar!/com/gm/gemini/service/web/entitlements/Bev2Entitlement.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>OneButt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGJldjJFbnRpdGxlbWVudC5pc0tleVBhc3NFbmFibGVkKCkgJiYgYmV2MkVudGl0bGVtZW50LmlzQmV2MlZlaGljbGUoKSkKICAgICAgICAgICAgICAgIHx8IHZlaGljbGVTdGF0dXNFbnRpdGxlbWVudC5pc0VudGl0bGVkKCkKICAgICAgICAgICAgICAgIHx8IHVwc2VsbFZlaGljbGVTdGF0dXNFbnRpdGxlbWVudC5pc0VudGl0bGVkKCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
