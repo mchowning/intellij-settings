@@ -932,6 +932,9 @@
         <mark key="^" line="40" column="54" />
         <mark key="." line="40" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" timestamp="1471952338773">
+        <mark key="'" line="110" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/assets/WebViewAjax.html" timestamp="1466089843732">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="29" column="4" />
@@ -3108,11 +3111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
-      <jump line="20" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
-      <jump line="27" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
-      <jump line="45" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
-      <jump line="52" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/AddVehiclePresenter.java" />
       <jump line="135" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/NavigationController.java" />
       <jump line="183" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="110" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
@@ -3208,6 +3206,11 @@
       <jump line="59" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
       <jump line="14" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
       <jump line="31" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
+      <jump line="111" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
+      <jump line="104" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
+      <jump line="105" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
+      <jump line="110" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13811,7 +13814,7 @@
         <text>OneButt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</text>
+        <text>isRouteSupported</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZyBtb2NrQWxlcnREaWFsb2cgPSBtb2NrKEFsZXJ0RGlhbG9nLmNsYXNzKTsKICAgICAgICB3aGVuKEFsZXJ0RGlhbG9nVXRpbC5jcmVhdGVUd29CdXR0b25BbGVydERpYWxvZ1dpdGhUaXRsZShhbnlTdHJpbmcoKSwgYW55U3RyaW5nKCksIGFueShUd29CdXR0b25BbGVydERpYWxvZ0NvbnRlbnQuY2xhc3MpKSkudGhlblJldHVybihtb2NrQWxlcnREaWFsb2cpOwo=</text>
@@ -15160,9 +15163,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</last-search>
+      <last-search>isRouteSupported</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</last-pattern>
+      <last-pattern>isRouteSupported</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15170,8 +15173,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NoVehicle</entry>
-        <entry>NoVehic</entry>
         <entry>onEvent</entry>
         <entry>log</entry>
         <entry>logon</entry>
@@ -15190,6 +15191,8 @@
         <entry>withTitle</entry>
         <entry>show()</entry>
         <entry encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</entry>
+        <entry>supported</entry>
+        <entry>isRouteSupported</entry>
       </history-search>
       <history-cmd>
         <entry>225</entry>
