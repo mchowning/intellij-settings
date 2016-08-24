@@ -1862,6 +1862,9 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" timestamp="1472066754306">
+        <mark key="'" line="40" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build/generated/source/apt/release/com/gm/gemini/core/injection/DaggerPluginComponent.java" timestamp="1469461255810">
         <mark key="'" line="222" column="118" />
       </file>
@@ -3148,10 +3151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.onstar.remote.offers/commerce-sdk/3.0.1-SNAPSHOT/c42cd544d7d91515cf05132103df24863516ca35/commerce-sdk-3.0.1-SNAPSHOT.jar!/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.class" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
-      <jump line="62" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
-      <jump line="58" column="81" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="90" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="93" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="15" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" />
@@ -3248,6 +3247,10 @@
       <jump line="16" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="214" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
+      <jump line="269" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
+      <jump line="25" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
+      <jump line="40" column="52" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13851,7 +13854,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>core</text>
+        <text encoding="base64">XDxvblN0YXJJbWFnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZyBtb2NrQWxlcnREaWFsb2cgPSBtb2NrKEFsZXJ0RGlhbG9nLmNsYXNzKTsKICAgICAgICB3aGVuKEFsZXJ0RGlhbG9nVXRpbC5jcmVhdGVUd29CdXR0b25BbGVydERpYWxvZ1dpdGhUaXRsZShhbnlTdHJpbmcoKSwgYW55U3RyaW5nKCksIGFueShUd29CdXR0b25BbGVydERpYWxvZ0NvbnRlbnQuY2xhc3MpKSkudGhlblJldHVybihtb2NrQWxlcnREaWFsb2cpOwo=</text>
@@ -15200,9 +15203,9 @@
       </register>
     </registers>
     <search>
-      <last-search>core</last-search>
+      <last-search encoding="base64">XDxvblN0YXJJbWFnZVw+</last-search>
       <last-offset />
-      <last-pattern>core</last-pattern>
+      <last-pattern encoding="base64">XDxvblN0YXJJbWFnZVw+</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15210,7 +15213,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhdGVWZWhpY2xlQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGVNZUJ1dHRvblw+</entry>
         <entry>click</entry>
         <entry>gone</entry>
@@ -15230,6 +15232,7 @@
         <entry>translations</entry>
         <entry>Realzzz</entry>
         <entry>core</entry>
+        <entry encoding="base64">XDxvblN0YXJJbWFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>302</entry>
