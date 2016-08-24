@@ -725,6 +725,11 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/publishlocalmodule" timestamp="1472050352867">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="26" />
@@ -964,6 +969,12 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AlertDialogUtil.java" timestamp="1472050531806">
+        <mark key="[" line="92" column="60" />
+        <mark key="]" line="92" column="60" />
+        <mark key="^" line="92" column="60" />
+        <mark key="." line="92" column="60" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -2734,6 +2745,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1472050363192">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -2813,6 +2827,12 @@
         <mark key="]" line="118" column="84" />
         <mark key="^" line="118" column="84" />
         <mark key="." line="118" column="84" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1472050834213">
+        <mark key="[" line="142" column="12" />
+        <mark key="]" line="142" column="16" />
+        <mark key="." line="142" column="16" />
+        <mark key="^" line="142" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
@@ -3127,7 +3147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragment.java" />
       <jump line="40" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.onstar.remote.offers/commerce-sdk/3.0.1-SNAPSHOT/c42cd544d7d91515cf05132103df24863516ca35/commerce-sdk-3.0.1-SNAPSHOT.jar!/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.class" />
       <jump line="110" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.onstar.remote.offers/commerce-sdk/3.0.1-SNAPSHOT/c42cd544d7d91515cf05132103df24863516ca35/commerce-sdk-3.0.1-SNAPSHOT.jar!/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.class" />
       <jump line="30" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.onstar.remote.offers/commerce-sdk/3.0.1-SNAPSHOT/c42cd544d7d91515cf05132103df24863516ca35/commerce-sdk-3.0.1-SNAPSHOT.jar!/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.class" />
@@ -3227,13 +3246,14 @@
       <jump line="45" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="53" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="73" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13827,10 +13847,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OneButt</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1JvdXRlU3VwcG9ydGVkXD4=</text>
+        <text>Realzzz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZyBtb2NrQWxlcnREaWFsb2cgPSBtb2NrKEFsZXJ0RGlhbG9nLmNsYXNzKTsKICAgICAgICB3aGVuKEFsZXJ0RGlhbG9nVXRpbC5jcmVhdGVUd29CdXR0b25BbGVydERpYWxvZ1dpdGhUaXRsZShhbnlTdHJpbmcoKSwgYW55U3RyaW5nKCksIGFueShUd29CdXR0b25BbGVydERpYWxvZ0NvbnRlbnQuY2xhc3MpKSkudGhlblJldHVybihtb2NrQWxlcnREaWFsb2cpOwo=</text>
@@ -15179,9 +15199,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1JvdXRlU3VwcG9ydGVkXD4=</last-search>
+      <last-search>Realzzz</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1JvdXRlU3VwcG9ydGVkXD4=</last-pattern>
+      <last-pattern>Realzzz</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15189,8 +15209,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZW1pbmlDaGVja2JveFw+</entry>
-        <entry>isRouteSupported</entry>
         <entry>vehicle</entry>
         <entry encoding="base64">XDxsb2NhdGVWZWhpY2xlQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGVNZUJ1dHRvblw+</entry>
@@ -15209,6 +15227,8 @@
         <entry>supported</entry>
         <entry>router</entry>
         <entry encoding="base64">XDxpc1JvdXRlU3VwcG9ydGVkXD4=</entry>
+        <entry>translations</entry>
+        <entry>Realzzz</entry>
       </history-search>
       <history-cmd>
         <entry>302</entry>
