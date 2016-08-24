@@ -2196,7 +2196,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1471883823606">
+      <file name="/a.regexp" timestamp="1472051668461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2828,7 +2828,8 @@
         <mark key="^" line="118" column="84" />
         <mark key="." line="118" column="84" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1472050834213">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1472051627608">
+        <mark key="'" line="144" column="15" />
         <mark key="[" line="142" column="12" />
         <mark key="]" line="142" column="16" />
         <mark key="." line="142" column="16" />
@@ -3147,8 +3148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.onstar.remote.offers/commerce-sdk/3.0.1-SNAPSHOT/c42cd544d7d91515cf05132103df24863516ca35/commerce-sdk-3.0.1-SNAPSHOT.jar!/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.class" />
-      <jump line="110" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.onstar.remote.offers/commerce-sdk/3.0.1-SNAPSHOT/c42cd544d7d91515cf05132103df24863516ca35/commerce-sdk-3.0.1-SNAPSHOT.jar!/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.class" />
       <jump line="30" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.onstar.remote.offers/commerce-sdk/3.0.1-SNAPSHOT/c42cd544d7d91515cf05132103df24863516ca35/commerce-sdk-3.0.1-SNAPSHOT.jar!/com/gm/onstar/remote/offers/sdk/api/OnstarAYSRestService.class" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="62" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
@@ -3247,13 +3246,15 @@
       <jump line="53" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="73" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>core</text>
+        <text>e</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13847,10 +13848,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Realzzz</text>
+        <text>core</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZyBtb2NrQWxlcnREaWFsb2cgPSBtb2NrKEFsZXJ0RGlhbG9nLmNsYXNzKTsKICAgICAgICB3aGVuKEFsZXJ0RGlhbG9nVXRpbC5jcmVhdGVUd29CdXR0b25BbGVydERpYWxvZ1dpdGhUaXRsZShhbnlTdHJpbmcoKSwgYW55U3RyaW5nKCksIGFueShUd29CdXR0b25BbGVydERpYWxvZ0NvbnRlbnQuY2xhc3MpKSkudGhlblJldHVybihtb2NrQWxlcnREaWFsb2cpOwo=</text>
@@ -15199,9 +15200,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Realzzz</last-search>
+      <last-search>core</last-search>
       <last-offset />
-      <last-pattern>Realzzz</last-pattern>
+      <last-pattern>core</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15209,7 +15210,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vehicle</entry>
         <entry encoding="base64">XDxsb2NhdGVWZWhpY2xlQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGVNZUJ1dHRvblw+</entry>
         <entry>click</entry>
@@ -15229,6 +15229,7 @@
         <entry encoding="base64">XDxpc1JvdXRlU3VwcG9ydGVkXD4=</entry>
         <entry>translations</entry>
         <entry>Realzzz</entry>
+        <entry>core</entry>
       </history-search>
       <history-cmd>
         <entry>302</entry>
