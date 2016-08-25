@@ -1599,10 +1599,10 @@
         <mark key="^" line="11" column="108" />
         <mark key="." line="11" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/jenkins" timestamp="1470757343918">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/jenkins" timestamp="1472148089987">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/PluginGarageTest.java" timestamp="1471531726802">
         <mark key="[" line="11" column="0" />
@@ -2898,10 +2898,10 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/dependencylist" timestamp="1471538554687">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/dependencylist" timestamp="1472148086612">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/gradle.properties" timestamp="1465235727552">
         <mark key="[" line="11" column="22" />
@@ -3258,8 +3258,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>dependencyVersion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIiRkZXBlbmRlbmN5Igo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13853,19 +13853,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dependencyVersion</text>
+        <text>&quot;gemini-app-shell&quot;</text>
       </register>
       <register name="/" type="4">
         <text>geminiArtifactVersion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXh0LmRlcGVuZGVuY3lWZXJzaW9uID0gIiRnZW1pbmlWZXJzaW9uLVNOQVBTSE9UIgo=</text>
+        <text encoding="base64">ZGVjbGFyZSAtYSBnZW1pbmlfY29yZURlcGVuZGFudHM9KCJnZW1pbmktYXBwLXNoZWxsIikK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIiRkZXBlbmRlbmN5Igo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13892,19 +13892,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gV2hlbiBjaGFuZ2luZyB0aGUgc2VjdXJpdHlfdmVyc2lvbiBoZXJlIHRoZXJlJ3MgYSBnb29kIGNoYW5jZSB5b3UgYWxzbyB3YW50IHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YKLy8gJ3ZlcnNpb24nIGluIGdlbWluaS1zZWN1cml0eS9zZWN1cml0eS9idWlsZC5ncmFkbGUgb24gdGhpcyBicmFuY2guCg==</text>
+        <text encoding="base64">ZGVjbGFyZSAtYSBnZW1pbmlfY29yZURlcGVuZGFudHM9KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXh0LnB1Ymxpc2hWZXJzaW9uID0gIiRnZW1pbmlWZXJzaW9uLVNOQVBTSE9UIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gV2hlbiBjaGFuZ2luZyB0aGUgc2VjdXJpdHlfdmVyc2lvbiBoZXJlIHRoZXJlJ3MgYSBnb29kIGNoYW5jZSB5b3UgYWxzbyB3YW50IHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YKLy8gJ3ZlcnNpb24nIGluIGdlbWluaS1zZWN1cml0eS9zZWN1cml0eS9idWlsZC5ncmFkbGUgb24gdGhpcyBicmFuY2guCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXh0LnB1Ymxpc2hWZXJzaW9uID0gIiRnZW1pbmlWZXJzaW9uLVNOQVBTSE9UIgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZXh0LnB1Ymxpc2hWZXJzaW9uID0gIiRkZXBlbmRlbmN5VmVyc2lvbiIK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IiRkZXBlbmRlbmN5VmVyc2lvbiIKZXh0LmRlcGVuZGVuY3lWZXJzaW9uID0g</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IiRkZXBlbmRlbmN5VmVyc2lvbiIKZXh0LmRlcGVuZGVuY3lWZXJzaW9uID0g</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15191,14 +15191,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IiRkZXBlbmRlbmN5VmVyc2lvbiIKZXh0LmRlcGVuZGVuY3lWZXJzaW9uID0g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VhcmNoQXV0b0NvbXBsZXRlVGV4dFZpZXcgIT0gbnVsbCkgewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IiRkZXBlbmRlbmN5VmVyc2lvbiIKZXh0LmRlcGVuZGVuY3lWZXJzaW9uID0g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
