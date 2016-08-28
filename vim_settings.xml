@@ -211,6 +211,12 @@
         <mark key="." line="18" column="85" />
         <mark key="^" line="18" column="85" />
       </file>
+      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/drawable/bodyworks_logo.xml" timestamp="1472399297729">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="264" column="30" />
+        <mark key="^" line="264" column="30" />
+        <mark key="." line="264" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/utils/TimeEncoder.java" timestamp="1464570088070">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="29" column="0" />
@@ -671,7 +677,7 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472398520806">
+      <file name="/Dummy.txt" timestamp="1472399450464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
@@ -1461,10 +1467,10 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472398431862">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472399446463">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/katas/StringCalculator/src/main/java/StringCalculator.java" timestamp="1411340531864">
         <mark key="[" line="52" column="51" />
@@ -1601,6 +1607,12 @@
         <mark key="]" line="103" column="46" />
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/bodyworks-android/app/build.gradle" timestamp="1472399368450">
+        <mark key="[" line="11" column="82" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountDetailsInfoBlock.java" timestamp="1471535666567">
         <mark key="[" line="16" column="0" />
@@ -3280,7 +3292,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ib2ZmaWNlX2hvdXJzX3Nob3J0Ij5Nb24sIFdlZCwgJmFtcDsgRnJpOiA5OjMwYW3igJMxcG0sIDPigJM2cG1cblR1ZXM6IDk6MzBhbS0xcG1cblNhdDogQnkgQXBwb2ludG1lbnQgT25seTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgIGFwcDpzcmNDb21wYXQ9IkBkcmF3YWJsZS9ib2R5d29ya3NfbG9nbyIK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13874,7 +13886,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DarkActionBar</text>
+        <text>ic_add</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -13886,7 +13898,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2JvZHl3b3Jrc19sb2dvX2xhcmdlIgo=</text>
+        <text encoding="base64">ICAgIGFwcDpzcmNDb21wYXQ9IkBkcmF3YWJsZS9ib2R5d29ya3NfbG9nbyIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13913,19 +13925,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9SZWxhdGl2ZUxheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICBhcHA6c3JjQ29tcGF0PSJAZHJhd2FibGUvaWNfYWRkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0CiAgICA+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2JvZHl3b3Jrc19sb2dvX2xhcmdlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX2hvcml6b250YWwiCg==</text>
+        <text encoding="base64">PC9SZWxhdGl2ZUxheW91dD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjIwZHAiCg==</text>
+        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0CiAgICA+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX2hvcml6b250YWwiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15213,13 +15225,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICB0b29sczpjb250ZXh0PSJjb20uZHJheWVzaGEuYm9keXdvcmtzY2hpcm9wcmFjdGljYW5kc29mdHRpc3N1ZS5NYWluQWN0aXZpdHkiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjIwZHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL2FjdGl2aXR5X21haW4iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL2FjdGl2aXR5X21haW4iLS0+Cg==</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICB0b29sczpjb250ZXh0PSJjb20uZHJheWVzaGEuYm9keXdvcmtzY2hpcm9wcmFjdGljYW5kc29mdHRpc3N1ZS5NYWluQWN0aXZpdHkiCg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
