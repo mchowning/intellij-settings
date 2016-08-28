@@ -1467,10 +1467,11 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472399446463">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472399680232">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="$USER_HOME$/dev/katas/StringCalculator/src/main/java/StringCalculator.java" timestamp="1411340531864">
         <mark key="[" line="52" column="51" />
@@ -1608,11 +1609,11 @@
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/bodyworks-android/app/build.gradle" timestamp="1472399368450">
-        <mark key="[" line="11" column="82" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
+      <file name="$USER_HOME$/dev/bodyworks-android/app/build.gradle" timestamp="1472400596499">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+        <mark key="." line="28" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountDetailsInfoBlock.java" timestamp="1471535666567">
         <mark key="[" line="16" column="0" />
@@ -3291,8 +3292,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcDpzcmNDb21wYXQ9IkBkcmF3YWJsZS9ib2R5d29ya3NfbG9nbyIK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13886,7 +13887,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ic_add</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
