@@ -677,7 +677,7 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472399450464">
+      <file name="/Dummy.txt" timestamp="1472412186944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
@@ -1474,11 +1474,10 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472402854337">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="20" column="31" />
+      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472411890567">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/katas/StringCalculator/src/main/java/StringCalculator.java" timestamp="1411340531864">
         <mark key="[" line="52" column="51" />
@@ -1616,11 +1615,12 @@
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/bodyworks-android/app/build.gradle" timestamp="1472400596499">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="28" column="43" />
-        <mark key="." line="28" column="43" />
+      <file name="$USER_HOME$/dev/bodyworks-android/app/build.gradle" timestamp="1472411703261">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="29" column="64" />
+        <mark key="." line="29" column="64" />
+        <mark key="^" line="29" column="64" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountDetailsInfoBlock.java" timestamp="1471535666567">
         <mark key="[" line="16" column="0" />
@@ -3085,9 +3085,9 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/bodyworks-android-copy/app/src/main/res/layout/main_activity.xml" timestamp="1472398158296">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="88" column="18" />
+      <file name="$USER_HOME$/dev/bodyworks-android-copy/app/src/main/res/layout/main_activity.xml" timestamp="1472411803585">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="4" />
         <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/client/calls/OAuthCall.scala" timestamp="1466599571613">
@@ -3194,8 +3194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
-      <jump line="116" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
       <jump line="110" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
       <jump line="104" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
       <jump line="105" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
@@ -3294,13 +3292,15 @@
       <jump line="3" column="18" filename="$USER_HOME$/dev/bodyworks-android-copy/app/src/main/res/values/strings.xml" />
       <jump line="9" column="18" filename="$USER_HOME$/dev/bodyworks-android-copy/app/src/main/res/values/strings.xml" />
       <jump line="262" column="8" filename="$USER_HOME$/dev/bodyworks-android/app/src/main/res/drawable/bodyworks_logo_1.xml" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/bodyworks-android/app/build.gradle" />
+      <jump line="88" column="2" filename="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS1GSVhNRSBoYXJkY29kZWQgaGVpZ2h0IG5vIGdvb2QgaGVyZS0tPgo=</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13894,19 +13894,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ib2ZmaWNlX2hvdXJzX3Nob3J0Ij5Nb24sIFdlZCwgJmFtcDsgRnJpOiA5OjMwYW3igJMxcG0sIDPigJM2cG1cblR1ZXM6IDk6MzBhbS0xcG1cblNhdDogQnkgQXBwb2ludG1lbnQgT25seTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICA+Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS1GSVhNRSBoYXJkY29kZWQgaGVpZ2h0IG5vIGdvb2QgaGVyZS0tPgo=</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13933,19 +13933,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0WFkiCg==</text>
+        <text encoding="base64">CjxhbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIKICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICB0b29sczpjb250ZXh0PSJjb20uZHJheWVzaGEuYm9keXdvcmtzY2hpcm9wcmFjdGljYW5kc29mdHRpc3N1ZS5NYWluQWN0aXZpdHkiCiAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJJblBhcmVudD0idHJ1ZSIKICAgID4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6dmVjdG9yLWRyYXdhYmxlOjI0LjIuMCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcDpzcmNDb21wYXQ9IkBkcmF3YWJsZS9ib2R5d29ya3NfbG9nbyIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0U3RhcnQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6c3JjQ29tcGF0PSJAZHJhd2FibGUvaWNfYWRkIgo=</text>
+        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl9ob3Jpem9udGFsIi0tPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15233,30 +15233,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2JvZHl3b3Jrc19sb2dvX2xhcmdlIgo=</text>
+        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl9ob3Jpem9udGFsIi0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9SZWxhdGl2ZUxheW91dD4K</text>
+        <text encoding="base64">ICAgIDwhLS1GSVhNRSBoYXJkY29kZWQgaGVpZ2h0IG5vIGdvb2QgaGVyZS0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0CiAgICA+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0WFkiCg==</text>
       </register>
       <register name=":" type="4">
         <text>68</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onLocate</entry>
         <entry>progress</entry>
         <entry>R.string</entry>
         <entry>showPermissionDenied</entry>
@@ -15276,6 +15275,7 @@
         <entry>address</entry>
         <entry>phone</entry>
         <entry>email</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>302</entry>
