@@ -677,7 +677,7 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472431895643">
+      <file name="/Dummy.txt" timestamp="1472432797423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
@@ -1474,10 +1474,11 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472411890567">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/bodyworks-android/app/src/main/res/layout/activity_main.xml" timestamp="1472432705125">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="46" />
       </file>
       <file name="$USER_HOME$/dev/katas/StringCalculator/src/main/java/StringCalculator.java" timestamp="1411340531864">
         <mark key="[" line="52" column="51" />
@@ -13897,7 +13898,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>bias</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PFJlbGF0aXZlTGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICA+Cg==</text>
@@ -15246,9 +15247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>bias</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>bias</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15256,7 +15257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>progress</entry>
         <entry>R.string</entry>
         <entry>showPermissionDenied</entry>
         <entry>show</entry>
@@ -15276,6 +15276,7 @@
         <entry>phone</entry>
         <entry>email</entry>
         <entry>build</entry>
+        <entry>bias</entry>
       </history-search>
       <history-cmd>
         <entry>302</entry>
