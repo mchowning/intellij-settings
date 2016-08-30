@@ -653,6 +653,11 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/AysSdk.java" timestamp="1469022433915">
         <mark key="'" line="41" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/JenkinsFile_shared" timestamp="1472591147167">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/logon_full_screen.xml" timestamp="1471543458613">
         <mark key="'" line="68" column="48" />
         <mark key="[" line="158" column="0" />
@@ -2429,12 +2434,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472589010251">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472591083381">
         <mark key="'" line="18" column="9" />
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="63" column="60" />
-        <mark key="." line="63" column="60" />
-        <mark key="^" line="63" column="60" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="60" column="140" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" timestamp="1469626764339">
         <mark key="'" line="77" column="39" />
@@ -2750,6 +2755,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1472591067614" />
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -3262,8 +3268,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyFncm9vdnkKCmRlZiBwcmludFNvbWV0aGluZygpIHsKICAgIGVjaG8gInByaW50aW5nIHNvbWV0aGluZyEiCn0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13857,19 +13863,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGUudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">IyFncm9vdnkK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkgLy8gVE9ETyByZW1vdmUK</text>
+        <text encoding="base64">IyFncm9vdnkKCmRlZiBwcmludFNvbWV0aGluZygpIHsKICAgIGVjaG8gInByaW50aW5nIHNvbWV0aGluZyEiCn0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13896,19 +13902,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChlLnRvU3RyaW5nKCkuc3RhcnRzV2l0aCgnaHVkc29uLkFib3J0RXhjZXB0aW9uOiBObyBwYXJhbWV0ZXJpemVkIGpvYiBuYW1lZCcpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBuZWVkIGJldHRlciBjaGVjayBoZXJlIChjb3VsZCB1c2UgPX4gZm9yIHJlZ2V4IG1hdGNoaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBtYWtlIHN1cmUgdGhpcyB3b3JrcyBmaW5lIGZvciBhY3R1YWwgam9iIGZhaWx1cmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkgLy8gVE9ETyByZW1vdmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGUuZ2V0Q2xhc3MoKS50b1N0cmluZygpCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS50b1N0cmluZygpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15196,13 +15202,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVjaG8gZS5nZXRNZXNzYWdlKCkKLy8gICAgICAgIGVjaG8gZS5nZXRDYXVzZSgpLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBtYWtlIHN1cmUgdGhpcyB3b3JrcyBmaW5lIGZvciBhY3R1YWwgam9iIGZhaWx1cmVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlLgo=</text>
+        <text encoding="base64">Ly8gICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGUudG8K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGUuZ2V0Q2xhc3MoKS50b1N0cmluZygpCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
