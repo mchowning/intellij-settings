@@ -2429,11 +2429,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472577595606">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="13" column="4" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472588158286">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="64" column="45" />
+        <mark key="]" line="64" column="45" />
+        <mark key="." line="64" column="45" />
+        <mark key="^" line="64" column="49" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" timestamp="1469626764339">
         <mark key="'" line="77" column="39" />
@@ -2748,12 +2749,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1472497280663">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -3162,10 +3157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
-      <jump line="31" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/CheckableListItem.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
-      <jump line="111" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
       <jump line="116" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
       <jump line="110" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
       <jump line="104" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/presenters/BleHelpFragmentPresenter.java" />
@@ -3262,13 +3253,17 @@
       <jump line="118" column="78" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="17" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/PluginPreferredDealerModule.java" />
+      <jump line="35" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="55" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="17" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="18" column="9" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13862,19 +13857,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>helper</text>
+        <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBidWlsZCAiJHtidWlsZEpvYkxvY2F0aW9ufS8ke2l0fS8ke2Vudi5CUkFOQ0hfTkFNRX0iCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGUudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnVpbGRQbHVnaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkgLy8gVE9ETyByZW1vdmUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13901,26 +13896,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdE1ldGhvZCgpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QE5vbkNQUwpkZWYgdGVzdE1ldGhvZCgpIHsKICAgIFsncGx1Z2luLWFzc2lzdCcsICdwbHVnaW4tYXR5b3Vyc2VydmljZSddLmVhY2ggeyBwbHVnaW4gLT4KICAgICAgICBjbGVhbk5vZGUgewogICAgICAgICAgICBlY2hvICJkb2luZyBzdHVmZjogJHtwbHVnaW59IgovLyAgICAgICAgICAgIGJ1aWxkICIke2J1aWxkSm9iTG9jYXRpb259LyR7cGx1Z2lufS8ke2Vudi5CUkFOQ0hfTkFNRX0iCiAgICAgICAgfQogICAgfQp9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS50b1N0cmluZygpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>def closures = new ArrayList()
-for (String plugin : plugins) {
-    closures.add({
-        cleanNode {
-            build &quot;${buildJobLocation}/${it}/${env.BRANCH_NAME}&quot;
-        }
-    })
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBtYWtlIHN1cmUgdGhpcyB3b3JrcyBmaW5lIGZvciBhY3R1YWwgam9iIGZhaWx1cmVzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGUuZ2V0Q2xhc3MoKS50b1N0cmluZygpCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15208,22 +15196,22 @@ for (String plugin : plugins) {
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGVjaG8gZS5nZXRNZXNzYWdlKCkKLy8gICAgICAgIGVjaG8gZS5nZXRDYXVzZSgpLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGUudG8K</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
       </register>
     </registers>
     <search>
-      <last-search>helper</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern>helper</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15231,7 +15219,6 @@ for (String plugin : plugins) {
     </search>
     <history>
       <history-search>
-        <entry>onLocate</entry>
         <entry>progress</entry>
         <entry>R.string</entry>
         <entry>showPermissionDenied</entry>
@@ -15251,6 +15238,7 @@ for (String plugin : plugins) {
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>helper</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
