@@ -2436,10 +2436,10 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472607858461">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472609153150">
         <mark key="'" line="60" column="6" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="13" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="122" column="0" />
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
@@ -3288,7 +3288,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGNsZWFuTm9kZShuYW1lLCBjbG9zdXJlKSB7CiAgICBub2RlICgnYW5kcm9pZCcpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBlY2hvICJjbGVhbmluZyB3b3Jrc3BhY2UgYmVmb3JlIHN0YXJ0aW5nIFwiJHtuYW1lfVwiIHdvcmsgb24gJHtlbnYuTk9ERV9OQU1FfS4uLiIKICAgICAgICAgICAgZGVsZXRlRGlyKCkKICAgICAgICAgICAgY2xvc3VyZSgpCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgZWNobyAiY2xlYW5pbmcgdXAgd29ya3NwYWNlIG9uIG5vZGUgYmVmb3JlIGZpbmlzaGluZyBcIiR7bmFtZX1cIiB3b3JrIG9uICR7ZW52Lk5PREVfTkFNRX0uLi4iCiAgICAgICAgICAgIGRlbGV0ZURpcigpCiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13888,7 +13888,7 @@
         <text encoding="base64">XDxwbHVnaW5CdWlsZHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xlYW5Ob2RlICdHZW1pbmktQ29yZS1TREsnLCB7CgogICAgY2hlY2tvdXRSZXBvcygpCgovLyAgICBkZWYgaGVscGVyID0gbG9hZCAncHJvamVjdC1zZXR0aW5ncy9KZW5raW5zZmlsZV9oZWxwZXInCi8vICAgIGhlbHBlci5wcmludFNvbWV0aGluZygpCgogICAgLy8gVE9ETyB2ZXJpZnkgdGhhdCBwcm9qZWN0LXNldHRpbmdzIGhhcyBhbiBhcHByb3ByaWF0ZSBkZXBlbmRlbmN5PwoKICAgIHNoICIuL2dlbWluaS1jb3JlLXNkay9zaGVsbHNjcmlwdHMvamVua2lucyIKfQo=</text>
+        <text encoding="base64">ZGVmIGNsZWFuTm9kZShuYW1lLCBjbG9zdXJlKSB7CiAgICBub2RlICgnYW5kcm9pZCcpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBlY2hvICJjbGVhbmluZyB3b3Jrc3BhY2UgYmVmb3JlIHN0YXJ0aW5nIFwiJHtuYW1lfVwiIHdvcmsgb24gJHtlbnYuTk9ERV9OQU1FfS4uLiIKICAgICAgICAgICAgZGVsZXRlRGlyKCkKICAgICAgICAgICAgY2xvc3VyZSgpCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgZWNobyAiY2xlYW5pbmcgdXAgd29ya3NwYWNlIG9uIG5vZGUgYmVmb3JlIGZpbmlzaGluZyBcIiR7bmFtZX1cIiB3b3JrIG9uICR7ZW52Lk5PREVfTkFNRX0uLi4iCiAgICAgICAgICAgIGRlbGV0ZURpcigpCiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
