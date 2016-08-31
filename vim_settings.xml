@@ -2436,12 +2436,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472619742955">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472621610231">
         <mark key="'" line="89" column="59" />
-        <mark key="[" line="63" column="40" />
-        <mark key="]" line="63" column="58" />
-        <mark key="." line="63" column="58" />
-        <mark key="^" line="63" column="58" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" timestamp="1469626764339">
         <mark key="'" line="77" column="39" />
@@ -2763,7 +2763,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1472606527574">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1472621094815">
+        <mark key="'" line="161" column="19" />
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
@@ -3182,13 +3183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="449" column="72" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="451" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="479" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="382" column="58" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="570" column="78" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="692" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
       <jump line="312" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
       <jump line="309" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="334" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
@@ -3282,13 +3276,20 @@
       <jump line="60" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="86" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="89" column="59" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="7" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="10" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="11" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="12" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="159" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="160" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="161" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWF0Y2hpbmcg</text>
+        <text>load</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13882,19 +13883,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWF0Y2hpbmcg</text>
+        <text>load</text>
       </register>
       <register name="/" type="4">
-        <text>asdljf</text>
+        <text>project</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZFJlcG8oJ2dlbWluaScpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkICdwcm9qZWN0LXNldHRpbmdzL2RlcGVuZGVuY2llcy5ncmFkbGUnCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVscGVyLnByaW50U29tZXRoaW5nKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13921,19 +13922,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZWNobyAiRVJST1I6IEZhaWxlZCB0byBmaW5kIG1hdGNoaW5nIGJyYW5jaCBpbiBwcm9qZWN0LXNldHRpbmdzIgogICAgfQo=</text>
+        <text encoding="base64">CmNsZWFuTm9kZSAidGVzdGluZyIsIHsKICAgIAp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiYnVpbGRpbmcgJHtyZXBvfSIK</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZWNobyAiRVJST1I6IEZhaWxlZCB0byBmaW5kIG1hdGNoaW5nIGJyYW5jaCBpbiBwcm9qZWN0LXNldHRpbmdzIgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVE9ETyByZW1vdmUgdGhpcyBtZXRob2Qgbm93PwpkZWYgYnVpbGRHZW1pbmkoKSB7Ci8vICAgIGNsZWFuTm9kZSAnR2VtaW5pJywgewogICAgICAgIGJ1aWxkUmVwbygnZ2VtaW5pJykKLy8gICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiYnVpbGRpbmcgJHtyZXBvfSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnVpbGRHZW1pbmkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15220,23 +15221,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gVE9ETyByZW1vdmUgdGhpcyBtZXRob2Qgbm93PwpkZWYgYnVpbGRHZW1pbmkoKSB7Ci8vICAgIGNsZWFuTm9kZSAnR2VtaW5pJywgewogICAgICAgIGJ1aWxkUmVwbygnZ2VtaW5pJykKLy8gICAgfQp9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">YnVpbGRHZW1pbmkoKQo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkUmVwbyhwbHVnaW4pCiAgICAgICAg</text>
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
       </register>
     </registers>
     <search>
-      <last-search>asdljf</last-search>
+      <last-search>project</last-search>
       <last-offset />
-      <last-pattern>asdljf</last-pattern>
+      <last-pattern>project</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15244,8 +15245,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1JvdXRlU3VwcG9ydGVkXD4=</entry>
-        <entry>translations</entry>
         <entry>Realzzz</entry>
         <entry encoding="base64">XDxvblN0YXJJbWFnZVw+</entry>
         <entry>geminiArtifactVersion</entry>
@@ -15264,6 +15263,8 @@
         <entry>name</entry>
         <entry>closureName</entry>
         <entry>asdljf</entry>
+        <entry>ext</entry>
+        <entry>project</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
