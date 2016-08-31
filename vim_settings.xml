@@ -674,11 +674,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472662601782">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472671199656">
+        <mark key="'" line="81" column="21" />
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="81" column="38" />
+        <mark key="." line="81" column="38" />
+        <mark key="^" line="81" column="38" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2442,12 +2443,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472662929736">
-        <mark key="'" line="37" column="10" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="15" column="18" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472670700445">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" timestamp="1469626764339">
         <mark key="'" line="77" column="39" />
@@ -2605,11 +2606,11 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/Jenkinsfile_helper" timestamp="1472594194878">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="2" column="54" />
-        <mark key="." line="2" column="54" />
-        <mark key="^" line="2" column="54" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/Jenkinsfile_helper" timestamp="1472666489427">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/security/src/main/java/com/gm/gemini/security/ServiceHelper.java" timestamp="1468330096046">
         <mark key="'" line="120" column="22" />
@@ -3189,33 +3190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="360" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="412" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="436" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="188" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="225" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="393" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="399" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="404" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="405" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="96" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="98" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="214" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="415" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="545" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="546" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="577" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="260" column="68" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="569" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="207" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="212" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="315" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="392" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="393" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="431" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="286" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="328" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="318" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="803" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="43" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragment.java" />
@@ -3269,7 +3243,6 @@
       <jump line="65" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="67" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="3" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="91" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="93" column="105" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="49" column="72" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
@@ -3287,15 +3260,43 @@
       <jump line="108" column="63" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="31" column="10" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="35" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="13" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="37" column="10" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="43" column="1" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="30" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="20" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="26" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="27" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="32" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="5" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="7" column="27" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="12" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="14" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="22" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="28" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="29" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="54" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="58" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="9" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="23" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="67" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="13" column="2" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
+      <jump line="53" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="3" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="4" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="17" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="49" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="13" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="81" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8vICAgIGRlZiBoZWxwZXIgPSBsb2FkICdwcm9qZWN0LXNldHRpbmdzL0plbmtpbnNmaWxlX2hlbHBlcicK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13889,19 +13890,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$GEMINI_CORE_SDK</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja291dFdpdGhQcm9qZWN0U2V0dGluZ3NcPg==</text>
+        <text>buildJobLocation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8vICAgIGRlZiBoZWxwZXIgPSBsb2FkICdwcm9qZWN0LXNldHRpbmdzL0plbmtpbnNmaWxlX2hlbHBlcicK</text>
+        <text encoding="base64">Ly9kZWYgZ2VtaW5pQ29yZVNkaygpIHsgIkdlbWluaS1Db3JlLVNESyIgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgY2xlYW5Ob2RlICJwcm9qZWN0LXNldHRpbmdzIHJ1biIsIHsKLy8gICAgICAgIGVjaG8gInJ1bm5pbmcgcHJvamVjdCBzZXR0aW5ncyBKZW5raW5zZmlsZSIKLy8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13928,19 +13929,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly97IGFyZyAtPgovLyAgICBjbGVhbk5vZGUgInByb2plY3Qtc2V0dGluZ3MgcnVuIiwgewovLyAgICAgICAgZWNobyAicnVubmluZyAke2FyZ30iCi8vICAgIH0KLy99Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gQW5vdGhlciBvcHRpb24gd291bGQgYmUgdG8gcHV0IHRoZXNlIGluIHNoZWxsc2NyaXB0cwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgY2xlYW5Ob2RlICIkcmVwbyIsIHsKLy8gICAgICAgIGVjaG8gInByaW50aW5nIHNvbWV0aGluZzogJHJlcG8iCi8vICAgICAgICBjaGVja291dFNjbShyZXBvKQovLyAgICAgICAgY2hlY2tvdXRQcm9qZWN0U2V0dGluZ3MoKQovLyAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVEaXIoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBjaGVja291dFNjbShyZXBvKQogICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICAvLyBUT0RPIHZlcmlmeSB0aGF0IHByb2plY3Qtc2V0dGluZ3MgaGFzIGFuIGFwcHJvcHJpYXRlIHB1Ymxpc2ggdmFyaWFibGU/CiAgICAgICAgc2ggIi4vJHtHRU1JTklfQ09SRV9TREt9L3NoZWxsc2NyaXB0cy9qZW5raW5zIg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vZGUgKCdhbmRyb2lkJykgewo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBjaGVja291dFNjbShyZXBvKQogICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICAvLyBUT0RPIHZlcmlmeSB0aGF0IHByb2plY3Qtc2V0dGluZ3MgaGFzIGFuIGFwcHJvcHJpYXRlIHB1Ymxpc2ggdmFyaWFibGU/CiAgICAgICAgc2ggIi4vJHtHRU1JTklfQ09SRV9TREt9L3NoZWxsc2NyaXB0cy9qZW5raW5zIg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBjaGVja291dFNjbShyZXBvKQogICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICAvLyBUT0RPIHZlcmlmeSB0aGF0IHByb2plY3Qtc2V0dGluZ3MgaGFzIGFuIGFwcHJvcHJpYXRlIHB1Ymxpc2ggdmFyaWFibGU/CiAgICAgICAgc2ggIi4vJHtHRU1JTklfQ09SRV9TREt9L3NoZWxsc2NyaXB0cy9qZW5raW5zIg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15227,23 +15228,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zdXJlLmNhbGwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBnZW1pbmlDb3JlU2RrKCkgewogICAgIkdlbWluaS1Db3JlLVNESyIKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja291dFdpdGhQcm9qZWN0U2V0dGluZ3NcPg==</last-search>
+      <last-search>buildJobLocation</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja291dFdpdGhQcm9qZWN0U2V0dGluZ3NcPg==</last-pattern>
+      <last-pattern>buildJobLocation</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15251,13 +15252,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
-        <entry encoding="base64">PDw8</entry>
-        <entry>helper</entry>
-        <entry>plugin</entry>
-        <entry encoding="base64">XDxidWlsZFBsdWdpblw+</entry>
-        <entry>buildRepo</entry>
-        <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry encoding="base64">XDxwbHVnaW5CdWlsZHNcPg==</entry>
         <entry>asldjkf</entry>
         <entry encoding="base64">XDxidWlsZFJlcG9cPg==</entry>
@@ -15271,6 +15265,13 @@
         <entry>call</entry>
         <entry>cleanNode</entry>
         <entry encoding="base64">XDxjaGVja291dFdpdGhQcm9qZWN0U2V0dGluZ3NcPg==</entry>
+        <entry>asldkfj</entry>
+        <entry>GEMINI</entry>
+        <entry>buildRepo</entry>
+        <entry encoding="base64">XDxyZXBvXD4=</entry>
+        <entry>alsdjf</entry>
+        <entry encoding="base64">XDxnZW1pbmlDb3JlU2RrXD4=</entry>
+        <entry>buildJobLocation</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
