@@ -1492,10 +1492,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" timestamp="1471632192580">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" timestamp="1472751828820">
+        <mark key="[" line="340" column="0" />
+        <mark key="]" line="340" column="0" />
+        <mark key="." line="340" column="0" />
+        <mark key="^" line="287" column="48" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts-cabal/src/Main.hs" timestamp="1448902414117">
         <mark key="[" line="27" column="20" />
@@ -1877,6 +1878,14 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/unitselection/UnitOfMeasureSettingsEntitlementTest.java" timestamp="1472752110076">
+        <mark key="'" line="52" column="66" />
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="n" line="64" column="68" />
+        <mark key="^" line="26" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/unitselection/UnitSetSelectionEntitlement.java" timestamp="1472749062767">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -2161,7 +2170,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1472740484743">
+      <file name="/fragment.java" timestamp="1472752217325">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="65" />
@@ -2463,11 +2472,11 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" timestamp="1472739196505">
-        <mark key="[" line="100" column="8" />
-        <mark key="]" line="100" column="55" />
-        <mark key="^" line="100" column="55" />
-        <mark key="." line="100" column="55" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" timestamp="1472751798587">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="93" column="55" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/UserAction.java" timestamp="1465215640070">
         <mark key="[" line="18" column="11" />
@@ -3023,11 +3032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
-      <jump line="106" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
-      <jump line="110" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
-      <jump line="5" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
-      <jump line="35" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="45" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="53" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="73" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
@@ -3123,13 +3127,18 @@
       <jump line="30" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="77" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="79" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="47" column="53" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
+      <jump line="105" column="56" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" />
+      <jump line="181" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" />
+      <jump line="51" column="66" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/unitselection/UnitOfMeasureSettingsEntitlementTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>UnitSetSelectionEntitlement</text>
+        <text>r</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13723,19 +13732,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UnitSetSelectionEntitlement</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>plugins</text>
+        <text>getUnitSetsForSele</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb25TdGFyU2NvcGVkVXNlckVudGl0bGVtZW50LmlzRW50aXRsZWQoKSAmJiBoYXNVbml0U2V0c1RvRGlzcGxheSgpOwo=</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc1Blcm1pc3Npb24oImFuZHJvaWQucGVybWlzc2lvbi5CTFVFVE9PVEgiKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc1Blcm1pc3Npb24oImFuZHJvaWQucGVybWlzc2lvbi5CTFVFVE9PVEgiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13762,19 +13771,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tEYXRhU291cmNlLmdldFVuaXRTZXRzRm9yU2VsZWN0ZWRBY2NvdW50KCkpLnRoZW5SZXR1cm4obW9ja1VuaXRTZXRzKTsK</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc1Blcm1pc3Npb24oImFuZHJvaWQucGVybWlzc2lvbi5CTFVFVE9PVEgiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc1Blcm1pc3Npb24oImFuZHJvaWQucGVybWlzc2lvbi5CTFVFVE9PVEgiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tVbml0U2V0cy5pc0VtcHR5KCkpLnRoZW5SZXR1cm4oZmFsc2UpOwogICAgICAgIHdoZW4obW9ja0RhdGFTb3VyY2UuZ2V0VW5pdFNldHNGb3JTZWxlY3RlZEFjY291bnQoKSkudGhlblJldHVybigK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBvblN0YXJTY29wZWRVc2VyRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpICYmIGhhc1VuaXRTZXRzVG9EaXNwbGF5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc1Blcm1pc3Npb24oImFuZHJvaWQucGVybWlzc2lvbi5CTFVFVE9PVEgiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">CiAgICAvL3ByaXZhdGUgYm9vbGVhbiBoYXNVbml0U2V0c1RvRGlzcGxheSgpIHsKICAgIC8vICAgIExpc3Q8PyBleHRlbmRzIFVuaXRTZXQ+IHVuaXRTZXRzID0gZGF0YVNvdXJjZS5nZXRVbml0U2V0c0ZvclNlbGVjdGVkQWNjb3VudCgpOwogICAgLy8gICAgcmV0dXJuIHVuaXRTZXRzICE9IG51bGwgJiYgIXVuaXRTZXRzLmlzRW1wdHkoKTsKICAgIC8vfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15062,30 +15071,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICAvL3RoaXMub25TdGFyU2NvcGVkVXNlckVudGl0bGVtZW50ID0gb25TdGFyU2NvcGVkVXNlckVudGl0bGVtZW50Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL3RoaXMuZGF0YVNvdXJjZSA9IGRhdGFTb3VyY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBmaW5hbCBPblN0YXJTY29wZWRVc2VyRW50aXRsZW1lbnQgb25TdGFyU2NvcGVkVXNlckVudGl0bGVtZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>plugins</last-search>
+      <last-search>getUnitSetsForSele</last-search>
       <last-offset />
-      <last-pattern>plugins</last-pattern>
+      <last-pattern>getUnitSetsForSele</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>asdljf</entry>
         <entry>ext</entry>
         <entry>project</entry>
         <entry>call</entry>
@@ -15105,6 +15113,7 @@
         <entry>argument</entry>
         <entry>repo</entry>
         <entry>plugins</entry>
+        <entry>getUnitSetsForSele</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
