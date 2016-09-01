@@ -1878,11 +1878,11 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/unitselection/UnitSetSelectionEntitlement.java" timestamp="1472739997212">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="10" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/unitselection/UnitSetSelectionEntitlement.java" timestamp="1472749062767">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
         <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServer.java" timestamp="1466047992663">
         <mark key="[" line="45" column="69" />
@@ -2401,6 +2401,11 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/unitselection/UnitOfMeasureSettingsEntitlement.java" timestamp="1472749135641">
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/ClientReadInboundFileHandler.java" timestamp="1466734808665">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -2704,12 +2709,12 @@
         <mark key="^" line="118" column="84" />
         <mark key="." line="118" column="84" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1472144145059">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1472748634261">
         <mark key="'" line="144" column="15" />
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="38" />
+        <mark key="[" line="142" column="12" />
+        <mark key="]" line="142" column="16" />
+        <mark key="." line="142" column="16" />
+        <mark key="^" line="142" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
@@ -3125,7 +3130,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mock(UnitSet.class)</text>
+        <text>UnitSetSelectionEntitlement</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13719,7 +13724,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mock(UnitSet.class)</text>
+        <text>UnitSetSelectionEntitlement</text>
       </register>
       <register name="/" type="4">
         <text>plugins</text>
