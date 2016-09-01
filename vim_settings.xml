@@ -674,12 +674,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472732306001">
-        <mark key="'" line="28" column="21" />
-        <mark key="[" line="85" column="18" />
-        <mark key="]" line="85" column="33" />
-        <mark key="." line="85" column="33" />
-        <mark key="^" line="85" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472735877188">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="20" />
+        <mark key="." line="68" column="20" />
+        <mark key="^" line="68" column="20" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2443,12 +2443,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472670700445">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472735318610">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="64" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/model/PoiDetailsHelperTest.java" timestamp="1469626764339">
         <mark key="'" line="77" column="39" />
@@ -3190,10 +3190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="803" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="43" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragment.java" />
-      <jump line="44" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
-      <jump line="88" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="100" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="102" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="104" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
@@ -3261,7 +3257,6 @@
       <jump line="35" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="37" column="10" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="43" column="1" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="30" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="20" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -3290,13 +3285,18 @@
       <jump line="13" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="81" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="25" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="19" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="59" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="57" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="79" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="30" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>build</text>
+        <text>n</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13890,19 +13890,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>alsdjkf</text>
+        <text>repo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQgIiR7YnVpbGRKb2JMb2NhdGlvbigpfS8ke3JlcG99LyR7ZW52LkJSQU5DSF9OQU1FfSIK</text>
+        <text encoding="base64">fShyZXBvKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQgIiR7YnVpbGRKb2JMb2NhdGlvbigpfS8ke3JlcG99LyR7ZW52LkJSQU5DSF9OQU1FfSIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13929,19 +13929,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQgIiR7YnVpbGRKb2JMb2NhdGlvbigpfS8ke3JlcG99LyR7ZW52LkJSQU5DSF9OQU1FfSIK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHZlcmlmeSB0aGF0IHByb2plY3Qtc2V0dGluZ3MgaGFzIGFuIGFwcHJvcHJpYXRlIHB1Ymxpc2ggdmFyaWFibGU/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vc3RhcnRKb2IocmVwbykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gZS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJidWlsZGluZyBmZWF0dXJlLXBsdWdpbjogJHJlcG8iCiAgICAgICAgLy9zdGFydEpvYihyZXBvKQogICAgICAgIGNsZWFuTm9kZSAiJHJlcG8iLCB7CiAgICAgICAgICAgIGNoZWNrb3V0U2NtKHJlcG8pCiAgICAgICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICAgICAgLy8gVE9ETyB2ZXJpZnkgdGhhdCBwcm9qZWN0LXNldHRpbmdzIGhhcyBhbiBhcHByb3ByaWF0ZSBwdWJsaXNoIHZhcmlhYmxlPwogICAgICAgICAgICBzaCAiLi8ke3JlcG99L3NoZWxsc2NyaXB0cy9qZW5raW5zIgogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJidWlsZGluZyBnZW1pbmktY29yZS1zZGs6ICRyZXBvIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJidWlsZGluZyBmZWF0dXJlLXBsdWdpbjogJHJlcG8iCiAgICAgICAgLy9zdGFydEpvYihyZXBvKQogICAgICAgIGNsZWFuTm9kZSAiJHJlcG8iLCB7CiAgICAgICAgICAgIGNoZWNrb3V0U2NtKHJlcG8pCiAgICAgICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICAgICAgLy8gVE9ETyB2ZXJpZnkgdGhhdCBwcm9qZWN0LXNldHRpbmdzIGhhcyBhbiBhcHByb3ByaWF0ZSBwdWJsaXNoIHZhcmlhYmxlPwogICAgICAgICAgICBzaCAiLi8ke3JlcG99L3NoZWxsc2NyaXB0cy9qZW5raW5zIgogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15229,22 +15229,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgY2xlYW5Ob2RlICIkcmVwbyIsIHsKLy8gICAgICAgIGVjaG8gInByaW50aW5nIHNvbWV0aGluZzogJHJlcG8iCi8vICAgICAgICBjaGVja291dFNjbShyZXBvKQovLyAgICAgICAgY2hlY2tvdXRQcm9qZWN0U2V0dGluZ3MoKQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiYnVpbGQgYXJndW1lbnQ6ICR7YnVpbGRKb2JMb2NhdGlvbigpfS8ke3JlcG99LyR7ZW52LkJSQU5DSF9OQU1FfSIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBjaGVja291dFNjbShyZXBvKQogICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICAvLyBUT0RPIHZlcmlmeSB0aGF0IHByb2plY3Qtc2V0dGluZ3MgaGFzIGFuIGFwcHJvcHJpYXRlIHB1Ymxpc2ggdmFyaWFibGU/CiAgICAgICAgc2ggIi4vJHtHRU1JTklfQ09SRV9TREt9L3NoZWxsc2NyaXB0cy9qZW5raW5zIg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBjaGVja291dFNjbShyZXBvKQogICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICAvLyBUT0RPIHZlcmlmeSB0aGF0IHByb2plY3Qtc2V0dGluZ3MgaGFzIGFuIGFwcHJvcHJpYXRlIHB1Ymxpc2ggdmFyaWFibGU/CiAgICAgICAgc2ggIi4vJHtHRU1JTklfQ09SRV9TREt9L3NoZWxsc2NyaXB0cy9qZW5raW5zIg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>65</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>alsdjkf</last-search>
+      <last-search>repo</last-search>
       <last-offset />
-      <last-pattern>alsdjkf</last-pattern>
+      <last-pattern>repo</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15252,10 +15252,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFJlcG9cPg==</entry>
-        <entry>core</entry>
-        <entry encoding="base64">XDxidWlsZEpvYkxvY2F0aW9uXD4=</entry>
-        <entry>name</entry>
         <entry>closureName</entry>
         <entry>asdljf</entry>
         <entry>ext</entry>
@@ -15272,6 +15268,10 @@
         <entry>buildJobLocation</entry>
         <entry>found</entry>
         <entry>alsdjkf</entry>
+        <entry>origin</entry>
+        <entry>build</entry>
+        <entry>argument</entry>
+        <entry>repo</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
@@ -15292,8 +15292,8 @@
         <entry>NERDTreeToggle</entry>
         <entry>237</entry>
         <entry>68</entry>
-        <entry>wq</entry>
         <entry>65</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
