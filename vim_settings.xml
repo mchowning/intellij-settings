@@ -632,12 +632,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472737783890">
-        <mark key="'" line="79" column="24" />
-        <mark key="[" line="82" column="46" />
-        <mark key="]" line="82" column="47" />
-        <mark key="." line="82" column="47" />
-        <mark key="^" line="87" column="42" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472784125222">
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="82" column="43" />
+        <mark key="." line="82" column="43" />
+        <mark key="^" line="82" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2320,12 +2320,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472735318610">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472783513458">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-        <mark key="^" line="6" column="25" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week4/test_cases/testcase_71000.txt" timestamp="1423521817546">
         <mark key="[" line="0" column="0" />
@@ -3033,8 +3033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
-      <jump line="73" column="22" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -3133,13 +3131,15 @@
       <jump line="181" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" />
       <jump line="51" column="66" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/unitselection/UnitOfMeasureSettingsEntitlementTest.java" />
       <jump line="317" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" />
+      <jump line="111" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="61" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">RXhjZXB0aW9uIA==</text>
+        <text>plugin-doesnotexist</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13733,19 +13733,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXhjZXB0aW9uIA==</text>
+        <text>plugin-doesnotexist</text>
       </register>
       <register name="/" type="4">
-        <text>\/\/</text>
+        <text>asdflj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tVbml0U2V0LmlzRW1wdHkoKSkudGhlblJldHVybihmYWxzZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwbHVnaW5CdWlsZEpvYk5hbWVzLnNpemUoKTsgaSsrKSB7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NldFVwVW5pdFNldHMoKTsK</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13772,19 +13772,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3doZW4obW9ja1VuaXRTZXQuaXNFbXB0eSgpKS50aGVuUmV0dXJuKGZhbHNlKTsK</text>
+        <text encoding="base64">Ly8gICAgY2xlYW5Ob2RlIHJlcG8sIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL21vY2tVbml0U2V0LmFkZChudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaHVkc29uLkFib3J0RXhjZXB0aW9uOiBObyBwYXJhbWV0ZXJpemVkIGpvYiBuYW1lZCBKZW5raW5zLU1hbmFnZW1lbnQvTXVsdGlicmFuY2gtUGlwZWxpbmUvW3BsdWdpbi1kb2VzLW5vdC1leGlzdC9waXBlbGluZS10ZXN0XSBmb3VuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL21vY2tVbml0U2V0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0UnVubmVyLmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vQE1vY2sgcHJpdmF0ZSBMaXN0PFBlcnNpc3RlZFVuaXRTZXQ+IG1vY2tVbml0U2V0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgbWFrZSBzdXJlIHRoaXMgd29ya3MgZmluZSBmb3IgYWN0dWFsIGpvYiBmYWlsdXJlcwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15072,22 +15072,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tVbml0U2V0LmlzRW1wdHkoKSkudGhlblJldHVybihmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiY2F0Y2hpbmcgZXJyb3I6ICR7ZS50b1N0cmluZygpfSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBVbml0T2ZNZWFzdXJlU2V0dGluZ3NFbnRpdGxlbWVudCBzdWJqZWN0Owo=</text>
+        <text encoding="base64">Ly99KHJlcG8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tEYXRhU291cmNlLmdldFVuaXRTZXRzRm9yU2VsZWN0ZWRBY2NvdW50KCkpLnRoZW5SZXR1cm4obW9ja1VuaXRTZXQpOwo=</text>
+        <text encoding="base64">Ly97IFN0cmluZyByZXBvIC0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>\/\/</last-search>
+      <last-search>asdflj</last-search>
       <last-offset />
-      <last-pattern>\/\/</last-pattern>
+      <last-pattern>asdflj</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15095,9 +15095,6 @@
     </search>
     <history>
       <history-search>
-        <entry>project</entry>
-        <entry>call</entry>
-        <entry>cleanNode</entry>
         <entry encoding="base64">XDxjaGVja291dFdpdGhQcm9qZWN0U2V0dGluZ3NcPg==</entry>
         <entry>asldkfj</entry>
         <entry>GEMINI</entry>
@@ -15115,6 +15112,9 @@
         <entry>plugins</entry>
         <entry>getUnitSetsForSele</entry>
         <entry>\/\/</entry>
+        <entry>asdlfj</entry>
+        <entry>Failed</entry>
+        <entry>asdflj</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
