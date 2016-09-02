@@ -159,6 +159,9 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" timestamp="1472828797418">
+        <mark key="'" line="13" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_1_4-5.txt" timestamp="1423192717508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="7" />
@@ -3029,10 +3032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
-      <jump line="214" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="269" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="25" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="40" column="52" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
@@ -3129,6 +3128,10 @@
       <jump line="317" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" />
       <jump line="111" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="61" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="425" column="4" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
+      <jump line="11" column="31" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
+      <jump line="12" column="31" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
+      <jump line="13" column="31" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13732,7 +13735,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>asdflj</text>
+        <text>analytics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBpc0VudGl0bGVkX2ZhbHNlX2lmX25vX3VuaXRfc2V0cygpIHsKICAgICAgICBzZXR1cF9pc0VudGl0bGVkX3RydWUoKTsKICAgICAgICB3aGVuKG1vY2tVbml0U2V0LmlzRW1wdHkoKSkudGhlblJldHVybih0cnVlKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzRW50aXRsZWQoKSk7CiAgICB9Cg==</text>
@@ -15081,9 +15084,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdflj</last-search>
+      <last-search>analytics</last-search>
       <last-offset />
-      <last-pattern>asdflj</last-pattern>
+      <last-pattern>analytics</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -15091,7 +15094,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja291dFdpdGhQcm9qZWN0U2V0dGluZ3NcPg==</entry>
         <entry>asldkfj</entry>
         <entry>GEMINI</entry>
         <entry>buildRepo</entry>
@@ -15111,6 +15113,7 @@
         <entry>asdlfj</entry>
         <entry>Failed</entry>
         <entry>asdflj</entry>
+        <entry>analytics</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
@@ -15128,11 +15131,11 @@
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
         <entry>46</entry>
         <entry>217</entry>
-        <entry>NERDTreeToggle</entry>
         <entry>237</entry>
         <entry>68</entry>
         <entry>65</entry>
         <entry>wq</entry>
+        <entry>NERDTreeToggle</entry>
       </history-cmd>
       <history-expr />
       <history-input />
