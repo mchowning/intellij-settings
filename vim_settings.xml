@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473015671314">
-        <mark key="'" line="49" column="6" />
-        <mark key="[" line="27" column="98" />
-        <mark key="]" line="27" column="101" />
-        <mark key="." line="27" column="101" />
-        <mark key="^" line="27" column="101" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473025696297">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="95" column="33" />
+        <mark key="]" line="96" column="3" />
+        <mark key="." line="96" column="3" />
+        <mark key="^" line="96" column="3" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2534,49 +2534,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="159" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="160" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="161" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="11" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="108" column="63" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="31" column="10" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="35" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="37" column="10" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="43" column="1" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="20" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="26" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="27" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="32" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="5" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="7" column="27" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="12" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="14" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="22" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="28" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="54" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="58" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="9" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="23" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="67" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="13" column="2" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="53" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="3" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="4" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="17" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="13" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="81" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="25" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="19" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="59" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="57" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="85" column="42" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="29" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="30" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="77" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="79" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="47" column="53" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="105" column="56" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenter.java" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" />
@@ -2634,13 +2593,54 @@
       <jump line="98" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="102" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="49" column="6" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="162" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="159" column="1" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="29" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="48" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="50" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="54" column="10" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="36" column="83" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="55" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="67" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="32" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="158" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="6" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="15" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="23" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="160" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="5" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="28" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="30" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="156" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="46" column="27" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="8" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="64" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="10" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="79" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="12" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="51" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="69" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="134" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="135" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="137" column="49" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="163" column="105" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="81" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="133" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="84" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="7" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="16" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="33" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="34" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="35" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="37" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="38" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Just</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13234,10 +13234,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Just</text>
+        <text>// get the first grouping from the first match</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZENvcmVTZGtcPg==</text>
+        <text>getRepo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0YWdlICdHZW1pbmknCiAgICBzdGFydEpvYignR2VtaW5pJykK</text>
@@ -13246,7 +13246,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vbWF0Y2hlciA9IG51bGwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13273,19 +13273,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQ29udmVydHMgc29tZXRoaW5nIGxpa2UgJ1hYWC9YWFgvcmVwb05hbWUvJGVudi5CUkFOQ0hfTkFNRScgaW50byAncmVwb05hbWUnCg==</text>
+        <text encoding="base64">Ly8gRXh0cmFjdHMgJ3JlcG9OYW1lJyBmcm9tIGEgam9iIHdpdGggYSBmb3JtIGxpa2UgJ3h4eC94eHgvcmVwb05hbWUvJGVudi5CUkFOQ0hfTkFNRScKZGVmIFN0cmluZyByZXBvTmFtZSA9ICgiJGVudi5KT0JfTkFNRSIgPX4gL14uKlwvKC4qKVwvJGVudi5CUkFOQ0hfTkFNRS8pWzBdWzFdIC8vIGdldCB0aGUgZmlyc3QgZ3JvdXBpbmcgZnJvbSB0aGUgZmlyc3QgbWF0Y2gK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KCl9IgogICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIFN0cmluZyByZXBvTmFtZSA9ICgiJGVudi5KT0JfTkFNRSIgPX4gL14uKlwvKC4qKVwvJGVudi5CUkFOQ0hfTkFNRS8pWzBdWzFdIC8vIGdldCB0aGUgZmlyc3QgZ3JvdXBpbmcgZnJvbSB0aGUgZmlyc3QgbWF0Y2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gRXh0cmFjdHMgJ3JlcG9OYW1lJyBmcm9tIGEgam9iIHdpdGggYSBmb3JtIGxpa2UgJ3h4eC94eHgvcmVwb05hbWUvJGVudi5CUkFOQ0hfTkFNRScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdlbWluaVN0YWdlKCkgewp9Cg==</text>
+        <text encoding="base64">ICAgIC8vIEV4dHJhY3RzICdyZXBvTmFtZScgZnJvbSBhIGpvYiB3aXRoIGEgZm9ybSBsaWtlICd4eHgveHh4L3JlcG9OYW1lLyRlbnYuQlJBTkNIX05BTUUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdlbWluaVN0YWdlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBwbHVnaW5SZXBvID0gcmVwb05hbWUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14573,22 +14573,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdlbWluaVN0YWdlKCkK</text>
+        <text encoding="base64">Ly8gVE9ETyBmaWd1cmUgb3V0IGEgd2F5IHRvIG5vdCBjb25zdGFudGx5IHJlZG8gdGhpcyBldmFsdWF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YWdlICdHZW1pbmknCiAgICBzdGFydEpvYignR2VtaW5pJykK</text>
+        <text encoding="base64">ICAgIG1hdGNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9kZWYgU3RyaW5nIGdlbWluaUNvcmVTZGsoKSB7IHJldHVybiAiR2VtaW5pLUNvcmUtU0RLIiB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZENvcmVTZGtcPg==</last-search>
+      <last-search>getRepo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZENvcmVTZGtcPg==</last-pattern>
+      <last-pattern>getRepo</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14596,19 +14596,6 @@
     </search>
     <history>
       <history-search>
-        <entry>repo</entry>
-        <entry>plugins</entry>
-        <entry>getUnitSetsForSele</entry>
-        <entry>\/\/</entry>
-        <entry>asdlfj</entry>
-        <entry>Failed</entry>
-        <entry>asdflj</entry>
-        <entry>analytics</entry>
-        <entry>quickview</entry>
-        <entry>onstarimage</entry>
-        <entry encoding="base64">XDxpbWFnZVw+</entry>
-        <entry>visibility</entry>
-        <entry>margin</entry>
         <entry>ssl</entry>
         <entry encoding="base64">XDxyZWZyZXNoYWJsZVZlaGljbGVFbnRpdGxlbWVudFw+</entry>
         <entry>refresh</entry>
@@ -14616,6 +14603,19 @@
         <entry>build</entry>
         <entry>~</entry>
         <entry encoding="base64">XDxidWlsZENvcmVTZGtcPg==</entry>
+        <entry encoding="base64">XDxwbHVnaW5SZXBvXD4=</entry>
+        <entry encoding="base64">XDxnZW1pbmlDb3JlU2RrXD4=</entry>
+        <entry encoding="base64">XDxzaG91bGRGaXJlRG93bnN0cmVhbUJ1aWxkc1N0cmluZ1w+</entry>
+        <entry encoding="base64">XDxzaG91bGRGaXJlRG93bnN0cmVhbUJ1aWxkc1ZhbHVlXD4=</entry>
+        <entry encoding="base64">XDxnZW1pbmlTZWN1cml0eVw+</entry>
+        <entry encoding="base64">XDxidWlsZEpvYkxvY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxpc0dlbWluaVNlY3VyaXR5XD4=</entry>
+        <entry encoding="base64">XDxpc0dlbWluaUNvcmVTZGtcPg==</entry>
+        <entry encoding="base64">XDxpc1BsdWdpblw+</entry>
+        <entry encoding="base64">XDxnZXRSZXBvTmFtZVw+</entry>
+        <entry encoding="base64">XDxwbHVnaW5cPg==</entry>
+        <entry encoding="base64">XDxyZXBvTmFtZVw+</entry>
+        <entry>getRepo</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
