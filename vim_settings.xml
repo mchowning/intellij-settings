@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473014859167">
-        <mark key="'" line="102" column="25" />
-        <mark key="[" line="125" column="34" />
-        <mark key="]" line="125" column="67" />
-        <mark key="." line="125" column="67" />
-        <mark key="^" line="125" column="67" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473015671314">
+        <mark key="'" line="49" column="6" />
+        <mark key="[" line="27" column="98" />
+        <mark key="]" line="27" column="101" />
+        <mark key="." line="27" column="101" />
+        <mark key="^" line="27" column="101" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2566,7 +2566,6 @@
       <jump line="3" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="4" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="49" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="13" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="81" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="25" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2634,13 +2633,14 @@
       <jump line="94" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="98" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="102" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="49" column="6" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>Just</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13234,19 +13234,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Just</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text encoding="base64">XDxidWlsZENvcmVTZGtcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>SHOULD_FIRE_DOWNSTREAM_BUILDS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0YWdlICdHZW1pbmknCiAgICBzdGFydEpvYignR2VtaW5pJykK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZCAiJHtidWlsZEpvYkxvY2F0aW9uKCl9LyR7cmVwb30vJHtlbnYuQlJBTkNIX05BTUV9Igo=</text>
+        <text encoding="base64">ICAgIC8vbWF0Y2hlciA9IG51bGwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13273,26 +13273,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qIGlnbm9yZSBhbnkgcGlwZWxpbmVzIGFuZCBqdXN0IGJ1aWxkIHRoaXMgcmVwbyBpZiBTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyBpcyBmYWxzZSAqLwo=</text>
+        <text encoding="base64">Ly8gQ29udmVydHMgc29tZXRoaW5nIGxpa2UgJ1hYWC9YWFgvcmVwb05hbWUvJGVudi5CUkFOQ0hfTkFNRScgaW50byAncmVwb05hbWUnCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKEJvb2xlYW4udmFsdWVPZihTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUykpIHsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">KCl9IgogICAg</text>
       </register>
-      <register name="4" type="4">
-        <text>//    if (!SHOULD_FIRE_DOWNSTREAM_BUILDS) {
-//        buildRepo(repo)
-//    } else if (geminiCoreSdk() == repo) {
-//        geminiCoreSdkPipeline(repo)
-//    } else { // no pipeline specified for this repo, just build it
-//        buildRepo(repo)
-//    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>ignore any pipelines if this is a downstream job, only
-       use the appropriate pipeline if this job was started directly</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGdlbWluaVN0YWdlKCkgewp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdlbWluaVN0YWdlKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14580,22 +14573,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVwbyA9ICJHZW1pbmktQ29yZS1TREsiCg==</text>
+        <text encoding="base64">ICAgIGdlbWluaVN0YWdlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YWdlICdHZW1pbmknCiAgICBzdGFydEpvYignR2VtaW5pJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9wcm9wZXJ0aWVzKFtbJGNsYXNzOiAnUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eScsIC8vICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzczogJ0Jvb2xlYW5QYXJhbWV0ZXJEZWZpbml0aW9uJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ1NIT1VMRF9GSVJFX0RPV05TVFJFQU1fQlVJTERTJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ0NoZWNrIGlmIHlvdSB3YW50IHRoaXMgam9iIHRvIGZpcmUgZG93bnN0cmVhbSBidWlsZHMuIFRoaXMgc2hvdWxkIGJlIHVuY2hlY2tlZCBpZiBkb3duc3RyZWFtIGJ1aWxkcyBhcmUgbm90IGRlc2lyZWQgb3IgaWYgdGhpcyBidWlsZCBpcyBmaXJpbmcgYXMgYSBwYXJ0IG9mIGEgcGlwZWxpbmUgdGhhdCBpcyBvdGhlcndpc2UgaGFuZGxpbmcgZG93bnN0cmVhbSBidWlsZHMuJ11dXV0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search encoding="base64">XDxidWlsZENvcmVTZGtcPg==</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZENvcmVTZGtcPg==</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14603,8 +14596,6 @@
     </search>
     <history>
       <history-search>
-        <entry>origin</entry>
-        <entry>argument</entry>
         <entry>repo</entry>
         <entry>plugins</entry>
         <entry>getUnitSetsForSele</entry>
@@ -14623,6 +14614,8 @@
         <entry>refresh</entry>
         <entry encoding="base64">XDxpc0xvZ2dlZEluXD4=</entry>
         <entry>build</entry>
+        <entry>~</entry>
+        <entry encoding="base64">XDxidWlsZENvcmVTZGtcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
