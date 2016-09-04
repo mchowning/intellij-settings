@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472998430152">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473001044162">
         <mark key="'" line="67" column="25" />
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="93" />
-        <mark key="." line="11" column="93" />
-        <mark key="^" line="11" column="93" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2640,8 +2640,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ignore any pipelines if this is a downstream job, only
-       use the appropriate pipeline if this job was started directly</text>
+        <text>H</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13235,7 +13234,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvZ2dlZEluXD4=</text>
