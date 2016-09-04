@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472998138192">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1472998430152">
         <mark key="'" line="67" column="25" />
-        <mark key="[" line="7" column="57" />
-        <mark key="]" line="7" column="57" />
-        <mark key="." line="7" column="57" />
-        <mark key="^" line="7" column="57" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="93" />
+        <mark key="." line="11" column="93" />
+        <mark key="^" line="11" column="93" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -1959,12 +1959,10 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472998122314">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="270" />
-        <mark key="." line="8" column="79" />
-        <mark key="^" line="8" column="79" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1472998268184">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week4/test_cases/testcase_71000.txt" timestamp="1423521817546">
         <mark key="[" line="0" column="0" />
@@ -2642,7 +2640,8 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>X</text>
+        <text>ignore any pipelines if this is a downstream job, only
+       use the appropriate pipeline if this job was started directly</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13236,7 +13235,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvZ2dlZEluXD4=</text>
@@ -13247,8 +13246,9 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>ignore any pipelines if this is a downstream job, only
+       use the appropriate pipeline if this job was started directly</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13275,23 +13275,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnRpZXMoW1skY2xhc3M6ICdQYXJhbWV0ZXJzRGVmaW5pdGlvblByb3BlcnR5JywKICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzczogJ1N0cmluZ1BhcmFtZXRlckRlZmluaXRpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ0lTX0RPV05TVFJFQU0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiAnZmFsc2UnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICdJbmRpY2F0ZSB3aGV0aGVyIHRoaXMgam9iIGlzIGJlaW5nIGtpY2tlZCBvZmYgZGlyZWN0bHkgKGZhbHNlKSBvciBpcyBiZWluZyBraWNrZWQgb2ZmIGluZGlyZWN0bHkgYmVjYXVzZSBpdCBpcyBkb3duc3RyZWFtIGZyb20gYSBidWlsZCB0aGF0IGlzIGtpY2tlZCBvZmYgZGlyZWN0bHkgKHRydWUpLiAgSW4gb3RoZXIgd29yZHMsIGlmIHlvdSBqdXN0IGNsaWNrZWQgdGhlICJCdWlsZCB3aXRoIFBhcmFtZXRlcnMiIGJ1dHRvbiwgbGVhdmUgdGhpcyBhcyBmYWxzZS4nXV1dXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>properties([[$class: 'ParametersDefinitionProperty',
-             parameterDefinitions: [[$class: 'StringParameterDefinition',
-                                     name: 'IS_DOWNSTREAM',
-                                     defaultValue: 'false',
-                                     description: 'Indicate whether this job is being kicked off directly (false) or is being kicked off indirectly because it is downstream from a build that is kicked off directly (true).  In other words, if you just clicked the &quot;Build with Parameters&quot; button, leave this as false.']]]])</text>
+      <register name="3" type="2">
+        <text encoding="base64">cmVwbyA9ICJHZW1pbmktQ29yZS1TREsiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tVbml0U2V0LmlzRW1wdHkoKSkudGhlblJldHVybih0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Ly9wcm9wZXJ0aWVzKFtbJGNsYXNzOiAnUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eScsIC8vICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzczogJ0Jvb2xlYW5QYXJhbWV0ZXJEZWZpbml0aW9uJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ1NIT1VMRF9GSVJFX0RPV05TVFJFQU1fQlVJTERTJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ0NoZWNrIGlmIHlvdSB3YW50IHRoaXMgam9iIHRvIGZpcmUgZG93bnN0cmVhbSBidWlsZHMuIFRoaXMgc2hvdWxkIGJlIHVuY2hlY2tlZCBpZiBkb3duc3RyZWFtIGJ1aWxkcyBhcmUgbm90IGRlc2lyZWQgb3IgaWYgdGhpcyBidWlsZCBpcyBmaXJpbmcgYXMgYSBwYXJ0IG9mIGEgcGlwZWxpbmUgdGhhdCBpcyBvdGhlcndpc2UgaGFuZGxpbmcgZG93bnN0cmVhbSBidWlsZHMuJ11dXV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgY2xlYW5Ob2RlIHJlcG8sIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14579,13 +14575,17 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaHVkc29uLkFib3J0RXhjZXB0aW9uOiBObyBwYXJhbWV0ZXJpemVkIGpvYiBuYW1lZCBKZW5raW5zLU1hbmFnZW1lbnQvTXVsdGlicmFuY2gtUGlwZWxpbmUvW3BsdWdpbi1kb2VzLW5vdC1leGlzdC9waXBlbGluZS10ZXN0XSBmb3VuZAo=</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMoW1skY2xhc3M6ICdQYXJhbWV0ZXJzRGVmaW5pdGlvblByb3BlcnR5JywKICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzczogJ1N0cmluZ1BhcmFtZXRlckRlZmluaXRpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ0lTX0RPV05TVFJFQU0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiAnZmFsc2UnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICdJbmRpY2F0ZSB3aGV0aGVyIHRoaXMgam9iIGlzIGJlaW5nIGtpY2tlZCBvZmYgZGlyZWN0bHkgKGZhbHNlKSBvciBpcyBiZWluZyBraWNrZWQgb2ZmIGluZGlyZWN0bHkgYmVjYXVzZSBpdCBpcyBkb3duc3RyZWFtIGZyb20gYSBidWlsZCB0aGF0IGlzIGtpY2tlZCBvZmYgZGlyZWN0bHkgKHRydWUpLiAgSW4gb3RoZXIgd29yZHMsIGlmIHlvdSBqdXN0IGNsaWNrZWQgdGhlICJCdWlsZCB3aXRoIFBhcmFtZXRlcnMiIGJ1dHRvbiwgbGVhdmUgdGhpcyBhcyBmYWxzZS4nXV1dXSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>properties([[$class: 'ParametersDefinitionProperty',
+             parameterDefinitions: [[$class: 'StringParameterDefinition',
+                                     name: 'IS_DOWNSTREAM',
+                                     defaultValue: 'false',
+                                     description: 'Indicate whether this job is being kicked off directly (false) or is being kicked off indirectly because it is downstream from a build that is kicked off directly (true).  In other words, if you just clicked the &quot;Build with Parameters&quot; button, leave this as false.']]]])</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tVbml0U2V0LmlzRW1wdHkoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
