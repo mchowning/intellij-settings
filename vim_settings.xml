@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473004328053">
-        <mark key="'" line="67" column="25" />
-        <mark key="[" line="19" column="79" />
-        <mark key="]" line="19" column="79" />
-        <mark key="." line="19" column="79" />
-        <mark key="^" line="19" column="79" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473005509628">
+        <mark key="'" line="102" column="25" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2534,9 +2534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="10" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="11" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="12" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="159" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="160" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2547,7 +2544,6 @@
       <jump line="35" column="6" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="37" column="10" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
       <jump line="43" column="1" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="20" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="26" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2634,13 +2630,17 @@
       <jump line="34" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
       <jump line="49" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
       <jump line="67" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="94" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="98" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="102" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qIGlnbm9yZSBhbnkgcGlwZWxpbmVzIGFuZCBqdXN0IGJ1aWxkIHRoaXMgcmVwbyBpZiBTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyBpcyBmYWxzZSAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13234,19 +13234,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0xvZ2dlZEluXD4=</text>
+        <text>build</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyBzZXQgdG8gZmFsc2UsIGp1c3QgYnVpbGRpbmcgJHtyZXBvfSIK</text>
+      <register name="0" type="4">
+        <text>${shouldFireDownstreamBuildsString()}</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qIGlnbm9yZSBhbnkgcGlwZWxpbmVzIGFuZCBqdXN0IGJ1aWxkIHRoaXMgcmVwbyBpZiBTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyBpcyBmYWxzZSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZCAiJHtidWlsZEpvYkxvY2F0aW9uKCl9LyR7cmVwb30vJHtlbnYuQlJBTkNIX05BTUV9Igo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13273,9 +13273,12 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qIGlnbm9yZSBhbnkgcGlwZWxpbmVzIGFuZCBqdXN0IGJ1aWxkIHRoaXMgcmVwbyBpZiBTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyBpcyBmYWxzZSAqLwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgaWYgKEJvb2xlYW4udmFsdWVPZihTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUykpIHsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>//    if (!SHOULD_FIRE_DOWNSTREAM_BUILDS) {
 //        buildRepo(repo)
 //    } else if (geminiCoreSdk() == repo) {
@@ -13284,15 +13287,12 @@
 //        buildRepo(repo)
 //    }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ignore any pipelines if this is a downstream job, only
        use the appropriate pipeline if this job was started directly</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVwbyA9ICJHZW1pbmktQ29yZS1TREsiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14580,22 +14580,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwbyA9ICJHZW1pbmktQ29yZS1TREsiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9wcm9wZXJ0aWVzKFtbJGNsYXNzOiAnUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eScsIC8vICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzczogJ0Jvb2xlYW5QYXJhbWV0ZXJEZWZpbml0aW9uJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ1NIT1VMRF9GSVJFX0RPV05TVFJFQU1fQlVJTERTJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ0NoZWNrIGlmIHlvdSB3YW50IHRoaXMgam9iIHRvIGZpcmUgZG93bnN0cmVhbSBidWlsZHMuIFRoaXMgc2hvdWxkIGJlIHVuY2hlY2tlZCBpZiBkb3duc3RyZWFtIGJ1aWxkcyBhcmUgbm90IGRlc2lyZWQgb3IgaWYgdGhpcyBidWlsZCBpcyBmaXJpbmcgYXMgYSBwYXJ0IG9mIGEgcGlwZWxpbmUgdGhhdCBpcyBvdGhlcndpc2UgaGFuZGxpbmcgZG93bnN0cmVhbSBidWlsZHMuJ11dXV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9wcm9wZXJ0aWVzKFtbJGNsYXNzOiAnUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eScsIC8vICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzczogJ0Jvb2xlYW5QYXJhbWV0ZXJEZWZpbml0aW9uJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ1NIT1VMRF9GSVJFX0RPV05TVFJFQU1fQlVJTERTJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ0NoZWNrIGlmIHlvdSB3YW50IHRoaXMgam9iIHRvIGZpcmUgZG93bnN0cmVhbSBidWlsZHMuIFRoaXMgc2hvdWxkIGJlIHVuY2hlY2tlZCBpZiBkb3duc3RyZWFtIGJ1aWxkcyBhcmUgbm90IGRlc2lyZWQgb3IgaWYgdGhpcyBidWlsZCBpcyBmaXJpbmcgYXMgYSBwYXJ0IG9mIGEgcGlwZWxpbmUgdGhhdCBpcyBvdGhlcndpc2UgaGFuZGxpbmcgZG93bnN0cmVhbSBidWlsZHMuJ11dXV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0xvZ2dlZEluXD4=</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0xvZ2dlZEluXD4=</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14604,7 +14604,6 @@
     <history>
       <history-search>
         <entry>origin</entry>
-        <entry>build</entry>
         <entry>argument</entry>
         <entry>repo</entry>
         <entry>plugins</entry>
@@ -14623,6 +14622,7 @@
         <entry encoding="base64">XDxyZWZyZXNoYWJsZVZlaGljbGVFbnRpdGxlbWVudFw+</entry>
         <entry>refresh</entry>
         <entry encoding="base64">XDxpc0xvZ2dlZEluXD4=</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
