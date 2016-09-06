@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473124850889">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473127732345">
         <mark key="'" line="4" column="55" />
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="4" column="101" />
-        <mark key="." line="4" column="101" />
-        <mark key="^" line="4" column="101" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -1303,6 +1303,7 @@
         <mark key="^" line="11" column="108" />
         <mark key="." line="11" column="108" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/shellScripts/jenkins" timestamp="1473126022570" />
       <file name="$USER_HOME$/dev/haskell/scripts-cabal/scripts-cabal.cabal" timestamp="1448644119981">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="21" column="29" />
@@ -2640,7 +2641,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>with</text>
+        <text>&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13234,19 +13235,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>with</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>SHOULD</text>
       </register>
-      <register name="0" type="4">
-        <text>${buildJobLocation()}/${repo}/${env.BRANCH_NAME}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZWNobyAiSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkKICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KyAKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13273,19 +13274,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gRXh0cmFjdHMgJ3JlcG9OYW1lJyBmcm9tIGEgam9iIHdpdGggYSBmb3JtIGxpa2UgJ3h4eC94eHgvcmVwb05hbWUvJGVudi5CUkFOQ0hfTkFNRScKLy9kZWYgU3RyaW5nIHJlcG9OYW1lID0gewovLyAgICAvLyBFeHRyYWN0cyAncmVwb05hbWUnIGZyb20gYSBqb2Igd2l0aCBhIGZvcm0gbGlrZSAneHh4L3h4eC9yZXBvTmFtZS8kZW52LkJSQU5DSF9OQU1FJwovLyAgICBkZWYgbWF0Y2hlciA9ICIkZW52LkpPQl9OQU1FIiA9fiAvXi4qXC8oLiopXC8kZW52LkJSQU5DSF9OQU1FLwovLyAgICAvLyBnZXQgdGhlIGZpcnN0IGdyb3VwaW5nIGZyb20gdGhlIGZpcnN0IG1hdGNoCi8vICAgIG1hdGNoZXJbMF1bMV0KLy8vLyAgICBtYXRjaCA9IG1hdGNoZXJbMF1bMV0gLy8gZ2V0IHRoZSBmaXJzdCBncm91cGluZyBmcm9tIHRoZSBmaXJzdCBtYXRjaAovLy8vICAgIHJldHVybiBtYXRjaAovL30K</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZWNobyAiSW5pdGlhbDogSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGUudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9kZWYgU3RyaW5nIHJlcG9OYW1lID0gKCIkZW52LkpPQl9OQU1FIiA9fiAvXi4qXC8oLiopXC8kZW52LkJSQU5DSF9OQU1FLylbMF1bMV0gLy8gZ2V0IHRoZSBmaXJzdCBncm91cGluZyBmcm9tIHRoZSBmaXJzdCBtYXRjaAovL2RlZiBTdHJpbmcgZ2VtaW5pU2VjdXJpdHkgPSAiR2VtaW5pLVNlY3VyaXR5IgovL2RlZiBTdHJpbmcgZ2VtaW5pQ29yZVNkayA9ICJHZW1pbmktQ29yZS1TREsiCi8vZGVmIFN0cmluZyBidWlsZEpvYkxvY2F0aW9uID0gIkplbmtpbnMtTWFuYWdlbWVudC9NdWx0aWJyYW5jaC1QaXBlbGluZSIKLy9kZWYgU3RyaW5nIHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzU3RyaW5nID0gIlNIT1VMRF9GSVJFX0RPV05TVFJFQU1fQlVJTERTIgovL2RlZiBib29sZWFuIHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzVmFsdWUgPSBTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUy50b0Jvb2xlYW4oKQovL2RlZiBib29sZWFuIGlzR2VtaW5pU2VjdXJpdHkgPSByZXBvTmFtZS5lcXVhbHNJZ25vcmVDYXNlKGdlbWluaVNlY3VyaXR5KQovL2RlZiBib29sZWFuIGlzR2VtaW5pQ29yZVNkayA9IHJlcG9OYW1lLmVxdWFsc0lnbm9yZUNhc2UoZ2VtaW5pQ29yZVNkaykKLy9kZWYgYm9vbGVhbiBpc1BsdWdpbiA9IHJlcG9OYW1lID09fiAvXnBsdWdpbi4qLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJydW5Eb3duU3RyZWFtQnVpbGRzVmFsdWUoKTogSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14573,13 +14574,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJvcGVydGllcyhbWyRjbGFzcyAgICAgICAgICAgICAgOiAnUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eScsCi8vICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJEZWZpbml0aW9uczogW1skY2xhc3MgICAgICA6ICdCb29sZWFuUGFyYW1ldGVyRGVmaW5pdGlvbicsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICA6IHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzU3RyaW5nLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb24gOiAnQ2hlY2sgaWYgeW91IHdhbnQgdGhpcyBqb2IgdG8gZmlyZSBkb3duc3RyZWFtIGJ1aWxkcy4gVGhpcyBzaG91bGQgYmUgdW5jaGVja2VkIGlmIGRvd25zdHJlYW0gYnVpbGRzIGFyZSBub3QgZGVzaXJlZCBvciBpZiB0aGlzIGJ1aWxkIGlzIGZpcmluZyBhcyBhIHBhcnQgb2YgYSBwaXBlbGluZSB0aGF0IGlzIG90aGVyd2lzZSBoYW5kbGluZyBkb3duc3RyZWFtIGJ1aWxkcy4nXV1dXSkK</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJJZiB0aGlzIGlzIHRoZSBmaXJzdCBidWlsZCBqb2IsIHRoZW4gdGhlICR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBidWlsZCBwcm9wZXJ0eSBwcm9iYWJseSBqdXN0IGhhcyBub3QgaGFkIGEgY2hhbmNlIHRvIGdldCBpbml0aWFsaXplZCB5ZXQuIEl0IHNob3VsZCBiZSBpbml0aWFsaXplZCBub3csIHNvIHRyeSBhbm90aGVyIGJ1aWxkLiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
