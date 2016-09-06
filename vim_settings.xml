@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473165170720">
-        <mark key="'" line="4" column="55" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473166934057">
+        <mark key="'" line="120" column="14" />
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2535,7 +2535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="174" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="175" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="15" column="60" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
@@ -2635,13 +2634,14 @@
       <jump line="158" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="7" column="114" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="4" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="120" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13235,19 +13235,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>SHOULD</text>
+        <text>pluginBuilds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICIke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gc2V0IHRvIGZhbHNlLiBPbmx5IGJ1aWxkaW5nICR7cmVwb05hbWUoKX0uIgogICAgICAgIHJ1bkJ1aWxkU2NyaXB0KHJlcG9OYW1lKCkpCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBpZiAoIXJ1bkRvd25zdHJlYW1CdWlsZHNWYWx1ZSgpKSB7CiAgICAgICAgZWNobyAiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IHNldCB0byBmYWxzZS4gT25seSBidWlsZGluZyAke3JlcG9OYW1lKCl9LiIKICAgICAgICBydW5CdWlsZFNjcmlwdChyZXBvTmFtZSgpKQogICAgfSBlbHNlIGlmIChpc0dlbWluaVNlY3VyaXR5KCkpIHsKICAgICAgICBnZW1pbmlTZWN1cml0eVBpcGVsaW5lKCkKICAgIH0gZWxzZSBpZiAoaXNHZW1pbmlDb3JlU2RrKCkpIHsKICAgICAgICBnZW1pbmlDb3JlU2RrUGlwZWxpbmUoKQogICAgfSBlbHNlIGlmIChpc1BsdWdpbigpKSB7CiAgICAgICAgcGx1Z2luUGlwZWxpbmUoKQogICAgfSBlbHNlIHsKICAgICAgICBlY2hvICIke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gc2V0IHRvIHRydWUsIGJ1dCBubyBtYXRjaGluZyBwaXBlbGluZXMgZm91bmQuICIgKwogICAgICAgICAgICAgICAgIk9ubHkgYnVpbGRpbmcgJHtyZXBvTmFtZSgpfS4iCiAgICAgICAgcnVuQnVpbGRTY3JpcHQocmVwb05hbWUoKSkKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13274,19 +13274,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9kZWYgc3RhcnRBbGxQbHVnaW5Kb2JzKCkgewovLyAgICAvLyBDYXBpdGFsaXphdGlvbiBtYXR0ZXJzIGZvciB0aGVzZSBqb2IgbmFtZXMKLy8gICAgc3RhcnRKb2JzSW5QYXJhbGxlbChbJ1BsdWdpbi1Bc3Npc3QnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUF0WW91clNlcnZpY2UnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUJMRScsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tSEZDJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1LZXktRm9iJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1OYXYnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLU93bmVyLU1hbnVhbCcsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUGFya2luZycsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUHJlZmVycmVkLURlYWxlcicsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUmVjYWxsJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1Sb2Fkc2lkZS1Bc3Npc3RhbmNlJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1TY2hlZHVsZS1TZXJ2aWNlJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1WZWhpY2xlLVNlcnZpY2UnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVZlaGljbGUtU3RhdHVzJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1XaWZpJ10gYXMgU3RyaW5nW10pCgovLyAgICAvLyBDcmVhdGUgYSBtYXAgd2l0aCBidWlsZCBjbG9zdXJlcyBmb3IgZWFjaCBwbHVnaW4KLy8gICAgTGlua2VkSGFzaE1hcCBwbHVnaW5CdWlsZHMgPSBbOl0KLy8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwbHVnaW5CdWlsZEpvYk5hbWVzLnNpemUoKTsgaSsrKSB7Ci8vICAgICAgICBkZWYgYnVpbGROYW1lID0gcGx1Z2luQnVpbGRKb2JOYW1lc1tpXQovLyAgICAgICAgcGx1Z2luQnVpbGRzLnB1dEF0KGJ1aWxkTmFtZSwgewovLyAgICAgICAgICAgIHN0YXJ0Sm9iKGJ1aWxkTmFtZSkKLy8gICAgICAgIH0pCi8vICAgIH0KLy8KLy8gICAgLy8gUnVuIGJ1aWxkIGNsb3N1cmVzIGluIHBhcmFsbGVsIChpZiBleGVjdXRvcnMgYXJlIGF2YWlsYWJsZSkKLy8gICAgcGFyYWxsZWwgcGx1Z2luQnVpbGRzCi8vfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGJvb2xlYW4gaXNNaXNzaW5nUHJvcGVydHlFeGNlcHRpb24gPSAoZS50b1N0cmluZygpID09fiAvXmdyb292eS5sYW5nLk1pc3NpbmdQcm9wZXJ0eUV4Y2VwdGlvbi4qLykKLy8gICAgICAgIGlmIChpc0ZpcnN0QnVpbGQgJiYgaXNNaXNzaW5nUHJvcGVydHlFeGNlcHRpb24pIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdXNlIHN0YXNoIHJlc3QgYXBpIHRvIHJldHJpZXZlIGFuZCBwYXJzZSBvdXQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14574,22 +14574,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhIG1hcCB3aXRoIGJ1aWxkIGNsb3N1cmVzIGZvciBlYWNoIGpvYgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gam9i</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gYWRkIGFsbCB0aGUgcGx1Z2lucwo=</text>
+        <text encoding="base64">Ly9kZWYgc3RhcnRBbGxQbHVnaW5Kb2JzKCkgewovLyAgICAvLyBDYXBpdGFsaXphdGlvbiBtYXR0ZXJzIGZvciB0aGVzZSBqb2IgbmFtZXMKLy8gICAgc3RhcnRKb2JzSW5QYXJhbGxlbChbJ1BsdWdpbi1Bc3Npc3QnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUF0WW91clNlcnZpY2UnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUJMRScsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tSEZDJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1LZXktRm9iJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1OYXYnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLU93bmVyLU1hbnVhbCcsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUGFya2luZycsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUHJlZmVycmVkLURlYWxlcicsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUmVjYWxsJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1Sb2Fkc2lkZS1Bc3Npc3RhbmNlJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1TY2hlZHVsZS1TZXJ2aWNlJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1WZWhpY2xlLVNlcnZpY2UnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVZlaGljbGUtU3RhdHVzJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1XaWZpJ10gYXMgU3RyaW5nW10pCgovLyAgICAvLyBDcmVhdGUgYSBtYXAgd2l0aCBidWlsZCBjbG9zdXJlcyBmb3IgZWFjaCBwbHVnaW4KLy8gICAgTGlua2VkSGFzaE1hcCBwbHVnaW5CdWlsZHMgPSBbOl0KLy8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwbHVnaW5CdWlsZEpvYk5hbWVzLnNpemUoKTsgaSsrKSB7Ci8vICAgICAgICBkZWYgYnVpbGROYW1lID0gcGx1Z2luQnVpbGRKb2JOYW1lc1tpXQovLyAgICAgICAgcGx1Z2luQnVpbGRzLnB1dEF0KGJ1aWxkTmFtZSwgewovLyAgICAgICAgICAgIHN0YXJ0Sm9iKGJ1aWxkTmFtZSkKLy8gICAgICAgIH0pCi8vICAgIH0KLy8KLy8gICAgLy8gUnVuIGJ1aWxkIGNsb3N1cmVzIGluIHBhcmFsbGVsIChpZiBleGVjdXRvcnMgYXJlIGF2YWlsYWJsZSkKLy8gICAgcGFyYWxsZWwgcGx1Z2luQnVpbGRzCi8vfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>SHOULD</last-search>
+      <last-search>pluginBuilds</last-search>
       <last-offset />
-      <last-pattern>SHOULD</last-pattern>
+      <last-pattern>pluginBuilds</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14597,7 +14597,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZEpvYkxvY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxpc0dlbWluaVNlY3VyaXR5XD4=</entry>
         <entry encoding="base64">XDxpc0dlbWluaUNvcmVTZGtcPg==</entry>
         <entry encoding="base64">XDxpc1BsdWdpblw+</entry>
@@ -14617,6 +14616,7 @@
         <entry>repo</entry>
         <entry>repo[^N]</entry>
         <entry>SHOULD</entry>
+        <entry>pluginBuilds</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
