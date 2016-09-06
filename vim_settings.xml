@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473161624434">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473165170720">
         <mark key="'" line="4" column="55" />
-        <mark key="[" line="151" column="48" />
-        <mark key="]" line="153" column="19" />
-        <mark key="." line="153" column="19" />
-        <mark key="^" line="153" column="19" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2640,8 +2640,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'plugin-doesnotexist'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13235,20 +13235,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'plugin-doesnotexist'</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
         <text>SHOULD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCb29sZWFuLnZhbHVlT2YoIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICIke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gc2V0IHRvIGZhbHNlLiBPbmx5IGJ1aWxkaW5nICR7cmVwb05hbWUoKX0uIgogICAgICAgIHJ1bkJ1aWxkU2NyaXB0KHJlcG9OYW1lKCkpCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot; +
-                    &quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13275,19 +13274,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGZpbmQgYSB3YXkgdG8gcmV1c2UgdGhlIGNvbnN0YW50IHN0cmluZyB2YWx1ZSBoZXJlPwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldFByb3BlcnR5KCIke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9kZWYgc3RhcnRBbGxQbHVnaW5Kb2JzKCkgewovLyAgICAvLyBDYXBpdGFsaXphdGlvbiBtYXR0ZXJzIGZvciB0aGVzZSBqb2IgbmFtZXMKLy8gICAgc3RhcnRKb2JzSW5QYXJhbGxlbChbJ1BsdWdpbi1Bc3Npc3QnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUF0WW91clNlcnZpY2UnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUJMRScsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tSEZDJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1LZXktRm9iJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1OYXYnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLU93bmVyLU1hbnVhbCcsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUGFya2luZycsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUHJlZmVycmVkLURlYWxlcicsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUmVjYWxsJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1Sb2Fkc2lkZS1Bc3Npc3RhbmNlJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1TY2hlZHVsZS1TZXJ2aWNlJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1WZWhpY2xlLVNlcnZpY2UnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVZlaGljbGUtU3RhdHVzJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1XaWZpJ10gYXMgU3RyaW5nW10pCgovLyAgICAvLyBDcmVhdGUgYSBtYXAgd2l0aCBidWlsZCBjbG9zdXJlcyBmb3IgZWFjaCBwbHVnaW4KLy8gICAgTGlua2VkSGFzaE1hcCBwbHVnaW5CdWlsZHMgPSBbOl0KLy8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwbHVnaW5CdWlsZEpvYk5hbWVzLnNpemUoKTsgaSsrKSB7Ci8vICAgICAgICBkZWYgYnVpbGROYW1lID0gcGx1Z2luQnVpbGRKb2JOYW1lc1tpXQovLyAgICAgICAgcGx1Z2luQnVpbGRzLnB1dEF0KGJ1aWxkTmFtZSwgewovLyAgICAgICAgICAgIHN0YXJ0Sm9iKGJ1aWxkTmFtZSkKLy8gICAgICAgIH0pCi8vICAgIH0KLy8KLy8gICAgLy8gUnVuIGJ1aWxkIGNsb3N1cmVzIGluIHBhcmFsbGVsIChpZiBleGVjdXRvcnMgYXJlIGF2YWlsYWJsZSkKLy8gICAgcGFyYWxsZWwgcGx1Z2luQnVpbGRzCi8vfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGUudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14575,13 +14574,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJidWlsZCBudW1iZXI6ICR7ZW52LkJVSUxEX05VTUJFUn0iCg==</text>
+        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhIG1hcCB3aXRoIGJ1aWxkIGNsb3N1cmVzIGZvciBlYWNoIGpvYgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzRmlyc3RCdWlsZCA9IEludGVnZXIucGFyc2VJbnQoIiR7ZW52LkJVSUxEX05VTUJFUn0iKSA9PSAxCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gam9i</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJvb2xlYW4udmFsdWVPZigiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IikK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gYWRkIGFsbCB0aGUgcGx1Z2lucwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
