@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473076544108">
-        <mark key="'" line="157" column="31" />
-        <mark key="[" line="159" column="27" />
-        <mark key="]" line="159" column="74" />
-        <mark key="." line="10" column="91" />
-        <mark key="^" line="10" column="91" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473123093775">
+        <mark key="'" line="7" column="114" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="40" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2534,7 +2534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="27" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="88" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="174" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
@@ -2560,15 +2559,12 @@
       <jump line="87" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="94" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="162" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="29" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="67" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="158" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="6" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="15" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="23" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="160" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="28" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="30" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="156" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="8" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="64" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2582,7 +2578,6 @@
       <jump line="81" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="133" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="84" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="7" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="16" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="42" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="48" column="33" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2634,13 +2629,18 @@
       <jump line="108" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="155" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="157" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="41" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="29" column="49" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="30" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="158" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="7" column="114" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>${buildJobLocation()}/${repo}/${env.BRANCH_NAME}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13234,10 +13234,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>repo[^N]</text>
+        <text>SHOULD</text>
       </register>
       <register name="0" type="4">
         <text>${buildJobLocation()}/${repo}/${env.BRANCH_NAME}</text>
@@ -13273,16 +13273,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHJvcGVydGllcyhbWyRjbGFzcyAgICAgICAgICAgICAgOiAnUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eScsCi8vICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJEZWZpbml0aW9uczogW1skY2xhc3MgICAgICA6ICdCb29sZWFuUGFyYW1ldGVyRGVmaW5pdGlvbicsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICA6IHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzU3RyaW5nLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb24gOiAnQ2hlY2sgaWYgeW91IHdhbnQgdGhpcyBqb2IgdG8gZmlyZSBkb3duc3RyZWFtIGJ1aWxkcy4gVGhpcyBzaG91bGQgYmUgdW5jaGVja2VkIGlmIGRvd25zdHJlYW0gYnVpbGRzIGFyZSBub3QgZGVzaXJlZCBvciBpZiB0aGlzIGJ1aWxkIGlzIGZpcmluZyBhcyBhIHBhcnQgb2YgYSBwaXBlbGluZSB0aGF0IGlzIG90aGVyd2lzZSBoYW5kbGluZyBkb3duc3RyZWFtIGJ1aWxkcy4nXV1dXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyIsCg==</text>
+        <text encoding="base64">Ly8gRXh0cmFjdHMgJ3JlcG9OYW1lJyBmcm9tIGEgam9iIHdpdGggYSBmb3JtIGxpa2UgJ3h4eC94eHgvcmVwb05hbWUvJGVudi5CUkFOQ0hfTkFNRScKLy9kZWYgU3RyaW5nIHJlcG9OYW1lID0gewovLyAgICAvLyBFeHRyYWN0cyAncmVwb05hbWUnIGZyb20gYSBqb2Igd2l0aCBhIGZvcm0gbGlrZSAneHh4L3h4eC9yZXBvTmFtZS8kZW52LkJSQU5DSF9OQU1FJwovLyAgICBkZWYgbWF0Y2hlciA9ICIkZW52LkpPQl9OQU1FIiA9fiAvXi4qXC8oLiopXC8kZW52LkJSQU5DSF9OQU1FLwovLyAgICAvLyBnZXQgdGhlIGZpcnN0IGdyb3VwaW5nIGZyb20gdGhlIGZpcnN0IG1hdGNoCi8vICAgIG1hdGNoZXJbMF1bMV0KLy8vLyAgICBtYXRjaCA9IG1hdGNoZXJbMF1bMV0gLy8gZ2V0IHRoZSBmaXJzdCBncm91cGluZyBmcm9tIHRoZSBmaXJzdCBtYXRjaAovLy8vICAgIHJldHVybiBtYXRjaAovL30K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9kZWYgU3RyaW5nIHJlcG9OYW1lID0gKCIkZW52LkpPQl9OQU1FIiA9fiAvXi4qXC8oLiopXC8kZW52LkJSQU5DSF9OQU1FLylbMF1bMV0gLy8gZ2V0IHRoZSBmaXJzdCBncm91cGluZyBmcm9tIHRoZSBmaXJzdCBtYXRjaAovL2RlZiBTdHJpbmcgZ2VtaW5pU2VjdXJpdHkgPSAiR2VtaW5pLVNlY3VyaXR5IgovL2RlZiBTdHJpbmcgZ2VtaW5pQ29yZVNkayA9ICJHZW1pbmktQ29yZS1TREsiCi8vZGVmIFN0cmluZyBidWlsZEpvYkxvY2F0aW9uID0gIkplbmtpbnMtTWFuYWdlbWVudC9NdWx0aWJyYW5jaC1QaXBlbGluZSIKLy9kZWYgU3RyaW5nIHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzU3RyaW5nID0gIlNIT1VMRF9GSVJFX0RPV05TVFJFQU1fQlVJTERTIgovL2RlZiBib29sZWFuIHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzVmFsdWUgPSBTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUy50b0Jvb2xlYW4oKQovL2RlZiBib29sZWFuIGlzR2VtaW5pU2VjdXJpdHkgPSByZXBvTmFtZS5lcXVhbHNJZ25vcmVDYXNlKGdlbWluaVNlY3VyaXR5KQovL2RlZiBib29sZWFuIGlzR2VtaW5pQ29yZVNkayA9IHJlcG9OYW1lLmVxdWFsc0lnbm9yZUNhc2UoZ2VtaW5pQ29yZVNkaykKLy9kZWYgYm9vbGVhbiBpc1BsdWdpbiA9IHJlcG9OYW1lID09fiAvXnBsdWdpbi4qLwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -14573,22 +14573,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNldHVwQnVpbGRQYXJhbWV0ZXJzKCkgewp9Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJvcGVydGllcyhbWyRjbGFzcyAgICAgICAgICAgICAgOiAnUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eScsCi8vICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJEZWZpbml0aW9uczogW1skY2xhc3MgICAgICA6ICdCb29sZWFuUGFyYW1ldGVyRGVmaW5pdGlvbicsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICA6IHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzU3RyaW5nLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb24gOiAnQ2hlY2sgaWYgeW91IHdhbnQgdGhpcyBqb2IgdG8gZmlyZSBkb3duc3RyZWFtIGJ1aWxkcy4gVGhpcyBzaG91bGQgYmUgdW5jaGVja2VkIGlmIGRvd25zdHJlYW0gYnVpbGRzIGFyZSBub3QgZGVzaXJlZCBvciBpZiB0aGlzIGJ1aWxkIGlzIGZpcmluZyBhcyBhIHBhcnQgb2YgYSBwaXBlbGluZSB0aGF0IGlzIG90aGVyd2lzZSBoYW5kbGluZyBkb3duc3RyZWFtIGJ1aWxkcy4nXV1dXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldHVwQnVpbGRQYXJhbWV0ZXJzKCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJTSE9VTERfRklSRV9ET1dOU1RSRUFNX0JVSUxEUyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnRpZXMoW1skY2xhc3MgICAgICAgICAgICAgIDogJ1BhcmFtZXRlcnNEZWZpbml0aW9uUHJvcGVydHknLAogICAgICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzcyAgICAgIDogJ0Jvb2xlYW5QYXJhbWV0ZXJEZWZpbml0aW9uJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICA6IHNob3VsZEZpcmVEb3duc3RyZWFtQnVpbGRzU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiA6ICdDaGVjayBpZiB5b3Ugd2FudCB0aGlzIGpvYiB0byBmaXJlIGRvd25zdHJlYW0gYnVpbGRzLiBUaGlzIHNob3VsZCBiZSB1bmNoZWNrZWQgaWYgZG93bnN0cmVhbSBidWlsZHMgYXJlIG5vdCBkZXNpcmVkIG9yIGlmIHRoaXMgYnVpbGQgaXMgZmlyaW5nIGFzIGEgcGFydCBvZiBhIHBpcGVsaW5lIHRoYXQgaXMgb3RoZXJ3aXNlIGhhbmRsaW5nIGRvd25zdHJlYW0gYnVpbGRzLiddXV1dKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>repo[^N]</last-search>
+      <last-search>SHOULD</last-search>
       <last-offset />
-      <last-pattern>repo[^N]</last-pattern>
+      <last-pattern>SHOULD</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14596,7 +14596,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW1pbmlTZWN1cml0eVw+</entry>
         <entry encoding="base64">XDxidWlsZEpvYkxvY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxpc0dlbWluaVNlY3VyaXR5XD4=</entry>
         <entry encoding="base64">XDxpc0dlbWluaUNvcmVTZGtcPg==</entry>
@@ -14616,6 +14615,7 @@
         <entry encoding="base64">XDxzaG91bGRGaXJlRG93bnN0cmVhbUJ1aWxkc1N0cmluZ1w+</entry>
         <entry>repo</entry>
         <entry>repo[^N]</entry>
+        <entry>SHOULD</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
