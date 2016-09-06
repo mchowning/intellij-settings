@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473182835682">
-        <mark key="'" line="120" column="14" />
-        <mark key="[" line="171" column="55" />
-        <mark key="]" line="55" column="45" />
-        <mark key="." line="55" column="45" />
-        <mark key="^" line="55" column="45" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473189448449">
+        <mark key="'" line="254" column="2" />
+        <mark key="[" line="230" column="28" />
+        <mark key="]" line="230" column="28" />
+        <mark key="." line="230" column="28" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2542,113 +2542,113 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
-      <jump line="175" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
-      <jump line="15" column="60" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
-      <jump line="19" column="126" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.2.2/18d2a30be3ee824173a60de6ebd304b9fc106d39/gemini-core-3.2.2-sources.jar!/com/gm/gemini/plugin_common_resources/fragment/PullToRefreshFragment.java" />
-      <jump line="68" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="83" column="68" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="93" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="257" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="119" column="5" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="147" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="169" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="172" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="33" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="72" column="49" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="73" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="20" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="32" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="34" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="49" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="67" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/AuthManager.java" />
-      <jump line="87" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="94" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="162" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="67" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="6" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="15" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="23" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="160" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="28" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="156" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="8" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="64" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="79" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="51" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="69" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="134" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="135" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="137" column="49" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="163" column="105" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="81" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="133" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="84" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="16" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="42" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="48" column="33" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="49" column="32" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="31" column="60" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="32" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="53" column="60" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="54" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="55" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="45" column="66" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="38" column="59" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="63" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="20" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="33" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="34" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="39" column="58" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="73" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="76" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="83" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="96" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="22" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="44" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="35" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="37" column="34" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="50" column="42" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="86" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="88" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="93" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="98" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="99" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="101" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="104" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="40" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="36" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="46" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="5" column="47" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="12" column="57" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="17" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="168" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="10" column="91" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="159" column="51" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="164" column="47" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="167" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="102" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="103" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="105" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="106" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="108" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="155" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="157" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="41" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="29" column="49" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="30" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="158" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="7" column="114" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="4" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="120" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="159" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="24" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="171" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="54" column="61" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="85" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="87" column="10" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="50" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="51" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="3" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="33" column="38" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="34" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="58" column="67" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="59" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="97" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="110" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="117" column="50" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="119" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="120" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="94" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="96" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="4" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="60" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="61" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="99" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="100" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="107" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="109" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="5" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="6" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="62" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="237" column="45" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="10" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="18" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="32" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="43" column="80" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="66" column="38" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="76" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="78" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="239" column="61" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="11" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="44" column="86" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="67" column="45" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="79" column="86" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="81" column="42" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="63" column="28" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="93" column="28" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="7" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="25" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="8" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="27" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="64" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="106" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="29" column="24" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="65" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="116" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="9" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="15" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="83" column="3" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="17" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="95" column="3" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="19" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="53" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="104" column="3" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="253" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="196" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="254" column="2" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13242,19 +13242,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pluginBuilds</text>
+        <text>groovy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggIi4vJHtyZXBvfS9zaGVsbHNjcmlwdHMvamVua2lucyIK</text>
+        <text encoding="base64">IyFncm9vdnkKCnsgLT4KICAgIGFkZEJ1aWxkUHJvcGVydHkoKQoKICAgIGlmIChydW5Eb3duc3RyZWFtQnVpbGRzKCkpIHsKICAgICAgICBidWlsZFdpdGhQaXBlbGluZSgpCiAgICB9IGVsc2UgewogICAgICAgIGVjaG8gIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBzZXQgdG8gZmFsc2UuIE9ubHkgYnVpbGRpbmcgJHtyZXBvTmFtZSgpfS4iCiAgICAgICAgYnVpbGRSZXBvKHJlcG9OYW1lKCkpCiAgICB9Cn0KCmRlZiBidWlsZFdpdGhQaXBlbGluZSgpIHsKICAgIGFzc2VydChydW5Eb3duc3RyZWFtQnVpbGRzKCkpOwogICAgaWYgKGdlbWluaVNlY3VyaXR5KCkuZXF1YWxzSWdub3JlQ2FzZShyZXBvTmFtZSgpKSkgewogICAgICAgIGdlbWluaVNlY3VyaXR5UGlwZWxpbmUoKQogICAgfSBlbHNlIGlmIChnZW1pbmlDb3JlU2RrKCkuZXF1YWxzSWdub3JlQ2FzZShyZXBvTmFtZSgpKSkgewogICAgICAgIGdlbWluaUNvcmVTZGtQaXBlbGluZSgpCiAgICB9IGVsc2UgaWYgKHJlcG9OYW1lKCkgPT1+ICJeW1BwXWx1Z2luLioiICkgewogICAgICAgIHBsdWdpblBpcGVsaW5lKCkKICAgIH0gZWxzZSB7CiAgICAgICAgZWNobyAiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IHNldCB0byB0cnVlLCBidXQgbm8gbWF0Y2hpbmcgcGlwZWxpbmVzIGZvdW5kLiAiICsKICAgICAgICAgICAgICAgICJPbmx5IGJ1aWxkaW5nICR7cmVwb05hbWUoKX0uIgogICAgICAgIGJ1aWxkUmVwbyhyZXBvTmFtZSgpKQogICAgfQp9CgovLyBCdWlsZCBwcm9wZXJ0aWVzIGFyZSBhZGRlZCBvciBhbHRlcmVkIGR1cmluZyBhIHBhcnRpY3VsYXIgYnVpbGQgd2lsbCBub3QgYmUgcmVmbGVjdGVkCi8vIGluIHRoZSBidWlsZCBqb2IgdW50aWwgdGhlIG5leHQgcnVuIG9mIHRoZSBidWlsZApwcml2YXRlIHZvaWQgYWRkQnVpbGRQcm9wZXJ0eSgpIHsKICAgIHByb3BlcnRpZXMoW1skY2xhc3MgICAgICAgICAgICAgIDogJ1BhcmFtZXRlcnNEZWZpbml0aW9uUHJvcGVydHknLAogICAgICAgICAgICAgICAgIHBhcmFtZXRlckRlZmluaXRpb25zOiBbWyRjbGFzcyAgICAgIDogJ0Jvb2xlYW5QYXJhbWV0ZXJEZWZpbml0aW9uJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lICAgICAgICA6IHJ1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0VmFsdWU6IHJ1bkRvd25zdHJlYW1CdWlsZHNEZWZhdWx0VmFsdWUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiA6ICdDaGVjayBpZiB5b3Ugd2FudCB0aGlzIGpvYiB0byBydW4gJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZG93bnN0cmVhbSBidWlsZHMuIFRoaXMgc2hvdWxkIGJlIHVuY2hlY2tlZCAnICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZiBkb3duc3RyZWFtIGJ1aWxkcyBhcmUgbm90IGRlc2lyZWQgb3IgaWYgJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGhpcyBidWlsZCBpcyBiZWluZyBydW4gYXMgYSBwYXJ0IG9mIGEgcGlwZWxpbmUgJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGhhdCBpcyBhbHJlYWR5IGhhbmRsaW5nIGRvd25zdHJlYW0gYnVpbGRzLicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF1dCiAgICAgICAgICAgICAgICBdXSkKfQoKLyoKICogZmllbGQtc2ltdWxhdGluZyBmdW5jdGlvbnMKICovCgovLyBFeHRyYWN0cyAncmVwb05hbWUnIGZyb20gYSBqb2Igd2l0aCBhIG5hbWUgb2YgdGhlIGZvcm0gJ3h4eC94eHgvcmVwb05hbWUvJGVudi5CUkFOQ0hfTkFNRScKZGVmIFN0cmluZyByZXBvTmFtZSgpIHsgKCIkZW52LkpPQl9OQU1FIiA9fiAvXi4qXC8oLiopXC8kZW52LkJSQU5DSF9OQU1FLylbMF1bMV0gfS8vIGdldCB0aGUgZmlyc3QgZ3JvdXBpbmcgZnJvbSB0aGUgZmlyc3QgbWF0Y2gKZGVmIFN0cmluZyBnZW1pbmlTZWN1cml0eSgpIHsgIkdlbWluaS1TZWN1cml0eSIgfQpkZWYgU3RyaW5nIGdlbWluaUNvcmVTZGsoKSB7ICJHZW1pbmktQ29yZS1TREsiIH0KZGVmIFN0cmluZyBidWlsZEpvYkxvY2F0aW9uKCkgeyAiSmVua2lucy1NYW5hZ2VtZW50L011bHRpYnJhbmNoLVBpcGVsaW5lIiB9CmRlZiBTdHJpbmcgcnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpIHsgIlJVTl9ET1dOU1RSRUFNX0JVSUxEUyIgfQpkZWYgYm9vbGVhbiBydW5Eb3duc3RyZWFtQnVpbGRzRGVmYXVsdFZhbHVlKCkgeyB0cnVlIH0KCmRlZiBib29sZWFuIHJ1bkRvd25zdHJlYW1CdWlsZHMoKSB7CiAgICB0cnkgewogICAgICAgIFJVTl9ET1dOU1RSRUFNX0JVSUxEUy50b0Jvb2xlYW4oKQogICAgfSBjYXRjaCAoZ3Jvb3Z5LmxhbmcuTWlzc2luZ1Byb3BlcnR5RXhjZXB0aW9uIGUpIHsKICAgICAgICBib29sZWFuIGlzRmlyc3RCdWlsZCA9IEludGVnZXIucGFyc2VJbnQoIiR7ZW52LkJVSUxEX05VTUJFUn0iKSA9PSAxCiAgICAgICAgaWYgKGlzRmlyc3RCdWlsZCkgewogICAgICAgICAgICBlY2hvICJCZWNhdXNlIHRoZXJlIGlzIG5vdCBhIGNoYW5jZSBmb3IgdGhlIEplbmtpbnNmaWxlIHRvIGluaXRpYWxpemUgdGhlICIgKwogICAgICAgICAgICAgICAgICAgICIke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgYmVmb3JlIHRoaXMgZmlyc3QgYnVpbGQgIiArCiAgICAgICAgICAgICAgICAgICAgImEgTWlzc2luZ1Byb3BlcnR5RXhjZXB0aW9uIHdhcyB0aHJvd24gd2hlbiB0aGUgIiArCiAgICAgICAgICAgICAgICAgICAgIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBwcm9wZXJ0eSB3YXMgY2hlY2tlZC4gVHJlYXRpbmcgIiArCiAgICAgICAgICAgICAgICAgICAgIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBhcyAke3J1bkRvd25zdHJlYW1CdWlsZHNEZWZhdWx0VmFsdWUoKX0gIiArCiAgICAgICAgICAgICAgICAgICAgImZvciB0aGlzIGluaXRpYWwgYnVpbGQgb25seS4iCiAgICAgICAgICAgIHJ1bkRvd25zdHJlYW1CdWlsZHNEZWZhdWx0VmFsdWUoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IGUgYXMgVGhyb3dhYmxlCiAgICAgICAgfQogICAgfQp9CgovKgogKiBwaXBlbGluZSBmdW5jdGlvbnMKICovCgpkZWYgZ2VtaW5pU2VjdXJpdHlQaXBlbGluZSgpIHsKCiAgICBlY2hvICIke2dlbWluaVNlY3VyaXR5KCl9IHBpcGVsaW5lIgoKICAgIHN0YWdlIGdlbWluaVNlY3VyaXR5KCkKICAgIGJ1aWxkUmVwbyhyZXBvTmFtZSgpKQoKICAgIHN0YWdlIGdlbWluaUNvcmVTZGsoKQogICAgc3RhcnRKb2IoZ2VtaW5pQ29yZVNkaygpKQoKICAgIHBvc3RHZW1pbmlDb3JlU2RrUGlwZWxpbmUoKQp9CgpkZWYgZ2VtaW5pQ29yZVNka1BpcGVsaW5lKCkgewoKICAgIGVjaG8gIiR7Z2VtaW5pQ29yZVNkaygpfSBwaXBlbGluZSIKCiAgICBzdGFnZSBnZW1pbmlDb3JlU2RrKCkKICAgIGJ1aWxkUmVwbyhyZXBvTmFtZSgpKQoKICAgIHBvc3RHZW1pbmlDb3JlU2RrUGlwZWxpbmUoKQp9CgpkZWYgcGx1Z2luUGlwZWxpbmUoKSB7CgogICAgZWNobyAiYnVpbGRpbmcgcGx1Z2luLXBpcGVsaW5lIGZvcjogJHtyZXBvTmFtZSgpfSIKCiAgICBzdGFnZSByZXBvTmFtZSgpCiAgICBidWlsZFJlcG8ocmVwb05hbWUoKSkKCiAgICBwb3N0UGx1Z2luUGlwZWxpbmUoKQp9CgpkZWYgcG9zdEdlbWluaUNvcmVTZGtQaXBlbGluZSgpIHsKCiAgICBzdGFnZSAnUGx1Z2lucycKCiAgICAvLyBUT0RPIGNvdWxkIHVzZSBzdGFzaCByZXN0IGFwaSB0byByZXRyaWV2ZSBhbmQgcGFyc2Ugb3V0IHBsdWdpbiByZXBvIG5hbWVzLCBidXQgdGhlbiB0aGUgYnVpbGQKICAgIC8vIGpvYnMgd291bGQgaGF2ZSB0byBtYXRjaCB0aGUgcmVwbyBuYW1lcwoKICAgIC8vIENhcGl0YWxpemF0aW9uIG1hdHRlcnMgZm9yIHRoZXNlIGpvYiBuYW1lcwogICAgc3RhcnRKb2JzSW5QYXJhbGxlbChbJ1BsdWdpbi1Bc3Npc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1BdFlvdXJTZXJ2aWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tQkxFJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tRGVhbGVyLUxvY2F0ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUhGQycsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUtleS1Gb2InLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1OYXYnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1Pd25lci1NYW51YWwnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1QYXJraW5nJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUHJlZmVycmVkLURlYWxlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVJlY2FsbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVJvYWRzaWRlLUFzc2lzdGFuY2UnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1TY2hlZHVsZS1TZXJ2aWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tVmVoaWNsZS1TZXJ2aWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tVmVoaWNsZS1TdGF0dXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1XaWZpJ10gYXMgU3RyaW5nW10pCgogICAgcG9zdFBsdWdpblBpcGVsaW5lKCkKfQoKZGVmIHBvc3RQbHVnaW5QaXBlbGluZSgpIHsKICAgIHN0YWdlICdHZW1pbmknCiAgICBzdGFydEpvYignR2VtaW5pJykKfQoKLyoKICogaGVscGVyIGZ1bmN0aW9ucwogKi8KCmRlZiBidWlsZFJlcG8ocmVwbykgewogICAgZWNobyAiYnVpbGRpbmcgcmVwbzogJHJlcG8iCgogICAgY2xlYW5Ob2RlICIkcmVwbyIsIHsKICAgICAgICBjaGVja291dFNjbShyZXBvKQogICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICBydW5CdWlsZFNjcmlwdChyZXBvKQogICAgfQp9CgpkZWYgcnVuQnVpbGRTY3JpcHQocmVwbykgewoKICAgIGludCBtYXhSZXRyaWVzID0gMgogICAgaW50IHJldHJ5TnVtID0gMDsKCiAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgIGRlZiBzdGRlcnJGaWxlID0gJ3N0ZGVycl9vdXRwdXQudHh0JwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHNoICIuLyR7cmVwb30vc2hlbGxzY3JpcHRzL2plbmtpbnMgMj4gJHtzdGRlcnJGaWxlfSIgLy8gcmVkaXJlY3Qgc3RkZXJyIHRvIGZpbGUKICAgICAgICAgICAgYnJlYWsgLy8gYnJlYWsgb3V0IG9mIHdoaWxlIGxvb3AgaWYgbm8gZXhjZXB0aW9uCiAgICAgICAgfSBjYXRjaCAoaHVkc29uLkFib3J0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZXJyb3JPdXRwdXQgPSByZWFkRmlsZShzdGRlcnJGaWxlKQogICAgICAgICAgICBlY2hvIGVycm9yT3V0cHV0CiAgICAgICAgICAgIGJvb2xlYW4gaXNJbnRlcm5ldEVycm9yID0gKGVycm9yT3V0cHV0LmNvbnRhaW5zKCJDb3VsZCBub3QgcmVzb2x2ZSBhbGwgZGVwZW5kZW5jaWVzIGZvciBjb25maWd1cmF0aW9uIikKICAgICAgICAgICAgICAgICAgICB8fCBlcnJvck91dHB1dC5jb250YWlucygiQ291bGQgbm90IEhFQUQiKSkKICAgICAgICAgICAgaWYgKGlzSW50ZXJuZXRFcnJvciAmJiByZXRyeU51bSA8IG1heFJldHJpZXMpIHsKICAgICAgICAgICAgICAgIHJldHJ5TnVtKysKICAgICAgICAgICAgICAgIGVjaG8gIkJ1aWxkIEZhaWx1cmU6IGFwcGVhcnMgdG8gYmUgYmVjYXVzZSBvZiBhIHByb2JsZW0gd2l0aCB0aGUgaW50ZXJuZXQgY29ubmVjdGlvbi4uLiIKICAgICAgICAgICAgICAgIGVjaG8gIlRyeWluZyBhZ2FpbjogJHtyZXRyeU51bX0gb2YgJHttYXhSZXRyaWVzfSByZXRyeSBhdHRlbXB0cyIKICAgICAgICAgICAgICAgIC8vIHN3YWxsb3dpbmcgZXJyb3IgYW5kIGFsbG93aW5nIHdoaWxlIGxvb3AgdG8gY29udGludWUKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRocm93IGUgYXMgVGhyb3dhYmxlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCi8vIENoZWNrb3V0IHNjbSBpbnRvIHNwZWNpZmllZCBkaXJlY3Rvcnkgd2l0aGluIHdvcmtzcGFjZQpkZWYgY2hlY2tvdXRTY20oZm9sZGVyKSB7CiAgICBkaXIoZm9sZGVyKSB7CiAgICAgICAgY2hlY2tvdXQgc2NtCiAgICB9Cn0KCi8vIENsb25lIHByb2plY3Qtc2V0dGluZ3MgaW4gZGlyZWN0b3J5IHdpdGhpbiB3b3Jrc3BhY2UgYW5kIGNoZWNrb3V0IHJlbGV2YW50IGJyYW5jaApkZWYgY2hlY2tvdXRQcm9qZWN0U2V0dGluZ3MoKSB7CiAgICBzaCAnZ2l0IGNsb25lIHNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL3Byb2plY3Qtc2V0dGluZ3MnCiAgICBkaXIoJ3Byb2plY3Qtc2V0dGluZ3MnKSB7CiAgICAgICAgc2ggImdpdCBmZXRjaCBvcmlnaW4iCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc2ggImdpdCBjaGVja291dCBvcmlnaW4vJHtlbnYuQlJBTkNIX05BTUV9IgogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGVjaG8gIkVSUk9SOiBGYWlsZWQgdG8gZmluZCAke2Vudi5CUkFOQ0hfTkFNRX0gYnJhbmNoIGluIHByb2plY3Qtc2V0dGluZ3MiCiAgICAgICAgICAgIHRocm93IGUKICAgICAgICB9CiAgICB9Cn0KCmRlZiBzdGFydEpvYnNJblBhcmFsbGVsKFN0cmluZ1tdIGpvYk5hbWVzKSB7CiAgICBMaW5rZWRIYXNoTWFwIGJ1aWxkQ2xvc3VyZXMgPSBbOl0KICAgIGZvciAoaW50IGkgPSAwOyBpIDwgam9iTmFtZXMuc2l6ZSgpOyBpKyspIHsKICAgICAgICBkZWYgYnVpbGROYW1lID0gam9iTmFtZXNbaV0KICAgICAgICBidWlsZENsb3N1cmVzLnB1dEF0KGJ1aWxkTmFtZSwgewogICAgICAgICAgICBzdGFydEpvYihidWlsZE5hbWUpCiAgICAgICAgfSkKICAgIH0KCiAgICAvLyBSdW4gYnVpbGQgY2xvc3VyZXMgaW4gcGFyYWxsZWwgKGlmIGV4ZWN1dG9ycyBhcmUgYXZhaWxhYmxlKQogICAgcGFyYWxsZWwgYnVpbGRDbG9zdXJlcwp9CgovLyBCdWlsZCB0aGUgam9iIGZvciB0aGUgcmVsZXZhbnQgYnJhbmNoIGluIHRoZSBzcGVjaWZpZWQgcmVwbwpkZWYgc3RhcnRKb2IoU3RyaW5nIHJlcG8pIHsKICAgIHRyeSB7CiAgICAgICAgLy8gU3RhcnQgYnVpbGQgam9iIGZvciByZXBvLCBidXQgcHJldmVudCB0aGF0IGpvYiBmcm9tIHN0YXJ0aW5nIGl0cyBkb3duc3RyZWFtIGpvYnMKICAgICAgICAvLyBiZWNhdXNlIGRvd25zdHJlYW0gam9icyBhcmUgYWxyZWFkeSBiZWluZyBoYW5kbGVkIHNvIGRvd25zdHJlYW0gam9icyBzaG91bGQgbm90CiAgICAgICAgLy8gYWxzbyBzdGFydCBkb3duc3RyZWFtIGpvYnMgKGluIG90aGVyIHdvcmRzLCBvbmx5IGFuIGluaXRpYWwgYnVpbGQtLWkuZSBhIGpvYiBpbml0aWF0ZWQKICAgICAgICAvLyBieSBzdGFzaCBvciBtYW51YWxseSBvbiBqZW5raW5zLS1zaG91bGQgc3RhcnQgZG93bnN0cmVhbSBqb2JzKS4KICAgICAgICBidWlsZCBqb2IgICAgICAgOiAiJHtidWlsZEpvYkxvY2F0aW9uKCl9LyR7cmVwb30vJHtlbnYuQlJBTkNIX05BTUV9IiwKICAgICAgICAgICAgICBwYXJhbWV0ZXJzOiBbWyRjbGFzczogJ0Jvb2xlYW5QYXJhbWV0ZXJWYWx1ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lICA6IHJ1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlIDogZmFsc2VdXQogICAgfSBjYXRjaCAoaHVkc29uLkFib3J0RXhjZXB0aW9uIGUpIHsKICAgICAgICAvLyBTa2lwIGVycm9yIGlmIGJ1aWxkICdmYWlscycgYmVjYXVzZSByZXBvIGRvZXMgbm90IGNvbnRhaW4gdGhlIHJlbGV2YW50IGJyYW5jaAogICAgICAgIGlmIChlLnRvU3RyaW5nKCkgPT1+ICdeaHVkc29uLkFib3J0RXhjZXB0aW9uOiBObyBwYXJhbWV0ZXJpemVkIGpvYiBuYW1lZC4qZm91bmQkJykgewogICAgICAgICAgICAvL2h1ZHNvbi5BYm9ydEV4Y2VwdGlvbjogTm8gcGFyYW1ldGVyaXplZCBqb2IgbmFtZWQgSmVua2lucy1NYW5hZ2VtZW50L011bHRpYnJhbmNoLVBpcGVsaW5lL1twbHVnaW4tZG9lcy1ub3QtZXhpc3QvcGlwZWxpbmUtdGVzdF0gZm91bmQKICAgICAgICAgICAgZWNobyAiTm8gYnVpbGQgam9iIGZvdW5kIGZvciAke3JlcG99LyR7ZW52LkJSQU5DSF9OQU1FfS5cblNraXBwaW5nLi4uIgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IGUgYXMgVGhyb3dhYmxlCiAgICAgICAgfQogICAgfQp9CgpkZWYgY2xlYW5Ob2RlKFN0cmluZyBjbG9zdXJlTmFtZSwgQ2xvc3VyZSBjbG9zdXJlKSB7CiAgICBub2RlICgnYW5kcm9pZCcpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBlY2hvICJjbGVhbmluZyB3b3Jrc3BhY2UgYmVmb3JlIHN0YXJ0aW5nIFwiJHtjbG9zdXJlTmFtZX1cIiB3b3JrIG9uICR7ZW52Lk5PREVfTkFNRX0uLi4iCiAgICAgICAgICAgIGRlbGV0ZURpcigpCiAgICAgICAgICAgIGNsb3N1cmUuY2FsbCgpCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgZWNobyAiY2xlYW5pbmcgdXAgd29ya3NwYWNlIG9uIG5vZGUgYmVmb3JlIGZpbmlzaGluZyBcIiR7Y2xvc3VyZU5hbWV9XCIgd29yayBvbiAke2Vudi5OT0RFX05BTUV9Li4uIgogICAgICAgICAgICBkZWxldGVEaXIoKQogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyFncm9vdnkKCnsgLT4KICAgIGFkZEJ1aWxkUHJvcGVydHkoKQoKLy8gICAgaWYgKCFydW5Eb3duc3RyZWFtQnVpbGRzKCkpIHsKLy8gICAgICAgIGVjaG8gIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBzZXQgdG8gZmFsc2UuIE9ubHkgYnVpbGRpbmcgJHtyZXBvTmFtZSgpfS4iCi8vICAgICAgICBydW5CdWlsZFNjcmlwdChyZXBvTmFtZSgpKQovLyAgICB9IGVsc2UgaWYgKGlzR2VtaW5pU2VjdXJpdHkoKSkgewovLyAgICAgICAgZ2VtaW5pU2VjdXJpdHlQaXBlbGluZSgpCi8vICAgIH0gZWxzZSBpZiAoaXNHZW1pbmlDb3JlU2RrKCkpIHsKLy8gICAgICAgIGdlbWluaUNvcmVTZGtQaXBlbGluZSgpCi8vICAgIH0gZWxzZSBpZiAoaXNQbHVnaW4oKSkgewovLyAgICAgICAgcGx1Z2luUGlwZWxpbmUoKQovLyAgICB9IGVsc2UgewovLyAgICAgICAgZWNobyAiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IHNldCB0byB0cnVlLCBidXQgbm8gbWF0Y2hpbmcgcGlwZWxpbmVzIGZvdW5kLiAiICsKLy8gICAgICAgICAgICAgICAgIk9ubHkgYnVpbGRpbmcgJHtyZXBvTmFtZSgpfS4iCi8vICAgICAgICBydW5CdWlsZFNjcmlwdChyZXBvTmFtZSgpKQovLyAgICB9CgogICAgaWYgKHJ1bkRvd25zdHJlYW1CdWlsZHMoKSkgewogICAgICAgIGJ1aWxkV2l0aFBpcGVsaW5lKCkKICAgIH0gZWxzZSB7CiAgICAgICAgZWNobyAiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IHNldCB0byBmYWxzZS4gT25seSBidWlsZGluZyAke3JlcG9OYW1lKCl9LiIKICAgICAgICBydW5CdWlsZFNjcmlwdChyZXBvTmFtZSgpKQogICAgfQp9CgpkZWYgYnVpbGRXaXRoUGlwZWxpbmUoKSB7CiAgICBhc3NlcnQocnVuRG93bnN0cmVhbUJ1aWxkcygpKTsKICAgIGlmIChpc0dlbWluaVNlY3VyaXR5KCkpIHsKICAgICAgICBnZW1pbmlTZWN1cml0eVBpcGVsaW5lKCkKICAgIH0gZWxzZSBpZiAoaXNHZW1pbmlDb3JlU2RrKCkpIHsKICAgICAgICBnZW1pbmlDb3JlU2RrUGlwZWxpbmUoKQogICAgfSBlbHNlIGlmIChpc1BsdWdpbigpKSB7CiAgICAgICAgcGx1Z2luUGlwZWxpbmUoKQogICAgfSBlbHNlIHsKICAgICAgICBlY2hvICIke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gc2V0IHRvIHRydWUsIGJ1dCBubyBtYXRjaGluZyBwaXBlbGluZXMgZm91bmQuICIgKwogICAgICAgICAgICAgICAgIk9ubHkgYnVpbGRpbmcgJHtyZXBvTmFtZSgpfS4iCiAgICAgICAgcnVuQnVpbGRTY3JpcHQocmVwb05hbWUoKSkKICAgIH0KfQoKLy8gQnVpbGQgcHJvcGVydGllcyBhcmUgYWRkZWQgb3IgYWx0ZXJlZCBkdXJpbmcgYSBwYXJ0aWN1bGFyIGJ1aWxkIHdpbGwgbm90IGJlIHJlZmxlY3RlZAovLyBpbiB0aGUgYnVpbGQgam9iIHVudGlsIHRoZSBuZXh0IHJ1biBvZiB0aGUgYnVpbGQKcHJpdmF0ZSB2b2lkIGFkZEJ1aWxkUHJvcGVydHkoKSB7CiAgICBwcm9wZXJ0aWVzKFtbJGNsYXNzICAgICAgICAgICAgICA6ICdQYXJhbWV0ZXJzRGVmaW5pdGlvblByb3BlcnR5JywKICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJEZWZpbml0aW9uczogW1skY2xhc3MgICAgICA6ICdCb29sZWFuUGFyYW1ldGVyRGVmaW5pdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSAgICAgICAgOiBydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiBydW5Eb3duc3RyZWFtQnVpbGRzRGVmYXVsdFZhbHVlKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb24gOiAnQ2hlY2sgaWYgeW91IHdhbnQgdGhpcyBqb2IgdG8gcnVuICcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Rvd25zdHJlYW0gYnVpbGRzLiBUaGlzIHNob3VsZCBiZSB1bmNoZWNrZWQgJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaWYgZG93bnN0cmVhbSBidWlsZHMgYXJlIG5vdCBkZXNpcmVkIG9yIGlmICcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RoaXMgYnVpbGQgaXMgYmVpbmcgcnVuIGFzIGEgcGFydCBvZiBhIHBpcGVsaW5lICcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RoYXQgaXMgYWxyZWFkeSBoYW5kbGluZyBkb3duc3RyZWFtIGJ1aWxkcy4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdXQogICAgICAgICAgICAgICAgXV0pCn0KCi8qCiAqIGZpZWxkLXNpbXVsYXRpbmcgZnVuY3Rpb25zCiAqLwoKLy8gRXh0cmFjdHMgJ3JlcG9OYW1lJyBmcm9tIGEgam9iIHdpdGggYSBuYW1lIG9mIHRoZSBmb3JtICd4eHgveHh4L3JlcG9OYW1lLyRlbnYuQlJBTkNIX05BTUUnCmRlZiBTdHJpbmcgcmVwb05hbWUoKSB7ICgiJGVudi5KT0JfTkFNRSIgPX4gL14uKlwvKC4qKVwvJGVudi5CUkFOQ0hfTkFNRS8pWzBdWzFdIH0vLyBnZXQgdGhlIGZpcnN0IGdyb3VwaW5nIGZyb20gdGhlIGZpcnN0IG1hdGNoCmRlZiBTdHJpbmcgZ2VtaW5pU2VjdXJpdHkoKSB7ICJHZW1pbmktU2VjdXJpdHkiIH0KZGVmIFN0cmluZyBnZW1pbmlDb3JlU2RrKCkgeyAiR2VtaW5pLUNvcmUtU0RLIiB9CmRlZiBTdHJpbmcgYnVpbGRKb2JMb2NhdGlvbigpIHsgIkplbmtpbnMtTWFuYWdlbWVudC9NdWx0aWJyYW5jaC1QaXBlbGluZSIgfQpkZWYgYm9vbGVhbiBpc0dlbWluaVNlY3VyaXR5KCkgeyByZXBvTmFtZSgpLmVxdWFsc0lnbm9yZUNhc2UoZ2VtaW5pU2VjdXJpdHkoKSkgfQpkZWYgYm9vbGVhbiBpc0dlbWluaUNvcmVTZGsoKSB7IHJlcG9OYW1lKCkuZXF1YWxzSWdub3JlQ2FzZShnZW1pbmlDb3JlU2RrKCkpIH0KZGVmIGJvb2xlYW4gaXNQbHVnaW4oKSB7IHJlcG9OYW1lKCkgPT1+IC9ecGx1Z2luLiovIH0KZGVmIFN0cmluZyBydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCkgeyAiUlVOX0RPV05TVFJFQU1fQlVJTERTIiB9CmRlZiBib29sZWFuIHJ1bkRvd25zdHJlYW1CdWlsZHNEZWZhdWx0VmFsdWUoKSB7IHRydWUgfQoKZGVmIGJvb2xlYW4gcnVuRG93bnN0cmVhbUJ1aWxkcygpIHsKICAgIHRyeSB7CiAgICAgICAgUlVOX0RPV05TVFJFQU1fQlVJTERTLnRvQm9vbGVhbigpCiAgICB9IGNhdGNoIChncm9vdnkubGFuZy5NaXNzaW5nUHJvcGVydHlFeGNlcHRpb24gZSkgewogICAgICAgIGJvb2xlYW4gaXNGaXJzdEJ1aWxkID0gSW50ZWdlci5wYXJzZUludCgiJHtlbnYuQlVJTERfTlVNQkVSfSIpID09IDEKICAgICAgICBpZiAoaXNGaXJzdEJ1aWxkKSB7CiAgICAgICAgICAgIGVjaG8gIkJlY2F1c2UgdGhlcmUgaXMgbm90IGEgY2hhbmNlIGZvciB0aGUgSmVua2luc2ZpbGUgdG8gaW5pdGlhbGl6ZSB0aGUgIiArCiAgICAgICAgICAgICAgICAgICAgIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBidWlsZCBwcm9wZXJ0eSBiZWZvcmUgdGhpcyBmaXJzdCBidWlsZCAiICsKICAgICAgICAgICAgICAgICAgICAiYSBNaXNzaW5nUHJvcGVydHlFeGNlcHRpb24gd2FzIHRocm93biB3aGVuIHRoZSAiICsKICAgICAgICAgICAgICAgICAgICAiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IHByb3BlcnR5IHdhcyBjaGVja2VkLiBUcmVhdGluZyAiICsKICAgICAgICAgICAgICAgICAgICAiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IGFzICR7cnVuRG93bnN0cmVhbUJ1aWxkc0RlZmF1bHRWYWx1ZSgpfSAiICsKICAgICAgICAgICAgICAgICAgICAiZm9yIHRoaXMgaW5pdGlhbCBidWlsZCBvbmx5LiIKICAgICAgICAgICAgcnVuRG93bnN0cmVhbUJ1aWxkc0RlZmF1bHRWYWx1ZSgpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgZSBhcyBUaHJvd2FibGUKICAgICAgICB9CiAgICB9Cn0KCi8qCiAqIHBpcGVsaW5lIGZ1bmN0aW9ucwogKi8KCmRlZiBnZW1pbmlTZWN1cml0eVBpcGVsaW5lKCkgewogICAgYXNzZXJ0KGlzR2VtaW5pU2VjdXJpdHkoKSkKICAgIGVjaG8gIiR7Z2VtaW5pU2VjdXJpdHkoKX0gcGlwZWxpbmUiCgogICAgc3RhZ2UgZ2VtaW5pU2VjdXJpdHkoKQogICAgcnVuQnVpbGRTY3JpcHQocmVwb05hbWUoKSkKCiAgICBzdGFnZSBnZW1pbmlDb3JlU2RrKCkKICAgIHN0YXJ0Sm9iKGdlbWluaUNvcmVTZGsoKSkKCiAgICBwb3N0R2VtaW5pQ29yZVNka1BpcGVsaW5lKCkKfQoKZGVmIGdlbWluaUNvcmVTZGtQaXBlbGluZSgpIHsKICAgIGFzc2VydChpc0dlbWluaUNvcmVTZGsoKSkKICAgIGVjaG8gIiR7Z2VtaW5pQ29yZVNkaygpfSBwaXBlbGluZSIKCiAgICBzdGFnZSBnZW1pbmlDb3JlU2RrKCkKICAgIHJ1bkJ1aWxkU2NyaXB0KHJlcG9OYW1lKCkpCgogICAgcG9zdEdlbWluaUNvcmVTZGtQaXBlbGluZSgpCn0KCmRlZiBwbHVnaW5QaXBlbGluZSgpIHsKICAgIGFzc2VydChpc1BsdWdpbigpKQogICAgZWNobyAiYnVpbGRpbmcgcGx1Z2luLXBpcGVsaW5lIGZvcjogJHtyZXBvTmFtZSgpfSIKCiAgICBzdGFnZSByZXBvTmFtZSgpCiAgICBydW5CdWlsZFNjcmlwdChyZXBvTmFtZSgpKQoKICAgIHBvc3RQbHVnaW5QaXBlbGluZSgpCn0KCmRlZiBwb3N0R2VtaW5pQ29yZVNka1BpcGVsaW5lKCkgewoKICAgIHN0YWdlICdQbHVnaW5zJwogICAgLy8gVE9ETyBjb3VsZCB1c2Ugc3Rhc2ggcmVzdCBhcGkgdG8gcmV0cmlldmUgYW5kIHBhcnNlIG91dCBwbHVnaW4gcmVwbyBuYW1lCiAgICAvLyBDYXBpdGFsaXphdGlvbiBtYXR0ZXJzIGZvciB0aGVzZSBqb2IgbmFtZXMKICAgIHN0YXJ0Sm9ic0luUGFyYWxsZWwoWydQbHVnaW4tQXNzaXN0JywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tQXRZb3VyU2VydmljZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLUJMRScsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLURlYWxlci1Mb2NhdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1IRkMnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1LZXktRm9iJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tTmF2JywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tT3duZXItTWFudWFsJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tUGFya2luZycsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVByZWZlcnJlZC1EZWFsZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1SZWNhbGwnLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1BsdWdpbi1Sb2Fkc2lkZS1Bc3Npc3RhbmNlJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tU2NoZWR1bGUtU2VydmljZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVZlaGljbGUtU2VydmljZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAnUGx1Z2luLVZlaGljbGUtU3RhdHVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICdQbHVnaW4tV2lmaSddIGFzIFN0cmluZ1tdKQoKICAgIHBvc3RQbHVnaW5QaXBlbGluZSgpCn0KCmRlZiBwb3N0UGx1Z2luUGlwZWxpbmUoKSB7CiAgICBzdGFnZSAnR2VtaW5pJwogICAgc3RhcnRKb2IoJ0dlbWluaScpCn0KCi8qCiAqIGhlbHBlciBmdW5jdGlvbnMKICovCgpkZWYgcnVuQnVpbGRTY3JpcHQocmVwbykgewogICAgZWNobyAiYnVpbGRpbmcgcmVwbzogJHJlcG8iCgogICAgY2xlYW5Ob2RlICIkcmVwbyIsIHsKICAgICAgICBjaGVja291dFNjbShyZXBvKQogICAgICAgIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkKICAgICAgICBzaCAiLi8ke3JlcG99L3NoZWxsc2NyaXB0cy9qZW5raW5zIgogICAgfQp9CgovLyBDaGVja291dCBzY20gaW50byBzcGVjaWZpZWQgZGlyZWN0b3J5IHdpdGhpbiB3b3Jrc3BhY2UKZGVmIGNoZWNrb3V0U2NtKGZvbGRlcikgewogICAgZGlyKGZvbGRlcikgewogICAgICAgIGNoZWNrb3V0IHNjbQogICAgfQp9CgovLyBDbG9uZSBwcm9qZWN0LXNldHRpbmdzIGluIGRpcmVjdG9yeSB3aXRoaW4gd29ya3NwYWNlIGFuZCBjaGVja291dCByZWxldmFudCBicmFuY2gKZGVmIGNoZWNrb3V0UHJvamVjdFNldHRpbmdzKCkgewogICAgc2ggJ2dpdCBjbG9uZSBzc2g6Ly9naXRAb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb206Nzk5OS9hZy9wcm9qZWN0LXNldHRpbmdzJwogICAgZGlyKCdwcm9qZWN0LXNldHRpbmdzJykgewogICAgICAgIHNoICJnaXQgZmV0Y2ggb3JpZ2luIgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHNoICJnaXQgY2hlY2tvdXQgb3JpZ2luLyR7ZW52LkJSQU5DSF9OQU1FfSIKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlY2hvICJFUlJPUjogRmFpbGVkIHRvIGZpbmQgJHtlbnYuQlJBTkNIX05BTUV9IGJyYW5jaCBpbiBwcm9qZWN0LXNldHRpbmdzIgogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfQogICAgfQp9CgpkZWYgc3RhcnRKb2JzSW5QYXJhbGxlbChTdHJpbmdbXSBqb2JOYW1lcykgewogICAgTGlua2VkSGFzaE1hcCBidWlsZENsb3N1cmVzID0gWzpdCiAgICBmb3IgKGludCBpID0gMDsgaSA8IGpvYk5hbWVzLnNpemUoKTsgaSsrKSB7CiAgICAgICAgZGVmIGJ1aWxkTmFtZSA9IGpvYk5hbWVzW2ldCiAgICAgICAgYnVpbGRDbG9zdXJlcy5wdXRBdChidWlsZE5hbWUsIHsKICAgICAgICAgICAgc3RhcnRKb2IoYnVpbGROYW1lKQogICAgICAgIH0pCiAgICB9CgogICAgLy8gUnVuIGJ1aWxkIGNsb3N1cmVzIGluIHBhcmFsbGVsIChpZiBleGVjdXRvcnMgYXJlIGF2YWlsYWJsZSkKICAgIHBhcmFsbGVsIGJ1aWxkQ2xvc3VyZXMKfQoKLy8gQnVpbGQgdGhlIGpvYiBmb3IgdGhlIHJlbGV2YW50IGJyYW5jaCBpbiB0aGUgc3BlY2lmaWVkIHJlcG8KZGVmIHN0YXJ0Sm9iKFN0cmluZyByZXBvKSB7CiAgICB0cnkgewogICAgICAgIC8vIFN0YXJ0IGJ1aWxkIGpvYiBmb3IgcmVwbywgYnV0IHByZXZlbnQgdGhhdCBqb2IgZnJvbSBzdGFydGluZyBpdHMgZG93bnN0cmVhbSBqb2JzCiAgICAgICAgLy8gYmVjYXVzZSBkb3duc3RyZWFtIGpvYnMgYXJlIGFscmVhZHkgYmVpbmcgaGFuZGxlZCBzbyBkb3duc3RyZWFtIGpvYnMgc2hvdWxkIG5vdAogICAgICAgIC8vIGFsc28gc3RhcnQgZG93bnN0cmVhbSBqb2JzIChpbiBvdGhlciB3b3Jkcywgb25seSBhbiBpbml0aWFsIGJ1aWxkLS1pLmUgYSBqb2IgaW5pdGlhdGVkCiAgICAgICAgLy8gYnkgc3Rhc2ggb3IgbWFudWFsbHkgb24gamVua2lucy0tc2hvdWxkIHN0YXJ0IGRvd25zdHJlYW0gam9icykuCiAgICAgICAgYnVpbGQgam9iICAgICAgIDogIiR7YnVpbGRKb2JMb2NhdGlvbigpfS8ke3JlcG99LyR7ZW52LkJSQU5DSF9OQU1FfSIsCiAgICAgICAgICAgICAgcGFyYW1ldGVyczogW1skY2xhc3M6ICdCb29sZWFuUGFyYW1ldGVyVmFsdWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSAgOiBydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZSA6IGZhbHNlXV0KICAgIH0gY2F0Y2ggKGh1ZHNvbi5BYm9ydEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgLy8gU2tpcCBlcnJvciBpZiBidWlsZCAnZmFpbHMnIGJlY2F1c2UgcmVwbyBkb2VzIG5vdCBjb250YWluIHRoZSByZWxldmFudCBicmFuY2gKICAgICAgICBpZiAoZS50b1N0cmluZygpID09fiAnXmh1ZHNvbi5BYm9ydEV4Y2VwdGlvbjogTm8gcGFyYW1ldGVyaXplZCBqb2IgbmFtZWQuKmZvdW5kJCcpIHsKICAgICAgICAgICAgLy9odWRzb24uQWJvcnRFeGNlcHRpb246IE5vIHBhcmFtZXRlcml6ZWQgam9iIG5hbWVkIEplbmtpbnMtTWFuYWdlbWVudC9NdWx0aWJyYW5jaC1QaXBlbGluZS9bcGx1Z2luLWRvZXMtbm90LWV4aXN0L3BpcGVsaW5lLXRlc3RdIGZvdW5kCiAgICAgICAgICAgIGVjaG8gIk5vIGJ1aWxkIGpvYiBmb3VuZCBmb3IgJHtyZXBvfS8ke2Vudi5CUkFOQ0hfTkFNRX0uXG5Ta2lwcGluZy4uLiIKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aHJvdyBlIGFzIFRocm93YWJsZQogICAgICAgIH0KICAgIH0KfQoKZGVmIGNsZWFuTm9kZShTdHJpbmcgY2xvc3VyZU5hbWUsIENsb3N1cmUgY2xvc3VyZSkgewogICAgbm9kZSAoJ2FuZHJvaWQnKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgZWNobyAiY2xlYW5pbmcgd29ya3NwYWNlIGJlZm9yZSBzdGFydGluZyBcIiR7Y2xvc3VyZU5hbWV9XCIgd29yayBvbiAke2Vudi5OT0RFX05BTUV9Li4uIgogICAgICAgICAgICBkZWxldGVEaXIoKQogICAgICAgICAgICBjbG9zdXJlLmNhbGwoKQogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGVjaG8gImNsZWFuaW5nIHVwIHdvcmtzcGFjZSBvbiBub2RlIGJlZm9yZSBmaW5pc2hpbmcgXCIke2Nsb3N1cmVOYW1lfVwiIHdvcmsgb24gJHtlbnYuTk9ERV9OQU1FfS4uLiIKICAgICAgICAgICAgZGVsZXRlRGlyKCkKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13281,19 +13281,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggIi4vJHtyZXBvfS9zaGVsbHNjcmlwdHMvamVua2lucyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAidG9TdHJpbmcoKTogJHtlLnRvU3RyaW5nKCl9IgogICAgICAgICAgICBlY2hvICJnZXRNZXNzYWdlKCk6ICR7ZS5nZXRNZXNzYWdlKCl9IgogICAgICAgICAgICBlY2hvICJnZXRDYXVzZSgpOiAke2UuZ2V0Q2F1c2UoKX0iCiAgICAgICAgICAgIGRlZiBzdCA9IGUuZ2V0U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIGVjaG8gImdldFN0YWNrVHJhY2UoKTogJHtlLmdldFN0YWNrVHJhY2UoKX0iCiAgICAgICAgICAgIGZvciAoaSA9IDA7IGkgPCBzdC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgZWNobyAic3QjJHtpfTogJHtzdFtpXS50b1N0cmluZygpfSIKICAgICAgICAgICAgfQogICAgICAgICAgICB0aHJvdyBlIGFzIFRocm93YWJsZQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludCBtYXhSZXRyaWVzID0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiZ2V0U3RhY2tUcmFjZSgpOiAke2UuZ2V0U3RhY2tUcmFjZSgpfSIK</text>
+        <text encoding="base64">Ly8gVE9ETyBtYWtlIHRoaXMgYSBjbG9zdXJlIGluc2lkZSBvZiBidWlsZFJlcG8oKT8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiZ2V0U3RhY2tUcmFjZSgpOiAke2UuZ2V0U3RhY2tUcmFjZSgpfSIK</text>
+        <text encoding="base64">ICAgIGludCBtYXhSZXRyaWVzID0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gY291bGQgdXNlIHN0YXNoIHJlc3QgYXBpIHRvIHJldHJpZXZlIGFuZCBwYXJzZSBvdXQgcGx1Z2luIHJlcG8gbmFtZXMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14581,22 +14581,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChpc1BsdWdpbigpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChpc0dlbWluaUNvcmVTZGsoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKCFydW5Eb3duc3RyZWFtQnVpbGRzKCkpIHsKLy8gICAgICAgIGVjaG8gIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBzZXQgdG8gZmFsc2UuIE9ubHkgYnVpbGRpbmcgJHtyZXBvTmFtZSgpfS4iCi8vICAgICAgICBydW5CdWlsZFNjcmlwdChyZXBvTmFtZSgpKQovLyAgICB9IGVsc2UgaWYgKGlzR2VtaW5pU2VjdXJpdHkoKSkgewovLyAgICAgICAgZ2VtaW5pU2VjdXJpdHlQaXBlbGluZSgpCi8vICAgIH0gZWxzZSBpZiAoaXNHZW1pbmlDb3JlU2RrKCkpIHsKLy8gICAgICAgIGdlbWluaUNvcmVTZGtQaXBlbGluZSgpCi8vICAgIH0gZWxzZSBpZiAoaXNQbHVnaW4oKSkgewovLyAgICAgICAgcGx1Z2luUGlwZWxpbmUoKQovLyAgICB9IGVsc2UgewovLyAgICAgICAgZWNobyAiJHtydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nKCl9IHNldCB0byB0cnVlLCBidXQgbm8gbWF0Y2hpbmcgcGlwZWxpbmVzIGZvdW5kLiAiICsKLy8gICAgICAgICAgICAgICAgIk9ubHkgYnVpbGRpbmcgJHtyZXBvTmFtZSgpfS4iCi8vICAgICAgICBydW5CdWlsZFNjcmlwdChyZXBvTmFtZSgpKQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChpc0dlbWluaUNvcmVTZGsoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>pluginBuilds</last-search>
+      <last-search>groovy</last-search>
       <last-offset />
-      <last-pattern>pluginBuilds</last-pattern>
+      <last-pattern>groovy</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14604,26 +14604,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0dlbWluaVNlY3VyaXR5XD4=</entry>
-        <entry encoding="base64">XDxpc0dlbWluaUNvcmVTZGtcPg==</entry>
-        <entry encoding="base64">XDxpc1BsdWdpblw+</entry>
-        <entry encoding="base64">XDxnZXRSZXBvTmFtZVw+</entry>
-        <entry encoding="base64">XDxwbHVnaW5cPg==</entry>
-        <entry>getRepo</entry>
-        <entry encoding="base64">XDxyZXBvTmFtZVw+</entry>
-        <entry>repoName[^(]</entry>
-        <entry>geminiSecurity[^(]</entry>
-        <entry>geminiCoreSdk[^(]</entry>
-        <entry>buildJobLocation[^(]</entry>
-        <entry>BuildsString[^(]</entry>
-        <entry>BuildsValue[^(]</entry>
-        <entry>Plugin[^(]</entry>
-        <entry>isPlugin[^(]</entry>
         <entry encoding="base64">XDxzaG91bGRGaXJlRG93bnN0cmVhbUJ1aWxkc1N0cmluZ1w+</entry>
         <entry>repo</entry>
         <entry>repo[^N]</entry>
         <entry>SHOULD</entry>
         <entry>pluginBuilds</entry>
+        <entry>\=\~</entry>
+        <entry>=~</entry>
+        <entry encoding="base64">XDw9XD4=</entry>
+        <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
+        <entry encoding="base64">XDxzdGRlcnJfb3V0cHV0XD4=</entry>
+        <entry encoding="base64">XDxyZXBvTmFtZVw+</entry>
+        <entry encoding="base64">XDxnZW1pbmlTZWN1cml0eVw+</entry>
+        <entry encoding="base64">XDxnZW1pbmlDb3JlU2RrXD4=</entry>
+        <entry encoding="base64">XDxidWlsZEpvYkxvY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nXD4=</entry>
+        <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzRGVmYXVsdFZhbHVlXD4=</entry>
+        <entry encoding="base64">XDxpc0dlbWluaVNlY3VyaXR5XD4=</entry>
+        <entry encoding="base64">XDxpc0dlbWluaUNvcmVTZGtcPg==</entry>
+        <entry encoding="base64">XDxpc1BsdWdpblw+</entry>
+        <entry>groovy</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
