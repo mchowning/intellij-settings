@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473123093775">
-        <mark key="'" line="7" column="114" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="40" column="43" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473124850889">
+        <mark key="'" line="4" column="55" />
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="101" />
+        <mark key="." line="4" column="101" />
+        <mark key="^" line="4" column="101" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2534,7 +2534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" />
       <jump line="88" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="174" column="18" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
       <jump line="175" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/fragments/DashboardFragment.java" />
@@ -2634,13 +2633,14 @@
       <jump line="30" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="158" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="7" column="114" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="4" column="55" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>with</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13234,7 +13234,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>with</text>
       </register>
       <register name="/" type="4">
         <text>SHOULD</text>
