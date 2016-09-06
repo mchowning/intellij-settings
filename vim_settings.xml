@@ -530,12 +530,12 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473127732345">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473158484605">
         <mark key="'" line="4" column="55" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="34" column="56" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="34" column="56" />
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="31" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-account/src/main/res/layout/view_account_detail.xml" timestamp="1460637826052">
         <mark key="[" line="22" column="52" />
@@ -2641,7 +2641,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>t</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13235,19 +13235,20 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>SHOULD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZWNobyAiSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiVGhpcyBpcyBwcm9iYWJseSB0aGUgZmlyc3QgdGltZSB0aGlzIGJ1aWxkIGpvYiBoYXMgcnVuLCBhbmQgIiArCiAgICAgICAgICAgICAgICAgICAgInRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkgaGFzICIgKwogICAgICAgICAgICAgICAgICAgICJub3QgaGFkIGEgY2hhbmNlIHRvIGdldCBpbml0aWFsaXplZCB5ZXQuIFNldHRpbmcgIiArCiAgICAgICAgICAgICAgICAgICAgIiR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSB0byB0cnVlIGZvciB0aGlzIGJ1aWxkLCBidXQgdGhlICIgKwogICAgICAgICAgICAgICAgICAgICJwcm9wZXJ0eSBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgYW5kIGF2YWlsYWJsZSBmb3IgYW55IGZ1dHVyZSBidWlsZHMuIgo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KyAKICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>&quot; +
+                    &quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13273,20 +13274,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KyAKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZWNobyAiSW5pdGlhbDogSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGUudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZWNobyAiSW5pdGlhbDogSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCiAgICAgICAgZWNobyBlLnRvU3RyaW5nKCkKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGUudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJydW5Eb3duU3RyZWFtQnVpbGRzVmFsdWUoKTogSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14574,13 +14575,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJydW5Eb3duU3RyZWFtQnVpbGRzVmFsdWUoKTogSWYgdGhpcyBpcyB0aGUgZmlyc3QgYnVpbGQgam9iLCB0aGVuIHRoZSAke3J1bkRvd25zdHJlYW1CdWlsZHNTdHJpbmcoKX0gYnVpbGQgcHJvcGVydHkgcHJvYmFibHkganVzdCBoYXMgbm90IGhhZCBhIGNoYW5jZSB0byBnZXQgaW5pdGlhbGl6ZWQgeWV0LiBJdCBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgbm93LCBzbyB0cnkgYW5vdGhlciBidWlsZC4iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJJZiB0aGlzIGlzIHRoZSBmaXJzdCBidWlsZCBqb2IsIHRoZW4gdGhlICR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBidWlsZCBwcm9wZXJ0eSBwcm9iYWJseSBqdXN0IGhhcyBub3QgaGFkIGEgY2hhbmNlIHRvIGdldCBpbml0aWFsaXplZCB5ZXQuIEl0IHNob3VsZCBiZSBpbml0aWFsaXplZCBub3csIHNvIHRyeSBhbm90aGVyIGJ1aWxkLiIK</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJJZiB0aGlzIGlzIHRoZSBmaXJzdCBidWlsZCBqb2IsIHRoZW4gdGhlICR7cnVuRG93bnN0cmVhbUJ1aWxkc1N0cmluZygpfSBidWlsZCBwcm9wZXJ0eSBwcm9iYWJseSBqdXN0IGhhcyBub3QgaGFkIGEgY2hhbmNlIHRvIGdldCBpbml0aWFsaXplZCB5ZXQuIEl0IHNob3VsZCBiZSBpbml0aWFsaXplZCBub3csIHNvIHRyeSBhbm90aGVyIGJ1aWxkLiIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
