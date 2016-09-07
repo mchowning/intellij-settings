@@ -13253,7 +13253,7 @@
         <text>quamstuff@gmail.com</text>
       </register>
       <register name="/" type="4">
-        <text>refresh-dependencies</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG8gICAgIDogJ3F1YW1zdHVmZkBnbWFpbC5jb20nCg==</text>
@@ -14602,9 +14602,9 @@
       </register>
     </registers>
     <search>
-      <last-search>refresh-dependencies</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>refresh-dependencies</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14612,8 +14612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pluginBuilds</entry>
-        <entry>\=\~</entry>
         <entry>=~</entry>
         <entry encoding="base64">XDw9XD4=</entry>
         <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
@@ -14632,6 +14630,8 @@
         <entry>Branch</entry>
         <entry>PhoneNameReceivedEvent</entry>
         <entry>refresh-dependencies</entry>
+        <entry>clean</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
