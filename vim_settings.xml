@@ -484,6 +484,13 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/ble/helper/CommandServiceHelper.java" timestamp="1473247260962">
+        <mark key="'" line="32" column="37" />
+        <mark key="[" line="99" column="89" />
+        <mark key="]" line="99" column="31" />
+        <mark key="." line="99" column="31" />
+        <mark key="^" line="99" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -1795,7 +1802,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1473247154524">
+      <file name="/a.regexp" timestamp="1473247274776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2543,9 +2550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="48" column="33" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="49" column="32" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="31" column="60" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="55" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="45" column="66" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2643,6 +2647,9 @@
       <jump line="254" column="2" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="93" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="158" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="99" column="31" filename="$USER_HOME$/dev/gm/omnibus/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/ble/helper/CommandServiceHelper.java" />
+      <jump line="476" column="30" filename="$USER_HOME$/dev/gm/omnibus/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/ble/helper/CommandServiceHelper.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/ble/helper/CommandServiceHelper.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13246,7 +13253,7 @@
         <text>quamstuff@gmail.com</text>
       </register>
       <register name="/" type="4">
-        <text>Branch</text>
+        <text>PhoneNameReceivedEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG8gICAgIDogJ3F1YW1zdHVmZkBnbWFpbC5jb20nCg==</text>
@@ -14595,9 +14602,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Branch</last-search>
+      <last-search>PhoneNameReceivedEvent</last-search>
       <last-offset />
-      <last-pattern>Branch</last-pattern>
+      <last-pattern>PhoneNameReceivedEvent</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14605,7 +14612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>repo[^N]</entry>
         <entry>SHOULD</entry>
         <entry>pluginBuilds</entry>
         <entry>\=\~</entry>
@@ -14625,6 +14631,7 @@
         <entry>groovy</entry>
         <entry>testing</entry>
         <entry>Branch</entry>
+        <entry>PhoneNameReceivedEvent</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
