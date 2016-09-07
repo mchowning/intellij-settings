@@ -541,8 +541,8 @@
       <file name="/Dummy.txt" timestamp="1472483281890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473265900632">
-        <mark key="'" line="158" column="20" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473268416092">
+        <mark key="'" line="177" column="19" />
         <mark key="[" line="163" column="21" />
         <mark key="]" line="163" column="22" />
         <mark key="." line="163" column="22" />
@@ -2554,7 +2554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="45" column="66" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="38" column="59" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="20" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2654,6 +2653,7 @@
       <jump line="476" column="30" filename="$USER_HOME$/dev/gm/omnibus/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/ble/helper/CommandServiceHelper.java" />
       <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/ble/helper/CommandServiceHelper.java" />
       <jump line="4796" column="85" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build/generated/source/r/debug/com/gm/gemini/shell/R.java" />
+      <jump line="177" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13257,7 +13257,7 @@
         <text>quamstuff@gmail.com</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>workspace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG8gICAgIDogJ3F1YW1zdHVmZkBnbWFpbC5jb20nCg==</text>
@@ -14606,9 +14606,9 @@
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>workspace</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>workspace</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14616,7 +14616,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=~</entry>
         <entry encoding="base64">XDw9XD4=</entry>
         <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
         <entry encoding="base64">XDxzdGRlcnJfb3V0cHV0XD4=</entry>
@@ -14636,6 +14635,7 @@
         <entry>refresh-dependencies</entry>
         <entry>clean</entry>
         <entry>refresh</entry>
+        <entry>workspace</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
