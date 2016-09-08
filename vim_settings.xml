@@ -495,6 +495,12 @@
         <mark key="." line="99" column="31" />
         <mark key="^" line="99" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" timestamp="1473361066478">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -1318,6 +1324,12 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473361024630">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts-cabal/scripts-cabal.cabal" timestamp="1448644119981">
         <mark key="[" line="20" column="32" />
@@ -2234,8 +2246,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473280134293">
-        <mark key="'" line="176" column="19" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473361003351">
+        <mark key="'" line="32" column="8" />
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="30" />
         <mark key="." line="15" column="30" />
@@ -2558,10 +2570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="66" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="38" column="59" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="20" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="39" column="58" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="73" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="22" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="35" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2658,6 +2666,10 @@
       <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/smrf-sdk/smrf-sdk/src/main/java/com/gm/onstar/smrf/sdk/ble/helper/CommandServiceHelper.java" />
       <jump line="4796" column="85" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build/generated/source/r/debug/com/gm/gemini/shell/R.java" />
       <jump line="177" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="35" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="64" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="32" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13261,7 +13273,7 @@
         <text>3.3.0</text>
       </register>
       <register name="/" type="4">
-        <text>workspace</text>
+        <text>fabric</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG8gICAgIDogJ3F1YW1zdHVmZkBnbWFpbC5jb20nCg==</text>
@@ -14610,9 +14622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>workspace</last-search>
+      <last-search>fabric</last-search>
       <last-offset />
-      <last-pattern>workspace</last-pattern>
+      <last-pattern>fabric</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14620,10 +14632,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw9XD4=</entry>
-        <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
-        <entry encoding="base64">XDxzdGRlcnJfb3V0cHV0XD4=</entry>
-        <entry encoding="base64">XDxyZXBvTmFtZVw+</entry>
         <entry encoding="base64">XDxnZW1pbmlTZWN1cml0eVw+</entry>
         <entry encoding="base64">XDxnZW1pbmlDb3JlU2RrXD4=</entry>
         <entry encoding="base64">XDxidWlsZEpvYkxvY2F0aW9uXD4=</entry>
@@ -14640,6 +14648,10 @@
         <entry>clean</entry>
         <entry>refresh</entry>
         <entry>workspace</entry>
+        <entry>apt_plugin</entry>
+        <entry>maven_pl</entry>
+        <entry>android_gr</entry>
+        <entry>fabric</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
