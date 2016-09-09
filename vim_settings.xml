@@ -1341,11 +1341,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473449120319">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="16" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473450726053">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="65" />
+        <mark key="." line="10" column="65" />
+        <mark key="^" line="10" column="65" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/PluginGarageTest.java" timestamp="1473430819779">
         <mark key="[" line="27" column="0" />
@@ -2266,8 +2266,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473449211884">
-        <mark key="'" line="39" column="31" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473450631465">
+        <mark key="'" line="32" column="29" />
         <mark key="[" line="64" column="32" />
         <mark key="]" line="64" column="85" />
         <mark key="." line="53" column="42" />
@@ -2686,8 +2686,8 @@
       <jump line="64" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="35" column="69" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="23" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="32" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="39" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="32" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13291,7 +13291,7 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>maven_plugin</text>
+        <text>nee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuKycK</text>
@@ -14640,9 +14640,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maven_plugin</last-search>
+      <last-search>nee</last-search>
       <last-offset />
-      <last-pattern>maven_plugin</last-pattern>
+      <last-pattern>nee</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14650,7 +14650,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apt_plugin</entry>
         <entry>maven_pl</entry>
         <entry>android_gr</entry>
         <entry>dcedent</entry>
@@ -14670,6 +14669,7 @@
         <entry>android_gradle</entry>
         <entry>fabric</entry>
         <entry>maven_plugin</entry>
+        <entry>nee</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
