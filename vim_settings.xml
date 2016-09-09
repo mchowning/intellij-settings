@@ -80,6 +80,10 @@
         <mark key="." line="136" column="28" />
         <mark key="^" line="136" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/README.md" timestamp="1473455789712">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/command_history/ui/fullscreen/CommandHistoryUtil.java" timestamp="1471538703678">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -154,12 +158,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473451495150">
-        <mark key="'" line="44" column="21" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="44" column="29" />
-        <mark key="^" line="44" column="29" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473456070338">
+        <mark key="'" line="48" column="84" />
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="101" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
         <mark key="'" line="495" column="110" />
@@ -279,14 +282,14 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" timestamp="1468852870329">
         <mark key="'" line="207" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473451527848">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473454371573">
+        <mark key="^" line="1" column="76" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/build.gradle" timestamp="1473360074441">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/build.gradle" timestamp="1473452884807">
         <mark key="'" line="23" column="52" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1471538617033">
         <mark key="[" line="48" column="0" />
@@ -346,8 +349,8 @@
       <file name="/Scala Console" timestamp="1469891490981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473441526778">
-        <mark key="'" line="64" column="85" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473454625149">
+        <mark key="'" line="32" column="25" />
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="34" />
@@ -388,6 +391,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/build.gradle" timestamp="1473452957276">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/plugin/PluginEngineTest.java" timestamp="1471524524481">
         <mark key="[" line="5" column="0" />
@@ -874,25 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="47" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="167" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="102" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="103" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="105" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="108" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="155" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="157" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="41" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="30" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="159" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="24" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="171" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="54" column="61" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="85" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="87" column="10" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="50" column="13" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="51" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="3" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="33" column="38" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="34" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="58" column="67" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -962,25 +951,44 @@
       <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="39" column="20" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="154" column="18" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="35" column="36" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="56" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="155" column="37" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="32" column="50" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="15" column="45" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/plugin_app.gradle" />
       <jump line="98" column="23" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="96" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="70" column="26" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="64" column="85" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="51" column="92" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="45" column="32" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="44" column="21" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="47" column="65" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="48" column="120" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="49" column="121" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="54" column="84" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="34" column="36" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="33" column="10" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="53" column="69" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="104" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="103" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="102" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="101" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="100" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="99" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="98" column="11" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="73" column="56" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="72" column="56" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="65" column="64" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="64" column="16" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="48" column="69" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="52" column="29" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="35" column="14" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="32" column="25" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>'com.neenbedankt.gradle.plugins:android-apt:1.4'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -11574,13 +11582,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>plugin</text>
       </register>
       <register name="0" type="4">
-        <text>project.properties.get('ANDROID_GRADLE_PLUGIN_VERSION')</text>
+        <text>'com.neenbedankt.gradle.plugins:android-apt:1.4'</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -11613,20 +11621,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0LnByb3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBmaWd1cmUgb3V0IHdheSB0byBrZWVwIHRoZXNlIGluIHN5bmMgd2l0aCBkZXBlbmRlbmNpZXMuZ3JhZGxlIGFuZCBjb21tbW9uX2J1aWxkc2NyaXB0LmdyYWRsZQovLyAgICAgICAgcHJpbnRsbigicHJvcGVydHkxOiAke3Byb2plY3QucHJvcGVydGllcy5nZXQoJ0FORFJPSURfR1JBRExFX1BMVUdJTl9WRVJTSU9OJyl9IikKLy8gICAgICAgIHByaW50bG4oInByb3BlcnR5MjogJHtwcm9qZWN0LnByb3BlcnRpZXMuZ2V0KCdBUFRfUExVR0lOX1ZFUlNJT04nKX0iKQovLyAgICAgICAgZmluYWwgU3RyaW5nW10gUkVRVUlSRURfUExVR0lOUyA9IFsiY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOiR7cHJvamVjdC5maW5kUHJvcGVydHkoJ0FORFJPSURfR1JBRExFX1BMVUdJTl9WRVJTSU9OJyl9IiwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OiR7cHJvamVjdC5maW5kUHJvcGVydHkoJ0FQVF9QTFVHSU5fVkVSU0lPTicpfSJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBseUZpbGUoImRlcGVuZGVuY2llcy5ncmFkbGUiKQogICAgICAgIHByaW50bG4oImFwdCA9ICR7cHJvamVjdC5leHRlbnNpb25zLmdldEJ5TmFtZSgnZXh0JykuZ2V0KCdsaWJyYXJpZXMnKS5nZXQoJ2FwdF9wbHVnaW4nKX0iKQogICAgICAgIHByaW50bG4oInByb3AgPSAke3Byb3BlcnRpZXN9IikK</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-                                          &quot;com.github.dcendents:android-maven-gradle-plugin:1.4.1&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXF1aXJlZFBsdWdpbnMgPSBbJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjEuMycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OjEuNCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLmdpdGh1Yi5kY2VuZGVudHM6YW5kcm9pZC1tYXZlbi1ncmFkbGUtcGx1Z2luOjEuNC4xJ10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmdbXSByZXF1aXJlZFBsdWdpbnMgPSBbQU5EUk9JRF9HUkFETEVfUExVR0lOLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUFRfUExVR0lOXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12914,22 +12921,23 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+        <text>&quot;com.android.tools.build:gradle:${project.findProperty('ANDROID_GRADLE_PLUGIN_VERSION')}&quot;,
+                                          &quot;com.neenbedankt.gradle.plugins:android-apt:${project.findProperty('APT_PLUGIN_VERSION')}&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNHZW1pbmlBcHAoKSkgewo=</text>
+        <text encoding="base64">QU5EUk9JRF9HUkFETEVfUExVR0lOX1ZFUlNJT049Mi4xLjMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJwbHVnaW4gbmFtZTogJHBsdWdpbk5hbWUiCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -12937,10 +12945,6 @@
     </search>
     <history>
       <history-search>
-        <entry>split</entry>
-        <entry>vin</entry>
-        <entry>plugins</entry>
-        <entry encoding="base64">XDxvbW5pYnVzXD4=</entry>
         <entry>omnibus-plugin</entry>
         <entry>android.tools</entry>
         <entry>fabric</entry>
@@ -12957,6 +12961,10 @@
         <entry>&quot;</entry>
         <entry>plugin name</entry>
         <entry>'</entry>
+        <entry>asdlkjf</entry>
+        <entry>version</entry>
+        <entry>apt</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry>302</entry>
