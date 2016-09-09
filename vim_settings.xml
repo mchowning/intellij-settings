@@ -154,11 +154,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473441365610">
-        <mark key="'" line="71" column="26" />
-        <mark key="[" line="43" column="78" />
-        <mark key="]" line="43" column="79" />
-        <mark key="." line="43" column="79" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473442393912">
+        <mark key="'" line="67" column="26" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
         <mark key="^" line="42" column="108" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
@@ -979,8 +979,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>3.3.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -11586,7 +11586,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -11613,19 +11613,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQovLyAgICAgICAgYm9vbGVhbiBpc0dlbWluaUFwcCA9IGdldFBsdWdpbk5hbWUoKSA9PSBudWxsOwo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBib29sZWFuIGlzR2VtaW5pQXBwKCkgewovLyAgICAgICAgcmV0dXJuIGdldFBsdWdpbk5hbWUoKSA9PSBudWxsOwovLyAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgYXBwbHlGaWxlKCJhcHBfc2hhcmVkLmdyYWRsZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICghaXNHZW1pbmlBcHAoKSkgewoKLy8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQovLyAgICAgICAgYm9vbGVhbiBpc0dlbWluaUFwcCA9IGdldFBsdWdpbk5hbWUoKSA9PSBudWxsOwovLyAgICAgICAgaWYgKCFpc0dlbWluaUFwcCkgewovLyAgICAgICAgICAgIGFwcGx5RmlsZSgicGx1Z2luX2FwcC5ncmFkbGUiKQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzR2VtaW5pQXBwID0gZ2V0UGx1Z2luTmFtZSgpID09IG51bGw7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJvb2xlYW4gaXNHZW1pbmlBcHAgPSBnZXRQbHVnaW5OYW1lKCkgPT0gbnVsbDsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQovLyAgICAgICAgYm9vbGVhbiBpc0dlbWluaUFwcCA9IGdldFBsdWdpbk5hbWUoKSA9PSBudWxsOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12913,13 +12913,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0LmFwcGx5IGZyb206IG5ldyBGaWxlKCJzY3JpcHRzLyIgKyBmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgYXBwbHlGaWxlKCJhcHBfc2hhcmVkLmdyYWRsZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzR2VtaW5pQXBwID0gZ2V0UGx1Z2luTmFtZSgpID09IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
