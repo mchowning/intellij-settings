@@ -114,12 +114,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" timestamp="1473436565555">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" timestamp="1473441376766">
         <mark key="'" line="11" column="40" />
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="72" />
+        <mark key="[" line="10" column="54" />
+        <mark key="]" line="10" column="55" />
         <mark key="^" line="14" column="72" />
-        <mark key="." line="14" column="72" />
+        <mark key="." line="10" column="55" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/UnAuthenticatedVehicleInfoBlock.java" timestamp="1471531556537">
         <mark key="[" line="6" column="0" />
@@ -154,11 +154,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473436623883">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473441365610">
         <mark key="'" line="71" column="26" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="108" />
-        <mark key="." line="42" column="108" />
+        <mark key="[" line="43" column="78" />
+        <mark key="]" line="43" column="79" />
+        <mark key="." line="43" column="79" />
         <mark key="^" line="42" column="108" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
@@ -346,12 +346,12 @@
       <file name="/Scala Console" timestamp="1469891490981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473440691242">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473441526778">
         <mark key="'" line="64" column="85" />
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="68" />
-        <mark key="." line="32" column="68" />
-        <mark key="^" line="64" column="85" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/remote-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/DemoAccountSDK.java" timestamp="1471963413847">
         <mark key="'" line="42" column="0" />
@@ -979,8 +979,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tZXJjZXNkayAgICAgICAgICA6ICdjb20uZ20ub25zdGFyLnJlbW90ZS5vZmZlcnM6Y29tbWVyY2Utc2RrOjMuMC4xLVNOQVBTSE9UJywK</text>
+      <register name="&quot;" type="4">
+        <text>3.3.0</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -11574,7 +11574,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>3.3.0</text>
       </register>
       <register name="/" type="4">
         <text>commerce</text>
