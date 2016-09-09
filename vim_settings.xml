@@ -154,12 +154,12 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473448423190">
-        <mark key="'" line="43" column="32" />
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="44" column="35" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473451495150">
+        <mark key="'" line="44" column="21" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+        <mark key="^" line="44" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
         <mark key="'" line="495" column="110" />
@@ -279,11 +279,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions/rxpermissions/0.7.0/79f6c683535a4ac4fabd9a32b1caa0dbbde82953/rxpermissions-0.7.0-sources.jar!/com/tbruyelle/rxpermissions/RxPermissions.java" timestamp="1468852870329">
         <mark key="'" line="207" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473435815106">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473451527848">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/build.gradle" timestamp="1473360074441">
         <mark key="'" line="23" column="52" />
@@ -874,7 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="164" column="47" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="167" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="102" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -974,13 +973,14 @@
       <jump line="64" column="85" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="51" column="92" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="45" column="32" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="44" column="21" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiB9CiAgICAgICAgbWF2ZW4geyB1cmwgImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -11574,20 +11574,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVxdWlyZWRQbHVnaW5zIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>plugin name</text>
+        <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiB9CiAgICAgICAgbWF2ZW4geyB1cmwgImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiIH0K</text>
+      <register name="0" type="4">
+        <text>project.properties.get('ANDROID_GRADLE_PLUGIN_VERSION')</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-                                          &quot;com.github.dcendents:android-maven-gradle-plugin:1.4.1&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -11614,20 +11613,20 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXF1aXJlZFBsdWdpbnMgPSBbJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjEuMycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OjEuNCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLmdpdGh1Yi5kY2VuZGVudHM6YW5kcm9pZC1tYXZlbi1ncmFkbGUtcGx1Z2luOjEuNC4xJ10KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LnByb3AK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNHZW1pbmlBcHAoKSkgewo=</text>
+        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJwbHVnaW4gbmFtZTogJHBsdWdpbk5hbWUiCg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>,
-                               'com.github.dcendents:android-maven-gradle-plugin:1.4.1'</text>
+                                          &quot;com.github.dcendents:android-maven-gradle-plugin:1.4.1&quot;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXF1aXJlZFBsdWdpbnMgPSBbJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjEuMycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OjEuNCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLmdpdGh1Yi5kY2VuZGVudHM6YW5kcm9pZC1tYXZlbi1ncmFkbGUtcGx1Z2luOjEuNC4xJ10KICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12914,31 +12913,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNHZW1pbmlBcHAoKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2lvLmZhYnJpYy50b29sczpncmFkbGU6MS4rJywK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJwbHVnaW4gbmFtZTogJHBsdWdpbk5hbWUiCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>plugin name</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>plugin name</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PFBPST4=</entry>
         <entry>split</entry>
         <entry>vin</entry>
         <entry>plugins</entry>
@@ -12958,9 +12956,9 @@
         <entry>commerce</entry>
         <entry>&quot;</entry>
         <entry>plugin name</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry>225</entry>
         <entry>302</entry>
         <entry>85</entry>
         <entry>284</entry>
@@ -12980,6 +12978,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
