@@ -709,11 +709,12 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" timestamp="1473444686282">
-        <mark key="[" line="15" column="55" />
-        <mark key="]" line="15" column="65" />
-        <mark key="." line="15" column="65" />
-        <mark key="^" line="15" column="65" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" timestamp="1473446379905">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="52" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/model/UnixTime.java" timestamp="1464568934765">
         <mark key="[" line="25" column="15" />
@@ -1825,7 +1826,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1473362805257">
+      <file name="/a.regexp" timestamp="1473446498183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2248,10 +2249,10 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473444528120">
-        <mark key="'" line="39" column="8" />
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="68" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473446493630">
+        <mark key="'" line="35" column="69" />
+        <mark key="[" line="130" column="16" />
+        <mark key="]" line="130" column="47" />
         <mark key="." line="53" column="42" />
         <mark key="^" line="53" column="42" />
       </file>
@@ -2571,11 +2572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="12" column="57" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="168" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="164" column="47" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="167" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="102" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="103" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2659,10 +2655,8 @@
       <jump line="177" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="54" column="37" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="64" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="131" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="35" column="32" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="30" column="39" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="66" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2671,13 +2665,20 @@
       <jump line="53" column="42" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="32" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="39" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" />
+      <jump line="51" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="58" column="35" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="119" column="33" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="155" column="27" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="64" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="35" column="69" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13271,20 +13272,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">ZmFicmljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>google_services</text>
+        <text>dcend</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdtLmdlbWluaS5vbW5pYnVzLXBsdWdpbicK</text>
+      <register name="0" type="4">
+        <text>&quot;https://maven.fabric.io/public&quot;</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>apply from: &quot;../../project-settings/dependencies.gradle&quot;
-apply from: gradleFiles.app_shared</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13311,19 +13311,20 @@ apply from: gradleFiles.app_shared</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYXBwbHkgZnJvbTogIi4uL3Byb2plY3Qtc2V0dGluZ3MvZGVwZW5kZW5jaWVzLmdyYWRsZSIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOgo=</text>
+      <register name="3" type="4">
+        <text>apply from: &quot;../../project-settings/dependencies.gradle&quot;
+apply from: gradleFiles.app_shared</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnNvbmF0eXBlIH0KICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCiAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3Muc25hcHNob3QKICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5mYWJyaWMgfQogICAgICAgIG1hdmVuTG9jYWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucwogICAgICAgIGNsYXNzcGF0aCBsaWJyYXJpZXMuYW5kcm9pZF9ncmFkbGVfcGx1Z2luCiAgICAgICAgY2xhc3NwYXRoIGxpYnJhcmllcy5jcmFzaGx5dGljc19mYWJyaWMKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmFwdF9wbHVnaW4KICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdvb2dsZV9zZXJ2aWNlcwo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsIHJlcG9zLnNvbmF0eXBlIH0KICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCiAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3Muc25hcHNob3QKICAgICAgICBtYXZlbiB7IHVybCByZXBvcy5mYWJyaWMgfQogICAgICAgIG1hdmVuTG9jYWwoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14611,22 +14612,22 @@ apply from: gradleFiles.app_shared</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEyMy40NTYuNzg5Jwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucwogICAgICAgIGNsYXNzcGF0aCBsaWJyYXJpZXMuYW5kcm9pZF9ncmFkbGVfcGx1Z2luCiAgICAgICAgY2xhc3NwYXRoIGxpYnJhcmllcy5jcmFzaGx5dGljc19mYWJyaWMKICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmFwdF9wbHVnaW4KICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdvb2dsZV9zZXJ2aWNlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJlbW92ZSBmYWJyaWM/Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2lvLmZhYnJpYy50b29sczpncmFkbGU6MS4rJwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEyMy40NTYuNzg5Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>google_services</last-search>
+      <last-search>dcend</last-search>
       <last-offset />
-      <last-pattern>google_services</last-pattern>
+      <last-pattern>dcend</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14634,14 +14635,11 @@ apply from: gradleFiles.app_shared</text>
     </search>
     <history>
       <history-search>
-        <entry>refresh</entry>
         <entry>workspace</entry>
         <entry>apt_plugin</entry>
         <entry>maven_pl</entry>
         <entry>android_gr</entry>
-        <entry>fabric</entry>
         <entry>dcedent</entry>
-        <entry>repos</entry>
         <entry>build:gradle</entry>
         <entry>neenbed</entry>
         <entry>ben-manes</entry>
@@ -14654,6 +14652,9 @@ apply from: gradleFiles.app_shared</text>
         <entry>android_gradle</entry>
         <entry>crashlytics</entry>
         <entry>google_services</entry>
+        <entry>repos</entry>
+        <entry>fabric</entry>
+        <entry>dcend</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
