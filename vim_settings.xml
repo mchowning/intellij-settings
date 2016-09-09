@@ -346,11 +346,11 @@
       <file name="/Scala Console" timestamp="1469891490981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473436588591">
-        <mark key="'" line="32" column="50" />
-        <mark key="[" line="64" column="83" />
-        <mark key="]" line="64" column="85" />
-        <mark key="." line="64" column="85" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473440691242">
+        <mark key="'" line="64" column="85" />
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="68" />
         <mark key="^" line="64" column="85" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/remote-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/demo/DemoAccountSDK.java" timestamp="1471963413847">
@@ -968,19 +968,19 @@
       <jump line="35" column="36" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="56" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="155" column="37" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="64" column="31" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="32" column="50" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="15" column="45" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/plugin_app.gradle" />
       <jump line="98" column="23" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="96" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="70" column="26" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="64" column="85" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb21tZXJjZXNkayAgICAgICAgICA6ICdjb20uZ20ub25zdGFyLnJlbW90ZS5vZmZlcnM6Y29tbWVyY2Utc2RrOjMuMC4xLVNOQVBTSE9UJywK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -11577,10 +11577,10 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>dependencies</text>
+        <text>commerce</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzR2VtaW5pQXBwID0gZ2V0UGx1Z2luTmFtZSgpID09IG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text>'com.gm.onstar.remote.offers:commerce-sdk:3.0.1-SNAPSHOT'</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -12926,9 +12926,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dependencies</last-search>
+      <last-search>commerce</last-search>
       <last-offset />
-      <last-pattern>dependencies</last-pattern>
+      <last-pattern>commerce</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -12936,7 +12936,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbnN0YXJBWVNGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxQQVRIX1RPX1JFU1BPTlNFXzFcPg==</entry>
         <entry encoding="base64">PFBvaT4=</entry>
         <entry encoding="base64">PFBPST4=</entry>
@@ -12956,6 +12955,7 @@
         <entry encoding="base64">XDxwbHVnaW5fYXBwXD4=</entry>
         <entry encoding="base64">XDxhcHBfc2hhcmVkXD4=</entry>
         <entry>dependencies</entry>
+        <entry>commerce</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
