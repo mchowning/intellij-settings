@@ -114,10 +114,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" timestamp="1473441376766">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" timestamp="1473448980052">
         <mark key="'" line="11" column="40" />
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="55" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="90" />
         <mark key="^" line="14" column="72" />
         <mark key="." line="10" column="55" />
       </file>
@@ -154,12 +154,12 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473443274221">
-        <mark key="'" line="66" column="26" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="108" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473448423190">
+        <mark key="'" line="43" column="32" />
+        <mark key="[" line="44" column="42" />
+        <mark key="]" line="44" column="43" />
+        <mark key="." line="44" column="43" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
         <mark key="'" line="495" column="110" />
@@ -557,7 +557,7 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar!/com/google/android/gms/maps/MapView.class" timestamp="1467134687653">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1473436570522">
+      <file name="/a.regexp" timestamp="1473447875487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/test/VehicleModelDisplayAdapterTest.java" timestamp="1471531749872">
@@ -874,8 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="57" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="168" column="36" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="164" column="47" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="167" column="43" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -974,13 +972,15 @@
       <jump line="96" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="70" column="26" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="64" column="85" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="51" column="92" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="45" column="32" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2lvLmZhYnJpYy50b29sczpncmFkbGU6MS4rJywK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiB9CiAgICAgICAgbWF2ZW4geyB1cmwgImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiIH0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -11574,19 +11574,20 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3.3.0</text>
+        <text encoding="base64">cmVxdWlyZWRQbHVnaW5zIA==</text>
       </register>
       <register name="/" type="4">
-        <text>commerce</text>
+        <text>plugin name</text>
       </register>
-      <register name="0" type="4">
-        <text>'com.gm.onstar.remote.offers:commerce-sdk:3.0.1-SNAPSHOT'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiB9CiAgICAgICAgbWF2ZW4geyB1cmwgImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2lvLmZhYnJpYy50b29sczpncmFkbGU6MS4rJywK</text>
+      <register name="1" type="4">
+        <text>,
+                                          &quot;com.github.dcendents:android-maven-gradle-plugin:1.4.1&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -11613,19 +11614,20 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXF1aXJlZFBsdWdpbnMgPSBbJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjEuMycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OjEuNCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tLmdpdGh1Yi5kY2VuZGVudHM6YW5kcm9pZC1tYXZlbi1ncmFkbGUtcGx1Z2luOjEuNC4xJ10KICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBib29sZWFuIGlzR2VtaW5pQXBwKCkgewovLyAgICAgICAgcmV0dXJuIGdldFBsdWdpbk5hbWUoKSA9PSBudWxsOwovLyAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNHZW1pbmlBcHAoKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICghaXNHZW1pbmlBcHAoKSkgewoKLy8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQovLyAgICAgICAgYm9vbGVhbiBpc0dlbWluaUFwcCA9IGdldFBsdWdpbk5hbWUoKSA9PSBudWxsOwovLyAgICAgICAgaWYgKCFpc0dlbWluaUFwcCkgewovLyAgICAgICAgICAgIGFwcGx5RmlsZSgicGx1Z2luX2FwcC5ncmFkbGUiKQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJwbHVnaW4gbmFtZTogJHBsdWdpbk5hbWUiCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
+      <register name="6" type="4">
+        <text>,
+                               'com.github.dcendents:android-maven-gradle-plugin:1.4.1'</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -12913,31 +12915,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQovLyAgICAgICAgYm9vbGVhbiBpc0dlbWluaUFwcCA9IGdldFBsdWdpbk5hbWUoKSA9PSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgYXBwbHlGaWxlKCJhcHBfc2hhcmVkLmdyYWRsZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFwcGx5RmlsZSgiYXBwX3NoYXJlZC5ncmFkbGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2lvLmZhYnJpYy50b29sczpncmFkbGU6MS4rJywK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>commerce</last-search>
+      <last-search>plugin name</last-search>
       <last-offset />
-      <last-pattern>commerce</last-pattern>
-      <last-replace>Double</last-replace>
-      <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
+      <last-pattern>plugin name</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQQVRIX1RPX1JFU1BPTlNFXzFcPg==</entry>
-        <entry encoding="base64">PFBvaT4=</entry>
         <entry encoding="base64">PFBPST4=</entry>
         <entry>split</entry>
         <entry>vin</entry>
@@ -12956,9 +12956,10 @@
         <entry encoding="base64">XDxhcHBfc2hhcmVkXD4=</entry>
         <entry>dependencies</entry>
         <entry>commerce</entry>
+        <entry>&quot;</entry>
+        <entry>plugin name</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL09uc0NvZGUvT25zU3ViQ29kZS9n</entry>
         <entry>225</entry>
         <entry>302</entry>
         <entry>85</entry>
@@ -12978,6 +12979,7 @@
         <entry>46</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
