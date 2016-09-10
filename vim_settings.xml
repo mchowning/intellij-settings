@@ -616,12 +616,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473457020496">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473461424075">
         <mark key="'" line="49" column="84" />
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="15" column="44" />
-        <mark key="^" line="15" column="44" />
+        <mark key="[" line="63" column="110" />
+        <mark key="]" line="63" column="113" />
+        <mark key="." line="63" column="113" />
+        <mark key="^" line="63" column="113" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
         <mark key="'" line="495" column="110" />
@@ -1185,8 +1185,11 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473454371573">
-        <mark key="^" line="1" column="76" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473461063474">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/Main.hs" timestamp="1448639622621">
         <mark key="[" line="5" column="7" />
@@ -3414,8 +3417,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14009,19 +14012,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
-      <register name="0" type="4">
-        <text>'com.neenbedankt.gradle.plugins:android-apt:1.4'</text>
+      <register name="0" type="2">
+        <text encoding="base64">b21uaWJ1c1BsdWdpblZlcnNpb249MS4wLjAtU05BUFNIT1QK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14048,19 +14051,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1lvdXIgR3JhZGxlIEJ1aWxkc2NyaXB0ClRvIGluY2x1ZGUgdGhlIGN1cnJlbnQgdmVyc2lvbiBvZiB0aGUgcGx1Z2luIGluIHlvdXIgcHJvamVjdCwgeW91cgpidWlsZHNjcmlwdCBpbiB5b3VyIHJvb3QgYnVpbGQuZ3JhZGxlLCBhdCBhIG1pbmltdW0sIHNob3VsZCBsb29rIApsaWtlIHRoaXMKYGBgCmJ1aWxkc2NyaXB0IHsKCiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnkvbGlicy1yZWxlYXNlIiB9CiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggImNvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOisiCiAgICB9Cn0KYGBgCmFuZCBpbiB5b3VyIG1vZHVsZXMsIHlvdSBzaG91bGQgYWRkCmBgYAphcHBseSBwbHVnaW46ICJjb20uZ20uZ2VtaW5pLm9tbmlidXMtcGx1Z2luIgpgYGAKCiNVcGRhdGluZyBTY3JpcHRzClRvIHVwZGF0ZSBzY3JpcHRzLCBzdWNoIGFzICoqZGVwZW5kZW5jaWVzLmdyYWRsZSoqLCBlZGl0IHRoZSBzY3JpcHQgZmlsZQppbiB0aGUgcm9vdCBwcm9qZWN0J3MgKipzY3JpcHRzKiogZGlyZWN0b3J5LgoKI1VwZGF0aW5nIEdyYWRsZSBQbHVnaW4gVmVyc2lvbnMKVG8gdXBkYXRlIGdyYWRsZSBwbHVnaW4gdmVyc2lvbnMsIHVzZSAqKmdyYWRsZS5wcm9wZXJ0aWVzKiogaW4gdGhlIHJvb3QKZGlyZWN0b3J5LgoKI1NwZWNpYWwgVGFza3MKVGhlIHBsdWdpbiBpbmNsdWRlcyBhIGNvdXBsZSBvZiB2ZXJ5IGJhc2ljIHRhc2tzLgoKVGhlIGZvbGxvd2luZyBwcmludHMgdGhlIGN1cnJlbnQgdmVyc2lvbiBvZiB0aGUgb21uaWJ1cyBwbHVnaW4KYGBgCi4vZ3JhZGxldyBvbW5pYnVzUGx1Z2luVmVyc2lvbgpgYGAKClRoZSBmb2xsb3dpbmcgcHJpbnRzIHRoZSBjdXJyZW50IGNvbnRlbnRzIG9mIGRlcGVuZGVuY2llcy5ncmFkbGUKYGBgCi4vZ3JhZGxldyB2YXJpYWJsZXMKYGBgCgojVHJvdWJsZXNob290aW5nCklmIHlvdSdyZSBoYXZpbmcgdHJvdWJsZSBidWlsZGluZyB0aGUgcGx1Z2luLCB0cnkga2lsbGluZwp0aGUgZ3JhZGxlIGRhZW1vbiBieSBydW5uaW5nCmBgYAouL2dyYWRsZXcgLS1zdG9wCmBgYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSBmaWd1cmUgb3V0IHdheSB0byBrZWVwIHRoZXNlIGluIHN5bmMgd2l0aCBkZXBlbmRlbmNpZXMuZ3JhZGxlIGFuZCBjb21tbW9uX2J1aWxkc2NyaXB0LmdyYWRsZQovLyAgICAgICAgcHJpbnRsbigicHJvcGVydHkxOiAke3Byb2plY3QucHJvcGVydGllcy5nZXQoJ0FORFJPSURfR1JBRExFX1BMVUdJTl9WRVJTSU9OJyl9IikKLy8gICAgICAgIHByaW50bG4oInByb3BlcnR5MjogJHtwcm9qZWN0LnByb3BlcnRpZXMuZ2V0KCdBUFRfUExVR0lOX1ZFUlNJT04nKX0iKQovLyAgICAgICAgZmluYWwgU3RyaW5nW10gUkVRVUlSRURfUExVR0lOUyA9IFsiY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOiR7cHJvamVjdC5maW5kUHJvcGVydHkoJ0FORFJPSURfR1JBRExFX1BMVUdJTl9WRVJTSU9OJyl9IiwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OiR7cHJvamVjdC5maW5kUHJvcGVydHkoJ0FQVF9QTFVHSU5fVkVSU0lPTicpfSJdCg==</text>
+        <text encoding="base64">ICAgICAgICBEZXBlbmRlbmN5U2V0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBseUZpbGUoImRlcGVuZGVuY2llcy5ncmFkbGUiKQogICAgICAgIHByaW50bG4oImFwdCA9ICR7cHJvamVjdC5leHRlbnNpb25zLmdldEJ5TmFtZSgnZXh0JykuZ2V0KCdsaWJyYXJpZXMnKS5nZXQoJ2FwdF9wbHVnaW4nKX0iKQogICAgICAgIHByaW50bG4oInByb3AgPSAke3Byb3BlcnRpZXN9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15348,14 +15351,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1lvdXIgR3JhZGxlIEJ1aWxkc2NyaXB0ClRvIGluY2x1ZGUgdGhlIGN1cnJlbnQgdmVyc2lvbiBvZiB0aGUgcGx1Z2luIGluIHlvdXIgcHJvamVjdCwgeW91cgpidWlsZHNjcmlwdCBpbiB5b3VyIHJvb3QgYnVpbGQuZ3JhZGxlLCBhdCBhIG1pbmltdW0sIHNob3VsZCBsb29rIApsaWtlIHRoaXMKYGBgCmJ1aWxkc2NyaXB0IHsKCiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnkvbGlicy1yZWxlYXNlIiB9CiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggImNvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOisiCiAgICB9Cn0KYGBgCmFuZCBpbiB5b3VyIG1vZHVsZXMsIHlvdSBzaG91bGQgYWRkCmBgYAphcHBseSBwbHVnaW46ICJjb20uZ20uZ2VtaW5pLm9tbmlidXMtcGx1Z2luIgpgYGAKCiNVcGRhdGluZyBTY3JpcHRzClRvIHVwZGF0ZSBzY3JpcHRzLCBzdWNoIGFzICoqZGVwZW5kZW5jaWVzLmdyYWRsZSoqLCBlZGl0IHRoZSBzY3JpcHQgZmlsZQppbiB0aGUgcm9vdCBwcm9qZWN0J3MgKipzY3JpcHRzKiogZGlyZWN0b3J5LgoKI1VwZGF0aW5nIEdyYWRsZSBQbHVnaW4gVmVyc2lvbnMKVG8gdXBkYXRlIGdyYWRsZSBwbHVnaW4gdmVyc2lvbnMsIHVzZSAqKmdyYWRsZS5wcm9wZXJ0aWVzKiogaW4gdGhlIHJvb3QKZGlyZWN0b3J5LgoKI1NwZWNpYWwgVGFza3MKVGhlIHBsdWdpbiBpbmNsdWRlcyBhIGNvdXBsZSBvZiB2ZXJ5IGJhc2ljIHRhc2tzLgoKVGhlIGZvbGxvd2luZyBwcmludHMgdGhlIGN1cnJlbnQgdmVyc2lvbiBvZiB0aGUgb21uaWJ1cyBwbHVnaW4KYGBgCi4vZ3JhZGxldyBvbW5pYnVzUGx1Z2luVmVyc2lvbgpgYGAKClRoZSBmb2xsb3dpbmcgcHJpbnRzIHRoZSBjdXJyZW50IGNvbnRlbnRzIG9mIGRlcGVuZGVuY2llcy5ncmFkbGUKYGBgCi4vZ3JhZGxldyB2YXJpYWJsZXMKYGBgCgojVHJvdWJsZXNob290aW5nCklmIHlvdSdyZSBoYXZpbmcgdHJvdWJsZSBidWlsZGluZyB0aGUgcGx1Z2luLCB0cnkga2lsbGluZwp0aGUgZ3JhZGxlIGRhZW1vbiBieSBydW5uaW5nCmBgYAouL2dyYWRsZXcgLS1zdG9wCmBgYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmdbXSByZXF1aXJlZFBsdWdpbnMgPSBbQU5EUk9JRF9HUkFETEVfUExVR0lOLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUFRfUExVR0lOXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;com.android.tools.build:gradle:${project.findProperty('ANDROID_GRADLE_PLUGIN_VERSION')}&quot;,
-                                          &quot;com.neenbedankt.gradle.plugins:android-apt:${project.findProperty('APT_PLUGIN_VERSION')}&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
