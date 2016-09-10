@@ -616,11 +616,11 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473469092400">
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-        <mark key="^" line="29" column="38" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473498719917">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="74" />
+        <mark key="." line="32" column="74" />
+        <mark key="^" line="32" column="74" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
         <mark key="'" line="495" column="110" />
@@ -3416,8 +3416,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSB1c2UgZW51bQo=</text>
+      <register name="&quot;" type="4">
+        <text>com.android.application</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13128,6 +13128,9 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
+      <register name="i" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="j" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
@@ -14011,19 +14014,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>com.android.application</text>
       </register>
       <register name="/" type="4">
-        <text>asdljf</text>
+        <text>prop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBoYXNOZWVkZWRQbHVnaW5zKGZpbmFsIFByb2plY3QgcHJvamVjdCkgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRlZiBwbHVnaW5OYW1lID0gbnVsbDsKLy8gICAgICAgIEZpbGVUcmVlIHRyZWUgPSBwcm9qZWN0LmZpbGVUcmVlKCcuLicpLm1hdGNoaW5nIHsKLy8gICAgICAgICAgICBpbmNsdWRlICdwbHVnaW4tKicKLy8gICAgICAgICAgICBpbmNsdWRlIE1PRFVMRV9JTl9HRU1JTklfQ09SRV9TREsKLy8gICAgICAgICAgICBleGNsdWRlICcqLmltbCcKLy8gICAgICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSB1c2UgZW51bQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14050,16 +14053,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJkb2luZyBhcHAgc3R1ZmYiCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RVTEVfSU5fR0VNSU5JX0NPUkVfU0RLID0gImdlbWluaS1jb3JlIgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEdFTUlOSV9DT1JFX1NES19QTFVHSU5fTkFNRSA9ICJnZW1pbmktY29yZS1zZGsiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChoYXNOZWVkZWRQbHVnaW5zKHByb2plY3QpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IEdyYWRsZUV4Y2VwdGlvbignTWFrZSBzdXJlIHlvdXIgYnVpbGRzY3JpcHQgbG9va3MgbGlrZSB0aGlzOlxuJyArIGdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgiY29tbW9uX2J1aWxkc2NyaXB0LmdyYWRsZSIpLnRleHQpCi8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChpc0dlbWluaUFwcCgpKSB7Ci8vICAgICAgICAgICAgYXBwbHlGaWxlKCJhcHBfc2hhcmVkLmdyYWRsZSIpCi8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgIGFwcGx5RmlsZSgicGx1Z2luX2FwcC5ncmFkbGUiKQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBib29sZWFuIGhhc05lZWRlZFBsdWdpbnMoZmluYWwgUHJvamVjdCBwcm9qZWN0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -15353,19 +15356,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiBwbHVnaW5zID0gbmV3IEFycmF5TGlzdDw+KCk7Ci8vICAgICAgICBwcm9qZWN0LnJvb3RQcm9qZWN0LmJ1aWxkc2NyaXB0LmNvbmZpZ3VyYXRpb25zLmNsYXNzcGF0aC5hbGxEZXBlbmRlbmNpZXMuZWFjaCB7IGRlcGVuZGVuY3kgLT4KLy8gICAgICAgICAgICBwbHVnaW5zLmFkZChkZXBlbmRlbmN5Lmdyb3VwICsgIjoiICsgZGVwZW5kZW5jeS5uYW1lICsgIjoiICsgZGVwZW5kZW5jeS52ZXJzaW9uKQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIHJlcXVpcmVkUGx1Z2luIDogUkVRVUlSRURfUExVR0lOUykgewovLyAgICAgICAgICAgIGlmICghcGx1Z2lucy5jb250YWlucyhyZXF1aXJlZFBsdWdpbikpewovLyAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2UKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0dlbWluaUFwcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>asdljf</last-search>
+      <last-search>prop</last-search>
       <last-offset />
-      <last-pattern>asdljf</last-pattern>
+      <last-pattern>prop</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15373,7 +15376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>android.tools</entry>
         <entry>fabric</entry>
         <entry>maven-plugin</entry>
         <entry>andorid-maven</entry>
@@ -15393,6 +15395,7 @@
         <entry>apt</entry>
         <entry>plugin</entry>
         <entry>asdljf</entry>
+        <entry>prop</entry>
       </history-search>
       <history-cmd>
         <entry>302</entry>
