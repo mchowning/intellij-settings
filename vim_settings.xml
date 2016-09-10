@@ -1342,11 +1342,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473496663384">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="10" column="65" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473546459211">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/PluginGarageTest.java" timestamp="1473430819779">
         <mark key="[" line="27" column="0" />
@@ -2267,12 +2267,10 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473450631465">
-        <mark key="'" line="32" column="29" />
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="64" column="85" />
-        <mark key="." line="53" column="42" />
-        <mark key="^" line="53" column="42" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1473546456374">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="202" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -2589,8 +2587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="103" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="105" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="108" column="16" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="155" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -2689,13 +2685,15 @@
       <jump line="23" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="39" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="32" column="29" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="24" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdjb20uYW5kcm9pZC5hcHBsaWNhdGlvbicKLy9hcHBseSBwbHVnaW46ICdjb20uZ20uZ2VtaW5pLm9tbmlidXMtcGx1Z2luJwo=</text>
+        <text encoding="base64">ZGVmIGdldE1hdmVuU2V0dGluZ3NDcmVkZW50aWFscygpIHsKICAgIFN0cmluZyB1c2VySG9tZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSggInVzZXIuaG9tZSIgKTsKICAgIEZpbGUgbWF2ZW5TZXR0aW5ncyA9IG5ldyBGaWxlKHVzZXJIb21lLCAiLm0yL3NldHRpbmdzLnhtbCIpCgogICAgcHJpbnRsbiAnTTIgc2V0dGluZ3M6ICcgKyBtYXZlblNldHRpbmdzLmFic29sdXRlUGF0aAoKICAgIGRlZiB4bWxTbHVycGVyID0gbmV3IFhtbFNsdXJwZXIoKQogICAgZGVmIG91dHB1dCA9IHhtbFNsdXJwZXIucGFyc2UobWF2ZW5TZXR0aW5ncykKICAgIHJldHVybiBvdXRwdXQuInNlcnZlcnMiLiJzZXJ2ZXIiCn0KCmRlZiBnZXRDcmVkZW50aWFscyhzZXJ2ZXJJZCkgewogICAgZGVmIGVudHJpZXMgPSBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKQogICAgZm9yIChlbnRyeSBpbiBlbnRyaWVzKSB7CiAgICAgICAgaWYgKCBlbnRyeS4iaWQiLnRleHQoKSA9PSBzZXJ2ZXJJZCApIHsKICAgICAgICAgICAgcmV0dXJuIFt1c2VybmFtZTogZW50cnkudXNlcm5hbWUudGV4dCgpLCBwYXNzd29yZDogZW50cnkucGFzc3dvcmQudGV4dCgpXQogICAgICAgIH0KICAgIH0KfQoKZGVmIHJlbGVhc2VfY3JlZHMgPSBnZXRDcmVkZW50aWFscygib25zcm5kMWFkYy1hcjAxIikKZGVmIHNuYXBzaG90X2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMS1zbmFwc2hvdHMiKQoKZXh0Lm1hdmVuX3JlcG9zID0gWwoJcmVsZWFzZTogewoJICAgIGNyZWRlbnRpYWxzIHsKCSAgICAgICAgdXNlcm5hbWUgcmVsZWFzZV9jcmVkc1sidXNlcm5hbWUiXQoJICAgICAgICBwYXNzd29yZCByZWxlYXNlX2NyZWRzWyJwYXNzd29yZCJdCgkgICAgfQoJICAgIHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlCgl9LAogICAgc25hcHNob3Q6IHsKICAgICAgICBjcmVkZW50aWFscyAgIHsKICAgICAgICAgICAgdXNlcm5hbWUgc25hcHNob3RfY3JlZHNbInVzZXJuYW1lIl0KICAgICAgICAgICAgcGFzc3dvcmQgc25hcHNob3RfY3JlZHNbInBhc3N3b3JkIl0KICAgICAgICB9CgkJdXJsIHJlcG9zLnJlbW90ZV9saW5rX3NuYXBzaG90Cgl9Cl0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13292,16 +13290,16 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>nee</text>
+        <text>maven_repos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogIi4uLy4uL3Byb2plY3Qtc2V0dGluZ3MvZGVwZW5kZW5jaWVzLmdyYWRsZSIKYXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMucGx1Z2luX2FwcAo=</text>
+        <text encoding="base64">ZGVmIGdldE1hdmVuU2V0dGluZ3NDcmVkZW50aWFscygpIHsKICAgIFN0cmluZyB1c2VySG9tZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSggInVzZXIuaG9tZSIgKTsKICAgIEZpbGUgbWF2ZW5TZXR0aW5ncyA9IG5ldyBGaWxlKHVzZXJIb21lLCAiLm0yL3NldHRpbmdzLnhtbCIpCgogICAgcHJpbnRsbiAnTTIgc2V0dGluZ3M6ICcgKyBtYXZlblNldHRpbmdzLmFic29sdXRlUGF0aAoKICAgIGRlZiB4bWxTbHVycGVyID0gbmV3IFhtbFNsdXJwZXIoKQogICAgZGVmIG91dHB1dCA9IHhtbFNsdXJwZXIucGFyc2UobWF2ZW5TZXR0aW5ncykKICAgIHJldHVybiBvdXRwdXQuInNlcnZlcnMiLiJzZXJ2ZXIiCn0KCmRlZiBnZXRDcmVkZW50aWFscyhzZXJ2ZXJJZCkgewogICAgZGVmIGVudHJpZXMgPSBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKQogICAgZm9yIChlbnRyeSBpbiBlbnRyaWVzKSB7CiAgICAgICAgaWYgKCBlbnRyeS4iaWQiLnRleHQoKSA9PSBzZXJ2ZXJJZCApIHsKICAgICAgICAgICAgcmV0dXJuIFt1c2VybmFtZTogZW50cnkudXNlcm5hbWUudGV4dCgpLCBwYXNzd29yZDogZW50cnkucGFzc3dvcmQudGV4dCgpXQogICAgICAgIH0KICAgIH0KfQoKZGVmIHJlbGVhc2VfY3JlZHMgPSBnZXRDcmVkZW50aWFscygib25zcm5kMWFkYy1hcjAxIikKZGVmIHNuYXBzaG90X2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMS1zbmFwc2hvdHMiKQoKZXh0Lm1hdmVuX3JlcG9zID0gWwoJcmVsZWFzZTogewoJICAgIGNyZWRlbnRpYWxzIHsKCSAgICAgICAgdXNlcm5hbWUgcmVsZWFzZV9jcmVkc1sidXNlcm5hbWUiXQoJICAgICAgICBwYXNzd29yZCByZWxlYXNlX2NyZWRzWyJwYXNzd29yZCJdCgkgICAgfQoJICAgIHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlCgl9LAogICAgc25hcHNob3Q6IHsKICAgICAgICBjcmVkZW50aWFscyAgIHsKICAgICAgICAgICAgdXNlcm5hbWUgc25hcHNob3RfY3JlZHNbInVzZXJuYW1lIl0KICAgICAgICAgICAgcGFzc3dvcmQgc25hcHNob3RfY3JlZHNbInBhc3N3b3JkIl0KICAgICAgICB9CgkJdXJsIHJlcG9zLnJlbW90ZV9saW5rX3NuYXBzaG90Cgl9Cl0K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdjb20uYW5kcm9pZC5hcHBsaWNhdGlvbicKLy9hcHBseSBwbHVnaW46ICdjb20uZ20uZ2VtaW5pLm9tbmlidXMtcGx1Z2luJwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnkvbGlicy1yZWxlYXNlIiB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13328,19 +13326,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmFwcGx5IGZyb206ICIuLi8uLi9wcm9qZWN0LXNldHRpbmdzL2RlcGVuZGVuY2llcy5ncmFkbGUiCmFwcGx5IGZyb206IGdyYWRsZUZpbGVzLnBsdWdpbl9hcHAK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL29uc3JuZDFhZGMtYXIwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2FydGlmYWN0b3J5L2xpYnMtcmVsZWFzZSIgfQogICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnkvbGlicy1zbmFwc2hvdCIgfQogICAgICAgIG1hdmVuIHsgdXJsICJodHRwczovL21hdmVuLmZhYnJpYy5pby9wdWJsaWMiIH0KICAgICAgICBtYXZlbkxvY2FsKCkKICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdjb20uYW5kcm9pZC5hcHBsaWNhdGlvbicKLy9hcHBseSBwbHVnaW46ICdjb20uZ20uZ2VtaW5pLm9tbmlidXMtcGx1Z2luJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMucGx1Z2luCg==</text>
+        <text encoding="base64">CmFwcGx5IGZyb206ICIuLi8uLi9wcm9qZWN0LXNldHRpbmdzL2RlcGVuZGVuY2llcy5ncmFkbGUiCmFwcGx5IGZyb206IGdyYWRsZUZpbGVzLnBsdWdpbl9hcHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamFjb2NvJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMucGx1Z2luCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14628,22 +14626,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMucGx1Z2luCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamFjb2NvJwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQubGlicmFyeScK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMucGx1Z2luCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>nee</last-search>
+      <last-search>maven_repos</last-search>
       <last-offset />
-      <last-pattern>nee</last-pattern>
+      <last-pattern>maven_repos</last-pattern>
       <last-replace>Double</last-replace>
       <last-substitute encoding="base64">XDxyZWdpc3RlckV2ZW50QnVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -14651,7 +14649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>maven_pl</entry>
         <entry>android_gr</entry>
         <entry>dcedent</entry>
         <entry>build:gradle</entry>
@@ -14659,7 +14656,6 @@
         <entry>ben-manes</entry>
         <entry>maven</entry>
         <entry>release</entry>
-        <entry>commerce</entry>
         <entry>gradle</entry>
         <entry>artifact</entry>
         <entry>artifa</entry>
@@ -14671,6 +14667,8 @@
         <entry>fabric</entry>
         <entry>maven_plugin</entry>
         <entry>nee</entry>
+        <entry>commerce</entry>
+        <entry>maven_repos</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
