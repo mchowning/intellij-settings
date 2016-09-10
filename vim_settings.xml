@@ -616,11 +616,11 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473468242823">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="24" />
-        <mark key="." line="43" column="24" />
-        <mark key="^" line="43" column="24" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473469092400">
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+        <mark key="^" line="29" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
         <mark key="'" line="495" column="110" />
@@ -3417,7 +3417,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChoYXNOZWVkZWRQbHVnaW5zKHByb2plY3QpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSB1c2UgZW51bQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14023,7 +14023,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChoYXNOZWVkZWRQbHVnaW5zKHByb2plY3QpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRSB1c2UgZW51bQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14050,19 +14050,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IEdyYWRsZUV4Y2VwdGlvbignTWFrZSBzdXJlIHlvdXIgYnVpbGRzY3JpcHQgbG9va3MgbGlrZSB0aGlzOlxuJyArIGdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgiY29tbW9uX2J1aWxkc2NyaXB0LmdyYWRsZSIpLnRleHQpCi8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJkb2luZyBhcHAgc3R1ZmYiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBib29sZWFuIGhhc05lZWRlZFBsdWdpbnMoZmluYWwgUHJvamVjdCBwcm9qZWN0KSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChoYXNOZWVkZWRQbHVnaW5zKHByb2plY3QpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IEdyYWRsZUV4Y2VwdGlvbignTWFrZSBzdXJlIHlvdXIgYnVpbGRzY3JpcHQgbG9va3MgbGlrZSB0aGlzOlxuJyArIGdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgiY29tbW9uX2J1aWxkc2NyaXB0LmdyYWRsZSIpLnRleHQpCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBib29sZWFuIGhhc05lZWRlZFBsdWdpbnMoZmluYWwgUHJvamVjdCBwcm9qZWN0KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiBwbHVnaW5zID0gbmV3IEFycmF5TGlzdDw+KCk7Ci8vICAgICAgICBwcm9qZWN0LnJvb3RQcm9qZWN0LmJ1aWxkc2NyaXB0LmNvbmZpZ3VyYXRpb25zLmNsYXNzcGF0aC5hbGxEZXBlbmRlbmNpZXMuZWFjaCB7IGRlcGVuZGVuY3kgLT4KLy8gICAgICAgICAgICBwbHVnaW5zLmFkZChkZXBlbmRlbmN5Lmdyb3VwICsgIjoiICsgZGVwZW5kZW5jeS5uYW1lICsgIjoiICsgZGVwZW5kZW5jeS52ZXJzaW9uKQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15350,13 +15350,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIHJlcXVpcmVkUGx1Z2luIDogUkVRVUlSRURfUExVR0lOUykgewovLyAgICAgICAgICAgIGlmICghcGx1Z2lucy5jb250YWlucyhyZXF1aXJlZFBsdWdpbikpewovLyAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2UKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiBwbHVnaW5zID0gbmV3IEFycmF5TGlzdDw+KCk7Ci8vICAgICAgICBwcm9qZWN0LnJvb3RQcm9qZWN0LmJ1aWxkc2NyaXB0LmNvbmZpZ3VyYXRpb25zLmNsYXNzcGF0aC5hbGxEZXBlbmRlbmNpZXMuZWFjaCB7IGRlcGVuZGVuY3kgLT4KLy8gICAgICAgICAgICBwbHVnaW5zLmFkZChkZXBlbmRlbmN5Lmdyb3VwICsgIjoiICsgZGVwZW5kZW5jeS5uYW1lICsgIjoiICsgZGVwZW5kZW5jeS52ZXJzaW9uKQovLyAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIHJlcXVpcmVkUGx1Z2luIDogUkVRVUlSRURfUExVR0lOUykgewovLyAgICAgICAgICAgIGlmICghcGx1Z2lucy5jb250YWlucyhyZXF1aXJlZFBsdWdpbikpewovLyAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2UKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
