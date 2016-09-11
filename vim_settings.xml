@@ -1342,10 +1342,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473556290970">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473604915513">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="95" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="73" />
         <mark key="." line="3" column="95" />
         <mark key="^" line="3" column="95" />
       </file>
@@ -2694,7 +2694,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aHR0cDovL29uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tL3N0YXNoL3Byb2plY3RzL0FHL3JlcG9zL2dyYWRsZS1wbHVnaW5zL2Jyb3dzZS9zY3JpcHRzL2NvbW1vbl9idWlsZHNjcmlwdC5ncmFkbGU/YXQ9NjdkNTQyNzRhZjZmMTIwODk5YTE1ZTI3NWRjYWY3ZjU1NDJlNTlkYyZyYXc=</text>
+        <text>&quot;com.github.dcendents:android-maven-gradle-plugin:1.4.1&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13293,8 +13293,8 @@
       <register name="/" type="4">
         <text>maven_repos</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ2h0dHA6Ly9vbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbS9zdGFzaC9wcm9qZWN0cy9BRy9yZXBvcy9ncmFkbGUtcGx1Z2lucy9icm93c2Uvc2NyaXB0cy9jb21tb25fYnVpbGRzY3JpcHQuZ3JhZGxlP2F0PWRmMjgwMWZkYjRmNmNjMTc0ZTIzMzFkYjkxODFiMWM5ZWU0NjhkOWMmcmF3Jwo=</text>
+      <register name="0" type="4">
+        <text>&quot;com.github.dcendents:android-maven-gradle-plugin:1.4.1&quot;</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
