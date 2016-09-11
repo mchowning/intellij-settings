@@ -215,12 +215,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/RequiredDependencyValidator.groovy" timestamp="1473607668133">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="84" column="83" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1468590174177">
         <mark key="'" line="191" column="36" />
       </file>
@@ -545,6 +539,13 @@
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" timestamp="1473609582112">
+        <mark key="'" line="82" column="20" />
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="26" />
+        <mark key="." line="81" column="26" />
+        <mark key="^" line="81" column="26" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/build.gradle" timestamp="1465231181824">
         <mark key="[" line="33" column="19" />
@@ -3242,9 +3243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="50" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="119" column="17" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="120" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="94" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="96" column="23" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="4" column="26" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -3342,13 +3340,16 @@
       <jump line="1" column="25" filename="$USER_HOME$/.gradle/caches/3.0/generated-gradle-jars/gradle-api-3.0.jar!/org/gradle/api/tasks/Copy.class" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/RequiredDependencyValidator.groovy" />
+      <jump line="100" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" />
+      <jump line="84" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" />
+      <jump line="82" column="20" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHsgYWN0dWFsRGVwZW5kZW5jeSAtPgovLyAgICAgICAgICAgICAgICAgICAgICAgIGRlcGVuZGVuY3kuZ3JvdXAgPT0gYWN0dWFsRGVwZW5kZW5jeS5ncm91cCAmJgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS5uYW1lID09IGFjdHVhbERlcGVuZGVuY3kubmFtZSAmJgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS52ZXJzaW9uICE9IGFjdHVhbERlcGVuZGVuY3kudmVyc2lvbgovLyAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13945,19 +13946,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>asdlfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UgKz0gIlxuXHRjbGFzc3BhdGg6IFwnJGl0LmNsYXNzcGF0aFwnIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IGFjdHVhbERlcGVuZGVuY3kgLT4KICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS5ncm91cCA9PSBhY3R1YWxEZXBlbmRlbmN5Lmdyb3VwICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS5uYW1lID09IGFjdHVhbERlcGVuZGVuY3kubmFtZSAmJgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlcGVuZGVuY3kudmVyc2lvbiAhPSBhY3R1YWxEZXBlbmRlbmN5LnZlcnNpb24KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHsgYWN0dWFsRGVwZW5kZW5jeSAtPgovLyAgICAgICAgICAgICAgICAgICAgICAgIGRlcGVuZGVuY3kuZ3JvdXAgPT0gYWN0dWFsRGVwZW5kZW5jeS5ncm91cCAmJgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS5uYW1lID09IGFjdHVhbERlcGVuZGVuY3kubmFtZSAmJgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS52ZXJzaW9uICE9IGFjdHVhbERlcGVuZGVuY3kudmVyc2lvbgovLyAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13984,19 +13985,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBkcm9wIHRoaXMgY2xhc3NwYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS5ncm91cCA9PSBhY3R1YWxEZXBlbmRlbmN5Lmdyb3VwICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVwZW5kZW5jeS5uYW1lID09IGFjdHVhbERlcGVuZGVuY3kubmFtZSAmJgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlcGVuZGVuY3kudmVyc2lvbiAhPSBhY3R1YWxEZXBlbmRlbmN5LnZlcnNpb24K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15283,35 +15284,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBzYXRpc2Z5KENsb3N1cmUgZmlsdGVyLCBDbG9zdXJlIGNyaXRlcmlhKSB7CiAgICAgICAgQnVpbGRzY3JpcHREZXBlbmRlbmN5LnZhbHVlcygpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpbmRBbGwoZmlsdGVyICYmIGNyaXRlcmlhKQogICAgfVZrawo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgfS5maW5kQWxsIHsgcmVxdWlyZWREZXBlbmRlbmN5IC0+CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ci8vICAgIHByaXZhdGUgc3RhdGljIExpc3Q8QnVpbGRzY3JpcHREZXBlbmRlbmN5PiBnZXRJbmNvcnJlY3RseVZlcnNpb25lZERlcGVuZGVuY2llcyhhY3R1YWxEZXBlbmRlbmNpZXMpIHsKLy8gICAgICAgIEJ1aWxkc2NyaXB0RGVwZW5kZW5jeS52YWx1ZXMoKS5maW5kQWxsIHsKLy8gICAgICAgICAgICAhaXQuaXNSZXF1aXJlZAovLyAgICAgICAgfS5maW5kQWxsIHsgb3B0aW9uYWxEZXBlbmRlbmN5IC0+Ci8vICAgICAgICAgICAgYWN0dWFsRGVwZW5kZW5jaWVzLmFueSB7IGFjdHVhbERlcGVuZGVuY3kgLT4gCi8vICAgICAgICAgICAgICAgIG9wdGlvbmFsRGVwZW5kZW5jeS5ncm91cCA9PSBhY3R1YWxEZXBlbmRlbmN5Lmdyb3VwICYmIAovLyAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbmFsRGVwZW5kZW5jeS5uYW1lID09IGFjdHVhbERlcGVuZGVuY3kubmFtZSAmJiAKLy8gICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25hbERlcGVuZGVuY3kudmVyc2lvbiAhPSBhY3R1YWxEZXBlbmRlbmN5LnZlcnNpb24KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvIi9n</text>
+        <text encoding="base64">JzwsJz5zL2RlcGVuZGVuY3kvZDEvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>asdlfj</last-pattern>
+      <last-replace>d1</last-replace>
+      <last-substitute>dependency</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>maven</entry>
-        <entry>android-maven</entry>
-        <entry>build:gradle</entry>
-        <entry>neenbed</entry>
-        <entry encoding="base64">XDxwbHVnaW5fYXBwXD4=</entry>
         <entry encoding="base64">XDxhcHBfc2hhcmVkXD4=</entry>
         <entry>dependencies</entry>
         <entry>commerce</entry>
@@ -15325,13 +15321,15 @@
         <entry>prop</entry>
         <entry>file:</entry>
         <entry>from</entry>
-        <entry>asdljf</entry>
         <entry>;</entry>
+        <entry>ArrayList</entry>
+        <entry>it</entry>
+        <entry>asdljf</entry>
+        <entry>actualDependency</entry>
+        <entry>dependency</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
-        <entry>302</entry>
-        <entry>85</entry>
-        <entry>284</entry>
         <entry>420</entry>
         <entry>485</entry>
         <entry>95</entry>
@@ -15349,6 +15347,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>NERDTreeToggle</entry>
+        <entry encoding="base64">JzwsJz5zL2l0L2RlcGVuZGVuY3kvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2FjdHVhbERlcGVuZGVuY3kvZDIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2RlcGVuZGVuY3kvZDEvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
