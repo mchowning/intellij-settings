@@ -630,11 +630,11 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473692952822">
-        <mark key="[" line="41" column="105" />
-        <mark key="]" line="41" column="105" />
-        <mark key="." line="41" column="105" />
-        <mark key="^" line="41" column="105" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473694706956">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="105" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1471362756036">
         <mark key="'" line="495" column="110" />
@@ -1482,10 +1482,10 @@
       <file name="/Scala Console" timestamp="1469891490981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473612548595">
-        <mark key="'" line="155" column="86" />
-        <mark key="[" line="155" column="87" />
-        <mark key="]" line="155" column="87" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473694717413">
+        <mark key="'" line="201" column="12" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="129" column="100" />
         <mark key="." line="155" column="87" />
         <mark key="^" line="155" column="87" />
       </file>
@@ -2279,7 +2279,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1473612565889">
+      <file name="/a.regexp" timestamp="1473694179294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3255,11 +3255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="45" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="10" column="11" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="18" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="32" column="41" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="43" column="80" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="66" column="38" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="76" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="78" column="48" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -3355,13 +3350,18 @@
       <jump line="26" column="46" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
       <jump line="27" column="35" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
       <jump line="41" column="57" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
+      <jump line="165" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="188" column="10" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="194" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="200" column="8" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="201" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZW1vdGVfbGlua19yZWxlYXNlIDogImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiLAogICAgICAgIHJlbW90ZV9saW5rX3NuYXBzaG90OiAiaHR0cDovL29uc3JuZDFhZGMtYXIwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2FydGlmYWN0b3J5L2xpYnMtc25hcHNob3QiLAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13961,34 +13961,34 @@
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0dlbWluaUFwcFw+</text>
+        <text>repos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZDEubmFtZSA9PSBkMi5uYW1lICYmCg==</text>
+        <text encoding="base64">ICAgICAgICByZW1vdGVfbGlua19yZWxlYXNlIDogImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiLAogICAgICAgIHJlbW90ZV9saW5rX3NuYXBzaG90OiAiaHR0cDovL29uc3JuZDFhZGMtYXIwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2FydGlmYWN0b3J5L2xpYnMtc25hcHNob3QiLAo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzR2VtaW5pQXBzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpc0dlbWluaUFwcAo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzR2VtaW5pQXBzCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpc0dlbWluaUFwcAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15275,23 +15275,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc1JlcXVpcmVkID0gCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RlcGVuZGVuY3kvZDEvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0dlbWluaUFwcFw+</last-search>
+      <last-search>repos</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0dlbWluaUFwcFw+</last-pattern>
+      <last-pattern>repos</last-pattern>
       <last-replace>d1</last-replace>
       <last-substitute>dependency</last-substitute>
       <last-dir>1</last-dir>
@@ -15299,7 +15299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>plugin name</entry>
         <entry>'</entry>
         <entry>asdlkjf</entry>
@@ -15319,6 +15318,7 @@
         <entry>any</entry>
         <entry encoding="base64">XDxyZXF1aXJlbWVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxpc0dlbWluaUFwcFw+</entry>
+        <entry>repos</entry>
       </history-search>
       <history-cmd>
         <entry>420</entry>
