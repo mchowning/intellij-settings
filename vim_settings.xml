@@ -257,10 +257,9 @@
         <mark key="." line="22" column="47" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/downloaded.gradle" timestamp="1473703670589">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/main/java/com/gm/gemini/sdk/tasks/vehicle/SynchronousVehicleTask.java" timestamp="1464365162802">
         <mark key="[" line="39" column="49" />
@@ -1716,10 +1715,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473703678631">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473704930809">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="220" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="73" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="59" column="40" />
       </file>
@@ -3459,7 +3458,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8vL1sgJ2Jhc2gnLCAnLWMnLCAiY3VybCAtdSBcJzUxNDg2Mzg3ODpnYm9SRWVhN1J4ZClLZXpFXCcgXCdodHRwOi8vb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb20vc3Rhc2gvcHJvamVjdHMvQUcvcmVwb3MvZ3JhZGxlLXBsdWdpbnMvYnJvd3NlL3NjcmlwdHMvZGVwZW5kZW5jaWVzLmdyYWRsZT9yYXdcJyA+IGRvd25sb2FkZWQuZ3JhZGxlIl0uZXhlY3V0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5naXRodWIuZGNlbmRlbnRzOmFuZHJvaWQtbWF2ZW4tZ3JhZGxlLXBsdWdpbjoxLjQuMSIK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14062,7 +14061,7 @@
         <text encoding="base64">XDxyZWxlYXNlX2NyZWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8vL1sgJ2Jhc2gnLCAnLWMnLCAiY3VybCAtdSBcJzUxNDg2Mzg3ODpnYm9SRWVhN1J4ZClLZXpFXCcgXCdodHRwOi8vb25zcm5kMWFkYy1zdDAxLml0bGFiLm9uc3Rhci5nbS5jb20vc3Rhc2gvcHJvamVjdHMvQUcvcmVwb3MvZ3JhZGxlLXBsdWdpbnMvYnJvd3NlL3NjcmlwdHMvZGVwZW5kZW5jaWVzLmdyYWRsZT9yYXdcJyA+IGRvd25sb2FkZWQuZ3JhZGxlIl0uZXhlY3V0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5naXRodWIuZGNlbmRlbnRzOmFuZHJvaWQtbWF2ZW4tZ3JhZGxlLXBsdWdpbjoxLjQuMSIK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
