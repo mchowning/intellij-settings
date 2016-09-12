@@ -1482,10 +1482,10 @@
       <file name="/Scala Console" timestamp="1469891490981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473694717413">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473696423399">
         <mark key="'" line="201" column="12" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="129" column="100" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="203" column="0" />
         <mark key="." line="155" column="87" />
         <mark key="^" line="155" column="87" />
       </file>
@@ -3361,7 +3361,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdGVfbGlua19yZWxlYXNlIDogImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiLAogICAgICAgIHJlbW90ZV9saW5rX3NuYXBzaG90OiAiaHR0cDovL29uc3JuZDFhZGMtYXIwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2FydGlmYWN0b3J5L2xpYnMtc25hcHNob3QiLAo=</text>
+        <text encoding="base64">ZGVmIGdldE1hdmVuU2V0dGluZ3NDcmVkZW50aWFscygpIHsKICAgIFN0cmluZyB1c2VySG9tZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSggInVzZXIuaG9tZSIgKTsKICAgIEZpbGUgbWF2ZW5TZXR0aW5ncyA9IG5ldyBGaWxlKHVzZXJIb21lLCAiLm0yL3NldHRpbmdzLnhtbCIpCgogICAgcHJpbnRsbiAnTTIgc2V0dGluZ3M6ICcgKyBtYXZlblNldHRpbmdzLmFic29sdXRlUGF0aAoKICAgIGRlZiB4bWxTbHVycGVyID0gbmV3IFhtbFNsdXJwZXIoKQogICAgZGVmIG91dHB1dCA9IHhtbFNsdXJwZXIucGFyc2UobWF2ZW5TZXR0aW5ncykKICAgIHJldHVybiBvdXRwdXQuInNlcnZlcnMiLiJzZXJ2ZXIiCn0KCmRlZiBnZXRDcmVkZW50aWFscyhzZXJ2ZXJJZCkgewogICAgZGVmIGVudHJpZXMgPSBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKQogICAgZm9yIChlbnRyeSBpbiBlbnRyaWVzKSB7CiAgICAgICAgaWYgKCBlbnRyeS4iaWQiLnRleHQoKSA9PSBzZXJ2ZXJJZCApIHsKICAgICAgICAgICAgcmV0dXJuIFt1c2VybmFtZTogZW50cnkudXNlcm5hbWUudGV4dCgpLCBwYXNzd29yZDogZW50cnkucGFzc3dvcmQudGV4dCgpXQogICAgICAgIH0KICAgIH0KfQoKZGVmIHJlbGVhc2VfY3JlZHMgPSBnZXRDcmVkZW50aWFscygib25zcm5kMWFkYy1hcjAxIikKZGVmIHNuYXBzaG90X2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMS1zbmFwc2hvdHMiKQoKZXh0Lm1hdmVuX3JlcG9zID0gWwoJcmVsZWFzZTogewoJICAgIGNyZWRlbnRpYWxzIHsKCSAgICAgICAgdXNlcm5hbWUgcmVsZWFzZV9jcmVkc1sidXNlcm5hbWUiXQoJICAgICAgICBwYXNzd29yZCByZWxlYXNlX2NyZWRzWyJwYXNzd29yZCJdCgkgICAgfQoJICAgIHVybCByZXBvcy5yZW1vdGVfbGlua19yZWxlYXNlCgl9LAogICAgc25hcHNob3Q6IHsKICAgICAgICBjcmVkZW50aWFscyAgIHsKICAgICAgICAgICAgdXNlcm5hbWUgc25hcHNob3RfY3JlZHNbInVzZXJuYW1lIl0KICAgICAgICAgICAgcGFzc3dvcmQgc25hcHNob3RfY3JlZHNbInBhc3N3b3JkIl0KICAgICAgICB9CgkJdXJsIHJlcG9zLnJlbW90ZV9saW5rX3NuYXBzaG90Cgl9Cl0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13964,7 +13964,7 @@
         <text>repos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdGVfbGlua19yZWxlYXNlIDogImh0dHA6Ly9vbnNybmQxYWRjLWFyMDEuaXRsYWIub25zdGFyLmdtLmNvbS9hcnRpZmFjdG9yeS9saWJzLXJlbGVhc2UiLAogICAgICAgIHJlbW90ZV9saW5rX3NuYXBzaG90OiAiaHR0cDovL29uc3JuZDFhZGMtYXIwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2FydGlmYWN0b3J5L2xpYnMtc25hcHNob3QiLAo=</text>
+        <text encoding="base64">ZXh0LnJlcG9zID0gWwogICAgICAgIHJlbW90ZV9saW5rX3JlbGVhc2UgOiAiaHR0cDovL29uc3JuZDFhZGMtYXIwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2FydGlmYWN0b3J5L2xpYnMtcmVsZWFzZSIsCiAgICAgICAgcmVtb3RlX2xpbmtfc25hcHNob3Q6ICJodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnkvbGlicy1zbmFwc2hvdCIsCiAgICAgICAgZmFicmljOiAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiwKICAgICAgICBzb25hdHlwZTogImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHMvIgpdCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
