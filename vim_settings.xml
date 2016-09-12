@@ -595,11 +595,10 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473714439773">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="35" column="42" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473715287754">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="68" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountFragment.java" timestamp="1471535677766">
         <mark key="[" line="16" column="0" />
@@ -2373,11 +2372,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OtherExtension.groovy" timestamp="1473714434348">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="50" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OtherExtension.groovy" timestamp="1473715142021">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week4/test_cases/testcase_71000.txt" timestamp="1423521817546">
         <mark key="[" line="0" column="0" />
@@ -3170,7 +3169,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAiZXh0ZW5zaW9uIG5hbWU6ICR7cHJvamVjdC5vbW5pYnVzLnJvb3RQcm9qZWN0UmVwb30iCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13773,31 +13772,31 @@
         <text>utils</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXh0LnJlcG9zID0gWwogICAgICAgIHJlbW90ZV9saW5rX3JlbGVhc2UgOiAiaHR0cDovL29uc3JuZDFhZGMtYXIwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2FydGlmYWN0b3J5L2xpYnMtcmVsZWFzZSIsCiAgICAgICAgcmVtb3RlX2xpbmtfc25hcHNob3Q6ICJodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnkvbGlicy1zbmFwc2hvdCIsCiAgICAgICAgZmFicmljOiAiaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljIiwKICAgICAgICBzb25hdHlwZTogImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHMvIgpdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAiZXh0ZW5zaW9uIG5hbWU6ICR7cHJvamVjdC5vbW5pYnVzLnJvb3RQcm9qZWN0UmVwb30iCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LmV4dGVuc2lvbnMuY3JlYXRlKCJvbW5pYnVzIiwgT3RoZXJFeHRlbnNpb24pCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEN1c3RvbUV4dGVuc2lvbiB7CiAgICAgICAgU3RyaW5nIHJvb3RQcm9qZWN0UmVwbyA9ICJkZWZhdWx0IgoKLy8gICAgICAgIFN0cmluZyByb290UHJvamVjdFJlcG8KLy8gICAgICAgIEN1c3RvbUV4dGVuc2lvbihTdHJpbmcgcm9vdFByb2plY3RSZXBvKSB7Ci8vICAgICAgICAgICAgdGhpcy5yb290UHJvamVjdFJlcG8gPSByb290UHJvamVjdFJlcG8KLy8gICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LnRhc2soJ25hbWVUZXN0JykgPDwgewogICAgICAgICAgICBwcmludGxuICJleHRlbnNpb24gbmFtZTogJHtwcm9qZWN0Lm9tbmlidXMucm9vdFByb2plY3RSZXBvfSIKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcm9vdFByb2plY3RSZXBvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFeHRlbnNpb24K</text>
+        <text encoding="base64">ICAgIGNsYXNzIEN1c3RvbUV4dGVuc2lvbiB7CiAgICAgICAgU3RyaW5nIHJvb3RQcm9qZWN0UmVwbyA9ICJkZWZhdWx0IgoKLy8gICAgICAgIFN0cmluZyByb290UHJvamVjdFJlcG8KLy8gICAgICAgIEN1c3RvbUV4dGVuc2lvbihTdHJpbmcgcm9vdFByb2plY3RSZXBvKSB7Ci8vICAgICAgICAgICAgdGhpcy5yb290UHJvamVjdFJlcG8gPSByb290UHJvamVjdFJlcG8KLy8gICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnNlY3VyaXR5LmNlcnQuRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcm9vdFByb2plY3RSZXBvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFeHRlbnNpb24K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15085,13 +15084,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9idWlsZHNjcmlwdCB7Ci8vICAgIGRlcGVuZGVuY2llcyB7Ci8vICAgICAgICBjbGFzc3BhdGggImNvbS5naXRodWIuZGNlbmRlbnRzOmFuZHJvaWQtbWF2ZW4tZ3JhZGxlLXBsdWdpbjoxLjQuMSIKLy8gICAgfQovL30K</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnNlY3VyaXR5LmNlcnQuRXh0ZW5zaW9uCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9idWlsZHNjcmlwdCB7Ci8vICAgIGRlcGVuZGVuY2llcyB7Ci8vICAgICAgICBjbGFzc3BhdGggImNvbS5naXRodWIuZGNlbmRlbnRzOmFuZHJvaWQtbWF2ZW4tZ3JhZGxlLXBsdWdpbjoxLjQuMSIKLy8gICAgfQovL30K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RlcGVuZGVuY3kvZDEvZw==</text>
