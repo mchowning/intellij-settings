@@ -164,6 +164,11 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/test.gradle" timestamp="1473787129233">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_1_4-5.txt" timestamp="1423192717508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="7" />
@@ -654,9 +659,9 @@
         <mark key="^" line="99" column="31" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" timestamp="1473715625339">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
         <mark key="[" line="48" column="0" />
@@ -728,6 +733,12 @@
         <mark key="]" line="10" column="2" />
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/settings.gradle" timestamp="1473785958775">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mytests/MyRandomGamer.java" timestamp="1428491481134">
         <mark key="[" line="14" column="27" />
@@ -1659,12 +1670,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473706226648">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="59" column="40" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473787248557">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/PluginGarageTest.java" timestamp="1471531726802">
         <mark key="[" line="11" column="0" />
@@ -13899,13 +13910,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>permissionsFacade.shouldShowRequestPermissionRationale(ACCESS_FINE_LOCATION).toBlocking().first();</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>\/\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGVybWlzc2lvbnNGYWNhZGUuc2hvdWxkU2hvd1JlcXVlc3RQZXJtaXNzaW9uUmF0aW9uYWxlKEFDQ0VTU19GSU5FX0xPQ0FUSU9OKS50b0Jsb2NraW5nKCkuZmlyc3QoKTsK</text>
+        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICd0ZXN0LmdyYWRsZScK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -13917,19 +13928,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgcnguZnVuY3Rpb25zLkFjdGlvbjE7Cg==</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ3Rlc3QuZ3JhZGxlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICByZXBvc2l0b3JpZXMgewo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQKLy9pbXBvcnQgY29tLmdtLmdlbWluaS5wbHVnaW5fY29tbW9uX3Jlc291cmNlcy5kZWFsZXIuUHJlZmVycmVkRGVhbGVyRmFjYWRlOwovLz09PT09PT0KLy9pbXBvcnQgY29tLmdtLmdlbWluaS5wbHVnaW5fY29tbW9uX3Jlc291cmNlcy5QZXJtaXNzaW9uc0ZhY2FkZTsKLy9pbXBvcnQgY29tLmdtLmdlbWluaS5wbHVnaW5fY29tbW9uX3Jlc291cmNlcy5kZWFsZXIuUHJlZmVycmVkRGVhbGVyRGF0YUZhY2FkZTsKLy8+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBsaWJyYXJpZXMucnhqYXZhCg==</text>
+        <text encoding="base64">Ly8gICAgaW1wb3J0ZWRfYnVpbGRzY3JpcHQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15217,13 +15228,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4LmFuZHJvaWQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgbGlicmFyaWVzLnJ4cGVybWlzc2lvbnMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBOT1RFOiBEbyBub3QgcGxhY2UgeW91ciBhcHBsaWNhdGlvbiBkZXBlbmRlbmNpZXMgaGVyZTsgdGhleSBiZWxvbmcKICAgICAgICAvLyBpbiB0aGUgaW5kaXZpZHVhbCBtb2R1bGUgYnVpbGQuZ3JhZGxlIGZpbGVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uYWw8VmVoaWNsZT4gdmVoaWNsZSkgewovLwovLyAgICAgICAgc3VwZXIodmlldywgcmVzb3VyY2VVdGlsLCBsb2NhdGlvbkZhY2FkZSwgZGVhbGVyTG9jYXRlU3RyYXRlZ3lCdWlsZGVyRmFjdG9yeSwgZXZlbnRCdXMsIHByZWZlcnJlZERlYWxlckZhY2FkZSwKLy8gICAgICAgICAgICAgICAgYW5kcm9pZFN5c3RlbVV0aWwsIG93bmVyQ2VudGVyTG9jYWxlVXRpbCwgYXV0aGVudGljYXRlZFVzZXJFbnRpdGxlbWVudCwgbG9jYWxlUHJvdmlkZXIsIHZlaGljbGUpOwovLz09PT09PT0KLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uYWw8VmVoaWNsZT4gdmVoaWNsZSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2hhcmVkUHJlZmVyZW5jZUZhY2FkZSBzaGFyZWRQcmVmZXJlbmNlRmFjYWRlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQZXJtaXNzaW9uc0ZhY2FkZSBwZXJtaXNzaW9uRmFjYWRlKSB7Ci8vICAgICAgICBzdXBlcih2aWV3LCByZXNvdXJjZVV0aWwsIGxvY2F0aW9uRmFjYWRlLCBkZWFsZXJMb2NhdGVTdHJhdGVneUJ1aWxkZXJGYWN0b3J5LCBldmVudEJ1cywgcHJlZmVycmVkRGVhbGVyRGF0YUZhY2FkZSwKLy8gICAgICAgICAgICAgICAgYW5kcm9pZFN5c3RlbVV0aWwsIG93bmVyQ2VudGVyTG9jYWxlVXRpbCwgYXV0aGVudGljYXRlZFVzZXJFbnRpdGxlbWVudCwgbG9jYWxlUHJvdmlkZXIsIHZlaGljbGUsIHNoYXJlZFByZWZlcmVuY2VGYWNhZGUsIHBlcm1pc3Npb25GYWNhZGUpOwovLz4+Pj4+Pj4gb3JpZ2luL2RldmVsb3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RlcGVuZGVuY3kvZDEvZw==</text>
