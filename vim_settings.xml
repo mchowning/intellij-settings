@@ -164,9 +164,9 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/test.gradle" timestamp="1473787129233">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/test.gradle" timestamp="1473789562417">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="56" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_1_4-5.txt" timestamp="1423192717508">
@@ -1670,12 +1670,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473787248557">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1473790682183">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/PluginGarageTest.java" timestamp="1471531726802">
         <mark key="[" line="11" column="0" />
@@ -3312,8 +3312,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13910,37 +13910,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>\/\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICd0ZXN0LmdyYWRsZScK</text>
+        <text encoding="base64">ICAgIFsgJ2Jhc2gnLCAnLWMnLCAiZWNobyBydW5uaW5nLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4iXS5leGVjdXRlKCkK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnRsbiAic3RkOiAkci5vdXRcbmVycjogJHIuZXJyIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ3Rlc3QuZ3JhZGxlJwo=</text>
+        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICdkb3dubG9hZGVkLmdyYWRsZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICByZXBvc2l0b3JpZXMgewo=</text>
+        <text encoding="base64">Ly8gICAgYXBwbHkgZnJvbTogJ2Rvd25sb2FkZWQuZ3JhZGxlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYXBwbHkgZnJvbTogJ3Rlc3QuZ3JhZGxlJywgdG86IGl0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaW1wb3J0ZWRfYnVpbGRzY3JpcHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15228,10 +15228,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3NwYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6Mi4xLjMnCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOT1RFOiBEbyBub3QgcGxhY2UgeW91ciBhcHBsaWNhdGlvbiBkZXBlbmRlbmNpZXMgaGVyZTsgdGhleSBiZWxvbmcKICAgICAgICAvLyBpbiB0aGUgaW5kaXZpZHVhbCBtb2R1bGUgYnVpbGQuZ3JhZGxlIGZpbGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
