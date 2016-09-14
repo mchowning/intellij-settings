@@ -2149,7 +2149,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1473865763351">
+      <file name="/a.regexp" timestamp="1473872221847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2559,6 +2559,11 @@
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/plugin_app.gradle" timestamp="1473872236638">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini-core-sdk/local.properties" timestamp="1469705262175">
         <mark key="[" line="9" column="0" />
@@ -13786,19 +13791,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HCg==</text>
+        <text encoding="base64">CiAgICAgICAgLy9URVNUSU5HCiAgICAgICAgcHJpbnRsbiAidGVzdGluZzogJHBsdWdpbklkZW50aWZpZXIiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0LmV4dC5wbHVnaW5JZGVudGlmaWVyID0gcHJvamVjdC5yb290UHJvamVjdC5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJ0ZXN0aW5nOiAkcHJvamUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LmV4dC5wbHVnaW5JZGVudGlmaWVyID0gcHJvamVjdC5yb290UHJvamVjdC5uYW1lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15086,13 +15091,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3QudGFza3MuY2xlYW4uZXhlY3V0ZSgpCiAgICAgICAgICAgICAgICBwcm9qZWN0LnRhc2tzLmFzc2VtYmxlUmVsZWFzZS5leGVjdXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJ0ZXN0aW5nOiAkcHJvamUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gInByb2plY3Q6ICR7cHJvamVjdC5uYW1lfSIKLy8gICAgICAgIHByaW50bG4gInJvb3RQcm9qZWN0OiAke3Byb2plY3Qucm9vdFByb2plY3QubmFtZX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3QudGFza3MuY2xlYW4uZXhlY3V0ZSgpCiAgICAgICAgICAgICAgICBwcm9qZWN0LnRhc2tzLmFzc2VtYmxlUmVsZWFzZS5leGVjdXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
