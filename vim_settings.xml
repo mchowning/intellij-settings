@@ -352,7 +352,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1473967179185">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1473968013323">
+        <mark key="'" line="26" column="41" />
         <mark key="[" line="26" column="63" />
         <mark key="]" line="27" column="63" />
         <mark key="." line="27" column="63" />
@@ -3234,7 +3235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="45" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/plugin_app.gradle" />
       <jump line="98" column="23" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="96" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="70" column="26" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
@@ -3334,6 +3334,7 @@
       <jump line="50" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
       <jump line="75" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="26" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13940,7 +13941,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>repos</text>
+        <text>apt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5mYWJyaWMuaW8vcHVibGljJyB9Cg==</text>
@@ -15264,13 +15265,13 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text>51</text>
       </register>
     </registers>
     <search>
-      <last-search>repos</last-search>
+      <last-search>apt</last-search>
       <last-offset />
-      <last-pattern>repos</last-pattern>
+      <last-pattern>apt</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15288,7 +15289,6 @@
         <entry>gradle_vers</entry>
         <entry>android</entry>
         <entry>crash</entry>
-        <entry>apt</entry>
         <entry>android_gradle</entry>
         <entry>crashlytics</entry>
         <entry>maven_plugin</entry>
@@ -15298,9 +15298,9 @@
         <entry encoding="base64">XDxhdHlvdXJzZXJ2aWNlXD4=</entry>
         <entry>&quot;</entry>
         <entry>repos</entry>
+        <entry>apt</entry>
       </history-search>
       <history-cmd>
-        <entry>284</entry>
         <entry>420</entry>
         <entry>485</entry>
         <entry>95</entry>
@@ -15320,6 +15320,7 @@
         <entry>NERDTreeToggle</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>51</entry>
       </history-cmd>
       <history-expr />
       <history-input />
