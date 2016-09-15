@@ -595,11 +595,10 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473963498394">
-        <mark key="[" line="73" column="58" />
-        <mark key="]" line="73" column="61" />
-        <mark key="^" line="73" column="61" />
-        <mark key="." line="73" column="61" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1473967418338">
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountFragment.java" timestamp="1471535677766">
         <mark key="[" line="16" column="0" />
@@ -1092,10 +1091,11 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473956111278">
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1473967469241">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/Main.hs" timestamp="1448639622621">
         <mark key="[" line="5" column="7" />
@@ -1180,10 +1180,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/plugin_app.gradle" timestamp="1473881073677">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/plugin_app.gradle" timestamp="1473967459731">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/themes/vauxhall/values/colors.xml" timestamp="1466766729076">
         <mark key="[" line="3" column="34" />
@@ -3185,7 +3186,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>1.0.6-SNAPSHOT</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13782,13 +13783,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>1.0.6-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>\=\~</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcXVpcmVtZW50VHlwZXMuY29udGFpbnMocmVxdWlyZW1lbnRUeXBlKQo=</text>
+        <text encoding="base64">dmVyc2lvbj0xLjAuNi1TTkFQU0hPVAo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
