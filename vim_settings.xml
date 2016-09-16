@@ -1669,8 +1669,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474040144003">
-        <mark key="'" line="79" column="59" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474041358313">
+        <mark key="'" line="85" column="4" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
@@ -2265,7 +2265,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1473966793301">
+      <file name="/a.regexp" timestamp="1474041430629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3244,7 +3244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="21" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="47" column="65" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="48" column="120" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="49" column="121" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
@@ -3344,6 +3343,7 @@
       <jump line="64" column="30" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="78" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="79" column="59" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
+      <jump line="85" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13950,7 +13950,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGFydGlmYWN0b3J5QmFzZVVybCA9ICdodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnknCmV4dC5hcnRpZmFjdG9yeSA9IFsKICAgICAgICBzbmFwc2hvdCA6ICIkYXJ0aWZhY3RvcnlCYXNlVXJsL2xpYnMtc25hcHNob3QiLAogICAgICAgIHJlbGVhc2UgOiAiJGFydGlmYWN0b3J5QmFzZVVybC9saWJzLXJlbGVhc2UiCl0KCmRlZiBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKSB7CiAgICBTdHJpbmcgdXNlckhvbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoICJ1c2VyLmhvbWUiICk7CiAgICBGaWxlIG1hdmVuU2V0dGluZ3MgPSBuZXcgRmlsZSh1c2VySG9tZSwgIi5tMi9zZXR0aW5ncy54bWwiKQoKICAgIHByaW50bG4gJ00yIHNldHRpbmdzOiAnICsgbWF2ZW5TZXR0aW5ncy5hYnNvbHV0ZVBhdGgKCiAgICBkZWYgeG1sU2x1cnBlciA9IG5ldyBYbWxTbHVycGVyKCkKICAgIGRlZiBvdXRwdXQgPSB4bWxTbHVycGVyLnBhcnNlKG1hdmVuU2V0dGluZ3MpCiAgICByZXR1cm4gb3V0cHV0LiJzZXJ2ZXJzIi4ic2VydmVyIgp9CgpkZWYgZ2V0Q3JlZGVudGlhbHMoc2VydmVySWQpIHsKICAgIGRlZiBlbnRyaWVzID0gZ2V0TWF2ZW5TZXR0aW5nc0NyZWRlbnRpYWxzKCkKICAgIGZvciAoZW50cnkgaW4gZW50cmllcykgewogICAgICAgIGlmICggZW50cnkuImlkIi50ZXh0KCkgPT0gc2VydmVySWQgKSB7CiAgICAgICAgICAgIHJldHVybiBbdXNlcm5hbWU6IGVudHJ5LnVzZXJuYW1lLnRleHQoKSwgcGFzc3dvcmQ6IGVudHJ5LnBhc3N3b3JkLnRleHQoKV0KICAgICAgICB9CiAgICB9Cn0KCmV4dC5tYXZlbl9yZXBvcyA9IFsKICAgICAgICByZWxlYXNlOiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIGRlZiByZWxlYXNlX2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMSIpCiAgICAgICAgICAgICAgICB1c2VybmFtZSByZWxlYXNlX2NyZWRzWyJ1c2VybmFtZSJdCiAgICAgICAgICAgICAgICBwYXNzd29yZCByZWxlYXNlX2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnJlbGVhc2UKICAgICAgICB9LAogICAgICAgIHNuYXBzaG90OiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzICAgewogICAgICAgICAgICAgICAgZGVmIHNuYXBzaG90X2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMS1zbmFwc2hvdHMiKQogICAgICAgICAgICAgICAgdXNlcm5hbWUgc25hcHNob3RfY3JlZHNbInVzZXJuYW1lIl0KICAgICAgICAgICAgICAgIHBhc3N3b3JkIHNuYXBzaG90X2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnNuYXBzaG90CiAgICAgICAgfQpdCgovL2V4dC5saWJyYXJpZXMgPSBbCi8vICAgICAgICBhbmRyb2lkX2dyYWRsZV9wbHVnaW46ICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6Mi4xLjMnLAovLyAgICAgICAgYXB0X3BsdWdpbiAgICAgICAgICAgOiAnY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OjEuNCcsCi8vICAgICAgICBjcmFzaGx5dGljc19mYWJyaWMgICA6ICdpby5mYWJyaWMudG9vbHM6Z3JhZGxlOjEuKycsCi8vICAgICAgICBncmFkbGVfdmVyc2lvbnMgICAgICA6ICdjb20uZ2l0aHViLmJlbi1tYW5lczpncmFkbGUtdmVyc2lvbnMtcGx1Z2luOisnLAovLyAgICAgICAgbWF2ZW5fcGx1Z2luICAgICAgICAgOiAnY29tLmdpdGh1Yi5kY2VuZGVudHM6YW5kcm9pZC1tYXZlbi1ncmFkbGUtcGx1Z2luOjEuNC4xJywKLy8gICAgICAgIG9tbmlidXNfcGx1Z2luICAgICAgIDogJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4wLVNOQVBTSE9UJwovL10KLy8KLy9leHQucmVwb3MgPSBbCi8vICAgICAgICBjcmFzaGx5dGljc19mYWJyaWM6ICJodHRwczovL21hdmVuLmZhYnJpYy5pby9wdWJsaWMiCi8vXQovLwovL2V4dC5wbHVnaW5fYnVpbGRzY3JpcHRfcmVwb3NpdG9yaWVzID0gewovLyAgICBtYXZlbkNlbnRyYWwoKQovLyAgICBqY2VudGVyKCkKLy8gICAgbWF2ZW4geyB1cmwgYXJ0aWZhY3RvcnkucmVsZWFzZSB9Ci8vICAgIG1hdmVuTG9jYWwoKQovL30KLy8KLy9leHQucGx1Z2luX2J1aWxkc2NyaXB0X2RlcGVuZGVuY2llcyA9IHsKLy8gICAgY2xhc3NwYXRoIGxpYnJhcmllcy5vbW5pYnVzX3BsdWdpbgovLyAgICBjbGFzc3BhdGggbGlicmFyaWVzLmFuZHJvaWRfZ3JhZGxlX3BsdWdpbgovLyAgICBjbGFzc3BhdGggbGlicmFyaWVzLmFwdF9wbHVnaW4KLy8gICAgY2xhc3NwYXRoIGxpYnJhcmllcy5tYXZlbl9wbHVnaW4KLy99Ci8vCi8vZXh0LnBsdWdpbl9hbGxwcm9qZWN0c19yZXBvc2l0b3JpZXMgPSB7Ci8vICAgIG1hdmVuQ2VudHJhbCgpCi8vICAgIGpjZW50ZXIoKQovLyAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9vc3Muc29uYXR5cGUub3JnL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NuYXBzaG90cy8iIH0KLy8gICAgbWF2ZW4gbWF2ZW5fcmVwb3MucmVsZWFzZQovLyAgICBtYXZlbiBtYXZlbl9yZXBvcy5zbmFwc2hvdAovLyAgICAvL21hdmVuIHsgdXJsICJodHRwczovL21hdmVuLmZhYnJpYy5pby9wdWJsaWMiIH0KLy8gICAgbWF2ZW4geyB1cmwgcmVwb3MuY3Jhc2hseXRpY3NfZmFicmljIH0gLy8gVE9ETyB0YWtlIHRoaXMgb3V0IG9mIHRoZSBwbHVnaW5zPwovLyAgICBtYXZlbkxvY2FsKCkKLy99Cg==</text>
@@ -15278,9 +15278,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15288,7 +15288,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY3Rpb24xXD4=</entry>
         <entry>\/\/</entry>
         <entry>out</entry>
         <entry>android_gradle_plug</entry>
@@ -15308,6 +15307,7 @@
         <entry>repos</entry>
         <entry>apt</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>420</entry>
