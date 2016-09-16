@@ -1669,10 +1669,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474050726223">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474052102734">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="4" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="86" column="0" />
         <mark key="." line="101" column="4" />
         <mark key="^" line="101" column="4" />
       </file>
@@ -3353,8 +3353,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KCBcCgljZCAiJERJUi8uLiIgJiYgXAoJLi9ncmFkbGV3IFwKCSAgICAgIC1QYnVpbGRfdHlwZT0iJGNoYW5uZWwiIFwKCSAgICAgIC1QdmVyc2lvbl9zdHJpbmc9IiR2ZXJzaW9uU3RyaW5nIiBcCgkJICAtUG5vdGlmeV90ZXN0ZXJzPXRydWUgXAogICAgICAgICAgLVB0ZXN0ZXJzPWFuZHJvaWQtb21uaWJ1cy1kZXZlbG9wZXJzLGludGVybmFsLXFhLXRlc3RlcnMsb21uaWJ1cy1wcm9kdWN0LW93bmVycy0xIFwKICAgICAgICAgIGNsZWFuIFwKICAgICAgICAgIGFzc2VtYmxlJGRlYnVnT3JSZWxlYXNlIFwKICAgICAgICAgICRjcmFzaGx5dGljc0Rpc3RyaWJ1dGlvbiBcCiAgICAgICAgICAtLXJlZnJlc2gtZGVwZW5kZW5jaWVzIFwKICAgICAgICAgIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBcCgllY2hvSWZNaXNzaW5nU3RyaW5ncyBcCikK</text>
       </register>
       <register name="d" type="4">
         <keys>
