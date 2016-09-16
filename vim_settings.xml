@@ -13954,7 +13954,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</text>
+        <text>orientation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IwljZCAiJERJUi8uLiIgJiYgXAojCS4vZ3JhZGxldyBcCiMJICAgICAgLVBidWlsZF90eXBlPSIkY2hhbm5lbCIgXAojCSAgICAgIC1QdmVyc2lvbl9zdHJpbmc9IiR2ZXJzaW9uU3RyaW5nIiBcCiMJCSAgLVBub3RpZnlfdGVzdGVycz10cnVlIFwKIyAgICAgICAgICAtUHRlc3RlcnM9YW5kcm9pZC1vbW5pYnVzLWRldmVsb3BlcnMsaW50ZXJuYWwtcWEtdGVzdGVycyxvbW5pYnVzLXByb2R1Y3Qtb3duZXJzLTEgXAojICAgICAgICAgIGNsZWFuIFwKIyAgICAgICAgICBhc3NlbWJsZSRkZWJ1Z09yUmVsZWFzZSBcCiMgICAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwKIyAgICAgICAgICAtLXJlZnJlc2gtZGVwZW5kZW5jaWVzIFwKIyAgICAgICAgICB8IHRlZSAvZGV2L3N0ZGVyciB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgXAojCWVjaG9JZk1pc3NpbmdTdHJpbmdzIFwK</text>
@@ -15282,9 +15282,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</last-search>
+      <last-search>orientation</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</last-pattern>
+      <last-pattern>orientation</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15292,7 +15292,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
         <entry>out</entry>
         <entry>android_gradle_plug</entry>
         <entry>google_serv</entry>
@@ -15312,6 +15311,7 @@
         <entry>apt</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</entry>
+        <entry>orientation</entry>
       </history-search>
       <history-cmd>
         <entry>420</entry>
