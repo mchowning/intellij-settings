@@ -1669,11 +1669,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474298368046">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474300934825">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="35" />
-        <mark key="." line="111" column="0" />
+        <mark key="[" line="111" column="8" />
+        <mark key="]" line="111" column="9" />
+        <mark key="." line="111" column="9" />
+        <mark key="^" line="111" column="9" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
@@ -3352,8 +3353,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LS1yZWZyZXNoLWRlcGVuZGVuY2llcyB8IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13950,13 +13951,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">LS1yZWZyZXNoLWRlcGVuZGVuY2llcyB8IA==</text>
       </register>
       <register name="/" type="4">
         <text>orientation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2NhdCAiJG91dCIgfCB0ZWUgL2Rldi9zdGRlcnIgfCBncmVwICdoYXMgbm8gZGVmYXVsdCB0cmFuc2xhdGlvbicgPiBtaXNzaW5nX3N0cmluZ3MudHh0IHwgY2F0ICYmIFwKY2F0ICIkb3V0IiB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
+        <text encoding="base64">ICAgICAgICAtLXJlZnJlc2gtZGVwZW5kZW5jaWVzIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
