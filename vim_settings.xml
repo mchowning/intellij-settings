@@ -1669,12 +1669,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474300934825">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474316007890">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="111" column="8" />
-        <mark key="]" line="111" column="9" />
-        <mark key="." line="111" column="9" />
-        <mark key="^" line="111" column="9" />
+        <mark key="[" line="108" column="15" />
+        <mark key="]" line="109" column="26" />
+        <mark key="." line="109" column="26" />
+        <mark key="^" line="109" column="26" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
@@ -3353,8 +3353,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LS1yZWZyZXNoLWRlcGVuZGVuY2llcyB8IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjc2RmYWxlYW4gXAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13963,33 +13963,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwK</text>
+        <text encoding="base64">ICAgICAgICBjc2RmYWxlYW4gXAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBjYXQgIiRvdXQiIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICB8IHRlZSAvZGV2L3N0ZGVyciB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAgICBjYXQgIiRvdXQiIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">I2NhdCAiJG91dCIgfCB0ZWUgL2Rldi9zdGRlcnIgfCBncmVwICdoYXMgbm8gZGVmYXVsdCB0cmFuc2xhdGlvbicgPiBtaXNzaW5nX3N0cmluZ3MudHh0IHwgY2F0ICYmIFwKY2F0ICIkb3V0IiB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">XAoJICAgICA=</text>
-      </register>
-      <register name="5" type="4">
-        <text>#	./gradlew \
-#	      -Pbuild_type=&quot;$channel&quot; \
-#	      -Pversion_string=&quot;$versionString&quot; \
-#		  -Pnotify_testers=true \
-#          -Ptesters=android-omnibus-developers,internal-qa-testers,omnibus-product-owners-1 \
-#          clean \
-#          assemble$debugOrRelease \
-#          $crashlyticsDistribution \
-#          --refresh-dependencies \</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Li9ncmFkbGV3IC0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15276,14 +15268,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>#	./gradlew \
+#	      -Pbuild_type=&quot;$channel&quot; \
+#	      -Pversion_string=&quot;$versionString&quot; \
+#		  -Pnotify_testers=true \
+#          -Ptesters=android-omnibus-developers,internal-qa-testers,omnibus-product-owners-1 \
+#          clean \
+#          assemble$debugOrRelease \
+#          $crashlyticsDistribution \
+#          --refresh-dependencies \</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAkdmFyCg==</text>
+        <text encoding="base64">Li9ncmFkbGV3IC0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46MTIzLjQ1Ni43ODknCi8vICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC41Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
