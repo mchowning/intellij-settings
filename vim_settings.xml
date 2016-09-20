@@ -352,11 +352,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1474361758780">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="59" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1474363667607">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="65" />
+        <mark key="^" line="25" column="65" />
+        <mark key="." line="25" column="65" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/sum_testcases/6" timestamp="1425324549442">
         <mark key="[" line="0" column="0" />
@@ -3354,8 +3354,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13952,7 +13952,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LS1yZWZyZXNoLWRlcGVuZGVuY2llcyB8IA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>project</text>
