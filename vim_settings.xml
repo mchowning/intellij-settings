@@ -1384,8 +1384,8 @@
       <file name="/Scala Console" timestamp="1469891490981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1474366211237">
-        <mark key="'" line="143" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1474392084506">
+        <mark key="'" line="26" column="16" />
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="42" />
@@ -2143,7 +2143,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1474366038245">
+      <file name="/a.regexp" timestamp="1474392064746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3081,7 +3081,6 @@
       <jump line="23" column="52" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/build.gradle" />
       <jump line="12" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" />
       <jump line="11" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" />
-      <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="154" column="18" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="56" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="15" column="45" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/plugin_app.gradle" />
@@ -3178,6 +3177,7 @@
       <jump line="210" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
       <jump line="282" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
       <jump line="0" column="4" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
+      <jump line="26" column="16" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13784,7 +13784,7 @@
         <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>checkoutPro</text>
+        <text>build_tools</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyFncm9vdnkK</text>
@@ -15112,9 +15112,9 @@
       </register>
     </registers>
     <search>
-      <last-search>checkoutPro</last-search>
+      <last-search>build_tools</last-search>
       <last-offset />
-      <last-pattern>checkoutPro</last-pattern>
+      <last-pattern>build_tools</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15122,7 +15122,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pluginIdentifier</entry>
         <entry>apt</entry>
         <entry>maven</entry>
         <entry>sonatype</entry>
@@ -15142,6 +15141,7 @@
         <entry>cloneProje</entry>
         <entry>cloneProj</entry>
         <entry>checkoutPro</entry>
+        <entry>build_tools</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
