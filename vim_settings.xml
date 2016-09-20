@@ -1915,7 +1915,7 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1471531579673">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1474365006562">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -1931,6 +1931,11 @@
         <mark key="]" line="148" column="55" />
         <mark key="." line="148" column="55" />
         <mark key="^" line="148" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/DefaultDeviceIdProvider.java" timestamp="1474364953458">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_planning/cannibal_missionary/CannibalMissionary.hs" timestamp="1423866783764">
         <mark key="[" line="19" column="16" />
@@ -2270,7 +2275,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1474297244459">
+      <file name="/a.regexp" timestamp="1474365579896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2687,6 +2692,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/legal/PluginLegal.java" timestamp="1474365035055">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="62" />
+        <mark key="^" line="12" column="62" />
+        <mark key="." line="12" column="62" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandler.java" timestamp="1466866090423">
         <mark key="[" line="41" column="0" />
@@ -3354,8 +3365,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13964,25 +13975,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjc2RmYWxlYW4gXAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBNWUZMQUcgPSAidGhpcyBpcyBsb2NhbGx5IHB1Ymxpc2hlZCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB8IHRlZSAvZGV2L3N0ZGVyciB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwK</text>
+        <text encoding="base64">ICAgICAgICBjc2RmYWxlYW4gXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICBjYXQgIiRvdXQiIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICB8IHRlZSAvZGV2L3N0ZGVyciB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2NhdCAiJG91dCIgfCB0ZWUgL2Rldi9zdGRlcnIgfCBncmVwICdoYXMgbm8gZGVmYXVsdCB0cmFuc2xhdGlvbicgPiBtaXNzaW5nX3N0cmluZ3MudHh0IHwgY2F0ICYmIFwKY2F0ICIkb3V0IiB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
+        <text encoding="base64">IyAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15269,22 +15280,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">IyAgICBjYXQgIiRvdXQiIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2NhdCAiJG91dCIgfCB0ZWUgL2Rldi9zdGRlcnIgfCBncmVwICdoYXMgbm8gZGVmYXVsdCB0cmFuc2xhdGlvbicgPiBtaXNzaW5nX3N0cmluZ3MudHh0IHwgY2F0ICYmIFwKY2F0ICIkb3V0IiB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">XAoJICAgICA=</text>
-      </register>
-      <register name="8" type="4">
-        <text>#	./gradlew \
-#	      -Pbuild_type=&quot;$channel&quot; \
-#	      -Pversion_string=&quot;$versionString&quot; \
-#		  -Pnotify_testers=true \
-#          -Ptesters=android-omnibus-developers,internal-qa-testers,omnibus-product-owners-1 \
-#          clean \
-#          assemble$debugOrRelease \
-#          $crashlyticsDistribution \
-#          --refresh-dependencies \</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Li9ncmFkbGV3IC0K</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
