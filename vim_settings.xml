@@ -352,7 +352,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1474049981433">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1474361758780">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="24" column="59" />
@@ -1229,10 +1229,11 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1474033741006">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1474362094685">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/NaDealerLocateFragmentPresenter.java" timestamp="1473775589573">
         <mark key="[" line="57" column="38" />
@@ -3354,7 +3355,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjc2RmYWxlYW4gXAo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13954,34 +13955,34 @@
         <text encoding="base64">LS1yZWZyZXNoLWRlcGVuZGVuY2llcyB8IA==</text>
       </register>
       <register name="/" type="4">
-        <text>orientation</text>
+        <text>project</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtLXJlZnJlc2gtZGVwZW5kZW5jaWVzIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjc2RmYWxlYW4gXAo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB8IHRlZSAvZGV2L3N0ZGVyciB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
+        <text encoding="base64">ICAgICAgICBjc2RmYWxlYW4gXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwK</text>
+        <text encoding="base64">ICAgICAgICB8IHRlZSAvZGV2L3N0ZGVyciB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICBjYXQgIiRvdXQiIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
+        <text encoding="base64">IyAgICAgICAgJGNyYXNobHl0aWNzRGlzdHJpYnV0aW9uIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2NhdCAiJG91dCIgfCB0ZWUgL2Rldi9zdGRlcnIgfCBncmVwICdoYXMgbm8gZGVmYXVsdCB0cmFuc2xhdGlvbicgPiBtaXNzaW5nX3N0cmluZ3MudHh0IHwgY2F0ICYmIFwKY2F0ICIkb3V0IiB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
+        <text encoding="base64">IyAgICBjYXQgIiRvdXQiIHwgdGVlIC9kZXYvc3RkZXJyIHwgZ3JlcCAnaGFzIG5vIGRlZmF1bHQgdHJhbnNsYXRpb24nID4gbWlzc2luZ19zdHJpbmdzLnR4dCB8IGNhdCAmJiBlY2hvSWZNaXNzaW5nU3RyaW5ncwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">XAoJICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">I2NhdCAiJG91dCIgfCB0ZWUgL2Rldi9zdGRlcnIgfCBncmVwICdoYXMgbm8gZGVmYXVsdCB0cmFuc2xhdGlvbicgPiBtaXNzaW5nX3N0cmluZ3MudHh0IHwgY2F0ICYmIFwKY2F0ICIkb3V0IiB8IGdyZXAgJ2hhcyBubyBkZWZhdWx0IHRyYW5zbGF0aW9uJyA+IG1pc3Npbmdfc3RyaW5ncy50eHQgfCBjYXQgJiYgZWNob0lmTWlzc2luZ1N0cmluZ3MK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15269,6 +15270,9 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">XAoJICAgICA=</text>
+      </register>
+      <register name="8" type="4">
         <text>#	./gradlew \
 #	      -Pbuild_type=&quot;$channel&quot; \
 #	      -Pversion_string=&quot;$versionString&quot; \
@@ -15279,20 +15283,17 @@
 #          $crashlyticsDistribution \
 #          --refresh-dependencies \</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Li9ncmFkbGV3IC0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Li9ncmFkbGV3IC0K</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
       </register>
     </registers>
     <search>
-      <last-search>orientation</last-search>
+      <last-search>project</last-search>
       <last-offset />
-      <last-pattern>orientation</last-pattern>
+      <last-pattern>project</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15300,7 +15301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>out</entry>
         <entry>android_gradle_plug</entry>
         <entry>google_serv</entry>
         <entry>google_ser</entry>
@@ -15320,6 +15320,7 @@
         <entry>test</entry>
         <entry encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</entry>
         <entry>orientation</entry>
+        <entry>project</entry>
       </history-search>
       <history-cmd>
         <entry>420</entry>
