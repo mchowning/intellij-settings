@@ -2021,11 +2021,12 @@
         <mark key="." line="54" column="3" />
         <mark key="^" line="54" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" timestamp="1474392687116">
-        <mark key="'" line="277" column="4" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" timestamp="1474395981470">
+        <mark key="'" line="278" column="4" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-model/src/main/java/com/gm/gemini/model/VehicleRequestPojoBuilder.java" timestamp="1464974206312">
         <mark key="[" line="24" column="80" />
@@ -3342,8 +3343,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNoICdscycK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDpwbHVnaW4tYXR5b3Vyc2VydmljZTphc3NlbWJsZVJlbGVhc2UgOnBsdWdpbi1hdHlvdXJzZXJ2aWNlOnRlc3RSZWxlYXNl</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13940,13 +13941,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IDpwbHVnaW4tYXR5b3Vyc2VydmljZTphc3NlbWJsZVJlbGVhc2UgOnBsdWdpbi1hdHlvdXJzZXJ2aWNlOnRlc3RSZWxlYXNl</text>
       </register>
       <register name="/" type="4">
         <text>cleanNode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzaCAiZ2l0IGNoZWNrb3V0IG9yaWdpbi8ke2Vudi5CUkFOQ0hfTkFNRX0iCg==</text>
+        <text encoding="base64">ICAgIHNoICIuL2dyYWRsZXcgY2xlYW4gOnBsdWdpbi1hdHlvdXJzZXJ2aWNlOmFzc2VtYmxlUmVsZWFzZSA6cGx1Z2luLWF0eW91cnNlcnZpY2U6dGVzdFJlbGVhc2UiCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
