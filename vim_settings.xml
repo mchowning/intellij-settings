@@ -1229,7 +1229,8 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1474362094685">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1474366481313">
+        <mark key="'" line="28" column="31" />
         <mark key="[" line="27" column="53" />
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="33" />
@@ -3260,9 +3261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="65" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="48" column="120" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="49" column="121" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="54" column="84" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="34" column="36" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="33" column="10" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
@@ -3360,6 +3358,9 @@
       <jump line="78" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="79" column="59" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
       <jump line="85" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
+      <jump line="41" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
+      <jump line="48" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
+      <jump line="28" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13966,7 +13967,7 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>project</text>
+        <text>core</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
@@ -15294,9 +15295,9 @@
       </register>
     </registers>
     <search>
-      <last-search>project</last-search>
+      <last-search>core</last-search>
       <last-offset />
-      <last-pattern>project</last-pattern>
+      <last-pattern>core</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15304,7 +15305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>android_gradle_plug</entry>
         <entry>google_serv</entry>
         <entry>google_ser</entry>
         <entry>gradle_vers</entry>
@@ -15324,6 +15324,7 @@
         <entry encoding="base64">XDxlY2hvSWZNaXNzaW5nU3RyaW5nc1w+</entry>
         <entry>orientation</entry>
         <entry>project</entry>
+        <entry>core</entry>
       </history-search>
       <history-cmd>
         <entry>420</entry>
