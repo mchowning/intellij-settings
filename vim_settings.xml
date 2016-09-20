@@ -595,12 +595,11 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1474376019010">
-        <mark key="'" line="85" column="24" />
-        <mark key="[" line="41" column="79" />
-        <mark key="]" line="41" column="80" />
-        <mark key="." line="41" column="80" />
-        <mark key="^" line="41" column="80" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1474377524631">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountFragment.java" timestamp="1471535677766">
         <mark key="[" line="16" column="0" />
@@ -1147,6 +1146,12 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/build.gradle" timestamp="1473602686262">
+        <mark key="'" line="23" column="52" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1462452758248">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="32" column="33" />
@@ -1386,11 +1391,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1474366211237">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="42" />
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/dev/bodyworks_website/.gitignore" timestamp="1429826233049">
         <mark key="[" line="110" column="1" />
@@ -3078,10 +3083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="15" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="83" column="3" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
-      <jump line="17" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="95" column="3" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="19" column="15" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
       <jump line="53" column="12" filename="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" />
@@ -3156,7 +3157,6 @@
       <jump line="61" column="1" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/full_buildscript.gradle" />
       <jump line="18" column="49" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="36" column="21" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="41" column="25" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="48" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="3" column="50" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OtherExtension.groovy" />
@@ -3178,13 +3178,18 @@
       <jump line="57" column="8" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="79" column="16" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="81" column="24" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="23" column="27" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="34" column="31" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="36" column="126" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="37" column="74" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="43" column="28" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5kZXBlbmRlbmNpZXMuYWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13781,10 +13786,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>def</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>dep:</text>
+        <text>jenkins</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgamVua2luc1Rhc2suZGVwZW5kc09uKGdlbWluaUFwcFNoZWxsVGFzaykKLy8gICAgICAgICAgICAgICAgZ2VtaW5pQXBwU2hlbGxUYXNrLmRlcGVuZHNPbihnZW1pbmlDb3JlVGFzaykK</text>
@@ -13793,25 +13798,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5kZXBlbmRlbmNpZXMuYWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYXNrIHRhc2sxID0gY3JlYXRlVGFzaygnZ2VtaW5pLWNvcmUnLCAnJykKICAgICAgICAgICAgICAgICAgICBUYXNrIHRhc2syID0gY3JlYXRlVGFzaygnZ2VtaW5pLWFwcC1zaGVsbCcsICcnKQogICAgICAgICAgICAgICAgICAgIGplbmtpbnNUYXNrLmRlcGVuZHNPbih0YXNrMikKICAgICAgICAgICAgICAgICAgICB0YXNrMi5kZXBlbmRzT24odGFzazEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LmFmdGVyRXZhbHVhdGUgewogICAgICAgICAgICBwcm9qZWN0LnRhc2sgJ2plbmtpbnMnCiAgICAgICAgICAgIGJvb2xlYW4gc2hvdWxkSmVua2luc0J1aWxkID0gcHJvamVjdC5uYW1lICE9ICdhcHAnIHx8IHByb2plY3Qucm9vdFByb2plY3QubmFtZSA9PSAnZ2VtaW5pJwogICAgICAgICAgICBpZiAoc2hvdWxkSmVua2luc0J1aWxkKSB7CiAgICAgICAgICAgICAgICBwcm9qZWN0LnRhc2tzLmplbmtpbnMgPDwgewogICAgICAgICAgICAgICAgICAgIHByaW50bG4gJ0V4ZWN1dGluZyBqZW5raW5zIGJ1aWxkLi4uJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcHJvamVjdC50YXNrcy5qZW5raW5zLmZpbmFsaXplZEJ5KCdjbGVhbicsICdhc3NlbWJsZVJlbGVhc2UnKQogICAgICAgICAgICAgICAgcHJvamVjdC50YXNrcy5hc3NlbWJsZVJlbGVhc2UuZGVwZW5kc09uKCdjbGVhbicpCgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgcHJvamVjdC50YXNrcy5qZW5raW5zIDw8IHsKICAgICAgICAgICAgICAgICAgICBwcmludGxuICJTa2lwcGluZyAke3Byb2plY3QubmFtZX0uLi4iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGdlbWluaUNvcmUgPSBwcm9qZWN0LnJvb3RQcm9qZWN0LnByb2plY3QoJ2dlbWluaS1jb3JlJykK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKHByb2plY3QubmFtZSA9PSAnZ2VtaW5pLWFwcC1zaGVsbCcpIHsKLy8gICAgICAgICAgICAgICAgICAgIFRhc2sgdGFzazEgPSBjcmVhdGVUYXNrKCdnZW1pbmktY29yZScsICcnKQovLyAgICAgICAgICAgICAgICAgICAgVGFzayB0YXNrMiA9IGNyZWF0ZVRhc2soJ2dlbWluaS1hcHAtc2hlbGwnLCAnJykKLy8gICAgICAgICAgICAgICAgICAgIGplbmtpbnNUYXNrLmRlcGVuZHNPbih0YXNrMikKLy8gICAgICAgICAgICAgICAgICAgIHRhc2syLmRlcGVuZHNPbih0YXNrMSkKLy8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5kZXBlbmRlbmNpZXMuZWFjaCB7IHByaW50bG4gImRlcDogJHtpdH0iIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIHNob3VsZCBJIGJlIGFkZGluZyB0aGlzIGplbmtpbnMgdGFzayB0byB0aGUgcm9vdFByb2plY3QgKGFuZCBtYXliZSB0aGUgb3RoZXIgdGFza3MgdG9vPykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdC5kZXBlbmRlbmNpZXMuYWRkCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15099,22 +15104,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJvamVjdC50YXNrcy5qZW5raW5zIDw8IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYXNrIHRhc2sxID0gY3JlYXRlVGFzaygnZ2VtaW5pLWNvcmUnLCAnJykKICAgICAgICAgICAgICAgICAgICBUYXNrIHRhc2syID0gY3JlYXRlVGFzaygnZ2VtaW5pLWFwcC1zaGVsbCcsICcnKQogICAgICAgICAgICAgICAgICAgIGplbmtpbnNUYXNrLmRlcGVuZHNPbih0YXNrMikKICAgICAgICAgICAgICAgICAgICB0YXNrMi5kZXBlbmRzT24odGFzazEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9qZWN0LnRhc2tzLmdldEJ5UGF0aCgnY2xlYW4nKS5leGVjdXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3QudGFza3MuZ2V0QnlQYXRoKCdjbGVhbicpLmV4ZWN1dGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>dep:</last-search>
+      <last-search>jenkins</last-search>
       <last-offset />
-      <last-pattern>dep:</last-pattern>
+      <last-pattern>jenkins</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15122,7 +15127,6 @@
     </search>
     <history>
       <history-search>
-        <entry>repos</entry>
         <entry>utils</entry>
         <entry>extension name</entry>
         <entry>&quot;</entry>
@@ -15142,6 +15146,7 @@
         <entry>asdlfj</entry>
         <entry>dep</entry>
         <entry>dep:</entry>
+        <entry>jenkins</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
