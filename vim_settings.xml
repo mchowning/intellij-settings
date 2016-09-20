@@ -1674,8 +1674,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1474389629153">
-        <mark key="]" line="29" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1474396435372">
+        <mark key="[" line="12" column="60" />
+        <mark key="]" line="12" column="65" />
+        <mark key="." line="12" column="65" />
+        <mark key="^" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/PluginGarageTest.java" timestamp="1471531726802">
         <mark key="[" line="11" column="0" />
@@ -2021,7 +2024,7 @@
         <mark key="." line="54" column="3" />
         <mark key="^" line="54" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" timestamp="1474395981470">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" timestamp="1474397624594">
         <mark key="'" line="278" column="4" />
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -2266,7 +2269,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1474390319418">
+      <file name="/a.regexp" timestamp="1474398178088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3343,8 +3346,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDpwbHVnaW4tYXR5b3Vyc2VydmljZTphc3NlbWJsZVJlbGVhc2UgOnBsdWdpbi1hdHlvdXJzZXJ2aWNlOnRlc3RSZWxlYXNl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13947,7 +13950,7 @@
         <text>cleanNode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNoICIuL2dyYWRsZXcgY2xlYW4gOnBsdWdpbi1hdHlvdXJzZXJ2aWNlOmFzc2VtYmxlUmVsZWFzZSA6cGx1Z2luLWF0eW91cnNlcnZpY2U6dGVzdFJlbGVhc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
