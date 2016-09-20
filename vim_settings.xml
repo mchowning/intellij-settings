@@ -653,7 +653,8 @@
         <mark key="." line="99" column="31" />
         <mark key="^" line="99" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" timestamp="1473954034004">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" timestamp="1474401836160">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3241,7 +3242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="25" filename="$USER_HOME$/.gradle/caches/3.0/generated-gradle-jars/gradle-api-3.0.jar!/org/gradle/api/tasks/Copy.class" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/RequiredDependencyValidator.groovy" />
       <jump line="100" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" />
@@ -3341,6 +3341,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="258" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="273" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
