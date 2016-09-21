@@ -3,11 +3,11 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="ParseKeys" type="CLASS" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="clone-repos" type="PLAIN_TEXT" />
-      <mapping pattern="connect" type="PLAIN_TEXT" />
       <mapping pattern=".HfcCardButtonPresenter.java.swp" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
+      <mapping pattern="connect" type="PLAIN_TEXT" />
       <mapping pattern="checkCodeQuality" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsFile_shared" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
