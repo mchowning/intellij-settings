@@ -600,12 +600,11 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1474456706919">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="54" />
-        <mark key="^" line="19" column="54" />
-        <mark key="." line="19" column="54" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1474458166365">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountFragment.java" timestamp="1471535677766">
         <mark key="[" line="16" column="0" />
@@ -1098,10 +1097,11 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1474456384423">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1474458417426">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/Main.hs" timestamp="1448639622621">
         <mark key="[" line="5" column="7" />
@@ -1150,6 +1150,12 @@
         <mark key="]" line="16" column="19" />
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/build.gradle" timestamp="1473602686262">
+        <mark key="'" line="23" column="52" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1462452758248">
         <mark key="[" line="31" column="25" />
@@ -1556,12 +1562,7 @@
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/dependencies.gradle" timestamp="1474366035443">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/dependencies.gradle" timestamp="1474458768659" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountDetailsInfoBlock.java" timestamp="1471535666567">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -2149,7 +2150,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1474402432470">
+      <file name="/a.regexp" timestamp="1474458716945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3193,8 +3194,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13791,7 +13792,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>utils</text>
@@ -13803,22 +13804,22 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3ZlcnNpb249MS4wLjYtU05BUFNIT1QK</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LnBsdWdpbnMuZWFjaCB7IFBsdWdpbiBwbHVnaW4gLT4gcHJpbnRsbiAicGx1Z2luJHtwbHVnaW59OiAke3BsdWdpbi5wcm9wZXJ0aWVzfSJ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LmdyYWRsZS5wcm9wZXJ0aWVzLmVhY2ggewogICAgICAgICAgICBwcmludGxuICJwcm9wOiAkaXQiCiAgICAgICAgfQogICAgICAgIHByb2plY3QuZ3JhZGxlLm1ldGFQcm9wZXJ0eVZhbHVlcy5lYWNoIHsgUHJvcGVydHlWYWx1ZSBwdiAtPgogICAgICAgICAgICBwcmludGxuICJtZXRhcHJvcDogJHtwdi5uYW1lfSAtLSAke3B2LnZhbHVlfSIKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9hcHBseSBmcm9tOiBzY3JpcHRzLnV0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -15109,13 +15110,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJ2ZXJzaW9uICR2ZXJzaW9uIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcGx1Z2luSWRlbnRpZmllciA9IHByb2plY3Qucm9vdFByb2plY3QubmFtZS5yZXBsYWNlKCctJywgJ18nKQogICAgICAgIGlmIChwbHVnaW5JZGVudGlmaWVyLnN0YXJ0c1dpdGgoJ3BsdWdpbl8nKSkgewogICAgICAgICAgICBwbHVnaW5JZGVudGlmaWVyID0gcGx1Z2luSWRlbnRpZmllci5zdWJzdHJpbmcoMSArIHBsdWdpbklkZW50aWZpZXIuaW5kZXhPZignXycpKQogICAgICAgIH0KICAgICAgICBwcm9qZWN0LmV4dC5zZXQoJ3BsdWdpbklkZW50aWZpZXInLCBwbHVnaW5JZGVudGlmaWVyKQo=</text>
+        <text encoding="base64">I3ZlcnNpb249MS4wLjYtU05BUFNIT1QK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
