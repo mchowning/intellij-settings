@@ -2025,12 +2025,12 @@
         <mark key="." line="54" column="3" />
         <mark key="^" line="54" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" timestamp="1474397624594">
-        <mark key="'" line="278" column="4" />
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="7" column="5" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" timestamp="1474459589950">
+        <mark key="'" line="244" column="12" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-model/src/main/java/com/gm/gemini/model/VehicleRequestPojoBuilder.java" timestamp="1464974206312">
         <mark key="[" line="24" column="80" />
@@ -3242,9 +3242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/common_buildscript.gradle" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/RequiredDependencyValidator.groovy" />
-      <jump line="100" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" />
       <jump line="84" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" />
       <jump line="82" column="20" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" />
       <jump line="66" column="49" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
@@ -3342,13 +3339,282 @@
       <jump line="258" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="273" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" />
+      <jump line="10" column="1" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
+      <jump line="235" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
+      <jump line="244" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13948,7 +14214,7 @@
         <text encoding="base64">IDpwbHVnaW4tYXR5b3Vyc2VydmljZTphc3NlbWJsZVJlbGVhc2UgOnBsdWdpbi1hdHlvdXJzZXJ2aWNlOnRlc3RSZWxlYXNl</text>
       </register>
       <register name="/" type="4">
-        <text>cleanNode</text>
+        <text>upload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
@@ -13956,13 +14222,282 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNoICdscycK</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNoICdscycK</text>
+      </register>
+      <register name="3" type="8">
         <text>//
 //
 //
@@ -13977,17 +14512,14 @@
 //
 //</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IyFncm9vdnkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">eyAtPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15275,22 +15807,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyAtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyFncm9vdnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewoKICAgIGFwcGx5IGZyb206ICdidWlsZHNjcmlwdC5ncmFkbGUnCgogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIG1hdmVuX3JlcG9zLnJlbGVhc2UKICAgICAgICBtYXZlbkxvY2FsKCkKICAgIH0KCiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46MS4wLisnCiAgICAgICAgY2xhc3NwYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6Mi4xLjMnCiAgICAgICAgY2xhc3NwYXRoICJjb20ubmVlbmJlZGFua3QuZ3JhZGxlLnBsdWdpbnM6YW5kcm9pZC1hcHQ6MS40IgogICAgICAgIGNsYXNzcGF0aCAiY29tLmdpdGh1Yi5kY2VuZGVudHM6YW5kcm9pZC1tYXZlbi1ncmFkbGUtcGx1Z2luOjEuNC4xIgogICAgfQp9CgphbGxwcm9qZWN0cyB7CiAgICByZXBvc2l0b3JpZXMgewogICAgICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgICAgICBqY2VudGVyKCkKICAgICAgICAgICAgbWF2ZW4geyB1cmwgImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHMvIiB9CiAgICAgICAgICAgIG1hdmVuIG1hdmVuX3JlcG9zLnJlbGVhc2UKICAgICAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3Muc25hcHNob3QKICAgICAgICAgICAgbWF2ZW4geyB1cmwgImh0dHBzOi8vbWF2ZW4uZmFicmljLmlvL3B1YmxpYyIgfQogICAgICAgICAgICBtYXZlbkxvY2FsKCkKICAgIH0KfQo=</text>
+        <text encoding="base64">IyFncm9vdnkK</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
       </register>
     </registers>
     <search>
-      <last-search>cleanNode</last-search>
+      <last-search>upload</last-search>
       <last-offset />
-      <last-pattern>cleanNode</last-pattern>
+      <last-pattern>upload</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15298,8 +15830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crashlytics</entry>
-        <entry>maven_plugin</entry>
         <entry>gradle_versions</entry>
         <entry>maven_repos</entry>
         <entry>fabric</entry>
@@ -15318,6 +15848,8 @@
         <entry>Branch</entry>
         <entry encoding="base64">XDxidWlsZFJlcG9cPg==</entry>
         <entry>cleanNode</entry>
+        <entry>sh</entry>
+        <entry>upload</entry>
       </history-search>
       <history-cmd>
         <entry>420</entry>
