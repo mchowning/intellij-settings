@@ -635,11 +635,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/buildscript.gradle" timestamp="1474033950669">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="2" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/utils/TimeUtil.java" timestamp="1464568844136">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
@@ -1406,6 +1401,9 @@
         <mark key="^" line="8" column="73" />
         <mark key="." line="8" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" timestamp="1474556259606">
+        <mark key="'" line="47" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/PluginWifi.java" timestamp="1464207821259">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -1861,6 +1859,9 @@
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenterTest.java" timestamp="1474556268159">
+        <mark key="'" line="48" column="28" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" timestamp="1474033753528">
         <mark key="[" line="50" column="0" />
@@ -2334,13 +2335,20 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="24" column="64" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" timestamp="1474556162620">
+        <mark key="'" line="75" column="37" />
+        <mark key="[" line="77" column="93" />
+        <mark key="]" line="77" column="93" />
+        <mark key="^" line="77" column="93" />
+        <mark key="." line="77" column="93" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/median_testcases/54" timestamp="1425331537391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1472752217325">
+      <file name="/fragment.java" timestamp="1474555699815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="65" />
@@ -3246,11 +3254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="49" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
-      <jump line="71" column="66" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
-      <jump line="8" column="7" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
-      <jump line="155" column="86" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="64" column="53" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
       <jump line="65" column="41" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
       <jump line="6" column="66" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
       <jump line="10" column="24" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" />
@@ -3346,6 +3349,11 @@
       <jump line="244" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="180" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="12" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
+      <jump line="75" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
+      <jump line="34" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" />
+      <jump line="47" column="51" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenterTest.java" />
+      <jump line="48" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13952,7 +13960,7 @@
         <text>project-settings/jenkins/Jenkinsfile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</text>
+        <text>getHotspotData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bm9kZSgnYW5kcm9pZCcpIHsKICAgIHRyeSB7CiAgICAgICAgZGVsZXRlRGlyKCkKICAgICAgICBjaGVja291dCBzY20KICAgICAgICBzaCAiLi9ncmFkbGV3IGdldFNoYXJlZEplbmtpbnNGaWxlIgogICAgICAgIGxvYWQgJ3NoYXJlZF9KZW5raW5zZmlsZScKICAgIH0gZmluYWxseSB7CiAgICAgICAgZGVsZXRlRGlyKCkKICAgIH0KfSgpCg==</text>
@@ -15280,9 +15288,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</last-search>
+      <last-search>getHotspotData</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</last-pattern>
+      <last-pattern>getHotspotData</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15290,9 +15298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>maven_repos</entry>
-        <entry>fabric</entry>
-        <entry encoding="base64">XDxhdHlvdXJzZXJ2aWNlXD4=</entry>
         <entry>&quot;</entry>
         <entry>repos</entry>
         <entry>apt</entry>
@@ -15310,6 +15315,9 @@
         <entry>sh</entry>
         <entry>upload</entry>
         <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
+        <entry>isDataAv</entry>
+        <entry>asdljf</entry>
+        <entry>getHotspotData</entry>
       </history-search>
       <history-cmd>
         <entry>420</entry>
