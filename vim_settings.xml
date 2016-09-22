@@ -507,11 +507,11 @@
         <mark key="^" line="8" column="63" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1474492105671">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="82" />
-        <mark key="." line="14" column="4" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1474503159691">
+        <mark key="[" line="16" column="84" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info_table_row.xml" timestamp="1469123511740">
         <mark key="[" line="22" column="10" />
@@ -3190,7 +3190,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>// need to capture this author and only continue if matches jenkins or Jenkins</text>
+        <text>'git log -1 --pretty=format:%an'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13792,8 +13792,8 @@
       <register name="/" type="4">
         <text>publish</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmVyc2lvbj1UZXN0UGx1Z2luLVNOQVBTSE9UCg==</text>
+      <register name="0" type="4">
+        <text>'git log -1 --pretty=format:%an'</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
