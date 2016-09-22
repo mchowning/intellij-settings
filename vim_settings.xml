@@ -507,10 +507,11 @@
         <mark key="^" line="8" column="63" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1474508457170">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1474543420031">
+        <mark key="[" line="11" column="270" />
+        <mark key="]" line="11" column="271" />
+        <mark key="." line="11" column="271" />
+        <mark key="^" line="11" column="271" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info_table_row.xml" timestamp="1469123511740">
         <mark key="[" line="22" column="10" />
@@ -2787,8 +2788,8 @@
         <mark key="^" line="146" column="4" />
         <mark key="." line="132" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" timestamp="1474390854287">
-        <mark key="'" line="0" column="4" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" timestamp="1474542800398">
+        <mark key="'" line="14" column="33" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="180" column="34" />
@@ -3084,7 +3085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="21" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="47" column="65" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="49" column="121" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="54" column="84" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
@@ -3184,13 +3184,14 @@
       <jump line="43" column="7" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="59" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="19" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="14" column="33" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13787,10 +13788,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>publish</text>
+        <text>branch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN0cmluZyBhdXRob3JPZk1vc3RSZWNlbnRDb21taXQgPSBzaChzY3JpcHQ6ICdnaXQgbG9nIC0xIC0tcHJldHR5PWZvcm1hdDolYW4nLCByZXR1cm5TdGRvdXQ6IHRydWUpLnRyaW0oKQogICAgaWYgKFsnamVua2lucycsICdKZW5raW5zJ10uY29udGFpbnMoYXV0aG9yT2ZNb3N0UmVjZW50Q29tbWl0KSkgewogICAgICAgIAogICAgfQo=</text>
@@ -15118,9 +15119,9 @@
       </register>
     </registers>
     <search>
-      <last-search>publish</last-search>
+      <last-search>branch</last-search>
       <last-offset />
-      <last-pattern>publish</last-pattern>
+      <last-pattern>branch</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15128,7 +15129,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fabric</entry>
         <entry>\/\/</entry>
         <entry>=~</entry>
         <entry>\=\~</entry>
@@ -15148,6 +15148,7 @@
         <entry encoding="base64">XDxwcm9qZWN0X3NldHRpbmdzX3BhdGhcPg==</entry>
         <entry>utils</entry>
         <entry>publish</entry>
+        <entry>branch</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
