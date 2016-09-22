@@ -507,11 +507,10 @@
         <mark key="^" line="8" column="63" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1474505258808">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1474508457170">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info_table_row.xml" timestamp="1469123511740">
         <mark key="[" line="22" column="10" />
@@ -3190,8 +3189,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>['jenkins', 'Jenkins'].contains(authorOfMostRecentCommit)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13788,7 +13787,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>['jenkins', 'Jenkins'].contains(authorOfMostRecentCommit)</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>publish</text>
@@ -13800,25 +13799,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhdXRob3JPZk1vc3RSZWNlbnRDb21taXQgPSBzaChzY3JpcHQ6ICdnaXQgbG9nIC0xIC0tcHJldHR5PWZvcm1hdDolYW4nLCByZXR1cm5TdGRvdXQ6IHRydWUpLnRyaW0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGRvU3R1ZmYoKSB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkb1N0dWZmKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkaWRKZW5raW5zQXV0aG9yTW9zdFJlY2VudENvbW1pdCgpKSB7CiAgICAgICAgZWNobyAnTk9UIGJ1aWxkaW5nIHBsdWdpbiBiZWNhdXNlIG1vc3QgcmVjZW50IGNvbW1pdCB3YXMgYnkgamVua2lucycKICAgIH0gZWxzZSB7CiAgICAgICAgZWNobyAnQnVpbGRpbmcgcGx1Z2luLi4uJwogICAgICAgIHNoICdjdXJsIGh0dHA6Ly9qZW5raW5zLWFwaTozMDA0MzJmZGMwN2FhNGY3ZTU2OTI2NzBiMzYzYWIyM0BvbnNybmQxYWRjLWplMDEuaXRsYWIub25zdGFyLmdtLmNvbS9qZW5raW5zL2pvYi9kZXZlbG9wLUFuZHJvaWQvam9iL0dyYWRsZS1QbHVnaW4vYXJ0aWZhY3Rvcnkvc3RhZ2luZz90b2tlbj0zMDA0MzJmZGMwN2FhNGY3ZTU2OTI2NzBiMzYzYWIyMycKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdOT1QgYnVpbGRpbmcgcGx1Z2luIGJlY2F1c2UgbW9zdCByZWNlbnQgY29tbWl0IHdhcyBieSBqZW5raW5zJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdCdWlsZGluZyBwbHVnaW4uLi4nCiAgICAgICAgc2ggJ2N1cmwgaHR0cDovL2plbmtpbnMtYXBpOjMwMDQzMmZkYzA3YWE0ZjdlNTY5MjY3MGIzNjNhYjIzQG9uc3JuZDFhZGMtamUwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2plbmtpbnMvam9iL2RldmVsb3AtQW5kcm9pZC9qb2IvR3JhZGxlLVBsdWdpbi9hcnRpZmFjdG9yeS9zdGFnaW5nP3Rva2VuPTMwMDQzMmZkYzA3YWE0ZjdlNTY5MjY3MGIzNjNhYjIzJwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15106,13 +15105,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSBTdHJpbmcgZ2V0QXV0aG9yT2ZNb3N0UmVjZW50Q29tbWl0KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJkb24ndCBidWlsZCBpdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzaChzY3JpcHQ6ICdnaXQgbG9nIC0xIC0tcHJldHR5PWZvcm1hdDolYW4nLCByZXR1cm5TdGRvdXQ6IHRydWUpLnRyaW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJidWlsZCBpdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIm91dHB1dDogJG91dHB1dCIK</text>
+        <text encoding="base64">ICAgIFsnamVua2lucycsICdKZW5raW5zJ10uY29udGFpbnMoYXV0aG9yT2ZNb3N0UmVjZW50Q29tbWl0KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
