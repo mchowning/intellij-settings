@@ -382,6 +382,13 @@
         <mark key="^" line="108" column="43" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474564506283">
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="145" column="59" />
+        <mark key="]" line="145" column="62" />
+        <mark key="." line="145" column="62" />
+        <mark key="^" line="145" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_2_1-7_4-5.txt" timestamp="1423247616119">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="5" />
@@ -551,6 +558,12 @@
         <mark key="]" line="99" column="31" />
         <mark key="." line="99" column="31" />
         <mark key="^" line="99" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" timestamp="1474401836160">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
         <mark key="[" line="48" column="0" />
@@ -1550,6 +1563,12 @@
         <mark key="^" line="44" column="48" />
         <mark key="." line="44" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/app/src/main/AndroidManifest.xml" timestamp="1474565264836">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="91" />
+        <mark key="." line="18" column="91" />
+        <mark key="^" line="18" column="91" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/service/web/DataSourceModule.java" timestamp="1462216063178">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="7" />
@@ -2020,12 +2039,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" timestamp="1474562412653">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" timestamp="1474564579920">
         <mark key="'" line="74" column="37" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="81" />
+        <mark key="[" line="87" column="54" />
+        <mark key="]" line="87" column="54" />
+        <mark key="." line="87" column="54" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/median_testcases/54" timestamp="1425331537391">
         <mark key="[" line="0" column="0" />
@@ -2767,7 +2785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="39" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="158" column="14" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="53" column="47" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="32" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -2867,13 +2884,14 @@
       <jump line="254" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
       <jump line="349" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
       <jump line="25" column="84" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>com.gm.gemini.core_plugins.developer_preferences.ui.DeveloperPreferenceActivity</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13470,37 +13488,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>com.gm.gemini.core_plugins.developer_preferences.ui.DeveloperPreferenceActivity</text>
       </register>
       <register name="/" type="4">
         <text>onBack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBIb3RzcG90RGF0YSBmcm9tKEBOdWxsYWJsZSBJSG90c3BvdEluZm8gaG90c3BvdEluZm8sIEBOdWxsYWJsZSBJSG90c3BvdFN0YXR1cyBob3RzcG90U3RhdHVzKSB7CiAgICAvLyAgICBpZiAoaG90c3BvdEluZm8gPT0gbnVsbCAmJiBob3RzcG90U3RhdHVzID09IG51bGwpIHsKICAgIC8vICAgICAgICByZXR1cm4gTk9ORTsKICAgIC8vICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgU3RyaW5nIHNzaWQgPSBob3RzcG90SW5mbyA9PSBudWxsID8gREVGQVVMVF9VU0VSTkFNRSA6IGhvdHNwb3RJbmZvLmdldFNTSUQoKTsKICAgIC8vICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBob3RzcG90SW5mbyA9PSBudWxsID8gREVGQVVMVF9QQVNTV09SRCA6IGhvdHNwb3RJbmZvLmdldFBhc3N3b3JkKCk7CiAgICAvLyAgICAgICAgSG90c3BvdFN0YXR1cyBzdGF0dXMgPSBob3RzcG90U3RhdHVzID09IG51bGwgPyBERUZBVUxUX1NUQVRVUyA6IGhvdHNwb3RTdGF0dXMuZ2V0U3RhdHVzKCk7CiAgICAvLyAgICAgICAgcmV0dXJuIG5ldyBIb3RzcG90RGF0YShzc2lkLCBwYXNzd29yZCwgc3RhdHVzKTsKICAgIC8vICAgIH0KICAgIC8vfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGhvdHNwb3RVdGlsTW9jay5pc0RhdGFBdmFpbGFibGUoKSkudGhlblJldHVybihmYWxzZSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIb3RzcG90RGF0YSBob3RzcG90RGF0YSA9IGRhdGFTb3VyY2UuZ2V0SG90c3BvdERhdGEoKTsKICAgICAgICByZXR1cm4gKGhvdHNwb3REYXRhID09IG51bGwpID8gbnVsbCA6IGhvdHNwb3REYXRhLmdldFN0YXR1cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL0hvdHNwb3REYXRhIGhvdHNwb3REYXRhID0gZGF0YVNvdXJjZS5nZXRIb3RzcG90RGF0YSgpOwogICAgICAgIC8vSUhvdHNwb3RJbmZvIGhvdHNwb3RJbmZvID0gZGF0YVNvdXJjZS5nZXRIb3RzcG90SW5mbyhkYXRhU291cmNlLmdldFNlbGVjdGVkVmVoaWNsZSgpKTsKICAgICAgICAvL3JldHVybiBob3RzcG90RGF0YSAhPSBudWxsICYmIGhvdHNwb3REYXRhLmdldFN0YXR1cygpICE9IG51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZS5nZXRIb3RzcG90RGF0YSgpLmdldFN0YXR1cygpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZS5nZXRIb3RzcG90RGF0YSgpLmdldFBhc3N3b3JkKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZS5nZXRIb3RzcG90RGF0YSgpLmdldFNzaWQoKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBvbkJhY2tQcmVzc2VkX3JldHVybnNfZmFsc2VfaWZfbm9fZmllbGRzX2NoYW5nZWQoKSB7CiAgICAgICAgc2V0Vmlld0ZpZWxkc1dpdGhDaGFuZ2VkVmFsdWVzKGZhbHNlLCBmYWxzZSwgZmFsc2UpOwoKICAgICAgICBib29sZWFuIHJldHVyblZhbHVlID0gc3ViamVjdC5vbkJhY2tQcmVzc2VkKCk7CgogICAgICAgIGFzc2VydEZhbHNlKHJldHVyblZhbHVlKTsKICAgICAgICB2ZXJpZnkodmlld01vY2ssIG5ldmVyKCkpLmNvbmZpcm1CYWNrTmF2aWdhdGlvbigpOwogICAgfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBIb3RzcG90RGF0YSBob3RzcG90RGF0YSA9IGRhdGFTb3VyY2UuZ2V0SG90c3BvdERhdGEoKTsKICAgICAgICByZXR1cm4gKGhvdHNwb3REYXRhID09IG51bGwpID8gbnVsbCA6IGhvdHNwb3REYXRhLmdldFN0YXR1cygpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZS5nZXRIb3RzcG90RGF0YSgpLmdldFN0YXR1cygpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBmYWxzZV9kYXRhX2F2YWlsYWJsZV9pZl9Ib3RzcG90U3RhdHVzX251bGwoKSB7CiAgICAgICAgd2hlbihob3RzcG90RGF0YU1vY2suZ2V0U3RhdHVzKCkpLnRoZW5SZXR1cm4obnVsbCk7CgogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNEYXRhQXZhaWxhYmxlKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZS5nZXRIb3RzcG90RGF0YSgpLmdldFBhc3N3b3JkKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14788,13 +14806,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZS5nZXRIb3RzcG90RGF0YSgpLmdldFNzaWQoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cGFzc3dvcmQ7CiAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQgPSBob3RzcG90RGF0YS5nZXRQYXNzd29yZCgpOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBmYWxzZV9kYXRhX2F2YWlsYWJsZV9pZl9Ib3RzcG90U3RhdHVzX251bGwoKSB7CiAgICAgICAgd2hlbihob3RzcG90RGF0YU1vY2suZ2V0U3RhdHVzKCkpLnRoZW5SZXR1cm4obnVsbCk7CgogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNEYXRhQXZhaWxhYmxlKCkpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
