@@ -102,12 +102,12 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474567244258">
-        <mark key="'" line="25" column="84" />
-        <mark key="[" line="337" column="48" />
-        <mark key="]" line="338" column="15" />
-        <mark key="." line="338" column="15" />
-        <mark key="^" line="338" column="15" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474572484581">
+        <mark key="'" line="406" column="30" />
+        <mark key="[" line="406" column="52" />
+        <mark key="]" line="406" column="52" />
+        <mark key="." line="406" column="52" />
+        <mark key="^" line="406" column="52" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2Log.hs" timestamp="1420567058208">
         <mark key="[" line="15" column="20" />
@@ -2794,8 +2794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="56" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/app/build/intermediates/manifests/full/euOpel/debug/AndroidManifest.xml" />
-      <jump line="50" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
       <jump line="75" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="26" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
@@ -2894,13 +2892,15 @@
       <jump line="913" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="937" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="948" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
+      <jump line="394" column="10" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="406" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getSsid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzVmFsaWRTc2lkKFN0cmluZyBzc2lkKSB7CiAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwogICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13497,37 +13497,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getSsid</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>availble</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgcmV0dXJuc19kZWZhdWx0X3NzaWRfaWZfbnVsbCgpIHsKICAgICAgICB3aGVuKG1vY2tIb3RzcG90SW5mby5nZXRTU0lEKCkpLnRoZW5SZXR1cm4obnVsbCk7CiAgICAgICAgSG90c3BvdERhdGEgcmVzdWx0ID0gZnJvbShtb2NrSG90c3BvdEluZm8sIG1vY2tIb3RzcG90U3RhdHVzKTsKICAgICAgICBhc3NlcnRFcXVhbHMoREVGQVVMVF9TU0lELCByZXN1bHQuZ2V0U3NpZCgpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3NpZC5tYXRjaGVzKFNTSURfUkVHX0VYKSAmJiBzc2lkLmxlbmd0aCgpID49IFNTSURfTUlOSU1VTV9MRU5HVEg7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzVmFsaWRTc2lkKFN0cmluZyBzc2lkKSB7CiAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNWYWxpZFNzaWQodmlldy5nZXRTc2lkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCByZXR1cm5zX2FsbF9pbmZvKCkgewogICAgICAgIEhvdHNwb3REYXRhIHJlc3VsdCA9IGZyb20obW9ja0hvdHNwb3RJbmZvLCBtb2NrSG90c3BvdFN0YXR1cyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKFNTSUQsIHJlc3VsdC5nZXRTc2lkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhQQVNTV09SRCwgcmVzdWx0LmdldFBhc3N3b3JkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhTVEFUVVMsIHJlc3VsdC5nZXRTdGF0dXMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14815,22 +14815,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCByZXR1cm5zX2FsbF9pbmZvKCkgewogICAgICAgIEhvdHNwb3REYXRhIHJlc3VsdCA9IGZyb20obW9ja0hvdHNwb3RJbmZvLCBtb2NrSG90c3BvdFN0YXR1cyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKFNTSUQsIHJlc3VsdC5nZXRTc2lkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhQQVNTV09SRCwgcmVzdWx0LmdldFBhc3N3b3JkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhTVEFUVVMsIHJlc3VsdC5nZXRTdGF0dXMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocmVzdWx0LmdldFNzaWQoKSwgU1NJRCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>availble</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>availble</last-pattern>
       <last-replace>Status</last-replace>
       <last-substitute>Info</last-substitute>
       <last-dir>1</last-dir>
@@ -14838,8 +14838,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFJlcG9cPg==</entry>
-        <entry>cleanNode</entry>
         <entry>sh</entry>
         <entry>upload</entry>
         <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
@@ -14858,6 +14856,8 @@
         <entry encoding="base64">XDxtb2NrVmVoaWNsZXNcPg==</entry>
         <entry>IHot</entry>
         <entry>asdlfj</entry>
+        <entry>ssid</entry>
+        <entry>availble</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
