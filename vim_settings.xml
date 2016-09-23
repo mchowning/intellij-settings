@@ -1856,11 +1856,11 @@
         <mark key="^" line="69" column="22" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" timestamp="1474636813409">
-        <mark key="[" line="32" column="64" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="67" />
-        <mark key="^" line="32" column="67" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" timestamp="1474637640967">
+        <mark key="'" line="60" column="19" />
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="95" column="54" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1466249615953">
         <mark key="[" line="57" column="8" />
@@ -2274,9 +2274,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/WifiSettingsValidator.java" timestamp="1474635983014">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/WifiSettingsValidator.java" timestamp="1474637663611">
+        <mark key="[" line="10" column="59" />
+        <mark key="]" line="10" column="82" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="11" column="0" />
       </file>
@@ -3351,8 +3351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
-      <jump line="221" column="78" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="227" column="44" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="229" column="61" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="248" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
@@ -3451,13 +3449,15 @@
       <jump line="313" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
       <jump line="454" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
       <jump line="48" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="56" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
+      <jump line="60" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>(DIRECT-[a-zA-Z0-9]{2}-)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14054,37 +14054,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>MAX</text>
+        <text>asdlkjf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tEaXJlY3RXaWZpRW50aXRsZW1lbnQuaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyISIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyQCIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyIyIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyJCIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyJSIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyXiIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyJiIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyKiIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyKCIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyKSIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyLSIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyXyIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyPSIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyKyIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyPyIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyLiIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyLCIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyPCIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyPiIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyLyIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJiYWRjaGFyXCIiKSk7CiAgICAgICAgYXNzZXJ0RmFsc2Uoc3ViamVjdC5pc1ZhbGlkU3NpZCgiYmFkY2hhclwnIikpOwogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNWYWxpZFNzaWQoImJhZGNoYXJbIikpOwogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNWYWxpZFNzaWQoImJhZGNoYXJdIikpOwogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNWYWxpZFNzaWQoImJhZGNoYXJ7IikpOwogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNWYWxpZFNzaWQoImJhZGNoYXJ9IikpOwogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNWYWxpZFNzaWQoImJhZGNoYXJ8IikpOwogICAgICAgIGFzc2VydEZhbHNlKHN1YmplY3QuaXNWYWxpZFNzaWQoImJhZGNoYXJcXCIpKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhclxcIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhcl9cIyIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhcl9cQCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsKICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhciIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhcl9cISIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhclxcIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhcl9cIyIpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15372,32 +15372,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhcl9cQCIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRQYXNzd29yZCgiYmFkY2hhcl9cISIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGlzVmFsaWRQYXNzd29yZCgpIHsKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>90</text>
+        <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1NzaWQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>MAX</last-search>
+      <last-search>asdlkjf</last-search>
       <last-offset />
-      <last-pattern>MAX</last-pattern>
-      <last-replace>Status</last-replace>
-      <last-substitute>Info</last-substitute>
+      <last-pattern>asdlkjf</last-pattern>
+      <last-replace>Ssid</last-replace>
+      <last-substitute>Password</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>asdljf</entry>
-        <entry>getHotspotData</entry>
-        <entry>hotspot</entry>
         <entry>getHotspot</entry>
         <entry>wifi</entry>
         <entry>adslfj</entry>
@@ -15415,9 +15412,11 @@
         <entry>ssid</entry>
         <entry encoding="base64">XDxkaXJlY3RXaWZpRW50aXRsZW1lbnRcPg==</entry>
         <entry>MAX</entry>
+        <entry>asdlkfj</entry>
+        <entry>Password</entry>
+        <entry>asdlkjf</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry>253</entry>
@@ -15437,6 +15436,7 @@
         <entry>357</entry>
         <entry encoding="base64">JzwsJz5zL0luZm8vU3RhdHVzL2c=</entry>
         <entry>90</entry>
+        <entry encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1NzaWQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
