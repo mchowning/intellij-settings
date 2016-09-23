@@ -442,12 +442,12 @@
         <mark key="^" line="108" column="43" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474640922969">
-        <mark key="'" line="373" column="28" />
-        <mark key="[" line="83" column="77" />
-        <mark key="]" line="84" column="76" />
-        <mark key="." line="84" column="76" />
-        <mark key="^" line="84" column="76" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474642248439">
+        <mark key="'" line="375" column="28" />
+        <mark key="[" line="550" column="0" />
+        <mark key="]" line="551" column="10" />
+        <mark key="." line="551" column="10" />
+        <mark key="^" line="551" column="10" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_2_1-7_4-5.txt" timestamp="1423247616119">
         <mark key="[" line="7" column="6" />
@@ -3456,8 +3456,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aWZpU2V0dGluZ3NWYWxpZGF0b3IuaXNWYWxpZFBhc3N3b3JkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>VALID_PASSW0RD</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14054,37 +14054,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lowercase</text>
+        <text>VALID_PASSW0RD</text>
       </register>
       <register name="/" type="4">
         <text>alsdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN1YmplY3QuaXNWYWxpZFNzaWQoIkRJUkVDVC1hYS1sb3dlcmNhc2UiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tXaWZpU2V0dGluZ3NWYWxpZGF0b3IuaXNWYWxpZFBhc3N3b3JkKFZBTElEX1BBU1NXMFJEKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aWZpU2V0dGluZ3NWYWxpZGF0b3IuaXNWYWxpZFBhc3N3b3JkKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN1YmplY3QuaXNWYWxpZFNzaWQoIkRJUkVDVC1hYS1sb3dlcmNhc2UiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtQUEtVVBQRVJDQVNFIikpOwogICAgICAgIGFzc2VydFRydWUoc3ViamVjdC5pc1ZhbGlkU3NpZCgiRElSRUNULTAwLTEyMzQ1Njc4IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tXaWZpU2V0dGluZ3NWYWxpZGF0b3IuaXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX0lOVEVSTkFMX1NTSURfQ0hBUlMgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtYWEtIikpOyAvLyB0b28gc2hvcnQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWZpU2V0dGluZ3NWYWxpZGF0b3IuaXNWYWxpZFBhc3N3b3JkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGRvIHNwYWNlIGNoZWNrCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN1YmplY3QuaXNWYWxpZFNzaWQoIkRJUkVDVC1hYS1sb3dlcmNhc2UiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtQUEtVVBQRVJDQVNFIikpOwogICAgICAgIGFzc2VydFRydWUoc3ViamVjdC5pc1ZhbGlkU3NpZCgiRElSRUNULTAwLTEyMzQ1Njc4IikpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15372,10 +15372,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX1BBU1NXT1JEX0NIQVJTID0gSU5WQUxJRF9TU0lEX0NIQVJTICsgIiAiOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX0lOVEVSTkFMX1NTSURfQ0hBUlMgPSA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtYWEtIikpOyAvLyB0b28gc2hvcnQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
