@@ -117,12 +117,12 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474635976694">
-        <mark key="'" line="48" column="52" />
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="97" />
-        <mark key="." line="313" column="45" />
-        <mark key="^" line="313" column="45" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474640762496">
+        <mark key="'" line="49" column="52" />
+        <mark key="[" line="462" column="8" />
+        <mark key="]" line="462" column="14" />
+        <mark key="." line="462" column="14" />
+        <mark key="^" line="462" column="14" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2Log.hs" timestamp="1420567058208">
         <mark key="[" line="15" column="20" />
@@ -442,12 +442,12 @@
         <mark key="^" line="108" column="43" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474629752466">
-        <mark key="'" line="366" column="28" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="62" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="145" column="62" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474640922969">
+        <mark key="'" line="373" column="28" />
+        <mark key="[" line="83" column="77" />
+        <mark key="]" line="84" column="76" />
+        <mark key="." line="84" column="76" />
+        <mark key="^" line="84" column="76" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_2_1-7_4-5.txt" timestamp="1423247616119">
         <mark key="[" line="7" column="6" />
@@ -1856,11 +1856,11 @@
         <mark key="^" line="69" column="22" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" timestamp="1474638833192">
-        <mark key="[" line="96" column="63" />
-        <mark key="]" line="96" column="63" />
-        <mark key="^" line="96" column="24" />
-        <mark key="." line="96" column="63" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" timestamp="1474640528332">
+        <mark key="[" line="54" column="50" />
+        <mark key="]" line="54" column="50" />
+        <mark key="." line="54" column="50" />
+        <mark key="^" line="54" column="50" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1466249615953">
         <mark key="[" line="57" column="8" />
@@ -2433,7 +2433,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474638788605">
+      <file name="/fragment.java" timestamp="1474639114461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="65" />
@@ -3456,8 +3456,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aWZpU2V0dGluZ3NWYWxpZGF0b3IuaXNWYWxpZFBhc3N3b3JkKCkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14054,37 +14054,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lowercase</text>
       </register>
       <register name="/" type="4">
-        <text>false</text>
+        <text>alsdf</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Password with invalid character \'%s\' was improperly found to be valid&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN1YmplY3QuaXNWYWxpZFNzaWQoIkRJUkVDVC1hYS1sb3dlcmNhc2UiKSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aWZpU2V0dGluZ3NWYWxpZGF0b3IuaXNWYWxpZFBhc3N3b3JkKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN1YmplY3QuaXNWYWxpZFNzaWQoIkRJUkVDVC1hYS1sb3dlcmNhc2UiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtQUEtVVBQRVJDQVNFIikpOwogICAgICAgIGFzc2VydFRydWUoc3ViamVjdC5pc1ZhbGlkU3NpZCgiRElSRUNULTAwLTEyMzQ1Njc4IikpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX0lOVEVSTkFMX1NTSURfQ0hBUlMgPSA7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtYWEtIikpOyAvLyB0b28gc2hvcnQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NoZWNrSW52YWxpZENoYXJzKCJESVJFQ1QtQUEtIik7CiAgICAgICAgLy9jaGVja0ludmFsaWRDaGFycygiRElSRUNULTAwLSIpOwogICAgICAgIC8vY2hlY2tJbnZhbGlkQ2hhcnMoIkRJUkVDVC0wMC0iKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGRvIHNwYWNlIGNoZWNrCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15372,10 +15372,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtYWEtIikpOyAvLyB0b28gc2hvcnQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlZBTElEX1BBU1NXT1JEX0NIQVJTID0gSU5WQUxJRF9TU0lEX0NIQVJTICsgIiAiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja0ludmFsaWRDaGFycygiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -15385,9 +15385,9 @@
       </register>
     </registers>
     <search>
-      <last-search>false</last-search>
+      <last-search>alsdf</last-search>
       <last-offset />
-      <last-pattern>false</last-pattern>
+      <last-pattern>alsdf</last-pattern>
       <last-replace>!expected</last-replace>
       <last-substitute>false</last-substitute>
       <last-dir>1</last-dir>
@@ -15395,7 +15395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setWifi</entry>
         <entry encoding="base64">XDxob3RzcG90RGF0YU1vY2tcPg==</entry>
         <entry>update</entry>
         <entry>onBack</entry>
@@ -15415,6 +15414,7 @@
         <entry>(&quot;</entry>
         <entry>true</entry>
         <entry>false</entry>
+        <entry>alsdf</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
