@@ -606,12 +606,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1474484246136">
-        <mark key="'" line="19" column="19" />
-        <mark key="[" line="67" column="40" />
-        <mark key="]" line="68" column="41" />
-        <mark key="." line="68" column="41" />
-        <mark key="^" line="68" column="41" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1474661464586">
+        <mark key="'" line="79" column="8" />
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="23" />
+        <mark key="." line="74" column="23" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountFragment.java" timestamp="1471535677766">
         <mark key="[" line="16" column="0" />
@@ -758,6 +758,11 @@
         <mark key="]" line="66" column="47" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyChecker.groovy" timestamp="1474661266038">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1467297455890">
         <mark key="[" line="0" column="0" />
@@ -1104,11 +1109,11 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1474540739905">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-        <mark key="^" line="0" column="34" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1474661088338">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/Main.hs" timestamp="1448639622621">
         <mark key="[" line="5" column="7" />
@@ -3085,9 +3090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="65" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="49" column="121" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="54" column="84" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="53" column="69" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="104" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="103" column="40" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
@@ -3137,7 +3139,6 @@
       <jump line="48" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="3" column="50" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OtherExtension.groovy" />
       <jump line="7" column="47" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="51" column="48" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="33" column="10" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="65" column="10" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="131" column="10" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
@@ -3152,7 +3153,6 @@
       <jump line="122" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="143" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="57" column="8" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
-      <jump line="79" column="16" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="81" column="24" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="23" column="27" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="34" column="31" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
@@ -3185,13 +3185,18 @@
       <jump line="59" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="19" column="19" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
       <jump line="14" column="33" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
+      <jump line="16" column="14" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="51" column="14" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="68" column="14" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
+      <jump line="79" column="8" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13788,37 +13793,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text>branch</text>
+        <text encoding="base64">XDxwcmludGxuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhdXRob3JPZk1vc3RSZWNlbnRDb21taXQgPSBzaChzY3JpcHQ6ICdnaXQgbG9nIC0xIC0tcHJldHR5PWZvcm1hdDolYW4nLCByZXR1cm5TdGRvdXQ6IHRydWUpLnRyaW0oKQogICAgaWYgKFsnamVua2lucycsICdKZW5raW5zJ10uY29udGFpbnMoYXV0aG9yT2ZNb3N0UmVjZW50Q29tbWl0KSkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">dmVyc2lvbj0xLjAuMjAtU05BUFNIT1QK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyBjdXJsQ29tbWFuZAo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGhEZXBlbmRlbmNpZXMocHJvamVjdCkuZmluZCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVwLnZlcnNpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGRvU3R1ZmYoKSB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkb1N0dWZmKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChkaWRKZW5raW5zQXV0aG9yTW9zdFJlY2VudENvbW1pdCgpKSB7CiAgICAgICAgZWNobyAnTk9UIGJ1aWxkaW5nIHBsdWdpbiBiZWNhdXNlIG1vc3QgcmVjZW50IGNvbW1pdCB3YXMgYnkgamVua2lucycKICAgIH0gZWxzZSB7CiAgICAgICAgZWNobyAnQnVpbGRpbmcgcGx1Z2luLi4uJwogICAgICAgIHNoICdjdXJsIGh0dHA6Ly9qZW5raW5zLWFwaTozMDA0MzJmZGMwN2FhNGY3ZTU2OTI2NzBiMzYzYWIyM0BvbnNybmQxYWRjLWplMDEuaXRsYWIub25zdGFyLmdtLmNvbS9qZW5raW5zL2pvYi9kZXZlbG9wLUFuZHJvaWQvam9iL0dyYWRsZS1QbHVnaW4vYXJ0aWZhY3Rvcnkvc3RhZ2luZz90b2tlbj0zMDA0MzJmZGMwN2FhNGY3ZTU2OTI2NzBiMzYzYWIyMycKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGRlcCA6IGNsYXNzcGF0aERlcGVuZGVuY2llcyhwcm9qZWN0KSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdOT1QgYnVpbGRpbmcgcGx1Z2luIGJlY2F1c2UgbW9zdCByZWNlbnQgY29tbWl0IHdhcyBieSBqZW5raW5zJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyBjdXJsQ29tbWFuZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15106,22 +15111,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdCdWlsZGluZyBwbHVnaW4uLi4nCiAgICAgICAgc2ggJ2N1cmwgaHR0cDovL2plbmtpbnMtYXBpOjMwMDQzMmZkYzA3YWE0ZjdlNTY5MjY3MGIzNjNhYjIzQG9uc3JuZDFhZGMtamUwMS5pdGxhYi5vbnN0YXIuZ20uY29tL2plbmtpbnMvam9iL2RldmVsb3AtQW5kcm9pZC9qb2IvR3JhZGxlLVBsdWdpbi9hcnRpZmFjdG9yeS9zdGFnaW5nP3Rva2VuPTMwMDQzMmZkYzA3YWE0ZjdlNTY5MjY3MGIzNjNhYjIzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJkb24ndCBidWlsZCBpdCIK</text>
+        <text encoding="base64">ZGVmIGRvU3R1ZmYoKSB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJidWlsZCBpdCIK</text>
+        <text encoding="base64">ICAgICAgICBkb1N0dWZmKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>branch</last-search>
+      <last-search encoding="base64">XDxwcmludGxuXD4=</last-search>
       <last-offset />
-      <last-pattern>branch</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludGxuXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15129,7 +15134,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
         <entry>=~</entry>
         <entry>\=\~</entry>
         <entry>printVer</entry>
@@ -15149,6 +15153,7 @@
         <entry>utils</entry>
         <entry>publish</entry>
         <entry>branch</entry>
+        <entry encoding="base64">XDxwcmludGxuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
