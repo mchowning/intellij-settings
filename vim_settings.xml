@@ -117,7 +117,8 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474658880293">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474659860754">
+        <mark key="'" line="134" column="33" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -443,12 +444,12 @@
         <mark key="^" line="108" column="43" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474649392065">
-        <mark key="'" line="63" column="105" />
-        <mark key="[" line="755" column="0" />
-        <mark key="]" line="755" column="0" />
-        <mark key="." line="755" column="0" />
-        <mark key="^" line="64" column="139" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474659893517">
+        <mark key="'" line="62" column="39" />
+        <mark key="[" line="735" column="106" />
+        <mark key="]" line="735" column="106" />
+        <mark key="^" line="735" column="106" />
+        <mark key="." line="735" column="106" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/testCase_2_1-7_4-5.txt" timestamp="1423247616119">
         <mark key="[" line="7" column="6" />
@@ -3351,13 +3352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenterTest.java" />
-      <jump line="104" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtilTest.java" />
-      <jump line="119" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtilTest.java" />
-      <jump line="45" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtilTest.java" />
-      <jump line="56" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtilTest.java" />
-      <jump line="57" column="57" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtilTest.java" />
-      <jump line="87" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtilTest.java" />
       <jump line="90" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtilTest.java" />
       <jump line="819" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0/542ea9c866e98a53a9dd124d66bcc2fe10256029/gemini-core-3.3.0-sources.jar!/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="883" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-core/3.3.0/542ea9c866e98a53a9dd124d66bcc2fe10256029/gemini-core-3.3.0-sources.jar!/com/gm/gemini/data/datasource/PersistedDataSource.java" />
@@ -3414,7 +3408,6 @@
       <jump line="64" column="47" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
       <jump line="114" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
       <jump line="83" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="561" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="339" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="277" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="295" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
@@ -3423,7 +3416,6 @@
       <jump line="342" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="360" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="560" column="25" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="574" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="588" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="263" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="415" column="34" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
@@ -3451,13 +3443,22 @@
       <jump line="87" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
       <jump line="95" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
       <jump line="102" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
+      <jump line="770" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="779" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="508" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="574" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="237" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="549" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="561" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="62" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="134" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IFNTSURfTUlOSU1VTV9MRU5HVEggPSA2OwogICAgLy9wcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUEFTU1dPUkRfTUlOSU1VTV9MRU5HVEggPSA4OwogICAgLy9wcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgRElSRUNUX1dJRklfU1NJRF9NSU5JTVVNX0xFTkdUSCA9IDExOwogICAgLy9wcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgRElSRUNUX1dJRklfU1NJRF9NQVhJTVVNX0xFTkdUSCA9IDI0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>W</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14054,37 +14055,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>W</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>alsdfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIFZBTElEX0RJUkVDVF9TU0lEUyA9IHsiRElSRUNULWFhLWEiLAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW52YWxpZFNzaWQgPSAiaW52YWxpZF9zc2lkIjsKICAgICAgICB3aGVuKHZpZXdNb2NrLmdldFNzaWQoKSkudGhlblJldHVybihpbnZhbGlkU3NpZCk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IFNTSURfTUlOSU1VTV9MRU5HVEggPSA2OwogICAgLy9wcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUEFTU1dPUkRfTUlOSU1VTV9MRU5HVEggPSA4OwogICAgLy9wcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgRElSRUNUX1dJRklfU1NJRF9NSU5JTVVNX0xFTkdUSCA9IDExOwogICAgLy9wcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgRElSRUNUX1dJRklfU1NJRF9NQVhJTVVNX0xFTkdUSCA9IDI0Owo=</text>
+        <text encoding="base64">ICAgICAgICAvL2N1cnJlbnRseVNldFNzaWRQYXNzd29yZChTT01FX0RJRkZFUkVOVF9TU0lELCBTT01FX0RJRkZFUkVOVF9QQVNTV09SRCk7CiAgICAgICAgLy91c2VyU2VsZWN0ZWRTc2lkUGFzc3dvcmQoIiFAJCUkIiwgVkFMSURfUEFTU1cwUkQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNTSURfUkVHX0VYID0gIlthLXpBLVowLTkgXSsiOwogICAgLy9wcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFTU1dPUkRfUkVHX0VYID0gIlthLXpBLVowLTldKyI7CiAgICAvL3ByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVJFQ1RfV0lGSV9TU0lEX1JFR19FWCA9ICIoRElSRUNULVthLXpBLVowLTldezJ9LSkiICsgU1NJRF9SRUdfRVg7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGRpcmVjdFdpZmlFbnRpdGxlbWVudE1vY2suaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBnZXRJbnZhbGlkU3NpZENoYXJFcnJvck1lc3NhZ2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGRpcmVjdFdpZmlFbnRpdGxlbWVudE1vY2suaXNFbnRpdGxlZCgpKS50aGVuUmV0dXJuKGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRTdHJpbmdPZkNoYXJzV2l0aExlbmd0aChjaGFyIGMsIGludCBsZW5ndGgpIHsKICAgICAgICBjaGFyW10gYXJyYXkgPSBuZXcgY2hhcltsZW5ndGhdOwogICAgICAgIEFycmF5cy5maWxsKGFycmF5LCBjKTsKICAgICAgICByZXR1cm4gbmV3IFN0cmluZyhhcnJheSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3VzZXJTZWxlY3RlZFNzaWRQYXNzd29yZChpbnZhbGlkU3NpZCwgVkFMSURfUEFTU1cwUkQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtYWEtYSIpKTsKICAgICAgICBhc3NlcnRUcnVlKHN1YmplY3QuaXNWYWxpZFNzaWQoIkRJUkVDVC1hYS1sb3dlcmNhc2UiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShzdWJqZWN0LmlzVmFsaWRTc2lkKCJESVJFQ1QtQUEtVVBQRVJDQVNFIikpOwogICAgICAgIGFzc2VydFRydWUoc3ViamVjdC5pc1ZhbGlkU3NpZCgiRElSRUNULTAwLTEyMzQ1Njc4IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2N1cnJlbnRseVNldFNzaWRQYXNzd29yZChTT01FX0RJRkZFUkVOVF9TU0lELCBTT01FX0RJRkZFUkVOVF9QQVNTV09SRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50bHlTZXRTc2lkUGFzc3dvcmQoU09NRV9ESUZGRVJFTlRfU1NJRCwgU09NRV9ESUZGRVJFTlRfUEFTU1dPUkQpOwogICAgICAgIHVzZXJTZWxlY3RlZFNzaWRQYXNzd29yZChpbnZhbGlkU3NpZCwgVkFMSURfUEFTU1cwUkQpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15372,22 +15373,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gdGVzdHMK</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cFZhbGlkQ2hhbmdlc1RvU3NpZEFuZFBhc3N3b3JkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gVE9ETyBsb29wIHRocm91Z2ggbGlzdCBvZiB2YWxpZCBzc2lkcyBmcm9tIHNzaWQgdGVzdD8KICAgICAgICAvLyBUT0RPCgo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgc2V0dXBWYWxpZENoYW5nZXNUb0RpcmVjdFdpRmlTc2lkQW5kUGFzc3dvcmQoKSB7CiAgICAgICAgY3VycmVudGx5U2V0U3NpZFBhc3N3b3JkKFNPTUVfRElGRkVSRU5UX1NTSUQsIFNPTUVfRElGRkVSRU5UX1BBU1NXT1JEKTsKICAgICAgICB1c2VyU2VsZWN0ZWRTc2lkUGFzc3dvcmQoVkFMSURfRElSRUNUX1dJRklfU1NJRCwgVkFMSURfUEFTU1cwUkQpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tXaWZpU2V0dGluZ3NWYWxpZGF0b3IuaXNWYWxpZFNzaWQoYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>578</text>
+        <text>547</text>
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>alsdfj</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>alsdfj</last-pattern>
       <last-replace>!expected</last-replace>
       <last-substitute>false</last-substitute>
       <last-dir>1</last-dir>
@@ -15395,11 +15396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXJlY3RXaWZpRW50aXRsZW1lbnRcPg==</entry>
-        <entry>MAX</entry>
-        <entry>asdlkfj</entry>
-        <entry>Password</entry>
-        <entry>asdlkjf</entry>
         <entry>(&quot;</entry>
         <entry>true</entry>
         <entry>false</entry>
@@ -15415,9 +15411,13 @@
         <entry>junit</entry>
         <entry>static</entry>
         <entry>asdlfj</entry>
+        <entry>\/\/</entry>
+        <entry>asldjf</entry>
+        <entry encoding="base64">XDxpc1ZhbGlkU3NpZFw+</entry>
+        <entry>setupDirectWifi</entry>
+        <entry>alsdfj</entry>
       </history-search>
       <history-cmd>
-        <entry>393</entry>
         <entry>104</entry>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
         <entry>46</entry>
@@ -15437,6 +15437,7 @@
         <entry encoding="base64">JzwsJz5zL3RydWUvZXhwZWN0ZWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ZhbHNlLyFleHBlY3RlZC9n</entry>
         <entry>578</entry>
+        <entry>547</entry>
       </history-cmd>
       <history-expr />
       <history-input />
