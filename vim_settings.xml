@@ -102,11 +102,12 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474628465884">
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="." line="406" column="0" />
-        <mark key="^" line="406" column="72" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474629596384">
+        <mark key="'" line="363" column="0" />
+        <mark key="[" line="408" column="41" />
+        <mark key="]" line="408" column="43" />
+        <mark key="." line="408" column="43" />
+        <mark key="^" line="408" column="43" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2Log.hs" timestamp="1420567058208">
         <mark key="[" line="15" column="20" />
@@ -381,8 +382,8 @@
         <mark key="^" line="108" column="43" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474566859840">
-        <mark key="'" line="35" column="13" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" timestamp="1474629752466">
+        <mark key="'" line="366" column="28" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="62" />
         <mark key="." line="145" column="0" />
@@ -2793,16 +2794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="26" column="41" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" />
-      <jump line="81" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/buildscript.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/buildscript.gradle" />
-      <jump line="64" column="30" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="78" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="79" column="59" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="85" column="4" filename="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" />
-      <jump line="41" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
       <jump line="48" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
       <jump line="28" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
       <jump line="30" column="50" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
@@ -2893,13 +2884,23 @@
       <jump line="948" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
       <jump line="394" column="10" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
       <jump line="406" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="363" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="149" column="53" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="167" column="67" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="196" column="62" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="197" column="57" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="201" column="63" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="204" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="360" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="361" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="366" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvdWxkIGp1c3QgY2hlY2sgaXNEYXRhQXZhaWxhYmxlICYmICFob3RzcG90VXRpbC5nZXRTc2lkKCkuZXF1YWxzKEhvdHNwb3REYXRhLk5PTkUuZ2V0U3NpZCgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13496,13 +13497,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userChangedHotspotStatus()</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
-        <text>availble</text>
+        <text>ssid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3NpZC5tYXRjaGVzKFNTSURfUkVHX0VYKSAmJiBzc2lkLmxlbmd0aCgpID49IFNTSURfTUlOSU1VTV9MRU5HVEg7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaG90c3BvdFV0aWwuZ2V0U3NpZCgpICE9IG51bGwgJiYgdXNlckNoYW5nZWRTdGF0dXNUb2dnbGUoKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -14827,9 +14828,9 @@
       </register>
     </registers>
     <search>
-      <last-search>availble</last-search>
+      <last-search>ssid</last-search>
       <last-offset />
-      <last-pattern>availble</last-pattern>
+      <last-pattern>ssid</last-pattern>
       <last-replace>Status</last-replace>
       <last-substitute>Info</last-substitute>
       <last-dir>1</last-dir>
@@ -14837,8 +14838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sh</entry>
-        <entry>upload</entry>
         <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
         <entry>isDataAv</entry>
         <entry>asdljf</entry>
@@ -14855,8 +14854,10 @@
         <entry encoding="base64">XDxtb2NrVmVoaWNsZXNcPg==</entry>
         <entry>IHot</entry>
         <entry>asdlfj</entry>
-        <entry>ssid</entry>
         <entry>availble</entry>
+        <entry>valid</entry>
+        <entry>blue</entry>
+        <entry>ssid</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
