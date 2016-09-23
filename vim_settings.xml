@@ -102,12 +102,12 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474629596384">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474631584838">
         <mark key="'" line="363" column="0" />
-        <mark key="[" line="408" column="41" />
-        <mark key="]" line="408" column="43" />
-        <mark key="." line="408" column="43" />
-        <mark key="^" line="408" column="43" />
+        <mark key="[" line="313" column="33" />
+        <mark key="]" line="313" column="45" />
+        <mark key="." line="313" column="45" />
+        <mark key="^" line="313" column="45" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2Log.hs" timestamp="1420567058208">
         <mark key="[" line="15" column="20" />
@@ -2899,8 +2899,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13497,37 +13497,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>hotspotPasswordHasChanged</text>
       </register>
       <register name="/" type="4">
         <text>ssid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaG90c3BvdFV0aWwuZ2V0U3NpZCgpICE9IG51bGwgJiYgdXNlckNoYW5nZWRTdGF0dXNUb2dnbGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3NpZC5tYXRjaGVzKERJUkVDVF9XSUZJX1NTSURfUkVHX0VYKQogICAgICAgICAgICAgICAgJiYgc3NpZC5sZW5ndGgoKSA+PSBESVJFQ1RfV0lGSV9TU0lEX01JTklNVU1fTEVOR1RICiAgICAgICAgICAgICAgICAmJiBzc2lkLmxlbmd0aCgpIDw9IERJUkVDVF9XSUZJX1NTSURfTUFYSU1VTV9MRU5HVEg7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvdWxkIGp1c3QgY2hlY2sgaXNEYXRhQXZhaWxhYmxlICYmICFob3RzcG90VXRpbC5nZXRTc2lkKCkuZXF1YWxzKEhvdHNwb3REYXRhLk5PTkUuZ2V0U3NpZCgpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzVmFsaWRTc2lkKFN0cmluZyBzc2lkKSB7CiAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhESVJFQ1RfV0lGSV9TU0lEX1JFR19FWCkKICAgICAgICAgICAgICAgICAgICAmJiBzc2lkLmxlbmd0aCgpID49IERJUkVDVF9XSUZJX1NTSURfTUlOSU1VTV9MRU5HVEgKICAgICAgICAgICAgICAgICAgICAmJiBzc2lkLmxlbmd0aCgpIDw9IERJUkVDVF9XSUZJX1NTSURfTUFYSU1VTV9MRU5HVEg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNWYWxpZFNzaWQodmlldy5nZXRTc2lkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvdWxkIGp1c3QgY2hlY2sgaXNEYXRhQXZhaWxhYmxlICYmICFob3RzcG90VXRpbC5nZXRTc2lkKCkuZXF1YWxzKEhvdHNwb3REYXRhLk5PTkUuZ2V0U3NpZCgpKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14815,13 +14815,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzVmFsaWRTc2lkKFN0cmluZyBzc2lkKSB7CiAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNWYWxpZFNzaWQodmlldy5nZXRTc2lkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
