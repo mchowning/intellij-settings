@@ -102,8 +102,8 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474631584838">
-        <mark key="'" line="363" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474632332104">
+        <mark key="'" line="313" column="12" />
         <mark key="[" line="313" column="33" />
         <mark key="]" line="313" column="45" />
         <mark key="." line="313" column="45" />
@@ -2794,17 +2794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
-      <jump line="28" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" />
-      <jump line="30" column="50" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
-      <jump line="47" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
-      <jump line="125" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
-      <jump line="21" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
-      <jump line="35" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
-      <jump line="43" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/buildscript.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" />
-      <jump line="19" column="11" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="14" column="7" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
       <jump line="68" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile" />
@@ -2894,6 +2883,17 @@
       <jump line="360" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="361" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="366" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
+      <jump line="438" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="12" column="46" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="76" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="86" column="63" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="90" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="154" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="162" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="245" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="249" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="290" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="313" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13500,7 +13500,7 @@
         <text>hotspotPasswordHasChanged</text>
       </register>
       <register name="/" type="4">
-        <text>ssid</text>
+        <text encoding="base64">XDxkaXJlY3RXaWZpRW50aXRsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc3NpZC5tYXRjaGVzKERJUkVDVF9XSUZJX1NTSURfUkVHX0VYKQogICAgICAgICAgICAgICAgJiYgc3NpZC5sZW5ndGgoKSA+PSBESVJFQ1RfV0lGSV9TU0lEX01JTklNVU1fTEVOR1RICiAgICAgICAgICAgICAgICAmJiBzc2lkLmxlbmd0aCgpIDw9IERJUkVDVF9XSUZJX1NTSURfTUFYSU1VTV9MRU5HVEg7Cg==</text>
@@ -14828,9 +14828,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ssid</last-search>
+      <last-search encoding="base64">XDxkaXJlY3RXaWZpRW50aXRsZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>ssid</last-pattern>
+      <last-pattern encoding="base64">XDxkaXJlY3RXaWZpRW50aXRsZW1lbnRcPg==</last-pattern>
       <last-replace>Status</last-replace>
       <last-substitute>Info</last-substitute>
       <last-dir>1</last-dir>
@@ -14838,7 +14838,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5CdWlsZFNjcmlwdFw+</entry>
         <entry>isDataAv</entry>
         <entry>asdljf</entry>
         <entry>getHotspotData</entry>
@@ -14858,6 +14857,7 @@
         <entry>valid</entry>
         <entry>blue</entry>
         <entry>ssid</entry>
+        <entry encoding="base64">XDxkaXJlY3RXaWZpRW50aXRsZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRl</entry>
