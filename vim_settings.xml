@@ -102,12 +102,11 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474572484581">
-        <mark key="'" line="406" column="30" />
-        <mark key="[" line="406" column="52" />
-        <mark key="]" line="406" column="52" />
-        <mark key="." line="406" column="52" />
-        <mark key="^" line="406" column="52" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" timestamp="1474628465884">
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="406" column="0" />
+        <mark key="." line="406" column="0" />
+        <mark key="^" line="406" column="72" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2Log.hs" timestamp="1420567058208">
         <mark key="[" line="15" column="20" />
@@ -2900,7 +2899,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzVmFsaWRTc2lkKFN0cmluZyBzc2lkKSB7CiAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvdWxkIGp1c3QgY2hlY2sgaXNEYXRhQXZhaWxhYmxlICYmICFob3RzcG90VXRpbC5nZXRTc2lkKCkuZXF1YWxzKEhvdHNwb3REYXRhLk5PTkUuZ2V0U3NpZCgpKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13497,7 +13496,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>userChangedHotspotStatus()</text>
       </register>
       <register name="/" type="4">
         <text>availble</text>
@@ -13509,19 +13508,19 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzVmFsaWRTc2lkKFN0cmluZyBzc2lkKSB7CiAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvdWxkIGp1c3QgY2hlY2sgaXNEYXRhQXZhaWxhYmxlICYmICFob3RzcG90VXRpbC5nZXRTc2lkKCkuZXF1YWxzKEhvdHNwb3REYXRhLk5PTkUuZ2V0U3NpZCgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNWYWxpZFNzaWQodmlldy5nZXRTc2lkKCkpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzVmFsaWRTc2lkKFN0cmluZyBzc2lkKSB7CiAgICAgICAgcmV0dXJuIHNzaWQubWF0Y2hlcyhTU0lEX1JFR19FWCkgJiYgc3NpZC5sZW5ndGgoKSA+PSBTU0lEX01JTklNVU1fTEVOR1RIOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNWYWxpZFNzaWQodmlldy5nZXRTc2lkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -14815,13 +14814,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCByZXR1cm5zX2FsbF9pbmZvKCkgewogICAgICAgIEhvdHNwb3REYXRhIHJlc3VsdCA9IGZyb20obW9ja0hvdHNwb3RJbmZvLCBtb2NrSG90c3BvdFN0YXR1cyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKFNTSUQsIHJlc3VsdC5nZXRTc2lkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhQQVNTV09SRCwgcmVzdWx0LmdldFBhc3N3b3JkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhTVEFUVVMsIHJlc3VsdC5nZXRTdGF0dXMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
