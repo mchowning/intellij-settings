@@ -584,11 +584,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474843738295">
-        <mark key="[" line="67" column="58" />
-        <mark key="]" line="67" column="65" />
-        <mark key="." line="67" column="65" />
-        <mark key="^" line="67" column="65" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474844310674">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="8" column="80" />
+        <mark key="." line="8" column="80" />
+        <mark key="^" line="8" column="80" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/GarageFragment.java" timestamp="1471626601262">
         <mark key="[" line="58" column="50" />
@@ -3243,7 +3243,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>ALL</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13840,7 +13840,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>ALL</text>
       </register>
       <register name="/" type="4">
         <text>gemini</text>
@@ -13858,19 +13858,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9wcmludGxuICJ0aGUgY2xhc3M6ICR7cGx1Z2luUmVwb3MuZ2V0Q2xhc3N9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBlY2hvICIke2dlbWluaUNvcmVTZGsoKX0gcGlwZWxpbmUiCgogICAgc3RhZ2UgZW52LkdFTUlOSV9DT1JFX1NESwogICAgYnVpbGRSZXBvKGVudi5SRVBPX05BTUUpCgogICAgcG9zdEdlbWluaUNvcmVTZGtQaXBlbGluZSgpCg==</text>
+        <text encoding="base64">Ly9wcmludGxuICJ0aGUgY2xhc3M6ICR7cGx1Z2luUmVwb3MuZ2V0Q2xhc3N9Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBlY2hvICIke2dlbWluaUNvcmVTZGsoKX0gcGlwZWxpbmUiCgogICAgc3RhZ2UgZW52LkdFTUlOSV9DT1JFX1NESwogICAgYnVpbGRSZXBvKGVudi5SRVBPX05BTUUpCgogICAgcG9zdEdlbWluaUNvcmVTZGtQaXBlbGluZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9mb2xkZXIoYmFzZVBhdGgpIHsKLy8gICAgZGVzY3JpcHRpb24gJ0pvYnMgaW4gdGhpcyBmb2xkZXIgd2VyZSBjcmVhdGVkIHRocm91Z2ggdGhlIEpvYnMgRFNMLiAnICsKLy8gICAgICAgICAgICAgICAgICAgICAgICAnVGhleSBzaG91bGQgTk9UIGJlIG1hbnVhbGx5IGVkaXRlZCBmcm9tIHdpdGhpbiBKZW5raW5zLiAnICsKLy8gICAgICAgICAgICAgICAgICAgICAgICAnSW5zdGVhZCwgdXBkYXRlIHRoZSBqb2IgZGVmaW5pdGlvbiBpbiBzb3VyY2UgY29udHJvbC4nCi8vfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9mb2xkZXIoYmFzZVBhdGgpIHsKLy8gICAgZGVzY3JpcHRpb24gJ0pvYnMgaW4gdGhpcyBmb2xkZXIgd2VyZSBjcmVhdGVkIHRocm91Z2ggdGhlIEpvYnMgRFNMLiAnICsKLy8gICAgICAgICAgICAgICAgICAgICAgICAnVGhleSBzaG91bGQgTk9UIGJlIG1hbnVhbGx5IGVkaXRlZCBmcm9tIHdpdGhpbiBKZW5raW5zLiAnICsKLy8gICAgICAgICAgICAgICAgICAgICAgICAnSW5zdGVhZCwgdXBkYXRlIHRoZSBqb2IgZGVmaW5pdGlvbiBpbiBzb3VyY2UgY29udHJvbC4nCi8vfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15157,14 +15157,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICdnZW1pbmknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dlbWluaS1jb3JlLXNkaycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZ2VtaW5pLXNlY3VyaXR5Jw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAncGx1Z2luLWFzc2lzdCcsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1hdHlvdXJzZXJ2aWNlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLWJsZScsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1kZWFsZXItbG9jYXRlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLWhmYycsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1rZXktZm9iJywKICAgICAgICAgICAgICAgICAncGx1Z2luLW5hdicsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1vd25lci1tYW51YWwnLAogICAgICAgICAgICAgICAgICdwbHVnaW4tcGFya2luZycsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1wcmVmZXJyZWQtZGVhbGVyJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXJlY2FsbCcsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1yb2Fkc2lkZS1hc3Npc3RhbmNlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXNjaGVkdWxlLXNlcnZpY2UnLAogICAgICAgICAgICAgICAgICdwbHVnaW4tdmVoaWNsZS1zZXJ2aWNlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXZlaGljbGUtc3RhdHVzJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXdpZmknIF0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZENsb3N1cmVzLnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAncGx1Z2luLWFzc2lzdCcsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1hdHlvdXJzZXJ2aWNlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLWJsZScsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1kZWFsZXItbG9jYXRlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLWhmYycsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1rZXktZm9iJywKICAgICAgICAgICAgICAgICAncGx1Z2luLW5hdicsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1vd25lci1tYW51YWwnLAogICAgICAgICAgICAgICAgICdwbHVnaW4tcGFya2luZycsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1wcmVmZXJyZWQtZGVhbGVyJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXJlY2FsbCcsCiAgICAgICAgICAgICAgICAgJ3BsdWdpbi1yb2Fkc2lkZS1hc3Npc3RhbmNlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXNjaGVkdWxlLXNlcnZpY2UnLAogICAgICAgICAgICAgICAgICdwbHVnaW4tdmVoaWNsZS1zZXJ2aWNlJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXZlaGljbGUtc3RhdHVzJywKICAgICAgICAgICAgICAgICAncGx1Z2luLXdpZmknIF0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRyZXBvTmFtZS8ke21vZHVsZX0vZw==</text>
