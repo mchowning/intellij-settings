@@ -257,13 +257,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/full_buildscript.gradle" timestamp="1473703158962">
-        <mark key="'" line="61" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="61" column="1" />
-        <mark key="^" line="61" column="1" />
-        <mark key="." line="61" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/LegalDocumentTitleUtilTest.groovy" timestamp="1467901056630">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="28" column="4" />
@@ -528,13 +521,6 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" timestamp="1473610589358">
-        <mark key="'" line="67" column="20" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="38" column="6" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/build.gradle" timestamp="1465231181824">
         <mark key="[" line="33" column="19" />
         <mark key="]" line="33" column="23" />
@@ -597,12 +583,12 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474911445164">
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474927373045">
         <mark key="'" line="256" column="32" />
-        <mark key="[" line="179" column="12" />
-        <mark key="]" line="179" column="13" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
         <mark key="^" line="179" column="13" />
-        <mark key="." line="179" column="13" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/GarageFragment.java" timestamp="1471626601262">
         <mark key="[" line="58" column="50" />
@@ -1461,13 +1447,6 @@
         <mark key="]" line="19" column="1" />
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" timestamp="1473955389891">
-        <mark key="'" line="43" column="57" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AndroidResourceUtil.java" timestamp="1467738747335">
         <mark key="[" line="27" column="28" />
@@ -13881,19 +13860,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgc2ggJ2N1cmwgXCdodHRwOi8vb25zcm5kMWFkYy1qZTAxLml0bGFiLm9uc3Rhci5nbS5jb20vamVua2lucy9qb2IvZGV2ZWxvcC1BbmRyb2lkL2pvYi9HcmFkbGUtUGx1Z2luLWNsb25lLzMxL3Byb21vdGUvXCcnCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyZSB7IHByb2plY3QgLT4KLy8KLy8gICAgICAgICAgICBwcm9qZWN0IC8gYnVpbGRXcmFwcGVycyAvICdvcmcuamZyb2cuaHVkc29uLmdyYWRsZS5BcnRpZmFjdG9yeUdyYWRsZUNvbmZpZ3VyYXRvcicgewovLy8vICAgICAgICAgICAgcHJvamVjdCAvIGJ1aWxkV3JhcHBlcnMgLyAnb3JnLmpmcm9nLmh1ZHNvbi5ncmFkbGUuQXJ0aWZhY3RvcnlHcmFkbGVDb25maWd1cmF0b3InKHBsdWdpbjogJ2FydGlmYWN0b3J5QDIuMi4xJykgewovLyAgICAgICAgICAgICAgICBkZXBsb3lCdWlsZEluZm8odHJ1ZSkKLy8gICAgICAgICAgICAgICAgZGVwbG95QXJ0aWZhY3RzKHRydWUpCi8vICAgICAgICAgICAgICAgIGV2ZW5JZlVuc3RhYmxlKHRydWUpCi8vICAgICAgICAgICAgICAgIGRlcGxveU1hdmVuKGZhbHNlKQovLyAgICAgICAgICAgICAgICBkZXBsb3lJdnkodHJ1ZSkKLy8gICAgICAgICAgICAgICAgaW5jbHVkZUVudlZhcnMoZmFsc2UpCi8vICAgICAgICAgICAgICAgIGFsbG93UHJvbW90aW9uT2ZOb25TdGFnZWRCdWlsZHModHJ1ZSkKLy8gICAgICAgICAgICAgICAgaXZ5UGF0dGVybigiW29yZ2FuaXNhdGlvbl0vW21vZHVsZV0vW3JldmlzaW9uXS9pdnktW3JldmlzaW9uXS54bWwiKQovLyAgICAgICAgICAgICAgICBhcnRpZmFjdFBhdHRlcm4oIltvcmdhbmlzYXRpb25dL1ttb2R1bGVdL1tyZXZpc2lvbl0vW2FydGlmYWN0XS1bcmV2aXNpb25dKC1bY2xhc3NpZmllcl0pLltleHRdIikKLy8KLy8gICAgICAgICAgICAgICAgJ2RldGFpbHMnIHsKLy8gICAgICAgICAgICAgICAgICAgIGFydGlmYWN0b3J5VXJsKHVybCkKLy8gICAgICAgICAgICAgICAgICAgIGFydGlmYWN0b3J5TmFtZSh1cmwpCi8vICAgICAgICAgICAgICAgICAgICByZXBvc2l0b3J5S2V5KHJlcG8pCi8vICAgICAgICAgICAgICAgICAgICBzbmFwc2hvdHNSZXBvc2l0b3J5S2V5KHJlcG8pCi8vICAgICAgICAgICAgICAgICAgICBkb3dubG9hZFJlcG9zaXRvcnlLZXkoJ3JlcG8nKQovLyAgICAgICAgICAgICAgICAgICAgc3RhZ2luZ1BsdWdpbiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgcGx1Z2luTmFtZSgiTm9uZSIpCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICAgICAgJ3JlbGVhc2VXcmFwcGVyJyB7Ci8vICAgICAgICAgICAgICAgICAgICB0YWdQcmVmaXgoIiIpCi8vICAgICAgICAgICAgICAgICAgICByZWxlYXNlQnJhbmNoUHJlZml4KCJyZWxlYXNlXyIpCi8vICAgICAgICAgICAgICAgICAgICByZWxlYXNlUHJvcHNLZXlzKCJ2ZXJzaW9uIikKLy8gICAgICAgICAgICAgICAgICAgIG5leHRJbnRlZ1Byb3BzS2V5cygidmVyc2lvbiIpCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgLy8gRklYTUUgYnV0IHRoaXMgbmVlZHMgYXV0aG9yaXphdGlvbiBpZiBJJ20gbm90IG9uIHZwbiBhbmQgbG9nZ2VkIGluLCByaWdodD8K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgc2ggJ2N1cmwgXCdodHRwOi8vb25zcm5kMWFkYy1qZTAxLml0bGFiLm9uc3Rhci5nbS5jb20vamVua2lucy9qb2IvZGV2ZWxvcC1BbmRyb2lkL2pvYi9HcmFkbGUtUGx1Z2luLWNsb25lLzMxL3Byb21vdGUvXCcnCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">QE5vbkNwcwo=</text>
+        <text encoding="base64">Ly8gICAgLy8gRklYTUUgYnV0IHRoaXMgbmVlZHMgYXV0aG9yaXphdGlvbiBpZiBJJ20gbm90IG9uIHZwbiBhbmQgbG9nZ2VkIGluLCByaWdodD8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QE5vbkNwcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15181,13 +15160,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBydEdyYWRsZSA9IG5ld0dyYWRsZUJ1aWxkCiAgICBlY2hvICgicnRHcmFkbGU6ICRydEdyYWRsZSIpCgo=</text>
+        <text encoding="base64">QE5vbkNwcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAibWV0aG9kczogJHtyZXN1bHQuZ2V0Q2xhc3MoKS5nZXRNZXRob2RzKCl9Igo=</text>
+        <text encoding="base64">QE5vbkNwcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChNZXRob2QgbSA6IHJlc3VsdC5nZXRDbGFzcygpLmdldE1ldGhvZHMoKSkgewogICAgICAgICAgICAgICAgZWNobyAibWV0aG9kOiAke20udG9TdHJpbmd9IC0tICR7bS50b0dlbmVyaWNTdHJpbmcoKX0iCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlZiBydEdyYWRsZSA9IG5ld0dyYWRsZUJ1aWxkCiAgICBlY2hvICgicnRHcmFkbGU6ICRydEdyYWRsZSIpCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRyZXBvTmFtZS8ke21vZHVsZX0vZw==</text>
