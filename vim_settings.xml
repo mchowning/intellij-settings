@@ -257,6 +257,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/full_buildscript.gradle" timestamp="1473703158962">
+        <mark key="'" line="61" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="61" column="1" />
+        <mark key="^" line="61" column="1" />
+        <mark key="." line="61" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/test/java/com/gm/plugin/legal/LegalDocumentTitleUtilTest.groovy" timestamp="1467901056630">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="28" column="4" />
@@ -522,6 +529,13 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" timestamp="1473610589358">
+        <mark key="'" line="67" column="20" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="38" column="6" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/build.gradle" timestamp="1465231181824">
         <mark key="[" line="33" column="19" />
         <mark key="]" line="33" column="23" />
@@ -584,11 +598,12 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474900052334">
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474903567340">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+        <mark key="[" line="148" column="72" />
+        <mark key="]" line="149" column="40" />
+        <mark key="." line="149" column="40" />
+        <mark key="^" line="149" column="40" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/GarageFragment.java" timestamp="1471626601262">
         <mark key="[" line="58" column="50" />
@@ -1166,12 +1181,6 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/build.gradle" timestamp="1473602686262">
-        <mark key="'" line="23" column="52" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/BatteryAndFuelEfficiencyInfoBlock.java" timestamp="1462452758248">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="32" column="33" />
@@ -1460,6 +1469,13 @@
         <mark key="]" line="19" column="1" />
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyValidator.groovy" timestamp="1473955389891">
+        <mark key="'" line="43" column="57" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/util/AndroidResourceUtil.java" timestamp="1467738747335">
         <mark key="[" line="27" column="28" />
@@ -3248,8 +3264,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJ0aWZhCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13846,7 +13862,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wrappers</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>branch</text>
@@ -13858,25 +13874,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJ0aWZhCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBjb25maWd1cmUgeyBub2RlIC0+Ci8vICAgICAgICAgICAgICAgIGRlcGxveU1hdmVuIHRydWUKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJ0aWZhY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUgPDwgZGVwbG95TWF2ZW4gewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJ0aWZhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJ0aWZhY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVycyB7CiAgICAgICAgICAgIGNvbmZpZ3VyZSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgY29uZmlndXJlIHsgbm9kZSAtPgogICAgICAgICAgICBub2RlIDw8IGJ1aWxkV3JhcHBlcnMgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15164,13 +15180,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVycyB7CiAgICAgICAgICAgIGNvbmZpZ3VyZSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgY29uZmlndXJlIHsgbm9kZSAtPgogICAgICAgICAgICBub2RlIDw8IGJ1aWxkV3JhcHBlcnMgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZFdyYXBwZXJzIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRyZXBvTmFtZS8ke21vZHVsZX0vZw==</text>
