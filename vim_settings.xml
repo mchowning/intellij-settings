@@ -583,8 +583,8 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474927373045">
-        <mark key="'" line="256" column="32" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1474974193901">
+        <mark key="'" line="59" column="66" />
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
         <mark key="^" line="179" column="13" />
@@ -3139,10 +3139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="22" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
-      <jump line="107" column="27" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="225" column="29" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="79" column="4" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="112" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="139" column="11" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="96" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3209,7 +3205,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="65" column="21" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
@@ -3239,6 +3234,11 @@
       <jump line="212" column="18" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
       <jump line="214" column="12" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
       <jump line="215" column="28" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
+      <jump line="171" column="34" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="2" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="10" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="50" column="76" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="59" column="66" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13845,7 +13845,7 @@
         <text>TODO</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>jenkins</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBkZWYgcmVzdWx0ID0gYnVpbGQgam9iOiAiZGV2ZWxvcC1BbmRyb2lkL0dyYWRsZS1QbHVnaW4tY2xvbmUiLAovLyAgICAgICAgICAgICAgICAgICAgcGFyYW1ldGVyczogW1sgJGNsYXNzIDogJ1N0cmluZ1BhcmFtZXRlclZhbHVlJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgICA6ICdicmFuY2hfbmFtZScsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZSAgOiAiJHtlbnYuQlJBTkNIX05BTUV9IiBdXQo=</text>
@@ -15173,9 +15173,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>jenkins</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>jenkins</last-pattern>
       <last-replace>${module}</last-replace>
       <last-substitute>$repoName</last-substitute>
       <last-dir>1</last-dir>
@@ -15183,7 +15183,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trigger</entry>
         <entry encoding="base64">XDxidWlsZEpvYkxvY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
         <entry>asdlfj</entry>
@@ -15203,6 +15202,7 @@
         <entry>agPref</entry>
         <entry>prefix</entry>
         <entry>build</entry>
+        <entry>jenkins</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
