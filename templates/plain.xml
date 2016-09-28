@@ -1,0 +1,16 @@
+<templateSet group="plain">
+  <template name="prsfs" value="private static final String $varname$ = &quot;$value$&quot;;" description="private static final String" toReformat="false" toShortenFQNames="true">
+    <variable name="varname" expression="" defaultValue="VARIABLE_NAME" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="variable_value" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
