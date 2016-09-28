@@ -916,9 +916,9 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/build.gradle" timestamp="1475073292981">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="65" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/build.gradle" timestamp="1475078565580">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="25" column="19" />
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="18" />
       </file>
@@ -3477,7 +3477,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGFydGlmYWN0b3J5QmFzZVVybCA9ICdodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnknCmV4dC5hcnRpZmFjdG9yeSA9IFsKICAgICAgICBzbmFwc2hvdCA6ICIkYXJ0aWZhY3RvcnlCYXNlVXJsL2xpYnMtc25hcHNob3QiLAogICAgICAgIHJlbGVhc2UgOiAiJGFydGlmYWN0b3J5QmFzZVVybC9saWJzLXJlbGVhc2UiCl0KCmRlZiBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKSB7CiAgICBTdHJpbmcgdXNlckhvbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoICJ1c2VyLmhvbWUiICk7CiAgICBGaWxlIG1hdmVuU2V0dGluZ3MgPSBuZXcgRmlsZSh1c2VySG9tZSwgIi5tMi9zZXR0aW5ncy54bWwiKQoKICAgIHByaW50bG4gJ00yIHNldHRpbmdzOiAnICsgbWF2ZW5TZXR0aW5ncy5hYnNvbHV0ZVBhdGgKCiAgICBkZWYgeG1sU2x1cnBlciA9IG5ldyBYbWxTbHVycGVyKCkKICAgIGRlZiBvdXRwdXQgPSB4bWxTbHVycGVyLnBhcnNlKG1hdmVuU2V0dGluZ3MpCiAgICByZXR1cm4gb3V0cHV0LiJzZXJ2ZXJzIi4ic2VydmVyIgp9CgpkZWYgZ2V0Q3JlZGVudGlhbHMoc2VydmVySWQpIHsKICAgIGRlZiBlbnRyaWVzID0gZ2V0TWF2ZW5TZXR0aW5nc0NyZWRlbnRpYWxzKCkKICAgIGZvciAoZW50cnkgaW4gZW50cmllcykgewogICAgICAgIGlmICggZW50cnkuImlkIi50ZXh0KCkgPT0gc2VydmVySWQgKSB7CiAgICAgICAgICAgIHJldHVybiBbdXNlcm5hbWU6IGVudHJ5LnVzZXJuYW1lLnRleHQoKSwgcGFzc3dvcmQ6IGVudHJ5LnBhc3N3b3JkLnRleHQoKV0KICAgICAgICB9CiAgICB9Cn0KCmV4dC5tYXZlbl9yZXBvcyA9IFsKICAgICAgICByZWxlYXNlOiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIGRlZiByZWxlYXNlX2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMSIpCiAgICAgICAgICAgICAgICB1c2VybmFtZSByZWxlYXNlX2NyZWRzWyJ1c2VybmFtZSJdCiAgICAgICAgICAgICAgICBwYXNzd29yZCByZWxlYXNlX2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnJlbGVhc2UKICAgICAgICB9LAogICAgICAgIHNuYXBzaG90OiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzICAgewogICAgICAgICAgICAgICAgZGVmIHNuYXBzaG90X2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMS1zbmFwc2hvdHMiKQogICAgICAgICAgICAgICAgdXNlcm5hbWUgc25hcHNob3RfY3JlZHNbInVzZXJuYW1lIl0KICAgICAgICAgICAgICAgIHBhc3N3b3JkIHNuYXBzaG90X2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnNuYXBzaG90CiAgICAgICAgfQpdCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuIHsgdXJsICdodHRwczovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzLycgfQogICAgICAgIG1hdmVuIG1hdmVuX3JlcG9zLnJlbGVhc2UKICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5zbmFwc2hvdAogICAgICAgIG1hdmVuIHsgdXJsICdodHRwczovL21hdmVuLmZhYnJpYy5pby9wdWJsaWMnIH0KICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14079,8 +14079,8 @@
       <register name="/" type="4">
         <text>apt</text>
       </register>
-      <register name="0" type="4">
-        <text>com.neenbedankt.gradle.plugins:android-apt:1.4</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCiAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3Muc25hcHNob3QK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
