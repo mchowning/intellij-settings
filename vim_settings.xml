@@ -583,11 +583,12 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1475062930977">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="29" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1475066573766">
+        <mark key="'" line="17" column="68" />
+        <mark key="[" line="17" column="76" />
+        <mark key="]" line="17" column="76" />
+        <mark key="^" line="20" column="5" />
+        <mark key="." line="17" column="76" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/GarageFragment.java" timestamp="1471626601262">
         <mark key="[" line="58" column="50" />
@@ -3138,8 +3139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="91" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="92" column="17" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="94" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="97" column="4" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3238,13 +3237,15 @@
       <jump line="45" column="30" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="72" column="37" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="14" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="15" column="49" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="18" column="68" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -13841,7 +13842,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>def</text>
       </register>
       <register name="/" type="4">
         <text>asldjf</text>
@@ -13852,26 +13853,26 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">U3RyaW5nIG11bHRpam9iRXhjbHVkZWRCcmFuY2hlcyA9ICdpZ25vcmUqJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gWW91IHByb2JhYmx5IHdhbnQgdG8gYXBwbHkgYW55IGNoYW5nZXMgdG8gYm90aCBvZiB0aGVzZSB2YXJpYWJsZXMK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IAogICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gVGhpcyBpcyBvbmx5IGEgZ29vZC1lbm91Z2gtZm9yLW5vdyBnbG9iLXRvLXJlZ2V4IGNvbnZlcnNpb24uCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnByaW50bG4gImNhdGVnb3JpemF0aW9uUmVnZXg6ICRjYXRlZ29yaXphdGlvblJlZ2V4IgpwcmludGxuICJqdXN0IGpvaW46ICR7cmVsZXZhbnRCcmFuY2hlcy5qb2luKCd8Jyl9IgpwcmludGxuICJqdXN0IGVhY2ggcmVwbGFjZTogJHtyZWxldmFudEJyYW5jaGVzLmVhY2goe1N0cmluZyBzIC0+IHMucmVwbGFjZSgnKicsICcuKicpfSl9IgpwcmludGxuICJqdXN0IGVhY2ggYWxsOiAke3JlbGV2YW50QnJhbmNoZXMuZWFjaCh7U3RyaW5nIHMgLT4gJ14nICsgcy5yZXBsYWNlKCcqJywgJy4qJykgKyAnJCcgfSl9IgpwcmludGxuICJqdXN0IGVhY2ggYWxsIHJldHVybjogJHtyZWxldmFudEJyYW5jaGVzLmVhY2goe1N0cmluZyBzIC0+IHJldHVybiAnXicgKyBzLnJlcGxhY2UoJyonLCAnLionKSArICckJyB9KX0iCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnXicgKyBpdC5yZXBsYWNlKCcqJywgJy4qJykgKyAnJCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15159,13 +15160,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnRsbiAianVzdEoiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHMuaW5zZXJ0KDAsICdeJykuaW5zCg==</text>
+        <text encoding="base64">cHJpdmF0ZSBTdHJpbmcgZ2xvYlRvUmVnZXgoU3RyaW5nIGdsb2IpIHsKICAgIFN0cmluZyBjb252ZXJ0ZWQgPSBnbG9iLmNvbGxlY3QgeyBjaGFyIGMgLT4KICAgICAgICBpZiAoYyA9PSAnKicgYXMgY2hhcikgewogICAgICAgICAgICAnLionCiAgICAgICAgfSBlbHNlIGlmIChjID09ICc/JyBhcyBjaGFyKSB7CiAgICAgICAgICAgICcuJwogICAgICAgIH0gZWxzZSBpZiAoJygpW10kXi57fScpCiAgICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U3RyaW5nIGNhdGVnb3JpemF0aW9uUmVnZXggPSBtdWx0aWpvYkluY2x1ZGVkQnJhbmNoZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
