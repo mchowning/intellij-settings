@@ -20,6 +20,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1475008552358">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/fragment_pin.xml" timestamp="1471544246144">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -711,6 +714,9 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="20" column="27" />
       </file>
+      <file name="/Dummy.txt" timestamp="1475012034890">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/project-settings/jenkins/Jenkinsfile" timestamp="1473268416092">
         <mark key="'" line="177" column="19" />
         <mark key="[" line="163" column="21" />
@@ -825,6 +831,9 @@
         <mark key="]" line="66" column="47" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1467297455890">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij/cabal.config" timestamp="1418945387277">
         <mark key="[" line="0" column="0" />
@@ -1486,6 +1495,9 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="48" />
       </file>
+      <file name="/Scala Console" timestamp="1469891490981">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1473702646494">
         <mark key="'" line="203" column="12" />
         <mark key="[" line="0" column="18" />
@@ -1651,6 +1663,13 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/data/datasource/PersistedDataSourceTest.java" timestamp="1474567685913">
+        <mark key="'" line="430" column="8" />
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="0" />
+        <mark key="^" line="437" column="14" />
+        <mark key="." line="424" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/ui/appinfo/AppInfoFragmentPresenterTest.java" timestamp="1473432109080">
         <mark key="'" line="289" column="21" />
@@ -2225,7 +2244,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/buildscript.gradle" timestamp="1475073106918">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/buildscript.gradle" timestamp="1475075184389">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="43" column="0" />
@@ -2336,6 +2356,9 @@
         <mark key="]" line="15" column="122" />
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
+      </file>
+      <file name="/a.regexp" timestamp="1475075741498">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
@@ -3267,6 +3290,9 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="35" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranch.java" timestamp="1473519349581">
+        <mark key="[" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/src/main/java/com/gm/plugin/key_fob/fragments/BleHelpFragment.java" timestamp="1473958194078">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="16" />
@@ -3345,7 +3371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="776" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="63" column="105" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
@@ -3445,13 +3470,14 @@
       <jump line="17" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="65" column="32" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="154" column="38" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-assist/buildscript.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>com.neenbedankt.gradle.plugins:android-apt:1.4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGFydGlmYWN0b3J5QmFzZVVybCA9ICdodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnknCmV4dC5hcnRpZmFjdG9yeSA9IFsKICAgICAgICBzbmFwc2hvdCA6ICIkYXJ0aWZhY3RvcnlCYXNlVXJsL2xpYnMtc25hcHNob3QiLAogICAgICAgIHJlbGVhc2UgOiAiJGFydGlmYWN0b3J5QmFzZVVybC9saWJzLXJlbGVhc2UiCl0KCmRlZiBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKSB7CiAgICBTdHJpbmcgdXNlckhvbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoICJ1c2VyLmhvbWUiICk7CiAgICBGaWxlIG1hdmVuU2V0dGluZ3MgPSBuZXcgRmlsZSh1c2VySG9tZSwgIi5tMi9zZXR0aW5ncy54bWwiKQoKICAgIHByaW50bG4gJ00yIHNldHRpbmdzOiAnICsgbWF2ZW5TZXR0aW5ncy5hYnNvbHV0ZVBhdGgKCiAgICBkZWYgeG1sU2x1cnBlciA9IG5ldyBYbWxTbHVycGVyKCkKICAgIGRlZiBvdXRwdXQgPSB4bWxTbHVycGVyLnBhcnNlKG1hdmVuU2V0dGluZ3MpCiAgICByZXR1cm4gb3V0cHV0LiJzZXJ2ZXJzIi4ic2VydmVyIgp9CgpkZWYgZ2V0Q3JlZGVudGlhbHMoc2VydmVySWQpIHsKICAgIGRlZiBlbnRyaWVzID0gZ2V0TWF2ZW5TZXR0aW5nc0NyZWRlbnRpYWxzKCkKICAgIGZvciAoZW50cnkgaW4gZW50cmllcykgewogICAgICAgIGlmICggZW50cnkuImlkIi50ZXh0KCkgPT0gc2VydmVySWQgKSB7CiAgICAgICAgICAgIHJldHVybiBbdXNlcm5hbWU6IGVudHJ5LnVzZXJuYW1lLnRleHQoKSwgcGFzc3dvcmQ6IGVudHJ5LnBhc3N3b3JkLnRleHQoKV0KICAgICAgICB9CiAgICB9Cn0KCmV4dC5tYXZlbl9yZXBvcyA9IFsKICAgICAgICByZWxlYXNlOiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIGRlZiByZWxlYXNlX2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMSIpCiAgICAgICAgICAgICAgICB1c2VybmFtZSByZWxlYXNlX2NyZWRzWyJ1c2VybmFtZSJdCiAgICAgICAgICAgICAgICBwYXNzd29yZCByZWxlYXNlX2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnJlbGVhc2UKICAgICAgICB9LAogICAgICAgIHNuYXBzaG90OiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzICAgewogICAgICAgICAgICAgICAgZGVmIHNuYXBzaG90X2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMS1zbmFwc2hvdHMiKQogICAgICAgICAgICAgICAgdXNlcm5hbWUgc25hcHNob3RfY3JlZHNbInVzZXJuYW1lIl0KICAgICAgICAgICAgICAgIHBhc3N3b3JkIHNuYXBzaG90X2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnNuYXBzaG90CiAgICAgICAgfQpdCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
