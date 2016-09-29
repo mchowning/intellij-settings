@@ -2439,7 +2439,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1475169153445">
+      <file name="/a.regexp" timestamp="1475188436079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3032,8 +3032,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1474650369576">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1475188210420">
+        <mark key="'" line="104" column="31" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="49" />
         <mark key="^" line="0" column="2" />
@@ -3467,14 +3467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="105" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="20" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="21" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="22" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="24" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="25" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
       <jump line="79" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
       <jump line="87" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
       <jump line="95" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
@@ -3567,6 +3559,14 @@
       <jump line="592" column="14" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
       <jump line="526" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="260" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/jars/classes.jar!/com/gm/gemini/core/location/LocationFinder.class" />
+      <jump line="16" column="42" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="28" column="20" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="99" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="100" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="101" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="102" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="103" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="104" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14173,7 +14173,7 @@
         <text>@integer/default_animation_duration</text>
       </register>
       <register name="/" type="4">
-        <text>getCenterOfCountry</text>
+        <text>group</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGJ1bXBWZXJzaW9uKCkgewogICAgU3RyaW5nIGdyYWRsZVByb3BzRmlsZW5hbWUgPSAnZ3JhZGxlLnByb3BlcnRpZXMnCiAgICBTdHJpbmcgZ3JhZGxlUHJvcHMgPSByZWFkRmlsZSBncmFkbGVQcm9wc0ZpbGVuYW1lCi8vICAgIFN0cmluZyB2ZXJzaW9uID0gc2goc2NyaXB0OiAnc2VkIC1uRSBcJ3MvLip2ZXJzaW9uPVswLTldK1xcLlswLTldKy4oWzAtOV0rKS4qL1xcMS9wXCcgZ3JhZGxlLnByb3BlcnRpZXMnLCByZXR1cm5TdGRvdXQ6IHRydWUpLnRyaW0oKQogICAgLy8gKD9tKSBwb3J0aW9uIG9mIHRoZSBlbmFibGVzIG11bHRpLWxpbmUgbW9kZSBmb3IgdGhlIHJlZ2V4CiAgICBTdHJpbmcgbmV3R3JhZGxlUHJvcHMgPSBncmFkbGVQcm9wcy5yZXBsYWNlQWxsKC8oP20pXih2ZXJzaW9uPVxkK1wuXGQrXC4pKFxkKykkLykgewogICAgICAgIGZ1bGwsIHVuY2hhbmdpbmdQYXJ0T2ZWZXJzaW9uLCBkb3REb3RWZXJzaW9uTnVtIC0+CiAgICAgICAgICAgIGludCBuZXh0RG90RG90VmVyc2lvbk51bSA9IDEgKyBJbnRlZ2VyLnBhcnNlSW50KGRvdERvdFZlcnNpb25OdW0pCiAgICAgICAgICAgICIkZmlyc3RNYXRjaCRuZXh0RG90RG90VmVyc2lvbk51bSIKICAgIH0KICAgIHdyaXRlRmlsZShmaWxlOiBncmFkbGVQcm9wc0ZpbGVuYW1lLCB0ZXh0OiBuZXdHcmFkbGVQcm9wcykKfQo=</text>
@@ -15501,17 +15501,16 @@
       </register>
     </registers>
     <search>
-      <last-search>getCenterOfCountry</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>getCenterOfCountry</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>Password</last-replace>
       <last-substitute>Ssid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
         <entry>runCheck</entry>
         <entry>agPref</entry>
         <entry>prefix</entry>
@@ -15531,6 +15530,7 @@
         <entry>location</entry>
         <entry>noLocationRe</entry>
         <entry>getCenterOfCountry</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
