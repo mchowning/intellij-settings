@@ -219,6 +219,9 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" timestamp="1475169608834">
+        <mark key="'" line="526" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="3" />
@@ -1143,6 +1146,9 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/jars/classes.jar!/com/gm/gemini/core/location/LocationFinder.class" timestamp="1475169274256">
+        <mark key="'" line="260" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/VehicleInfoBlockHeaderPresenterIT.java" timestamp="1471531772211">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1997,6 +2003,9 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" timestamp="1475169031598">
+        <mark key="'" line="592" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/scripts/haskell-scripts/src/nexus-emu.hs" timestamp="1454773488136">
         <mark key="[" line="32" column="81" />
         <mark key="]" line="32" column="81" />
@@ -2429,6 +2438,9 @@
         <mark key="]" line="15" column="122" />
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
+      </file>
+      <file name="/a.regexp" timestamp="1475169153445">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
@@ -3455,10 +3467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="782" column="130" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="758" column="104" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="776" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="63" column="105" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
@@ -3555,6 +3563,10 @@
       <jump line="121" column="36" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
       <jump line="128" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
       <jump line="149" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
+      <jump line="575" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
+      <jump line="592" column="14" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
+      <jump line="526" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
+      <jump line="260" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/3.3.0-SNAPSHOT/jars/classes.jar!/com/gm/gemini/core/location/LocationFinder.class" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14161,7 +14173,7 @@
         <text>@integer/default_animation_duration</text>
       </register>
       <register name="/" type="4">
-        <text>stored</text>
+        <text>getCenterOfCountry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGJ1bXBWZXJzaW9uKCkgewogICAgU3RyaW5nIGdyYWRsZVByb3BzRmlsZW5hbWUgPSAnZ3JhZGxlLnByb3BlcnRpZXMnCiAgICBTdHJpbmcgZ3JhZGxlUHJvcHMgPSByZWFkRmlsZSBncmFkbGVQcm9wc0ZpbGVuYW1lCi8vICAgIFN0cmluZyB2ZXJzaW9uID0gc2goc2NyaXB0OiAnc2VkIC1uRSBcJ3MvLip2ZXJzaW9uPVswLTldK1xcLlswLTldKy4oWzAtOV0rKS4qL1xcMS9wXCcgZ3JhZGxlLnByb3BlcnRpZXMnLCByZXR1cm5TdGRvdXQ6IHRydWUpLnRyaW0oKQogICAgLy8gKD9tKSBwb3J0aW9uIG9mIHRoZSBlbmFibGVzIG11bHRpLWxpbmUgbW9kZSBmb3IgdGhlIHJlZ2V4CiAgICBTdHJpbmcgbmV3R3JhZGxlUHJvcHMgPSBncmFkbGVQcm9wcy5yZXBsYWNlQWxsKC8oP20pXih2ZXJzaW9uPVxkK1wuXGQrXC4pKFxkKykkLykgewogICAgICAgIGZ1bGwsIHVuY2hhbmdpbmdQYXJ0T2ZWZXJzaW9uLCBkb3REb3RWZXJzaW9uTnVtIC0+CiAgICAgICAgICAgIGludCBuZXh0RG90RG90VmVyc2lvbk51bSA9IDEgKyBJbnRlZ2VyLnBhcnNlSW50KGRvdERvdFZlcnNpb25OdW0pCiAgICAgICAgICAgICIkZmlyc3RNYXRjaCRuZXh0RG90RG90VmVyc2lvbk51bSIKICAgIH0KICAgIHdyaXRlRmlsZShmaWxlOiBncmFkbGVQcm9wc0ZpbGVuYW1lLCB0ZXh0OiBuZXdHcmFkbGVQcm9wcykKfQo=</text>
@@ -15489,19 +15501,16 @@
       </register>
     </registers>
     <search>
-      <last-search>stored</last-search>
+      <last-search>getCenterOfCountry</last-search>
       <last-offset />
-      <last-pattern>stored</last-pattern>
+      <last-pattern>getCenterOfCountry</last-pattern>
       <last-replace>Password</last-replace>
       <last-substitute>Ssid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>branch</entry>
-        <entry>discardOld</entry>
-        <entry>deployArt</entry>
         <entry>\/\/</entry>
         <entry>runCheck</entry>
         <entry>agPref</entry>
@@ -15519,6 +15528,9 @@
         <entry encoding="base64">XDxmdWxsUGF0aFw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZWRKb2JzVmlld1w+</entry>
         <entry encoding="base64">XDxhcnRpZmFjdElkXD4=</entry>
+        <entry>location</entry>
+        <entry>noLocationRe</entry>
+        <entry>getCenterOfCountry</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
