@@ -433,6 +433,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar!/com/google/common/base/Optional.java" timestamp="1474646614772">
         <mark key="'" line="83" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/anim/fade_in.xml" timestamp="1475163263406">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_2/multiAgents.py" timestamp="1426734718518">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -976,6 +982,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="12" column="49" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1474910855783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="156" column="9" />
+        <mark key="^" line="156" column="9" />
+        <mark key="." line="156" column="9" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/gradle/wrapper/gradle-wrapper.properties" timestamp="1462463304514">
         <mark key="[" line="5" column="68" />
@@ -2383,6 +2395,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/anim/fade_out.xml" timestamp="1475163270567">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/example1Jobs.groovy" timestamp="1474806059800">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="45" />
@@ -2986,12 +3004,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1474910855783">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="156" column="9" />
-        <mark key="^" line="156" column="9" />
-        <mark key="." line="156" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/git-add-remotes" timestamp="1471528905094">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -3549,7 +3561,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>@integer/default_animation_duration</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14146,7 +14158,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>@integer/default_animation_duration</text>
       </register>
       <register name="/" type="4">
         <text>stored</text>
