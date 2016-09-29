@@ -2004,6 +2004,11 @@
         <mark key="." line="244" column="0" />
         <mark key="^" line="244" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/model/HotspotData.java" timestamp="1475010749736">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="87" column="4" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/gemini/samples/settings.xml" timestamp="1470161581820">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="51" />
@@ -2279,6 +2284,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/WifiSettingsValidator.java" timestamp="1474657213446">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466265957051">
         <mark key="[" line="24" column="29" />
@@ -2591,9 +2601,9 @@
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PluginCacheControllerTest.java" timestamp="1474568727712">
         <mark key="'" line="67" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1475058625993">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1475153807652">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="3" />
+        <mark key="]" line="11" column="2" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week4/test_cases/testcase_71000.txt" timestamp="1423521817546">
@@ -3477,7 +3487,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgYXBwbHkgZnJvbTogJ2J1aWxkc2NyaXB0LmdyYWRsZScKCiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIG1hdmVuQ2VudHJhbCgpCiAgICAgICAgamNlbnRlcigpCiAgICAgICAgbWF2ZW4gbWF2ZW5fcmVwb3MucmVsZWFzZQogICAgICAgIG1hdmVuTG9jYWwoKQogICAgfQogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwogICAgICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjIuMS4zJwogICAgICAgIGNsYXNzcGF0aCAnY29tLm5lZW5iZWRhbmt0LmdyYWRsZS5wbHVnaW5zOmFuZHJvaWQtYXB0OjEuNCcKICAgICAgICBjbGFzc3BhdGggJ2NvbS5naXRodWIuZGNlbmRlbnRzOmFuZHJvaWQtbWF2ZW4tZ3JhZGxlLXBsdWdpbjoxLjQuMScKICAgIH0KfQo=</text>
+        <text encoding="base64">IyFncm9vdnkKCm5vZGUoJ2FuZHJvaWQnKSB7CiAgICB0cnkgewogICAgICAgIGRlbGV0ZURpcigpCiAgICAgICAgY2hlY2tvdXQgc2NtCiAgICAgICAgc2ggIi4vZ3JhZGxldyBnZXRTaGFyZWRKZW5raW5zRmlsZSIKICAgICAgICBsb2FkICdzaGFyZWRfSmVua2luc2ZpbGUnCiAgICB9IGZpbmFsbHkgewogICAgICAgIGRlbGV0ZURpcigpCiAgICB9Cn0oKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
