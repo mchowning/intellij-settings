@@ -152,7 +152,6 @@
         <mark key="^" line="28" column="10" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/WifiModule.java" timestamp="1475013379271" />
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/handler/HandlerCallback.java" timestamp="1466732513184">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="18" />
@@ -423,8 +422,11 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar!/com/google/common/base/Optional.java" timestamp="1474646614772">
-        <mark key="'" line="83" column="32" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/anim/fade_in.xml" timestamp="1475162762851">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_2/multiAgents.py" timestamp="1426734718518">
         <mark key="[" line="151" column="0" />
@@ -894,9 +896,6 @@
         <mark key="]" line="51" column="26" />
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/InfoBlockTwoLineHeader.java" timestamp="1474382774362">
-        <mark key="'" line="43" column="8" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/model/UnixTime.java" timestamp="1464568934765">
         <mark key="[" line="25" column="15" />
@@ -2095,9 +2094,6 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiHotspotUtilTest.java" timestamp="1475013256988">
-        <mark key="'" line="37" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/FileReadWriteServer.java" timestamp="1466047992663">
         <mark key="[" line="45" column="69" />
         <mark key="]" line="45" column="82" />
@@ -2312,6 +2308,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/anim/fade_out.xml" timestamp="1475162668566">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
@@ -2566,9 +2568,6 @@
         <mark key="]" line="18" column="4" />
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/orchestration/PluginCacheControllerTest.java" timestamp="1474568727712">
-        <mark key="'" line="67" column="17" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile" timestamp="1475153807652">
         <mark key="[" line="0" column="0" />
@@ -3455,8 +3454,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyFncm9vdnkKCm5vZGUoJ2FuZHJvaWQnKSB7CiAgICB0cnkgewogICAgICAgIGRlbGV0ZURpcigpCiAgICAgICAgY2hlY2tvdXQgc2NtCiAgICAgICAgc2ggIi4vZ3JhZGxldyBnZXRTaGFyZWRKZW5raW5zRmlsZSIKICAgICAgICBsb2FkICdzaGFyZWRfSmVua2luc2ZpbGUnCiAgICB9IGZpbmFsbHkgewogICAgICAgIGRlbGV0ZURpcigpCiAgICB9Cn0oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>@integer/default_animation_duration</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14053,7 +14052,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>@integer/default_animation_duration</text>
       </register>
       <register name="/" type="4">
         <text>apt</text>
