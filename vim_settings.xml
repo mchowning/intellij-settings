@@ -642,12 +642,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1475284455461">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="45" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1475424146866">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/GarageFragment.java" timestamp="1471626601262">
         <mark key="[" line="58" column="50" />
@@ -3509,8 +3508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="7" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="82" column="6" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
       <jump line="105" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
       <jump line="106" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
       <jump line="2" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
@@ -3604,18 +3601,20 @@
       <jump line="15" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
       <jump line="0" column="19" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
-      <jump line="0" column="21" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="73" column="1" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project/OmnibusBuildProperties.groovy" />
       <jump line="1" column="17" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.json" />
       <jump line="124" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="26" column="24" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>String</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14216,19 +14215,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>asdflj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnRsbiAianNvbjo6OiAkanNvbiIK</text>
+        <text encoding="base64">Ly8gVE9ETyB1c2Ugc2hhcmVkIGNvbnN0YW50Pwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">Zm9sZGVyKCJmb2xkZXJQYXRoLyIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14245,20 +14244,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>:
+ *
+ * (1)generated jobs, grouped by branch using the categorizationRegex; and</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3Sm9iLnJlcG9zIFsnZ2VtaW5pLXNlY3VyaXR5JywgJ2dlbWluaS1jb3JlLXNkaycsICdwbHVnaW4tYXNzaXN0J10K</text>
+        <text encoding="base64">U3RyaW5nIGluY2x1ZGVkQnJhbmNoZXMgPSByZWxldmFudEJyYW5jaEdsb2JzLmpvaW4oJyAnKQpTdHJpbmcgY2F0ZWdvcml6YXRpb25SZWdleCA9IHJlbGV2YW50QnJhbmNoZXMuam9pbignfCcpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bmV3Sm9iLmJyYW5jaE5hbWUgJ1ZhbGVudGluZScK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmV3Sm9iLgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdXNlIHNoYXJlZCBjb25zdGFudD8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmV3IEZpbGUoJ2pvYnMvYnVpbGRKb2JzLmpzb24nKS53cml0ZSgpCg==</text>
+        <text encoding="base64">Ly8gRklYTUUgdXNlIGFsbCAnYnJhbmNoZXMnIGZyb20ganNvbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15546,10 +15547,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">cHJpbnRsbiAib2JqZWN0Ojo6ICRvYmplY3QiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9hbGxSZXBvcyA9IFsnR0VNSU5JJywKLy8gICAgICAgICAgICAnR0VNSU5JLWNvcmUtc2RrJywKLy8gICAgICAgICAgICAnR0VNSU5JLXNlY3VyaXR5JywKLy8gICAgICAgICAgICAnZ3JhZGxlLXBsdWdpbnMnLAovLyAgICAgICAgICAgICdwbHVnaW4tYXNzaXN0JywKLy8gICAgICAgICAgICAncGx1Z2luLWF0eW91cnNlcnZpY2UnLAovLyAgICAgICAgICAgICdwbHVnaW4tYmxlJywKLy8gICAgICAgICAgICAncGx1Z2luLWRlYWxlci1sb2NhdGUnLAovLyAgICAgICAgICAgICdwbHVnaW4taGZjJywKLy8gICAgICAgICAgICAncGx1Z2luLWtleS1mb2InLAovLyAgICAgICAgICAgICdwbHVnaW4tbmF2JywKLy8gICAgICAgICAgICAncGx1Z2luLW93bmVyLW1hbnVhbCcsCi8vICAgICAgICAgICAgJ3BsdWdpbi1wYXJraW5nJywKLy8gICAgICAgICAgICAncGx1Z2luLXByZWZlcnJlZC1kZWFsZXInLAovLyAgICAgICAgICAgICdwbHVnaW4tcmVjYWxsJywKLy8gICAgICAgICAgICAncGx1Z2luLXJvYWRzaWRlLWFzc2lzdGFuY2UnLAovLyAgICAgICAgICAgICdwbHVnaW4tc2NoZWR1bGUtc2VydmljZScsCi8vICAgICAgICAgICAgJ3BsdWdpbi12ZWhpY2xlLXNlcnZpY2UnLAovLyAgICAgICAgICAgICdwbHVnaW4tdmVoaWNsZS1zdGF0dXMnLAovLyAgICAgICAgICAgICdwbHVnaW4td2lmaScgXQoKLy8gSXQgaXMgaW1wb3J0YW50IHRoYXQgdGhpcyBsaXN0IGNvbnRhaW4gYWxsIG9mIHRoZSBwbHVnaW4gcmVwb3MgYmVjYXVzZSB0aGlzIGxpc3QgaXMgcGFzc2VkIHRvCi8vIHRoZSBzaGFyZWQgamVua2lucyBmaWxlIGZvciB1c2UgaW4gY2hlY2tpbmcgZm9yIHBvc3NpYmxlIGRvd25zdHJlYW0gYnVpbGQgam9icwovL0FMTF9QTFVHSU5fUkVQT1MgPSBbICdwbHVnaW4tYXNzaXN0JywKLy8gICAgICAgICAgICAgICAgICAgJ3BsdWdpbi1hdHlvdXJzZXJ2aWNlJywKLy8gICAgICAgICAgICAgICAgICAgJ3BsdWdpbi1ibGUnLAovLyAgICAgICAgICAgICAgICAgICAncGx1Z2luLWRlYWxlci1sb2NhdGUnLAovLyAgICAgICAgICAgICAgICAgICAncGx1Z2luLWhmYycsCi8vICAgICAgICAgICAgICAgICAgICdwbHVnaW4ta2V5LWZvYicsCi8vICAgICAgICAgICAgICAgICAgICdwbHVnaW4tbmF2JywKLy8gICAgICAgICAgICAgICAgICAgJ3BsdWdpbi1vd25lci1tYW51YWwnLAovLyAgICAgICAgICAgICAgICAgICAncGx1Z2luLXBhcmtpbmcnLAovLyAgICAgICAgICAgICAgICAgICAncGx1Z2luLXByZWZlcnJlZC1kZWFsZXInLAovLyAgICAgICAgICAgICAgICAgICAncGx1Z2luLXJlY2FsbCcsCi8vICAgICAgICAgICAgICAgICAgICdwbHVnaW4tcm9hZHNpZGUtYXNzaXN0YW5jZScsCi8vICAgICAgICAgICAgICAgICAgICdwbHVnaW4tc2NoZWR1bGUtc2VydmljZScsCi8vICAgICAgICAgICAgICAgICAgICdwbHVnaW4tdmVoaWNsZS1zZXJ2aWNlJywKLy8gICAgICAgICAgICAgICAgICAgJ3BsdWdpbi12ZWhpY2xlLXN0YXR1cycsCi8vICAgICAgICAgICAgICAgICAgICdwbHVnaW4td2lmaScgXQovLwovL0dFTUlOSSA9ICdHRU1JTkknCi8vR0VNSU5JX0NPUkVfU0RLID0gJ0dFTUlOSS1jb3JlLXNkaycKLy9HRU1JTklfU0VDVVJJVFkgPSAnR0VNSU5JLXNlY3VyaXR5JwovL2dyYWRsZVBsdWdpbiA9ICdncmFkbGUtcGx1Z2lucycKLy8KLy9hbGxSZXBvcyA9IEFMTF9QTFVHSU5fUkVQT1MgKyBbR0VNSU5JLCBHRU1JTklfQ09SRV9TREssIEdFTUlOSV9TRUNVUklUWSwgZ3JhZGxlUGx1Z2luXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -15565,7 +15566,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
