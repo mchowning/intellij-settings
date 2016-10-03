@@ -771,6 +771,9 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" timestamp="1475509353181">
+        <mark key="'" line="1017" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/settings.gradle" timestamp="1473785958775">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="30" />
@@ -1008,11 +1011,11 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/plugin-roadside-assistance/src/main/java/com/gm/plugin/roadside_assistance/ui/fullscreen/RoadsideAssistanceFragment.java" timestamp="1475506141849">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/plugin-roadside-assistance/src/main/java/com/gm/plugin/roadside_assistance/ui/fullscreen/RoadsideAssistanceFragment.java" timestamp="1475509085687">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/mock-car-server.cabal" timestamp="1454468383963">
         <mark key="[" line="47" column="0" />
@@ -1084,6 +1087,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" timestamp="1475509275208">
+        <mark key="'" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/PluginAtYourService.java" timestamp="1473957540513">
         <mark key="[" line="93" column="0" />
@@ -3467,18 +3473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="102" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/WifiSettingsValidatorTest.java" />
-      <jump line="770" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="779" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="508" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="574" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="237" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="549" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="561" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="62" column="39" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="134" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="75" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
       <jump line="79" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
       <jump line="83" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
       <jump line="87" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/WifiHotspotUtil.java" />
@@ -3567,13 +3561,25 @@
       <jump line="104" column="31" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="200" column="11" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/plugin-roadside-assistance/src/main/java/com/gm/plugin/roadside_assistance/ui/card/RoadsideAssistanceQuickView.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/UriLoadWebView.java" />
+      <jump line="1061" column="28" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1064" column="24" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1066" column="27" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1067" column="16" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1069" column="31" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="902" column="70" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="924" column="70" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1010" column="31" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1012" column="65" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1014" column="31" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
+      <jump line="1017" column="40" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-23/android/webkit/WebSettings.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb29raWVNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -14173,7 +14179,7 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb29raWVNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
@@ -14182,25 +14188,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvb2tpZU1hbmFnZXIucmVtb3ZlU2Vzc2lvbkNvb2tpZXMobnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmNsZWFyRm9ybURhdGEoKTsKICAgICAgICB3ZWJWaWV3LmNsZWFySGlzdG9yeSgpOwogICAgICAgIHdlYlZpZXcuY2xlYXJDYWNoZSh0cnVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvb2tpZU1hbmFnZXIucmVtb3ZlU2Vzc2lvbkNvb2tpZXMobnVsbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvb2tpZVN5bmNNYW5hZ2VyLmNyZWF0ZUluc3RhbmNlKHYuZ2V0Q29udGV4dCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYlZpZXdEYXRhYmFzZS5nZXRJbnN0YW5jZSh2LmdldENvbnRleHQoKSkuY2xlYXJGb3JtRGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvb2tpZVN5bmNNYW5hZ2VyLmNyZWF0ZUluc3RhbmNlKHYuZ2V0Q29udGV4dCgpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15488,31 +15494,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvb2tpZU1hbmFnZXIuZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYuZ2V0Q29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYlZpZXdEYXRhYmFzZS5nZXRJbnN0YW5jZSh2LmdldENvbnRleHQoKSkuY2xlYXJGb3JtRGF0YSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvb2tpZU1hbmFnZXIuZwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1NzaWQvUGFzc3dvcmQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>Password</last-replace>
       <last-substitute>Ssid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>agPref</entry>
-        <entry>prefix</entry>
         <entry>build</entry>
         <entry>jenkins</entry>
         <entry encoding="base64">XDxnZW1pbmlcPg==</entry>
@@ -15531,6 +15535,8 @@
         <entry>getCenterOfCountry</entry>
         <entry>group</entry>
         <entry>api</entry>
+        <entry>dom</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
