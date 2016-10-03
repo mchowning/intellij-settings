@@ -641,12 +641,11 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1475428031644">
-        <mark key="'" line="9" column="10" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="85" />
-        <mark key="." line="47" column="85" />
-        <mark key="^" line="47" column="85" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" timestamp="1475457265643">
+        <mark key="[" line="76" column="86" />
+        <mark key="]" line="76" column="84" />
+        <mark key="^" line="76" column="84" />
+        <mark key="." line="76" column="84" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/GarageFragment.java" timestamp="1471626601262">
         <mark key="[" line="58" column="50" />
@@ -2794,12 +2793,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" timestamp="1475455535949">
-        <mark key="'" line="238" column="28" />
-        <mark key="[" line="274" column="31" />
-        <mark key="]" line="275" column="43" />
-        <mark key="^" line="275" column="43" />
-        <mark key="." line="275" column="43" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" timestamp="1475458429309">
+        <mark key="'" line="137" column="78" />
+        <mark key="[" line="36" column="65" />
+        <mark key="]" line="36" column="65" />
+        <mark key="." line="36" column="65" />
+        <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw2.hs" timestamp="1420481693331">
         <mark key="[" line="1" column="7" />
@@ -3479,38 +3478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="44" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="646" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="668" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="732" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="755" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="767" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="156" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="209" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="153" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="677" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="687" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="664" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenterTest.java" />
-      <jump line="210" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="345" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="350" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="12" column="50" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="119" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="348" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="126" column="16" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="127" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="286" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/fullscreen/EditHotspotInfoBlockPresenter.java" />
-      <jump line="877" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="858" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="868" column="19" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="899" column="48" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="903" column="78" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="17" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/datasource/PersistedDataSource.java" />
-      <jump line="78" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/WifiHotspotUtil.java" />
-      <jump line="26" column="56" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" />
-      <jump line="28" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" />
       <jump line="38" column="26" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" />
       <jump line="3" column="37" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" />
       <jump line="17" column="18" filename="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/ui/card/WifiQuickViewPresenter.java" />
@@ -3550,7 +3517,6 @@
       <jump line="55" column="58" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" />
       <jump line="57" column="44" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" />
-      <jump line="150" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="15" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
       <jump line="0" column="19" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
@@ -3569,23 +3535,56 @@
       <jump line="148" column="23" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="8" column="30" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="9" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
-      <jump line="26" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="16" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="145" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
       <jump line="252" column="41" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="37" column="4" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="201" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="42" column="9" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="285" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="243" column="28" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="254" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="271" column="49" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="272" column="78" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="276" column="96" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="21" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="25" column="75" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="26" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="36" column="98" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="41" column="48" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="42" column="50" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="44" column="58" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="45" column="57" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="47" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="51" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="52" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="60" column="51" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="85" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="88" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="89" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="93" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="94" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="101" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="103" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="104" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="111" column="42" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="113" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="114" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="141" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="149" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="150" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="146" column="25" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="261" column="6" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="121" column="11" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
+      <jump line="124" column="78" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFzIFN0cmluZw==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14186,19 +14185,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text encoding="base64">IGFzIFN0cmluZw==</text>
       </register>
       <register name="/" type="4">
-        <text>read</text>
+        <text>PLUGINS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImFsbFBsdWdpblJlcG9zID0gJGFsbFBsdWdpblJlcG9zIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGVjaG8gIkFMTF9QTFVHSU4gPSAkaXQiIA==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14216,19 +14215,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRFU1RJTkcKLy8gICAgZWNobyAiY29uZmlnID0gJGNvbmZpZyIKCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIkFMTF9QTFVHSU5fUkVQT1MgPSAke2Vudi5BTExfUExVR0lOX1JFUE9TfSIKICAgIGVudi5BTExfUExVR0lOX1JFUE9TLmVhY2ggeyBlY2hvICJBTExfUExVR0lOID0gJGl0IiB9CiAgICBlY2hvICJQTFVHSU5TID0gJHtlbnYuUExVR0lOU30iCiAgICBlbnYuUExVR0lOUy5lYWNoIHsgZWNobyAiUExVR0lOUyA9ICRpdCIgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImFsbFJlcG9zID0gJGFsbFJlcG9zIgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgJ0dFTUlOSScgICAgICAgICAgICAgIDogYnVpbGRQcm9wZXJ0ZXMuR0VNSU5JLAovLyAgICAgICAgICAgICAgICAgICAnR0VNSU5JX0NPUkVfU0RLJyAgICAgOiBidWlsZFByb3BlcnRpZXMuR0VNSU5JX0NPUkVfU0RLLAovLyAgICAgICAgICAgICAgICAgICAnR0VNSU5JX1NFQ1VSSVRZJyAgICAgOiBidWlsZFByb3BlcnRpZXMuR0VNSU5JX1NFQ1VSSVRZCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWxsUGx1Z2luUmVwb3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15516,22 +15515,23 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBDb25maWdTbHVycGVyKCkucGFyc2UocHJvcEZpbGUpCg==</text>
+        <text encoding="base64">YnVpbGRQcm9wZXJ0aWVzID0gbmV3IENvbmZpZ1NsdXJwZXIoKS5wYXJzZSByZWFkRmlsZUZyb21Xb3Jrc3BhY2UoJ2pvYnMvT21uaWJ1c0J1aWxkUHJvcGVydGllcy5ncm9vdnknKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGNvbmZpZyA9IG5ldyBDb25maWdTbHVycGVyKCkucGFyc2UobmV3IEZpbGUoJ09tbmlidXNCdWlsZFByb3BlcnRpZXMuZ3Jvb3Z5JykudG9VUkwoKSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImNvbmZpZyA9ICRjb25maWciCg==</text>
+      <register name="9" type="4">
+        <text>,
+                                   OmnibusBuildJobConfig buildJobConfig</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>read</last-search>
+      <last-search>PLUGINS</last-search>
       <last-offset />
-      <last-pattern>read</last-pattern>
+      <last-pattern>PLUGINS</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15539,9 +15539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alsdjf</entry>
-        <entry encoding="base64">XDxncmFkbGVQcm9wc0ZpbGVuYW1lXD4=</entry>
-        <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
         <entry>stage</entry>
         <entry>newVersion</entry>
         <entry>gradleProps</entry>
@@ -15559,6 +15556,9 @@
         <entry>REPO_NAME</entry>
         <entry>project-settings</entry>
         <entry>read</entry>
+        <entry>env.</entry>
+        <entry>gemini</entry>
+        <entry>PLUGINS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
