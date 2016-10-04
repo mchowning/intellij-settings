@@ -1409,8 +1409,8 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1475158398317">
-        <mark key="'" line="181" column="12" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1475550623543">
+        <mark key="'" line="93" column="11" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -2139,7 +2139,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1475523117883">
+      <file name="/a.regexp" timestamp="1475550610636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2962,9 +2962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="60" column="51" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="85" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="88" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="89" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="93" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3062,6 +3059,9 @@
       <jump line="74" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/shared_jenkinsfile.groovy" />
       <jump line="86" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/shared_jenkinsfile.groovy" />
       <jump line="182" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
+      <jump line="126" column="15" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="49" column="52" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="93" column="11" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13672,7 +13672,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZE1vZHVsZVw+</text>
+        <text>kldslkj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAiOiR7bW9kdWxlfTphc3NlbWJsZVJlbGVhc2UgOiR7bW9kdWxlfTp0ZXN0UmVsZWFzZSB1cGxvYWRBcmNoaXZlcyIK</text>
@@ -15012,9 +15012,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZE1vZHVsZVw+</last-search>
+      <last-search>kldslkj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZE1vZHVsZVw+</last-pattern>
+      <last-pattern>kldslkj</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15022,8 +15022,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asflj</entry>
-        <entry>gitcheckout</entry>
         <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzRGVmYXVsdFZhbHVlXD4=</entry>
         <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzXD4=</entry>
         <entry>runDownStreamBuildString</entry>
@@ -15042,6 +15040,8 @@
         <entry>cleanNode</entry>
         <entry>cleanScm</entry>
         <entry encoding="base64">XDxidWlsZE1vZHVsZVw+</entry>
+        <entry>all</entry>
+        <entry>kldslkj</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
