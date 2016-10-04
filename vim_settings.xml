@@ -555,12 +555,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1475586102359">
-        <mark key="[" line="48" column="73" />
-        <mark key="]" line="48" column="77" />
-        <mark key="." line="48" column="77" />
-        <mark key="^" line="48" column="77" />
-      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1475588432214" />
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/utils/TimeUtil.java" timestamp="1464568844136">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
@@ -1319,10 +1314,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" timestamp="1475547996522">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" timestamp="1475588916659">
+        <mark key="[" line="140" column="56" />
+        <mark key="]" line="140" column="77" />
+        <mark key="." line="140" column="77" />
+        <mark key="^" line="140" column="77" />
       </file>
       <file name="$USER_HOME$/dev/haskell/class/src/downloader.hs" timestamp="1419966316631">
         <mark key="[" line="9" column="90" />
@@ -1518,11 +1514,11 @@
         <mark key="^" line="160" column="6" />
         <mark key="." line="160" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/build.gradle" timestamp="1475523116218">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/build.gradle" timestamp="1475588596442">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/gradle/wrapper/gradle-wrapper.properties" timestamp="1462474435720">
         <mark key="[" line="5" column="69" />
@@ -2888,6 +2884,11 @@
         <mark key="^" line="65" column="38" />
         <mark key="." line="65" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/resources/jenkinsfiles/shared_Jenkinsfile.groovy" timestamp="1475588727246">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/test/java/com/mattchowning/file_read_write/server/handler/ServerOAuthVerificationHandlerTest.java" timestamp="1466865730283">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="68" column="56" />
@@ -3074,7 +3075,9 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>module.equalsIgnoreCase(env.GEMINI_SECURITY) ?
+                          'assembleSecurityArtifacts install uploadArchives' :
+                          &quot;:${module}:assembleRelease :${module}:testRelease uploadArchives&quot;</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13675,19 +13678,21 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>kldslkj</text>
+        <text>alskdjf</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;${project.buildDir}/jenkinsfiles/&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZyb20oJy4uL3NjcmlwdHMnKSB7CiAgICAgICAgaW5jbHVkZSAndmVyc2lvbnMuZ3JhZGxlJwogICAgICAgIGluY2x1ZGUgJ2RlcGVuZGVuY2llcy5ncmFkbGUnCiAgICAgICAgaW5jbHVkZSAncGx1Z2luLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdwbHVnaW5fYXBwLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdhcHBfc2hhcmVkLmdyYWRsZScKICAgICAgICBpbmNsdWRlICd1dGlscy5ncmFkbGUnCiAgICAgICAgaW5jbHVkZSAncHVibGlzaF9hcnRpZmFjdC5ncmFkbGUnCiAgICAgICAgaW5jbHVkZSAnamVua2luc2ZpbGVzLyonCiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAiZGlyZWN0b3J5ID0gJHtwcm9qZWN0LmJ1aWxkRGlyfS9qZW5raW5zZmlsZXMvIgo=</text>
+      <register name="1" type="4">
+        <text>module.equalsIgnoreCase(env.GEMINI_SECURITY) ?
+                          'assembleSecurityArtifacts install uploadArchives' :
+                          &quot;:${module}:assembleRelease :${module}:testRelease uploadArchives&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13705,19 +13710,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjcHMgewovLyAgICAgICAgICAgICAgICBzY3JpcHQgcmVhZEZpbGVGcm9tV29ya3NwYWNlKCdzaGFyZWRfamVua2luc2ZpbGUuZ3Jvb3Z5JykKLy8gICAgICAgICAgICAgICAgc2FuZGJveCB0cnVlCi8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGludG8gJ3NyYy9tYWluL3Jlc291cmNlcycK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIGVudgo=</text>
+        <text encoding="base64">Ly8gICAgZnJvbSgnLi4vc2NyaXB0cycpIHsKLy8gICAgICAgIGluY2x1ZGUgJ3ZlcnNpb25zLmdyYWRsZScKLy8gICAgICAgIGluY2x1ZGUgJ2RlcGVuZGVuY2llcy5ncmFkbGUnCi8vICAgICAgICBpbmNsdWRlICdwbHVnaW4uZ3JhZGxlJwovLyAgICAgICAgaW5jbHVkZSAncGx1Z2luX2FwcC5ncmFkbGUnCi8vICAgICAgICBpbmNsdWRlICdhcHBfc2hhcmVkLmdyYWRsZScKLy8gICAgICAgIGluY2x1ZGUgJ3V0aWxzLmdyYWRsZScKLy8gICAgICAgIGluY2x1ZGUgJ3B1Ymxpc2hfYXJ0aWZhY3QuZ3JhZGxlJwovLyAgICAgICAgaW5jbHVkZSAnamVua2luc2ZpbGVzLyonCi8vICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgcGF0aCA9IGdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgnc2hhcmVkX0plbmtpbnNmaWxlLmdyb292eScpLnBhdGgK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAicGF0aCA9ICRwYXRoIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15004,23 +15009,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZGl0aW9uYWxUYXNrcwo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2b2lkIGFkZFRhc2tzKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
       </register>
     </registers>
     <search>
-      <last-search>kldslkj</last-search>
+      <last-search>alskdjf</last-search>
       <last-offset />
-      <last-pattern>kldslkj</last-pattern>
+      <last-pattern>alskdjf</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15028,8 +15033,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzRGVmYXVsdFZhbHVlXD4=</entry>
-        <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzXD4=</entry>
         <entry>runDownStreamBuildString</entry>
         <entry>String</entry>
         <entry>asldfj</entry>
@@ -15048,6 +15051,8 @@
         <entry encoding="base64">XDxidWlsZE1vZHVsZVw+</entry>
         <entry>all</entry>
         <entry>kldslkj</entry>
+        <entry>alsdfj</entry>
+        <entry>alskdjf</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
