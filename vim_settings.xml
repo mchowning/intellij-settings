@@ -515,10 +515,11 @@
         <mark key="^" line="38" column="6" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile.groovy" timestamp="1475548909272">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile.groovy" timestamp="1475584299883">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/build.gradle" timestamp="1465231181824">
         <mark key="[" line="33" column="19" />
@@ -1609,11 +1610,11 @@
         <mark key="^" line="11" column="108" />
         <mark key="." line="11" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1475547604981">
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="13" column="72" />
-        <mark key="." line="13" column="72" />
-        <mark key="^" line="13" column="72" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/build.gradle" timestamp="1475584361219">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="61" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts-cabal/scripts-cabal.cabal" timestamp="1448644119981">
         <mark key="[" line="20" column="32" />
@@ -3132,8 +3133,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13734,13 +13735,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>jenkinsfile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGFydGlmYWN0b3J5QmFzZVVybCA9ICdodHRwOi8vb25zcm5kMWFkYy1hcjAxLml0bGFiLm9uc3Rhci5nbS5jb20vYXJ0aWZhY3RvcnknCmV4dC5hcnRpZmFjdG9yeSA9IFsKICAgICAgICBzbmFwc2hvdCA6ICIkYXJ0aWZhY3RvcnlCYXNlVXJsL2xpYnMtc25hcHNob3QiLAogICAgICAgIHJlbGVhc2UgOiAiJGFydGlmYWN0b3J5QmFzZVVybC9saWJzLXJlbGVhc2UiCl0KCmRlZiBnZXRNYXZlblNldHRpbmdzQ3JlZGVudGlhbHMoKSB7CiAgICBTdHJpbmcgdXNlckhvbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoICJ1c2VyLmhvbWUiICk7CiAgICBGaWxlIG1hdmVuU2V0dGluZ3MgPSBuZXcgRmlsZSh1c2VySG9tZSwgIi5tMi9zZXR0aW5ncy54bWwiKQoKICAgIHByaW50bG4gJ00yIHNldHRpbmdzOiAnICsgbWF2ZW5TZXR0aW5ncy5hYnNvbHV0ZVBhdGgKCiAgICBkZWYgeG1sU2x1cnBlciA9IG5ldyBYbWxTbHVycGVyKCkKICAgIGRlZiBvdXRwdXQgPSB4bWxTbHVycGVyLnBhcnNlKG1hdmVuU2V0dGluZ3MpCiAgICByZXR1cm4gb3V0cHV0LiJzZXJ2ZXJzIi4ic2VydmVyIgp9CgpkZWYgZ2V0Q3JlZGVudGlhbHMoc2VydmVySWQpIHsKICAgIGRlZiBlbnRyaWVzID0gZ2V0TWF2ZW5TZXR0aW5nc0NyZWRlbnRpYWxzKCkKICAgIGZvciAoZW50cnkgaW4gZW50cmllcykgewogICAgICAgIGlmICggZW50cnkuImlkIi50ZXh0KCkgPT0gc2VydmVySWQgKSB7CiAgICAgICAgICAgIHJldHVybiBbdXNlcm5hbWU6IGVudHJ5LnVzZXJuYW1lLnRleHQoKSwgcGFzc3dvcmQ6IGVudHJ5LnBhc3N3b3JkLnRleHQoKV0KICAgICAgICB9CiAgICB9Cn0KCmV4dC5tYXZlbl9yZXBvcyA9IFsKICAgICAgICByZWxlYXNlOiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKICAgICAgICAgICAgICAgIGRlZiByZWxlYXNlX2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMSIpCiAgICAgICAgICAgICAgICB1c2VybmFtZSByZWxlYXNlX2NyZWRzWyJ1c2VybmFtZSJdCiAgICAgICAgICAgICAgICBwYXNzd29yZCByZWxlYXNlX2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnJlbGVhc2UKICAgICAgICB9LAogICAgICAgIHNuYXBzaG90OiB7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzICAgewogICAgICAgICAgICAgICAgZGVmIHNuYXBzaG90X2NyZWRzID0gZ2V0Q3JlZGVudGlhbHMoIm9uc3JuZDFhZGMtYXIwMS1zbmFwc2hvdHMiKQogICAgICAgICAgICAgICAgdXNlcm5hbWUgc25hcHNob3RfY3JlZHNbInVzZXJuYW1lIl0KICAgICAgICAgICAgICAgIHBhc3N3b3JkIHNuYXBzaG90X2NyZWRzWyJwYXNzd29yZCJdCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdXJsIGFydGlmYWN0b3J5LnNuYXBzaG90CiAgICAgICAgfQpdCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
