@@ -649,12 +649,12 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1475613404237">
-        <mark key="'" line="93" column="63" />
-        <mark key="[" line="24" column="99" />
-        <mark key="]" line="24" column="99" />
-        <mark key="^" line="24" column="99" />
-        <mark key="." line="24" column="99" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1475616266169">
+        <mark key="'" line="61" column="16" />
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="31" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
@@ -1254,11 +1254,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" timestamp="1475604041077">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" timestamp="1475616198315">
         <mark key="'" line="154" column="37" />
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
         <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/dev/haskell/class/src/downloader.hs" timestamp="1419966316631">
@@ -1771,11 +1771,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475609392021">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475616525203">
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="98" />
+        <mark key="^" line="41" column="98" />
+        <mark key="." line="41" column="98" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
@@ -2871,7 +2871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="11" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="46" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="52" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="59" column="27" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -2971,13 +2970,14 @@
       <jump line="12" column="15" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" />
       <jump line="27" column="15" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" />
       <jump line="151" column="37" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" />
+      <jump line="61" column="16" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>plugins</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gc3BlY2lhbCBoYW5kbGluZyBmb3IgZ2VtaW5pLWNvcmUtc2RrCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13578,19 +13578,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>plugins</text>
+        <text>gradlePlugin</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>slurper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBUaGUgSmVua2luc2ZpbGUgcmVxaW9yZXMgdGhhdCB0aGUgdmVyc2lvbiBtYXRjaCByZWdleCBvZiB0aGUgZm9ybQojIChcdyotP1xkK1wuXGQrXC5cZCspLCBpLmUuIE1lc3Nlbmdlci0xLjAuMTIgb3IgMy4xLjIgYXJlIGJvdGggcHJvcGVyCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gc3BlY2lhbCBoYW5kbGluZyBmb3IgZ2VtaW5pLWNvcmUtc2RrCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gc3BlY2lhbCBoYW5kbGluZyBmb3IgZ2VtaW5pLWNvcmUtc2RrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13607,20 +13607,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gVE9ETyBmYWlsIGJ1aWxkIGlmIGFuIHVwc3RyZWFtIGRlcGVuZGVuY3kgaXMgbm90IGNoZWNrZWQ/IChjb3VsZCBoYXZlIHNwZWNpYWwgaGFuZGxpbmcgZm9yIGdlbWluaS1zZWN1cml0eSkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JyArCiAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gVE9ETyBmYWlsIGJ1aWxkIGlmIGFuIHVwc3RyZWFtIGRlcGVuZGVuY3kgaXMgbm90IGNoZWNrZWQ/IChjb3VsZCBoYXZlIHNwZWNpYWwgaGFuZGxpbmcgZm9yIGdlbWluaS1zZWN1cml0eSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gVE9ETyBzY3JpcHQgbmVlZHMgdG8gdXBkYXRlIGJ1aWxkSm9icy5qc29uIGZpbGUK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14907,23 +14907,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gVE9ETyBzY3JpcHQgbmVlZHMgdG8gdXBkYXRlIG9tbmlidXMtcGx1Z2luIHZlcnNpb24gaW4gZXZlcnkgbmV3IHJlcG8K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja291dCBzY20KICAgICAgICBpZiAoZGlkSmVua2luc0F1dGhvck1vc3RSZWNlbnRDb21taXQoKSkgewogICAgICAgICAgICBlY2hvICdOT1QgYnVpbGRpbmcgcGx1Z2luIGJlY2F1c2UgdGhlIG1vc3QgcmVjZW50IGNvbW1pdCB3YXMgYnkgSmVua2lucycKICAgICAgICB9IGVsc2UgewoKICAgICAgICAgICAgc3RhZ2UgJ0J1aWxkaW5nIE9tbmlidXMtUGx1Z2luJwogICAgICAgICAgICBhZGRBcnRpZmFjdG9yeUNyZWRlbnRpYWxzVG9FbnZpcm9ubWVudCgpCiAgICAgICAgICAgIHNoICcuL2dyYWRsZXcgY2xlYW4gYXNzZW1ibGUgYXJ0aWZhY3RvcnlQdWJsaXNoIC0tcmVmcmVzaC1kZXBlbmRlbmNpZXMnCgogICAgICAgICAgICAvLyAgICAgICAgICAgIHN0YWdlICdUYWdnaW5nJwogICAgICAgICAgICAvLyAgICAgICAgICAgIE1hcDxTdHJpbmcsU3RyaW5nPiBncmFkbGVQcm9wcyA9IGdldEdyYWRsZVByb3BzKCkKICAgICAgICAgICAgLy8gICAgICAgICAgICBhZGRUYWdUb0N1cnJlbnRIZWFkQ29tbWl0KGdyYWRsZVByb3BzLm9sZFZlcnNpb24pCgogICAgICAgICAgICBzdGFnZSAnSW5jcmVtZW50aW5nIFZlcnNpb24nCiAgICAgICAgICAgIGluY3JlbWVudFZlcnNpb25BbmRBZGRDb21taXQoZ3JhZGxlUHJvcHMpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gVE9ETyBzY3JpcHQgbmVlZHMgdG8gdXBkYXRlIGdyYWRsZS5wcm9wZXJ0aWVzIGluIGdyYWRsZS1wbHVnaW5zCi8vIFRPRE8gc2NyaXB0IG5lZWRzIHRvIHVwZGF0ZSB2ZXJzaW9ucy5ncmFkbGUgaW4gZ3JhZGxlLXBsdWdpbnMK</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>slurper</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>slurper</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -14931,7 +14931,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asldfj</entry>
         <entry>build</entry>
         <entry>&quot;,&quot;</entry>
         <entry>split</entry>
@@ -14951,6 +14950,7 @@
         <entry>matt</entry>
         <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nXD4=</entry>
         <entry>asdlfj</entry>
+        <entry>slurper</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
