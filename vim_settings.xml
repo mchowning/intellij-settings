@@ -471,10 +471,11 @@
         <mark key="^" line="8" column="63" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1475548399817">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile" timestamp="1475592532054">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info_table_row.xml" timestamp="1469123511740">
         <mark key="[" line="22" column="10" />
@@ -823,11 +824,11 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1475523521073">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1475594330895">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="56" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/model/UnixTime.java" timestamp="1464568934765">
         <mark key="[" line="25" column="15" />
@@ -1093,11 +1094,11 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1475585579216">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1475594495985">
         <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="31" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/Main.hs" timestamp="1448639622621">
         <mark key="[" line="5" column="7" />
@@ -1215,6 +1216,7 @@
         <mark key="^" line="49" column="5" />
         <mark key="." line="49" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/postBuildPipelines.groovy" timestamp="1475592869650" />
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/StringCalculator.hs" timestamp="1423765412634">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="3" column="21" />
@@ -1256,6 +1258,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="50" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/pipelines.groovy" timestamp="1475592623203">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="6" />
+        <mark key="." line="49" column="6" />
+        <mark key="^" line="49" column="6" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/VehicleStatusFragmentModule.java" timestamp="1461250734409">
         <mark key="[" line="2" column="0" />
@@ -1314,11 +1322,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" timestamp="1475588916659">
-        <mark key="[" line="140" column="56" />
-        <mark key="]" line="140" column="77" />
-        <mark key="." line="140" column="77" />
-        <mark key="^" line="140" column="77" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" timestamp="1475593929460">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="139" column="77" />
       </file>
       <file name="$USER_HOME$/dev/haskell/class/src/downloader.hs" timestamp="1419966316631">
         <mark key="[" line="9" column="90" />
@@ -2325,6 +2333,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/currentRepoBuilder.groovy" timestamp="1475593736585">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OtherExtension.groovy" timestamp="1473857254707">
         <mark key="[" line="3" column="59" />
         <mark key="]" line="3" column="103" />
@@ -2931,6 +2945,13 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" timestamp="1475594056446">
+        <mark key="'" line="90" column="5" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/katas/FizzBuzz/java/src/main/java/FizzBuzz.java" timestamp="1411341967480">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="29" />
@@ -2969,13 +2990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="89" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="93" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="94" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="101" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="103" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="104" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="111" column="42" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="113" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="114" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3069,15 +3083,20 @@
       <jump line="126" column="15" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="49" column="52" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="93" column="11" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" />
+      <jump line="6" column="8" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" />
+      <jump line="21" column="8" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" />
+      <jump line="38" column="4" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" />
+      <jump line="51" column="4" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" />
+      <jump line="61" column="4" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" />
+      <jump line="83" column="5" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/jenkinsfiles/shared_Jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>module.equalsIgnoreCase(env.GEMINI_SECURITY) ?
-                          'assembleSecurityArtifacts install uploadArchives' :
-                          &quot;:${module}:assembleRelease :${module}:testRelease uploadArchives&quot;</text>
+        <text>9</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13678,21 +13697,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>alskdjf</text>
+        <text encoding="base64">XDxidWlsZFJlcG9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyb20oJy4uL3NjcmlwdHMnKSB7CiAgICAgICAgaW5jbHVkZSAndmVyc2lvbnMuZ3JhZGxlJwogICAgICAgIGluY2x1ZGUgJ2RlcGVuZGVuY2llcy5ncmFkbGUnCiAgICAgICAgaW5jbHVkZSAncGx1Z2luLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdwbHVnaW5fYXBwLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdhcHBfc2hhcmVkLmdyYWRsZScKICAgICAgICBpbmNsdWRlICd1dGlscy5ncmFkbGUnCiAgICAgICAgaW5jbHVkZSAncHVibGlzaF9hcnRpZmFjdC5ncmFkbGUnCiAgICAgICAgaW5jbHVkZSAnamVua2luc2ZpbGVzLyonCiAgICB9Cg==</text>
+        <text encoding="base64">ClN0cmluZyBnZXRHcmFkbGVDb21tYW5kKFN0cmluZyBtb2R1bGUpIHsKICAgICIuL2dyYWRsZXcgY2xlYW4gJHtnZXRBZGRpdGlvbmFsVGFza3MobW9kdWxlKX0gLS1yZWZyZXNoLWRlcGVuZGVuY2llcyAtLXByb2ZpbGUiCn0KClN0cmluZyBnZXRBZGRpdGlvbmFsVGFza3MoU3RyaW5nIG1vZHVsZSkgewogICAgc3dpdGNoIChtb2R1bGUpIHsKICAgICAgICBjYXNlIGVudi5HRU1JTklfU0VDVVJJVFk6IHJldHVybiAnYXNzZW1ibGVTZWN1cml0eUFydGlmYWN0cyBpbnN0YWxsIHVwbG9hZEFyY2hpdmVzJwogICAgICAgIGNhc2UgZW52LkdFTUlOSTogICAgICAgICAgcmV0dXJuICdhc3NlbWJsZSB0ZXN0JyAvLyBUT0RPIGltcHJvdmUgdGhpcz8KICAgICAgICBkZWZhdWx0OiAgICAgICAgICAgICAgICAgIHJldHVybiAiOiR7bW9kdWxlfTphc3NlbWJsZVJlbGVhc2UgOiR7bW9kdWxlfTp0ZXN0UmVsZWFzZSA6JHttb2R1bGV9OnVwbG9hZEFyY2hpdmVzIgogICAgfQp9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>module.equalsIgnoreCase(env.GEMINI_SECURITY) ?
-                          'assembleSecurityArtifacts install uploadArchives' :
-                          &quot;:${module}:assembleRelease :${module}:testRelease uploadArchives&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBnaXRDaGVja291dCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13710,19 +13727,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludG8gJ3NyYy9tYWluL3Jlc291cmNlcycK</text>
+        <text encoding="base64">eyAtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgZnJvbSgnLi4vc2NyaXB0cycpIHsKLy8gICAgICAgIGluY2x1ZGUgJ3ZlcnNpb25zLmdyYWRsZScKLy8gICAgICAgIGluY2x1ZGUgJ2RlcGVuZGVuY2llcy5ncmFkbGUnCi8vICAgICAgICBpbmNsdWRlICdwbHVnaW4uZ3JhZGxlJwovLyAgICAgICAgaW5jbHVkZSAncGx1Z2luX2FwcC5ncmFkbGUnCi8vICAgICAgICBpbmNsdWRlICdhcHBfc2hhcmVkLmdyYWRsZScKLy8gICAgICAgIGluY2x1ZGUgJ3V0aWxzLmdyYWRsZScKLy8gICAgICAgIGluY2x1ZGUgJ3B1Ymxpc2hfYXJ0aWZhY3QuZ3JhZGxlJwovLyAgICAgICAgaW5jbHVkZSAnamVua2luc2ZpbGVzLyonCi8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgcGF0aCA9IGdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgnc2hhcmVkX0plbmtpbnNmaWxlLmdyb292eScpLnBhdGgK</text>
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIGdpdENoZWNrb3V0KCkgewogICAgY2hlY2tvdXQoWyAkY2xhc3M6ICdHaXRTQ00nLAogICAgICAgICAgICAgICBicmFuY2hlczogW1tuYW1lOiAiKi8kZW52LkJSQU5DSF9OQU1FIl1dLAogICAgICAgICAgICAgICBkb0dlbmVyYXRlU3VibW9kdWxlQ29uZmlndXJhdGlvbnM6IGZhbHNlLAogICAgICAgICAgICAgICBleHRlbnNpb25zOiBbXSwKICAgICAgICAgICAgICAgc3VibW9kdWxlQ2ZnOiBbXSwKICAgICAgICAgICAgICAgdXNlclJlbW90ZUNvbmZpZ3M6IFtbdXJsOiAic3NoOi8vZ2l0QG9uc3JuZDFhZGMtc3QwMS5pdGxhYi5vbnN0YXIuZ20uY29tOjc5OTkvYWcvJHtlbnYuUkVQT19OQU1FfS5naXQiXV1dKQp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAicGF0aCA9ICRwYXRoIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15010,10 +15027,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2b2lkIGFkZFRhc2tzKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBnaXRDaGVja291dCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -15023,9 +15040,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alskdjf</last-search>
+      <last-search encoding="base64">XDxidWlsZFJlcG9cPg==</last-search>
       <last-offset />
-      <last-pattern>alskdjf</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZFJlcG9cPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15045,7 +15062,6 @@
         <entry>PLUGIN</entry>
         <entry>asdlfj</entry>
         <entry>readFile</entry>
-        <entry encoding="base64">XDxidWlsZFJlcG9cPg==</entry>
         <entry>cleanNode</entry>
         <entry>cleanScm</entry>
         <entry encoding="base64">XDxidWlsZE1vZHVsZVw+</entry>
@@ -15053,6 +15069,7 @@
         <entry>kldslkj</entry>
         <entry>alsdfj</entry>
         <entry>alskdjf</entry>
+        <entry encoding="base64">XDxidWlsZFJlcG9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
