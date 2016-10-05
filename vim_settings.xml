@@ -649,12 +649,12 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1475672810131">
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1475678513498">
         <mark key="'" line="64" column="16" />
-        <mark key="[" line="54" column="72" />
-        <mark key="]" line="54" column="73" />
-        <mark key="." line="54" column="73" />
-        <mark key="^" line="40" column="42" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+        <mark key="^" line="30" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
@@ -1771,11 +1771,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475677607897">
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="51" column="10" />
-        <mark key="." line="51" column="10" />
-        <mark key="^" line="51" column="10" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475679055560">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="3" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
@@ -2659,7 +2659,8 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile.groovy" timestamp="1475609371761">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile.groovy" timestamp="1475678260858">
+        <mark key="'" line="6" column="18" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="23" column="49" />
@@ -2871,7 +2872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="52" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="59" column="27" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="61" column="27" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -2971,13 +2971,14 @@
       <jump line="27" column="15" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" />
       <jump line="151" column="37" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" />
       <jump line="61" column="16" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="6" column="18" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/Jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QE5vbkNQUwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdXBkYXRlIHZlcnNpb25zLmdyYWRsZQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13578,19 +13579,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>slurper</text>
+        <text>multi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJywK</text>
+      <register name="0" type="4">
+        <text>'gradle.properties'</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QE5vbkNQUwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdXBkYXRlIHZlcnNpb25zLmdyYWRsZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13608,19 +13609,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGRvIGFsbCB0aGUgd29yayB0aGF0IGNvdWxkIGZhaWwgZmlyc3QK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdXBkYXRlIHZlcnNpb24gaW4gZ3JhZGxlLnByb3BlcnRpZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggJ3B3ZCcK</text>
+        <text encoding="base64">QE5vbkNQUwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGRvIGFsbCB0aGUgd29yayB0aGF0IGNvdWxkIGZhaWwgZmlyc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBjb21taXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggJ3B3ZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -14908,22 +14909,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBjb21taXQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKHJlcG8gPT0gZW52LkdSQURMRV9QTFVHSU4pIHsKICAgICAgICAgICAgdXBkYXRlR3JhZGxlUGx1Z2luCiAgICAgICAgfSBlbHNlIGlmIChyZXBvID09IGVudi5HRU1JTklfQ09SRV9TREspIHsKICAgICAgICAgICAgdXBkYXRlR2VtaW5pQ29yZVNkawogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
       </register>
     </registers>
     <search>
-      <last-search>slurper</last-search>
+      <last-search>multi</last-search>
       <last-offset />
-      <last-pattern>slurper</last-pattern>
+      <last-pattern>multi</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -14931,7 +14932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
         <entry>&quot;,&quot;</entry>
         <entry>split</entry>
         <entry>asdljf</entry>
@@ -14951,6 +14951,7 @@
         <entry encoding="base64">XDxydW5Eb3duc3RyZWFtQnVpbGRzU3RyaW5nXD4=</entry>
         <entry>asdlfj</entry>
         <entry>slurper</entry>
+        <entry>multi</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
