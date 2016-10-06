@@ -380,11 +380,11 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1475780261552">
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="65" />
-        <mark key="." line="14" column="65" />
-        <mark key="^" line="14" column="65" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1475781165442">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="65" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="65" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project/properties.groovy" timestamp="1475269330151">
         <mark key="[" line="29" column="67" />
@@ -2066,12 +2066,12 @@
         <mark key="^" line="45" column="101" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" timestamp="1475773723699">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" timestamp="1475781303792">
         <mark key="'" line="31" column="8" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="68" column="36" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="37" />
+        <mark key="." line="68" column="36" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/build.gradle" timestamp="1473782295172">
         <mark key="[" line="7" column="0" />
@@ -2539,7 +2539,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1475673516010">
+      <file name="/a.regexp" timestamp="1475781343737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2593,9 +2593,9 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment.gradle" timestamp="1473874769059">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment.gradle" timestamp="1475781766274">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="47" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountNoPlanInfoBlock.java" timestamp="1471535699492">
@@ -3709,8 +3709,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGdlbWluaUN1cnJlbnRWZXJzaW9uID0gJ1RvdWNoc3RvbmUtU05BUFNIT1QnCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14311,10 +14311,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>core</text>
+        <text>app</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
@@ -15654,18 +15654,16 @@
       </register>
     </registers>
     <search>
-      <last-search>core</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>core</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jenkins</entry>
-        <entry encoding="base64">XDxnZW1pbmlcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVGb2xkZXJcPg==</entry>
         <entry>&quot;</entry>
         <entry>configure</entry>
@@ -15683,7 +15681,9 @@
         <entry>api</entry>
         <entry>dom</entry>
         <entry>cache</entry>
+        <entry>realm</entry>
         <entry>core</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
