@@ -380,11 +380,11 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1475775483192">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="13" column="65" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1475777356834">
+        <mark key="[" line="14" column="63" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+        <mark key="." line="14" column="65" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project/properties.groovy" timestamp="1475269330151">
         <mark key="[" line="29" column="67" />
@@ -3128,7 +3128,7 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/test/GarageFragmentPresenterTest.java" timestamp="1471531731556">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/test/GarageFragmentPresenterTest.java" timestamp="1475777740444">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -3710,7 +3710,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>core</text>
+        <text>+</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14311,13 +14311,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCByZXBsYWNlVGV4dChTdHJpbmcgbmV3VGV4dCkgewogICAgICAgIHRpdGxlLnNldFRleHQobmV3VGV4dCk7CiAgICAgICAgdGl0bGVEZXRhaWwuc2V0VGV4dChuZXdUZXh0KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -15650,7 +15650,7 @@
         <text encoding="base64">CiAgICBzbmFwc2hvdCA6</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text>97</text>
       </register>
     </registers>
     <search>
@@ -15686,7 +15686,6 @@
         <entry>core</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry>253</entry>
         <entry>160</entry>
         <entry>393</entry>
@@ -15706,6 +15705,7 @@
         <entry encoding="base64">JzwsJz5zLyRyZXBvTmFtZS8ke21vZHVsZX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>97</entry>
       </history-cmd>
       <history-expr />
       <history-input />
