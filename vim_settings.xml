@@ -2066,12 +2066,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475768876000">
-        <mark key="'" line="15" column="82" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="153" column="26" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475782248238">
+        <mark key="'" line="52" column="70" />
+        <mark key="[" line="83" column="73" />
+        <mark key="]" line="83" column="78" />
+        <mark key="^" line="83" column="78" />
+        <mark key="." line="83" column="78" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/addvehicle/UnAuthAddVehiclePresenter.java" timestamp="1471363041680">
         <mark key="[" line="30" column="0" />
@@ -3479,9 +3479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="51" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="85" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="88" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="89" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="93" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="94" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3579,13 +3576,16 @@
       <jump line="15" column="82" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
       <jump line="86" column="87" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="26" column="55" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="78" column="27" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
+      <jump line="51" column="31" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
+      <jump line="52" column="70" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14186,19 +14186,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>smrf</text>
+        <text>snapshot</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzbXJmX3NkayAgICAgICAgICAgICA6ICdjb20uZ20ub25zdGFyLnNtcmYuc2RrOnNtcmYtc2RrOjEuMC4yLVNOQVBTSE9UJywK</text>
+      <register name="0" type="4">
+        <text>def geminiCurrentVersion</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzbXJmX3NkayAgICAgICAgICAgICA6ICdjb20uZ20ub25zdGFyLnNtcmYuc2RrOnNtcmYtc2RrOjEuMS4yLVNOQVBTSE9UJywK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdXBkYXRlIHZlcnNpb24gaW4gZW52aXJvbm1lbnQuZ3JhZGxlIG9yIG1ha2Ugc3VyZSB0aGF0IGlzIG5vIGxvbmdlciBuZWVkZWQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14216,19 +14216,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46R3JhZGxlUGx1Z2luLTEuMC4rJwovLyAgICAgICAgY2xhc3NwYXRoICdjb20uZ20uZ2VtaW5pLmdyYWRsZTpvbW5pYnVzLXBsdWdpbjoxMjMuNDU2Ljc4OScK</text>
+        <text encoding="base64">ICAgICAgICBzbXJmX3NkayAgICAgICAgICAgICA6ICdjb20uZ20ub25zdGFyLnNtcmYuc2RrOnNtcmYtc2RrOjEuMS4yLVNOQVBTSE9UJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46R3JhZGxlUGx1Z2luLTEuMC4rJwovLyAgICAgICAgY2xhc3NwYXRoICdjb20uZ20uZ2VtaW5pLmdyYWRsZTpvbW5pYnVzLXBsdWdpbjoxMjMuNDU2Ljc4OScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSRU1PVkUgVEhJUyBDT01NSVQgLSBmYWtlIHBsdWdpbiB2ZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBSRU1PVkUgVEhJUyBDT01NSVQgLSBmYWtlIHBsdWdpbiB2ZXJzaW9uCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15516,22 +15516,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmVyc2lvbj0xLjAuMjMK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCAyYzczOGUxMjZiNzQwMDNiMWU0OGJmNzQ4YzBiZmQwY2ZhNDRkNWY3Cg==</text>
+        <text encoding="base64">dmVyc2lvbj0xLjAuMjMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZ2VtaW5pLWNvcmUtc2RrJzogcmV0dXJuIEdFTUlOSV9DT1JFX1NESwo=</text>
+        <text encoding="base64">PDw8PDw8PCAyYzczOGUxMjZiNzQwMDNiMWU0OGJmNzQ4YzBiZmQwY2ZhNDRkNWY3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>smrf</last-search>
+      <last-search>snapshot</last-search>
       <last-offset />
-      <last-pattern>smrf</last-pattern>
+      <last-pattern>snapshot</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15539,7 +15539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_br</entry>
         <entry>test</entry>
         <entry>NEW_BRANCH</entry>
         <entry encoding="base64">XDxwdXNoRXZlcnl0aGluZ1w+</entry>
@@ -15559,6 +15558,7 @@
         <entry>geminiVersionName</entry>
         <entry>dependencyVersion</entry>
         <entry>smrf</entry>
+        <entry>snapshot</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
