@@ -380,10 +380,11 @@
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build.gradle" timestamp="1474033766116">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build.gradle" timestamp="1475773736426">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+        <mark key="^" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/build.gradle" timestamp="1475544558026">
         <mark key="[" line="24" column="66" />
@@ -1388,12 +1389,12 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1474366481313">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1475774546028">
         <mark key="'" line="28" column="31" />
-        <mark key="[" line="27" column="53" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="28" column="33" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="47" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/NaDealerLocateFragmentPresenter.java" timestamp="1473775589573">
         <mark key="[" line="57" column="38" />
@@ -1784,6 +1785,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/developer_preferences/PluginDeveloperPreferences.java" timestamp="1475774444095">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/katas/GameOfLife/java/src/main/java/GameOfLife.java" timestamp="1411481504486">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="3" column="0" />
@@ -2079,7 +2085,8 @@
         <mark key="^" line="45" column="101" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" timestamp="1474033753528">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" timestamp="1475773723699">
+        <mark key="'" line="31" column="8" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="^" line="3" column="0" />
@@ -2155,12 +2162,12 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" timestamp="1472830177408">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/DashboardCardView.java" timestamp="1475774248897">
         <mark key="'" line="27" column="4" />
-        <mark key="[" line="245" column="13" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
-        <mark key="^" line="244" column="0" />
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="34" />
+        <mark key="^" line="57" column="34" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/data/model/HotspotData.java" timestamp="1475010749736">
         <mark key="[" line="11" column="0" />
@@ -3622,9 +3629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
-      <jump line="0" column="19" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project.properties" />
       <jump line="73" column="1" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project/OmnibusBuildProperties.groovy" />
       <jump line="1" column="17" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.json" />
@@ -3722,13 +3726,16 @@
       <jump line="82" column="20" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini/Jenkinsfile.groovy" />
       <jump line="47" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini/buildscript.gradle" />
+      <jump line="71" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
+      <jump line="51" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14329,10 +14336,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>jenkinsfile</text>
+        <text>core</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
@@ -14341,7 +14348,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmRDYXJkVmlldwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14359,19 +14366,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtdLmZpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlRAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBzbmFwc2hvdCA6</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFtdLmZpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyFncm9vdnkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBzbmFwc2hvdCA6</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15665,24 +15672,23 @@
         <text encoding="base64">IyFncm9vdnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEyMy40NTYuNzg5KycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>jenkinsfile</last-search>
+      <last-search>core</last-search>
       <last-offset />
-      <last-pattern>jenkinsfile</last-pattern>
+      <last-pattern>core</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
         <entry>jenkins</entry>
         <entry encoding="base64">XDxnZW1pbmlcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVGb2xkZXJcPg==</entry>
@@ -15702,6 +15708,7 @@
         <entry>api</entry>
         <entry>dom</entry>
         <entry>cache</entry>
+        <entry>core</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
