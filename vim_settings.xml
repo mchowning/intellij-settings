@@ -20,9 +20,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475110502620">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/fragment_pin.xml" timestamp="1471544246144">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -702,6 +699,13 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1475773129422">
+        <mark key="'" line="29" column="43" />
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/core_plugins/account/ui/fullscreen/AccountFragment.java" timestamp="1471535677766">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -812,10 +816,10 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/build.gradle" timestamp="1475532165191">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/build.gradle" timestamp="1475773500324">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/settings.gradle" timestamp="1473785958775">
         <mark key="[" line="1" column="32" />
@@ -908,11 +912,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyChecker.groovy" timestamp="1474718727417">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/intellij/cabal.config" timestamp="1418945387277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -997,10 +996,11 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1475769562805">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1475770791835">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/model/UnixTime.java" timestamp="1464568934765">
         <mark key="[" line="25" column="15" />
@@ -1045,11 +1045,10 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/versions.gradle" timestamp="1475680811846">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="50" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/versions.gradle" timestamp="1475771055138">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/Jenkinsfile" timestamp="1475158328363">
         <mark key="[" line="11" column="1" />
@@ -1304,7 +1303,7 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1475769152602">
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1475772622694">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -1539,13 +1538,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile.groovy" timestamp="1475616198315">
-        <mark key="'" line="154" column="37" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="11" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/class/src/downloader.hs" timestamp="1419966316631">
         <mark key="[" line="9" column="90" />
         <mark key="]" line="9" column="18" />
@@ -1647,8 +1639,8 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1475158398317">
-        <mark key="'" line="192" column="12" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1475771279238">
+        <mark key="'" line="86" column="87" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -2566,9 +2558,6 @@
         <mark key="]" line="15" column="122" />
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
-      </file>
-      <file name="/a.regexp" timestamp="1475550635288">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
@@ -3657,7 +3646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="51" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="60" column="51" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="85" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3757,13 +3745,14 @@
       <jump line="153" column="30" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
       <jump line="131" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
       <jump line="15" column="82" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
+      <jump line="86" column="87" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB7CiAgICAiYnJhbmNoTmFtZSIgOiAiZ3JhZGxlX3BsdWdpbiIsCiAgICAicmVwb3MiIDogWyAiZ3JhZGxlLXBsdWdpbnMiIF0KICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46R3JhZGxlUGx1Z2luLTEuMC4rJwovLyAgICAgICAgY2xhc3NwYXRoICdjb20uZ20uZ2VtaW5pLmdyYWRsZTpvbW5pYnVzLXBsdWdpbjoxMjMuNDU2Ljc4OScK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14364,19 +14353,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getMissingUpstreamDependencies()</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRNaXNzaW5nVXBzdHJlYW1EZXBlbmRlbmNpZXNcPg==</text>
+        <text>dependencyVersion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICAiYnJhbmNoTmFtZSIgOiAiZ3JhZGxlX3BsdWdpbiIsCiAgICAicmVwb3MiIDogWyAiZ3JhZGxlLXBsdWdpbnMiIF0KICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46MS4wLisnCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7CiAgICAiYnJhbmNoTmFtZSIgOiAiZ3JhZGxlX3BsdWdpbiIsCiAgICAicmVwb3MiIDogWyAiZ3JhZGxlLXBsdWdpbnMiIF0KICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46R3JhZGxlUGx1Z2luLTEuMC4rJwovLyAgICAgICAgY2xhc3NwYXRoICdjb20uZ20uZ2VtaW5pLmdyYWRsZTpvbW5pYnVzLXBsdWdpbjoxMjMuNDU2Ljc4OScK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14394,19 +14383,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSRU1PVkUgVEhJUyBDT01NSVQgLSBmYWtlIHBsdWdpbiB2ZXJzaW9uCg==</text>
+        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmVyc2lvbj0xLjAuMjIKPT09PT09PQojIFRoZSBKZW5raW5zZmlsZSByZXFpb3JlcyB0aGF0IHRoZSB2ZXJzaW9uIG1hdGNoIHJlZ2V4IG9mIHRoZSBmb3JtCiMgKFx3Ki0/XGQrXC5cZCtcLlxkKyksIGkuZS4gTWVzc2VuZ2VyLTEuMC4xMiBvciAzLjEuMiBhcmUgYm90aCBwcm9wZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBmNGUwMzBjNjI5YTdkMGVmYTFiMGJjOGMxOTgzMWJlYWMzNmYzYTkyCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBSRU1PVkUgVEhJUyBDT01NSVQgLSBmYWtlIHBsdWdpbiB2ZXJzaW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBmNGUwMzBjNjI5YTdkMGVmYTFiMGJjOGMxOTgzMWJlYWMzNmYzYTkyCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbj0xLjAuMjMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15694,22 +15683,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCAyYzczOGUxMjZiNzQwMDNiMWU0OGJmNzQ4YzBiZmQwY2ZhNDRkNWY3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZ2VtaW5pLWNvcmUtc2RrJzogcmV0dXJuIEdFTUlOSV9DT1JFX1NESwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZ2VtaW5pLXNlY3VyaXR5JzogcmV0dXJuIEdFTUlOSV9TRUNVUklUWQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRNaXNzaW5nVXBzdHJlYW1EZXBlbmRlbmNpZXNcPg==</last-search>
+      <last-search>dependencyVersion</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRNaXNzaW5nVXBzdHJlYW1EZXBlbmRlbmNpZXNcPg==</last-pattern>
+      <last-pattern>dependencyVersion</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15717,8 +15706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toBool</entry>
-        <entry>asldjkf</entry>
         <entry>error</entry>
         <entry>test_br</entry>
         <entry>test</entry>
@@ -15737,6 +15724,8 @@
         <entry>asdljf</entry>
         <entry>intersection</entry>
         <entry encoding="base64">XDxnZXRNaXNzaW5nVXBzdHJlYW1EZXBlbmRlbmNpZXNcPg==</entry>
+        <entry>geminiVersionName</entry>
+        <entry>dependencyVersion</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
