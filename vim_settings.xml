@@ -2977,6 +2977,11 @@
         <mark key="^" line="93" column="55" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/BluetoothBroadcastReceiver.java" timestamp="1475784806013">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write_client/model/UserAction.java" timestamp="1465215640070">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="17" />
@@ -3710,7 +3715,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGdlbWluaUN1cnJlbnRWZXJzaW9uID0gJ1RvdWNoc3RvbmUtU05BUFNIT1QnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibGVEYXRhc291cmNlLnJlbW92ZUJsZQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14314,7 +14319,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text>getString</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
@@ -14323,7 +14328,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW52aXJvbm1lbnRfbG9jYWwuZ3JhZGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibGVEYXRhc291cmNlLnJlbW92ZUJsZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14341,19 +14346,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW52aXJvbm1lbnRfbG9jYWwuZ3JhZGxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qcGxlYXNlIHB1dCBhbGwgcHJvamVjdC13aWRlIHZhcmlhYmxlcyBzdWNoIGFzIGZpbGUgcGF0aHMgaW4gdGhlICdlbnZpcm9ubWVudC5ncmFkbGUnCiAgICBmaWxlIGFuZCBmb2xsb3cgdGhlIHBhdHRlcm4geW91IHNlZSB0aGVyZS4gSW4geW91ciBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwKICAgIHJlbWVtYmVyIHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgZXh0LnVzZUVudmlyb25tZW50TG9jYWwgdG8gdHJ1ZSBpZiB5b3Ugd2FudCB0byB0ZXN0IGEgbW9kdWxlIGxvY2FsbHkuCiAgICBJZiB5b3UgZG9uJ3QgaGF2ZSBhbiBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwgbWFrZSBvbmUgaW4gdGhlIGJhc2UgcHJvamVjdCBkaXJlY3RvcnkKICAgIGFuZCBjb3B5IHdoYXQncyBpbiBlbnZpcm9ubWVudC5ncmFkbGUgdG8gaXQgYW5kIGFkZCBhIGJvb2xlYW4gZXh0LnVzZUVudmlyb25tZW50TG9jYWwuCiAgICBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgaXMgaWdub3JlZCBieSBnaXQsIHNvIG1lc3Mgd2l0aCB5b3VycyBhbGwgeW91IHdhbnQqLwovLyAgICBhcHBseSBmcm9tOiAnZW52aXJvbm1lbnQuZ3JhZGxlJwovLyAgICBpZiAoZmlsZSgnZW52aXJvbm1lbnRfbG9jYWwuZ3JhZGxlJykuZXhpc3RzKCkpIHsKLy8gICAgICAgIGFwcGx5IGZyb206ICdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnCi8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmRDYXJkVmlldwo=</text>
+        <text encoding="base64">ICAgIC8qcGxlYXNlIHB1dCBhbGwgcHJvamVjdC13aWRlIHZhcmlhYmxlcyBzdWNoIGFzIGZpbGUgcGF0aHMgaW4gdGhlICdlbnZpcm9ubWVudC5ncmFkbGUnCiAgICBmaWxlIGFuZCBmb2xsb3cgdGhlIHBhdHRlcm4geW91IHNlZSB0aGVyZS4gSW4geW91ciBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwKICAgIHJlbWVtYmVyIHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgZXh0LnVzZUVudmlyb25tZW50TG9jYWwgdG8gdHJ1ZSBpZiB5b3Ugd2FudCB0byB0ZXN0IGEgbW9kdWxlIGxvY2FsbHkuCiAgICBJZiB5b3UgZG9uJ3QgaGF2ZSBhbiBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwgbWFrZSBvbmUgaW4gdGhlIGJhc2UgcHJvamVjdCBkaXJlY3RvcnkKICAgIGFuZCBjb3B5IHdoYXQncyBpbiBlbnZpcm9ubWVudC5ncmFkbGUgdG8gaXQgYW5kIGFkZCBhIGJvb2xlYW4gZXh0LnVzZUVudmlyb25tZW50TG9jYWwuCiAgICBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgaXMgaWdub3JlZCBieSBnaXQsIHNvIG1lc3Mgd2l0aCB5b3VycyBhbGwgeW91IHdhbnQqLwovLyAgICBhcHBseSBmcm9tOiAnZW52aXJvbm1lbnQuZ3JhZGxlJwovLyAgICBpZiAoZmlsZSgnZW52aXJvbm1lbnRfbG9jYWwuZ3JhZGxlJykuZXhpc3RzKCkpIHsKLy8gICAgICAgIGFwcGx5IGZyb206ICdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnCi8vICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlRAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmRDYXJkVmlldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlRAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15641,22 +15646,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFtdLmZpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBzbmFwc2hvdCA6</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFtdLmZpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search>getString</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern>getString</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15664,7 +15669,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVGb2xkZXJcPg==</entry>
         <entry>&quot;</entry>
         <entry>configure</entry>
         <entry>asljf</entry>
@@ -15684,6 +15688,7 @@
         <entry>realm</entry>
         <entry>core</entry>
         <entry>app</entry>
+        <entry>getString</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
