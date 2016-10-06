@@ -1918,12 +1918,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475765469762">
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" timestamp="1475766461845">
         <mark key="'" line="11" column="42" />
-        <mark key="[" line="130" column="54" />
-        <mark key="]" line="130" column="55" />
-        <mark key="^" line="130" column="55" />
-        <mark key="." line="130" column="55" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
@@ -3184,8 +3184,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>selectedRepos.intersect(allPluginRepos)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13791,8 +13791,8 @@
       <register name="/" type="4">
         <text>asdljf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgZ2V0UmVxdWlyZWRVcHN0cmVhbURlcHMoKSAtIHNlbGVjdGVkUmVwb3MK</text>
+      <register name="0" type="4">
+        <text>selectedRepos.intersect(allPluginRepos)</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
