@@ -768,6 +768,10 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-ble/app/build.gradle" timestamp="1475844394119">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info.xml" timestamp="1468596119782">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="41" />
@@ -3713,7 +3717,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>core</text>
+        <text>ext.pluginIdentifier =</text>
       </register>
       <register name="c" type="4">
         <keys>
