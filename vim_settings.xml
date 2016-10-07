@@ -935,11 +935,11 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" timestamp="1475549122865">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="57" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/build.gradle" timestamp="1475876157901">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/model/UnixTime.java" timestamp="1464568934765">
         <mark key="[" line="25" column="15" />
@@ -1635,7 +1635,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/settings.gradle" timestamp="1473873248564">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/settings.gradle" timestamp="1475876036911">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -3092,10 +3092,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1473875070877">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1475876242850">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="42" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
@@ -3553,7 +3554,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bm9kZSgnYW5kcm9pZCcpIHsKICAgIHRyeSB7CiAgICAgICAgZGVsZXRlRGlyKCkKICAgICAgICBjaGVja291dCBzY20KICAgICAgICBzaCAiLi9ncmFkbGV3IGdldFNoYXJlZEplbmtpbnNGaWxlIC0tcmVmcmVzaC1kZXBlbmRlbmNpZXMiIC8vIGhhdmUgb21uaWJ1cy1wbHVnaW4gY3JlYXRlIHNoYXJlZF9KZW5raW5zZmlsZS5ncm9vdnkKCi8vICAgICAgICBzaCAicHdkIgovLyAgICAgICAgc2ggImxzIC4iCgogICAgICAgIGxvYWQgJ3NoYXJlZF9KZW5raW5zZmlsZS5ncm9vdnknCiAgICB9IGZpbmFsbHkgewogICAgICAgIGRlbGV0ZURpcigpCiAgICB9Cn0oKQo=</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMuYXBwX3NoYXJlZAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14160,13 +14161,13 @@
         <text>smrf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm9kZSgnYW5kcm9pZCcpIHsKICAgIHRyeSB7CiAgICAgICAgZGVsZXRlRGlyKCkKICAgICAgICBjaGVja291dCBzY20KICAgICAgICBzaCAiLi9ncmFkbGV3IGdldFNoYXJlZEplbmtpbnNGaWxlIC0tcmVmcmVzaC1kZXBlbmRlbmNpZXMiIC8vIGhhdmUgb21uaWJ1cy1wbHVnaW4gY3JlYXRlIHNoYXJlZF9KZW5raW5zZmlsZS5ncm9vdnkKCi8vICAgICAgICBzaCAicHdkIgovLyAgICAgICAgc2ggImxzIC4iCgogICAgICAgIGxvYWQgJ3NoYXJlZF9KZW5raW5zZmlsZS5ncm9vdnknCiAgICB9IGZpbmFsbHkgewogICAgICAgIGRlbGV0ZURpcigpCiAgICB9Cn0oKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAicHdkIgo=</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMuYXBwX3NoYXJlZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14190,13 +14191,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVG9wLWxldmVsIGJ1aWxkIGZpbGUgd2hlcmUgeW91IGNhbiBhZGQgY29uZmlndXJhdGlvbiBvcHRpb25zIGNvbW1vbiB0byBhbGwgc3ViLXByb2plY3RzL21vZHVsZXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCB1cmkoIn4vLm0yL3JlcG9zaXRvcnkiKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdvb2dsZV9zZXJ2aWNlcyAvLyBGSVhNRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucyAvLyBGSVhNRQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15484,10 +15485,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAnOmdlbWluaScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaCAicHdkIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
