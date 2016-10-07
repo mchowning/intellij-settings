@@ -1300,13 +1300,6 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/build.gradle" timestamp="1475788032402">
-        <mark key="'" line="28" column="31" />
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/NaDealerLocateFragmentPresenter.java" timestamp="1473775589573">
         <mark key="[" line="57" column="38" />
         <mark key="]" line="58" column="13" />
@@ -1729,6 +1722,11 @@
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/app/build.gradle" timestamp="1475877714100">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/NICTA-course/src/Course/FileIO.hs" timestamp="1456067452521">
         <mark key="[" line="103" column="46" />
         <mark key="]" line="103" column="46" />
@@ -1905,6 +1903,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/settings.gradle" timestamp="1475877718346">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/math for cs/notes.md" timestamp="1423588254085">
         <mark key="[" line="17" column="0" />
@@ -3234,6 +3237,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/build.gradle" timestamp="1475877730295">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/test/java/com/gm/plugin/vehicle_status/ui/fullscreen/CriticalDiagnosticPrioritizerTest.java" timestamp="1461956694981">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
@@ -3554,7 +3562,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMuYXBwX3NoYXJlZAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14167,7 +14175,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMuYXBwX3NoYXJlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14188,16 +14196,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogZ3JhZGxlRmlsZXMuYXBwX3NoYXJlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVG9wLWxldmVsIGJ1aWxkIGZpbGUgd2hlcmUgeW91IGNhbiBhZGQgY29uZmlndXJhdGlvbiBvcHRpb25zIGNvbW1vbiB0byBhbGwgc3ViLXByb2plY3RzL21vZHVsZXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdvb2dsZV9zZXJ2aWNlcyAvLyBGSVhNRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucyAvLyBGSVhNRQo=</text>
+        <text encoding="base64">Ly8gVG9wLWxldmVsIGJ1aWxkIGZpbGUgd2hlcmUgeW91IGNhbiBhZGQgY29uZmlndXJhdGlvbiBvcHRpb25zIGNvbW1vbiB0byBhbGwgc3ViLXByb2plY3RzL21vZHVsZXMuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15485,13 +15493,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnOmdlbWluaScK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdvb2dsZV9zZXJ2aWNlcyAvLyBGSVhNRQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAicHdkIgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggbGlicmFyaWVzLmdyYWRsZV92ZXJzaW9ucyAvLyBGSVhNRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnOmdlbWluaScK</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
