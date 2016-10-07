@@ -1646,8 +1646,8 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1475158398317">
-        <mark key="'" line="192" column="12" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1475852115829">
+        <mark key="'" line="45" column="46" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="48" />
@@ -3658,7 +3658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="1" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/project/OmnibusBuildProperties.groovy" />
       <jump line="1" column="17" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.json" />
       <jump line="26" column="24" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
@@ -3758,6 +3757,7 @@
       <jump line="71" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="51" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="31" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
+      <jump line="45" column="46" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14368,7 +14368,7 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>core</text>
+        <text>fabric</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
@@ -15708,19 +15708,16 @@
       </register>
     </registers>
     <search>
-      <last-search>core</last-search>
+      <last-search>fabric</last-search>
       <last-offset />
-      <last-pattern>core</last-pattern>
+      <last-pattern>fabric</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>NEW_BRANCH</entry>
-        <entry encoding="base64">XDxwdXNoRXZlcnl0aGluZ1w+</entry>
         <entry>asljdf</entry>
         <entry>writeFile</entry>
         <entry>filePath</entry>
@@ -15738,6 +15735,9 @@
         <entry>dependencyVersion</entry>
         <entry>smrf</entry>
         <entry>snapshot</entry>
+        <entry>support_</entry>
+        <entry>io_fabric</entry>
+        <entry>fabric</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
