@@ -768,6 +768,11 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-ble/app/build.gradle" timestamp="1475852400791">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/layout/more_info.xml" timestamp="1468596119782">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="41" />
@@ -3552,6 +3557,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-ble/settings.gradle" timestamp="1475852431883">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlock.java" timestamp="1462452771342">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="26" column="33" />
@@ -3712,11 +3722,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>allprojects {
-    repositories {
-        maven { url uri(&quot;~/.m2/repository&quot;) }
-        mavenLocal()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14317,7 +14324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>smrf</text>
@@ -14329,7 +14336,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGxpYnJhcmllcy5zbXJmX3Nkawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14347,19 +14354,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlKGxpYnJhcmllcy5zbXJmX3NkaykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgdGVzdENvbXBpbGUobGlicmFyaWVzLnNtcmZfc2RrKSB7Ci8vICAgICAgICB0cmFuc2l0aXZlID0gdHJ1ZQovLyAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibGVEYXRhc291cmNlLnJlbW92ZUJsZQo=</text>
+        <text encoding="base64">Ly8gTk9URTogYWxsIGNoYXJhY3RlcnMgaW4gcGx1Z2luSWRlbnRpZmllciBtdXN0IGJlIHZhbGlkIHBhY2thZ2UgbmFtZSBjaGFyYWN0ZXJzIChpLmUuLCBubyAnLScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW52aXJvbm1lbnRfbG9jYWwuZ3JhZGxlCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaW9fZmFicmljJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGxpYnJhcmllcy5zbXJmX3Nkawo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15647,13 +15654,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qcGxlYXNlIHB1dCBhbGwgcHJvamVjdC13aWRlIHZhcmlhYmxlcyBzdWNoIGFzIGZpbGUgcGF0aHMgaW4gdGhlICdlbnZpcm9ubWVudC5ncmFkbGUnCiAgICBmaWxlIGFuZCBmb2xsb3cgdGhlIHBhdHRlcm4geW91IHNlZSB0aGVyZS4gSW4geW91ciBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwKICAgIHJlbWVtYmVyIHRvIGNoYW5nZSB0aGUgdmFsdWUgb2YgZXh0LnVzZUVudmlyb25tZW50TG9jYWwgdG8gdHJ1ZSBpZiB5b3Ugd2FudCB0byB0ZXN0IGEgbW9kdWxlIGxvY2FsbHkuCiAgICBJZiB5b3UgZG9uJ3QgaGF2ZSBhbiBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgZmlsZSwgbWFrZSBvbmUgaW4gdGhlIGJhc2UgcHJvamVjdCBkaXJlY3RvcnkKICAgIGFuZCBjb3B5IHdoYXQncyBpbiBlbnZpcm9ubWVudC5ncmFkbGUgdG8gaXQgYW5kIGFkZCBhIGJvb2xlYW4gZXh0LnVzZUVudmlyb25tZW50TG9jYWwuCiAgICBlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUgaXMgaWdub3JlZCBieSBnaXQsIHNvIG1lc3Mgd2l0aCB5b3VycyBhbGwgeW91IHdhbnQqLwovLyAgICBhcHBseSBmcm9tOiAnZW52aXJvbm1lbnQuZ3JhZGxlJwovLyAgICBpZiAoZmlsZSgnZW52aXJvbm1lbnRfbG9jYWwuZ3JhZGxlJykuZXhpc3RzKCkpIHsKLy8gICAgICAgIGFwcGx5IGZyb206ICdlbnZpcm9ubWVudF9sb2NhbC5ncmFkbGUnCi8vICAgIH0K</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlKGxpYnJhcmllcy5zbXJmX3NkaykKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmRDYXJkVmlldwo=</text>
+        <text encoding="base64">Ly8gICAgdGVzdENvbXBpbGUobGlicmFyaWVzLnNtcmZfc2RrKSB7Ci8vICAgICAgICB0cmFuc2l0aXZlID0gdHJ1ZQovLyAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlRAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibGVEYXRhc291cmNlLnJlbW92ZUJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
