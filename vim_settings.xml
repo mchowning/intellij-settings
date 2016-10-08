@@ -274,10 +274,11 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-ble/build.gradle" timestamp="1475855911904">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-ble/build.gradle" timestamp="1475886026316">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-placeholder/gradle/wrapper/gradle-wrapper.properties" timestamp="1462469810745">
         <mark key="[" line="5" column="69" />
@@ -3663,7 +3664,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiBtYXZlbl9yZXBvcy5yZWxlYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14276,7 +14277,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14294,16 +14295,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCB1cmkoIn4vLm0yL3JlcG9zaXRvcnkiKSB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVG9wLWxldmVsIGJ1aWxkIGZpbGUgd2hlcmUgeW91IGNhbiBhZGQgY29uZmlndXJhdGlvbiBvcHRpb25zIGNvbW1vbiB0byBhbGwgc3ViLXByb2plY3RzL21vZHVsZXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gTk9URTogYWxsIGNoYXJhY3RlcnMgaW4gcGx1Z2luSWRlbnRpZmllciBtdXN0IGJlIHZhbGlkIHBhY2thZ2UgbmFtZSBjaGFyYWN0ZXJzIChpLmUuLCBubyAnLScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -15600,7 +15601,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gTk9URTogYWxsIGNoYXJhY3RlcnMgaW4gcGx1Z2luSWRlbnRpZmllciBtdXN0IGJlIHZhbGlkIHBhY2thZ2UgbmFtZSBjaGFyYWN0ZXJzIChpLmUuLCBubyAnLScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
