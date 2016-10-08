@@ -20,6 +20,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1475110502620">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/fragment_pin.xml" timestamp="1471544246144">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -834,10 +837,6 @@
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-core/123.456.789/gemini-core-123.456.789-sources.jar!/com/gm/gemini/plugin_common_resources/DashboardCardView.java" timestamp="1475775765582">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="58" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mytests/MyRandomGamer.java" timestamp="1428491481134">
         <mark key="[" line="14" column="27" />
@@ -2605,6 +2604,9 @@
         <mark key="]" line="15" column="122" />
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
+      </file>
+      <file name="/a.regexp" timestamp="1475895579852">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
         <mark key="[" line="0" column="0" />
@@ -14404,7 +14406,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>despite</text>
+        <text>jacoco</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGUgYXMgVGhyb3dhYmxlCg==</text>
@@ -15744,9 +15746,9 @@
       </register>
     </registers>
     <search>
-      <last-search>despite</last-search>
+      <last-search>jacoco</last-search>
       <last-offset />
-      <last-pattern>despite</last-pattern>
+      <last-pattern>jacoco</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15754,7 +15756,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVCdWlsZEpvYnNKc29uXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFJlcG9zSW5jbHVkZXNQbHVnaW5cPg==</entry>
         <entry>intersect</entry>
         <entry>not building</entry>
@@ -15774,6 +15775,7 @@
         <entry>asldkjf</entry>
         <entry>gradle_ver</entry>
         <entry>despite</entry>
+        <entry>jacoco</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
