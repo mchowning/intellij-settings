@@ -2690,11 +2690,11 @@
         <mark key="^" line="64" column="69" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/base_jenkinsfile.groovy" timestamp="1476013050399">
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="56" />
-        <mark key="." line="22" column="56" />
-        <mark key="^" line="6" column="41" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/base_jenkinsfile.groovy" timestamp="1476015083002">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week4/test_cases/testcase_33110.txt" timestamp="1423521781455">
         <mark key="[" line="0" column="0" />
@@ -3632,8 +3632,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FkICJqZW5raW5zZmlsZXMvYnVpbGRfcmVndWxhcl9qZW5raW5zZmlsZS5ncm9vdnkiCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14234,49 +14234,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRDaGVja291dFJlcG9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdpdENoZWNrb3V0UmVwbygnamVua2lucy1qb2ItYnVpbGRlcicsIGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkICJqZW5raW5zZmlsZXMvYnVpbGRfcmVndWxhcl9qZW5raW5zZmlsZS5ncm9vdnkiCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvYWQgIiRyZXBvTmFtZS9qZW5raW5zZmlsZXMvYnVpbGRfcmVndWxhcl9qZW5raW5zZmlsZS5ncm9vdnkiCg==</text>
+        <text encoding="base64">Ly8gICAgbG9hZCAnamVua2luc2ZpbGVzL2J1aWxkX3JlZ3VsYXJfamVua2luc2ZpbGUuZ3Jvb3Z5Jwo=</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNoICJwIgo=</text>
+        <text encoding="base64">ICAgIHNoICdwd2QnCiAgICBlY2hvICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiAgICBzaCAibHMgJHJlcG9OYW1lIgogICAgZWNobyAnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJwogICAgc2ggImxzICRyZXBvTmFtZS9qZW5raW5zZmlsZXMiCiAgICBlY2hvICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpcihyZXBvTmFtZSkgewo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZURpcigpIC8vIEZJWE1FCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgZ2l0Q2hlY2tvdXRSZXBvKCdncmFkbGUtcGx1Z2lucycsIHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGdpdENoZWNrb3V0UmVwbygnamVua2lucy1qb2ItYnVpbGRlcicsIGZhbHNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvYWQgJ2plbmtpbnNmaWxlcy9idWlsZF9yZWd1bGFyX2plbmtpbnNmaWxlLmdyb292eScK</text>
+        <text encoding="base64">ICAgIGxvYWQgIiRyZXBvTmFtZS9qZW5raW5zZmlsZXMvYnVpbGRfcmVndWxhcl9qZW5raW5zZmlsZS5ncm9vdnkiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15564,13 +15552,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpcgo=</text>
+        <text encoding="base64">ICAgIHNoICJwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpcihyZXBvTmFtZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWZ0ZXJfcmVndWxhcl9idWlsZF9jbG9zdXJlLmNhbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
