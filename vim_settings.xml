@@ -635,11 +635,7 @@
         <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" timestamp="1475945458786">
-        <mark key="'" line="70" column="31" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="13" column="59" />
-        <mark key="^" line="13" column="59" />
-        <mark key="." line="13" column="59" />
+        <mark key="'" line="68" column="31" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradleScripts/pr_environment_local.gradle" timestamp="1471547471465">
         <mark key="[" line="13" column="0" />
@@ -868,11 +864,11 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1475945367046">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="71" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1475975068410">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="17" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
@@ -1011,11 +1007,11 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1475890020405">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1475974694840">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/model/UnixTime.java" timestamp="1464568934765">
         <mark key="[" line="25" column="15" />
@@ -3801,8 +3797,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBzY20gJ0gvMTAgKiAqICogKicK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14403,19 +14399,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>smrf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnaXQgInNzaDovL2dpdEBvbnNybmQxYWRjLXN0MDEuaXRsYWIub25zdGFyLmdtLmNvbTo3OTk5L2FnL2plbmtpbnMtam9iLWJ1aWxkZXIuZ2l0IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NtICdILzEwICogKiAqIConCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNoZWNrIGlmIHRoaXMgaXMgdXNpbmcgdGhlIGp1c3QgYnVpbHQgbW9kdWxlPwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzY20gJ0gvMTAgKiAqICogKicK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14433,19 +14429,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNoZWNrIGlmIHRoaXMgaXMgdXNpbmcgdGhlIGp1c3QgYnVpbHQgbW9kdWxlPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBURVNUSU5HCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBGSVhNRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVwb05hbWUgPT0gYnVpbGRQcm9wZXJ0aWVzLkdFTUlOSV9TRUNVUklUWSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVwb05hbWUgPT0gYnVpbGRQcm9wZXJ0aWVzLkdFTUlOSV9TRUNVUklUWSkgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15733,13 +15729,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGUgYXMgVGhyb3dhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGUgYXMgVGhyb3dhYmxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
