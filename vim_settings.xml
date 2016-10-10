@@ -868,6 +868,12 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/README.md" timestamp="1476118503733">
+        <mark key="[" line="94" column="20" />
+        <mark key="]" line="94" column="22" />
+        <mark key="." line="94" column="22" />
+        <mark key="^" line="94" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/build.gradle" timestamp="1475159470489">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -909,7 +915,7 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1476116499103">
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1476117807945">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="181" column="1" />
         <mark key="." line="178" column="0" />
@@ -3919,8 +3925,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgT21uaWJ1c0J1aWxkSm9iQ29uZmlnIHsKICAgIFN0cmluZyBicmFuY2hOYW1lCiAgICBMaXN0PFN0cmluZz4gcmVwb3MKfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14521,19 +14527,20 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgT21uaWJ1c0J1aWxkSm9iQ29uZmlnIHsKICAgIFN0cmluZyBicmFuY2hOYW1lCiAgICBMaXN0PFN0cmluZz4gcmVwb3MKfQo=</text>
+      <register name="0" type="4">
+        <text>The repos to which a branch may be added is defined 
+by the ALL_REPOS variable in `omnibusBuildProperties.groovy`.</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmJ5IHRoZSBBTExfUkVQT1MgdmFyaWFibGUgaW4g</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14551,19 +14558,20 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LywKICAgICAgICA=</text>
+        <text>The repos to which a branch may be added is defined 
+by the ALL_REPOS variable in `omnibusBuilProperties.groovy`.</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly8sCiAgICAgICAg</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAnQUxMX1BMVUdJTl9SRVBPUycgOiBidWlsZFByb3BlcnRpZXMuQUxMX1BMVUdJTl9SRVBPUy5qb2luKCcsJyksCi8vICAgICAgICAgICAgICAgJ0dFTUlOSV9DT1JFX1NESycgIDogYnVpbGRQcm9wZXJ0aWVzLkdFTUlOSV9DT1JFX1NESywKLy8gICAgICAgICAgICAgICAnR0VNSU5JX1NFQ1VSSVRZJyAgOiBidWlsZFByb3BlcnRpZXMuR0VNSU5JX1NFQ1VSSVRZLAovLyAgICAgICAgICAgICAgICdHUkFETEVfUExVR0lOJyAgICA6IGJ1aWxkUHJvcGVydGllcy5HUkFETEVfUExVR0lOLAovLyAgICAgICAgICAgICAgICdHRU1JTkknICAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTkkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ClN0cmluZyBnZXRHcmFkbGVGbGFncygpIHsKICAgIFN0cmluZyBmbGFncyA9ICctLXJlZnJlc2gtZGVwZW5kZW5jaWVzIC0tcHJvZmlsZScKICAgIGlmIChlbnYuUkVQT19OQU1FID09IGVudi5HRU1JTklfQ09SRV9TREspIHsKICAgICAgICBmbGFncyArPSAnIC0tY29uZmlndXJlLW9uLWRlbWFuZCcgLy8gYWxsb3dzIGJ1aWxkaW5nIHNpbmdsZSBzdWJtb2R1bGUgd2l0aG91dCBuZWVkaW5nIHRvIGNvbmZpZ3VyZSBvdGhlciBzdWIKICAgIH0KfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LywKICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaChlbnYuUkVQT19OQU1FKSB7CiAgICAgICAgY2FzZSBlbnYuR0VNSU5JX0NPUkVfU0RLCiAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8sCiAgICAgICAg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15851,13 +15859,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YWdlICdCdWlsZGluZyBPbW5pYnVzLVBsdWdpbicK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAnQUxMX1BMVUdJTl9SRVBPUycgOiBidWlsZFByb3BlcnRpZXMuQUxMX1BMVUdJTl9SRVBPUy5qb2luKCcsJyksCi8vICAgICAgICAgICAgICAgJ0dFTUlOSV9DT1JFX1NESycgIDogYnVpbGRQcm9wZXJ0aWVzLkdFTUlOSV9DT1JFX1NESywKLy8gICAgICAgICAgICAgICAnR0VNSU5JX1NFQ1VSSVRZJyAgOiBidWlsZFByb3BlcnRpZXMuR0VNSU5JX1NFQ1VSSVRZLAovLyAgICAgICAgICAgICAgICdHUkFETEVfUExVR0lOJyAgICA6IGJ1aWxkUHJvcGVydGllcy5HUkFETEVfUExVR0lOLAovLyAgICAgICAgICAgICAgICdHRU1JTkknICAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTkkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UgJ0J1aWxkaW5nIE9tbmlidXMtUGx1Z2luJwo=</text>
+        <text encoding="base64">ClN0cmluZyBnZXRHcmFkbGVGbGFncygpIHsKICAgIFN0cmluZyBmbGFncyA9ICctLXJlZnJlc2gtZGVwZW5kZW5jaWVzIC0tcHJvZmlsZScKICAgIGlmIChlbnYuUkVQT19OQU1FID09IGVudi5HRU1JTklfQ09SRV9TREspIHsKICAgICAgICBmbGFncyArPSAnIC0tY29uZmlndXJlLW9uLWRlbWFuZCcgLy8gYWxsb3dzIGJ1aWxkaW5nIHNpbmdsZSBzdWJtb2R1bGUgd2l0aG91dCBuZWVkaW5nIHRvIGNvbmZpZ3VyZSBvdGhlciBzdWIKICAgIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN3aXRjaChlbnYuUkVQT19OQU1FKSB7CiAgICAgICAgY2FzZSBlbnYuR0VNSU5JX0NPUkVfU0RLCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
