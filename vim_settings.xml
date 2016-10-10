@@ -653,11 +653,12 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" timestamp="1476111330327">
-        <mark key="[" line="43" column="80" />
-        <mark key="]" line="43" column="101" />
-        <mark key="." line="43" column="101" />
-        <mark key="^" line="43" column="101" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" timestamp="1476112265810">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradleScripts/pr_environment_local.gradle" timestamp="1471547471465">
         <mark key="[" line="13" column="0" />
@@ -3805,8 +3806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="41" column="48" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="42" column="50" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="44" column="58" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3905,6 +3904,8 @@
       <jump line="5" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_gradle_plugins_jenkinsfile.groovy" />
       <jump line="38" column="16" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
       <jump line="55" column="23" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" />
+      <jump line="43" column="101" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" />
+      <jump line="2" column="11" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14515,7 +14516,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVPbW5pYnVzVmVyc2lvbkluQnVpbGRGaWxlXD4=</text>
+        <text>clean</text>
       </register>
       <register name="0" type="4">
         <text>(script: 'git log -1 --pretty=format:%an', returnStdout: true)</text>
@@ -15855,9 +15856,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVPbW5pYnVzVmVyc2lvbkluQnVpbGRGaWxlXD4=</last-search>
+      <last-search>clean</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVPbW5pYnVzVmVyc2lvbkluQnVpbGRGaWxlXD4=</last-pattern>
+      <last-pattern>clean</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15865,7 +15866,6 @@
     </search>
     <history>
       <history-search>
-        <entry>smrf</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZFJlcG9zXD4=</entry>
         <entry>asdlfj</entry>
         <entry>env.</entry>
@@ -15885,6 +15885,7 @@
         <entry>aslfj</entry>
         <entry encoding="base64">XDxkaWRKZW5raW5zQXV0aG9yTW9zdFJlY2VudENvbW1pdFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVPbW5pYnVzVmVyc2lvbkluQnVpbGRGaWxlXD4=</entry>
+        <entry>clean</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
