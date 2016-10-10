@@ -1093,6 +1093,9 @@
         <mark key="^" line="261" column="1" />
         <mark key="." line="161" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/res/values/values.xml" timestamp="1476113275293">
+        <mark key="'" line="728" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/Jenkinsfile" timestamp="1475158328363">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
@@ -2624,7 +2627,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1475895923559">
+      <file name="/a.regexp" timestamp="1476113429272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3767,7 +3770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="17" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.json" />
       <jump line="26" column="24" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
@@ -3867,6 +3869,7 @@
       <jump line="31" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="83" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="68" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
+      <jump line="728" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/res/values/values.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14477,7 +14480,7 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>smrf</text>
+        <text>hero</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnOmdlbWluaS1hcHAtc2hlbGwnLAo=</text>
@@ -15817,18 +15820,16 @@
       </register>
     </registers>
     <search>
-      <last-search>smrf</last-search>
+      <last-search>hero</last-search>
       <last-offset />
-      <last-pattern>smrf</last-pattern>
+      <last-pattern>hero</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>configure</entry>
-        <entry>asljf</entry>
         <entry>basePath</entry>
         <entry>'</entry>
         <entry>asldjf</entry>
@@ -15847,6 +15848,8 @@
         <entry>app</entry>
         <entry>getString</entry>
         <entry>smrf</entry>
+        <entry>header</entry>
+        <entry>hero</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
