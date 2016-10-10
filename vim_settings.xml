@@ -653,6 +653,12 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" timestamp="1476111330327">
+        <mark key="[" line="43" column="80" />
+        <mark key="]" line="43" column="101" />
+        <mark key="." line="43" column="101" />
+        <mark key="^" line="43" column="101" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradleScripts/pr_environment_local.gradle" timestamp="1471547471465">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -3799,7 +3805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="75" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="26" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="41" column="48" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3899,13 +3904,14 @@
       <jump line="122" column="64" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
       <jump line="5" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_gradle_plugins_jenkinsfile.groovy" />
       <jump line="38" column="16" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/add-branches-jenkinsfile.groovy" />
+      <jump line="55" column="23" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/build_regular_jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YWdlICdCdWlsZGluZyBPbW5pYnVzLVBsdWdpbicK</text>
+        <text encoding="base64">ClN0cmluZyBnZXRHcmFkbGVGbGFncygpIHsKICAgIFN0cmluZyBmbGFncyA9ICctLXJlZnJlc2gtZGVwZW5kZW5jaWVzIC0tcHJvZmlsZScKICAgIGlmIChlbnYuUkVQT19OQU1FID09IGVudi5HRU1JTklfQ09SRV9TREspIHsKICAgICAgICBmbGFncyArPSAnIC0tY29uZmlndXJlLW9uLWRlbWFuZCcgLy8gYWxsb3dzIGJ1aWxkaW5nIHNpbmdsZSBzdWJtb2R1bGUgd2l0aG91dCBuZWVkaW5nIHRvIGNvbmZpZ3VyZSBvdGhlciBzdWIKICAgIH0KfQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14506,7 +14512,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVPbW5pYnVzVmVyc2lvbkluQnVpbGRGaWxlXD4=</text>
@@ -14518,7 +14524,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YWdlICdCdWlsZGluZyBPbW5pYnVzLVBsdWdpbicK</text>
+        <text encoding="base64">ClN0cmluZyBnZXRHcmFkbGVGbGFncygpIHsKICAgIFN0cmluZyBmbGFncyA9ICctLXJlZnJlc2gtZGVwZW5kZW5jaWVzIC0tcHJvZmlsZScKICAgIGlmIChlbnYuUkVQT19OQU1FID09IGVudi5HRU1JTklfQ09SRV9TREspIHsKICAgICAgICBmbGFncyArPSAnIC0tY29uZmlndXJlLW9uLWRlbWFuZCcgLy8gYWxsb3dzIGJ1aWxkaW5nIHNpbmdsZSBzdWJtb2R1bGUgd2l0aG91dCBuZWVkaW5nIHRvIGNvbmZpZ3VyZSBvdGhlciBzdWIKICAgIH0KfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14536,19 +14542,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UgJ0J1aWxkaW5nIE9tbmlidXMtUGx1Z2luJwo=</text>
+        <text encoding="base64">ICAgIHN3aXRjaChlbnYuUkVQT19OQU1FKSB7CiAgICAgICAgY2FzZSBlbnYuR0VNSU5JX0NPUkVfU0RLCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YWdlICdCdWlsZGluZyBPbW5pYnVzLVBsdWdpbicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUZpbGUoJ2J1aWxkLmdyYWRsZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIC9jbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOi4qLywKICAgICAgICAgICAgICAgICAgICAgICAgICAgImNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46JE5FV19WRVJTSU9OIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSkKICAgICAgICAgICAgICAgIHNoICJnaXQgY29tbWl0IC1tICdKZW5raW5zIHwgYWRkLWJyYW5jaCBqb2IgdXBkYXRlIG9mIGJ1aWxkLmdyYWRsZSBvbW5pYnVzLXBsdWdpbiB2ZXJzaW9uIHRvICRORVdfVkVSU0lPTiciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UgJ0J1aWxkaW5nIE9tbmlidXMtUGx1Z2luJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZWRGaWxlU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUZpbGUoJ2J1aWxkLmdyYWRsZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIC9jbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOi4qLywKICAgICAgICAgICAgICAgICAgICAgICAgICAgImNsYXNzcGF0aCAnY29tLmdtLmdlbWluaS5ncmFkbGU6b21uaWJ1cy1wbHVnaW46JE5FV19WRVJTSU9OIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSkKICAgICAgICAgICAgICAgIHNoICJnaXQgY29tbWl0IC1tICdKZW5raW5zIHwgYWRkLWJyYW5jaCBqb2IgdXBkYXRlIG9mIGJ1aWxkLmdyYWRsZSBvbW5pYnVzLXBsdWdpbiB2ZXJzaW9uIHRvICRORVdfVkVSU0lPTiciCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15836,13 +15842,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZWRGaWxlU3RyaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gVEVTVElORwogICAgICAgIGVjaG8gInJlcG8gPSAkcmVwbyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyBURVNUSU5HCiAgICBlY2hvICJhbGxSZXBvcyA9ICRhbGxSZXBvcyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
