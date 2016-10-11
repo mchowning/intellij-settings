@@ -14482,7 +14482,7 @@
         <text>KeepSafe Software Inc.</text>
       </register>
       <register name="/" type="4">
-        <text>findbugs</text>
+        <text>threshold</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JiMxNjk7</text>
@@ -15822,9 +15822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>findbugs</last-search>
+      <last-search>threshold</last-search>
       <last-offset />
-      <last-pattern>findbugs</last-pattern>
+      <last-pattern>threshold</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15832,7 +15832,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcnRpZmFjdElkXD4=</entry>
         <entry>location</entry>
         <entry>noLocationRe</entry>
         <entry>getCenterOfCountry</entry>
@@ -15852,6 +15851,7 @@
         <entry>adobe</entry>
         <entry>realm</entry>
         <entry>findbugs</entry>
+        <entry>threshold</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
