@@ -14476,7 +14476,7 @@
         <text>holygemini</text>
       </register>
       <register name="/" type="4">
-        <text>hero</text>
+        <text>commerce</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
@@ -15816,17 +15816,16 @@
       </register>
     </registers>
     <search>
-      <last-search>hero</last-search>
+      <last-search>commerce</last-search>
       <last-offset />
-      <last-pattern>hero</last-pattern>
+      <last-pattern>commerce</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>basePath</entry>
         <entry>'</entry>
         <entry>asldjf</entry>
         <entry encoding="base64">XDxmdWxsUGF0aFw+</entry>
@@ -15846,6 +15845,7 @@
         <entry>smrf</entry>
         <entry>header</entry>
         <entry>hero</entry>
+        <entry>commerce</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
