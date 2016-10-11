@@ -739,6 +739,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/src/main/res/raw/acknowledgements.html" timestamp="1476219459020">
+        <mark key="'" line="213" column="9" />
+        <mark key="[" line="237" column="8" />
+        <mark key="]" line="237" column="17" />
+        <mark key="^" line="237" column="17" />
+        <mark key="." line="237" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/utils/TimeUtil.java" timestamp="1464568844136">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
@@ -2622,7 +2629,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1476195395123">
+      <file name="/a.regexp" timestamp="1476219232064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3274,8 +3281,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1476209396856">
-        <mark key="'" line="128" column="25" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1476219256556">
+        <mark key="'" line="69" column="8" />
         <mark key="[" line="63" column="83" />
         <mark key="]" line="63" column="85" />
         <mark key="^" line="63" column="85" />
@@ -3765,9 +3772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="285" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="243" column="28" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="254" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="271" column="49" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="272" column="78" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3865,13 +3869,16 @@
       <jump line="185" column="4" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="63" column="61" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="128" column="25" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="47" column="22" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="69" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="213" column="9" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/src/main/res/raw/acknowledgements.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>Gson</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14472,13 +14479,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>Gson</text>
       </register>
       <register name="/" type="4">
-        <text>maven</text>
+        <text>findbugs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEuMC4rJwo=</text>
+        <text encoding="base64">PCEtLVRFU1RJTkctLT4KPCEtLVRFU1RJTkctLT4KPCEtLVRFU1RJTkctLT4K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
@@ -14505,16 +14512,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEyMy40NTYuNzg5Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNC4yLjEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlICc6Z2VtaW5pLWNvcmUnCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nbS5nZW1pbmkuZ3JhZGxlOm9tbmlidXMtcGx1Z2luOjEyMy40NTYuNzg5Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnOmdlbWluaS1hcHAtc2hlbGwnCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNC4yLjEnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15802,22 +15809,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">Ly9pbmNsdWRlICc6Z2VtaW5pLWNvcmUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCB1cmkoIn4vLm0yL3JlcG9zaXRvcnkiKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAnOmdlbWluaS1hcHAtc2hlbGwnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkKICAgICAgICBtYXZlbiB7IHVybCB1cmkoIn4vLm0yL3JlcG9zaXRvcnkiKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
       </register>
     </registers>
     <search>
-      <last-search>maven</last-search>
+      <last-search>findbugs</last-search>
       <last-offset />
-      <last-pattern>maven</last-pattern>
+      <last-pattern>findbugs</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15825,8 +15832,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdWxsUGF0aFw+</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZWRKb2JzVmlld1w+</entry>
         <entry encoding="base64">XDxhcnRpZmFjdElkXD4=</entry>
         <entry>location</entry>
         <entry>noLocationRe</entry>
@@ -15835,7 +15840,6 @@
         <entry>api</entry>
         <entry>dom</entry>
         <entry>cache</entry>
-        <entry>realm</entry>
         <entry>core</entry>
         <entry>app</entry>
         <entry>getString</entry>
@@ -15845,6 +15849,9 @@
         <entry>commerce</entry>
         <entry>gradle</entry>
         <entry>maven</entry>
+        <entry>adobe</entry>
+        <entry>realm</entry>
+        <entry>findbugs</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
