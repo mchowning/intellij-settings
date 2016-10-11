@@ -1378,11 +1378,10 @@
         <mark key="." line="32" column="38" />
         <mark key="^" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1476191193637">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="3" column="18" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/gradle.properties" timestamp="1476192144664">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts/src/Main.hs" timestamp="1448639622621">
         <mark key="[" line="5" column="7" />
@@ -3943,8 +3942,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1.0.24</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMgVGhlIEplbmtpbnNmaWxlIHJlcXVpcmVzIHRoYXQgdGhlIHZlcnNpb24gbWF0Y2ggcmVnZXggb2YgdGhlIGZvcm0KIyAoXHcqLT9cZCtcLlxkK1wuXGQrKSwgaS5lLiBNZXNzZW5nZXItMS4wLjEyIG9yIDMuMS4yIGFyZSBib3RoIHByb3BlciwKIyBidXQgTXktQnVpbGQtMS4wLjEyIHdvdWxkIG5vdCBiZSBwcm9wZXIgZHVlIHRvIHRoZSBleHRyYSBkYXNoLgo9PT09PT09Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14545,7 +14544,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.0.24</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>NEW_VERSION</text>
@@ -14556,11 +14555,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text>\n' +
-                            /The version must match regex of the form \/.*\.\d+\/./ + 
-                            '\nFor example, 3.1.2 and Messenger-1.0.12 are both proper, ' +
-                            'but My-Build-1.0.12 is not on account of the extra dash.</text>
+      <register name="1" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMgVGhlIEplbmtpbnNmaWxlIHJlcXVpcmVzIHRoYXQgdGhlIHZlcnNpb24gbWF0Y2ggcmVnZXggb2YgdGhlIGZvcm0KIyAoXHcqLT9cZCtcLlxkK1wuXGQrKSwgaS5lLiBNZXNzZW5nZXItMS4wLjEyIG9yIDMuMS4yIGFyZSBib3RoIHByb3BlciwKIyBidXQgTXktQnVpbGQtMS4wLjEyIHdvdWxkIG5vdCBiZSBwcm9wZXIgZHVlIHRvIHRoZSBleHRyYSBkYXNoLgo9PT09PT09Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14577,21 +14573,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>' +
-                        '</text>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtaW5vcl91cGRhdGVzCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KGRlcGVuZGluZyBvbiB0aGUgc2V0dGluZ3Mgb2YgdGhlIGpvYiByZWFkaW5nIHRoZSAnICsgCiAgICAgICAgICAgICAgICAgICAgICAgICdKb2JEZWZpbml0aW9ucyBmaWxlKSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dmVyc2lvbj0xLjAuMjQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FIHRoaXMgY2FuIGhhdmUgQCMgYXQgdGhlIGVuZCBpZiB0aGUgYnVpbGQgaXMgc3RhcnRlZCBhZnRlciBhbm90aGVyIGJ1aWxkCg==</text>
+        <text encoding="base64">dmVyc2lvbj1HcmFkbGVQbHVnaW4tMS4wLjUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">dmVyc2lvbj0xMjMuNDU2Ljc4OQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+        <text>\n' +
+                            /The version must match regex of the form \/.*\.\d+\/./ + 
+                            '\nFor example, 3.1.2 and Messenger-1.0.12 are both proper, ' +
+                            'but My-Build-1.0.12 is not on account of the extra dash.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15879,13 +15877,14 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAg</text>
+        <text>' +
+                        '</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAg</text>
+        <text encoding="base64">KGRlcGVuZGluZyBvbiB0aGUgc2V0dGluZ3Mgb2YgdGhlIGpvYiByZWFkaW5nIHRoZSAnICsgCiAgICAgICAgICAgICAgICAgICAgICAgICdKb2JEZWZpbml0aW9ucyBmaWxlKSA=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvLyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIEZJWE1FIHRoaXMgY2FuIGhhdmUgQCMgYXQgdGhlIGVuZCBpZiB0aGUgYnVpbGQgaXMgc3RhcnRlZCBhZnRlciBhbm90aGVyIGJ1aWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
