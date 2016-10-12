@@ -972,10 +972,10 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyChecker.groovy" timestamp="1474718727417">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/BuildscriptDependencyChecker.groovy" timestamp="1476297062832">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="71" />
+        <mark key="." line="15" column="71" />
         <mark key="^" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/remove_branches_jenkinsfile.groovy" timestamp="1476071955746">
@@ -1717,8 +1717,8 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1476293313633">
-        <mark key="'" line="125" column="30" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" timestamp="1476297050925">
+        <mark key="'" line="39" column="53" />
         <mark key="[" line="54" column="66" />
         <mark key="]" line="54" column="66" />
         <mark key="." line="54" column="66" />
@@ -3844,10 +3844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/buildJobs.groovy" />
-      <jump line="16" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="145" column="0" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/shared_Jenkinsfile" />
-      <jump line="252" column="41" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="37" column="4" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="201" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3944,6 +3940,10 @@
       <jump line="65" column="24" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="98" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="105" column="20" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="32" column="38" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="24" column="80" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="38" column="78" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="39" column="53" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14554,7 +14554,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2JCdWlsZGVyQnJhbmNoXD4=</text>
+        <text>gradle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck91dHB1dC5jb250YWlucygnbm9kZW5hbWUgbm9yIHNlcnZuYW1lIHByb3ZpZGVkLCBvciBub3Qga25vd24nKSB8fCAK</text>
@@ -15894,9 +15894,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2JCdWlsZGVyQnJhbmNoXD4=</last-search>
+      <last-search>gradle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2JCdWlsZGVyQnJhbmNoXD4=</last-pattern>
+      <last-pattern>gradle</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15904,11 +15904,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aslfj</entry>
-        <entry encoding="base64">XDxkaWRKZW5raW5zQXV0aG9yTW9zdFJlY2VudENvbW1pdFw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVPbW5pYnVzVmVyc2lvbkluQnVpbGRGaWxlXD4=</entry>
-        <entry>gradle</entry>
-        <entry>clean</entry>
         <entry>from</entry>
         <entry encoding="base64">XDxncmFkbGVQcm9wc1w+</entry>
         <entry encoding="base64">XDxqZW5raW5zSm9iQnJhbmNoXD4=</entry>
@@ -15924,6 +15919,11 @@
         <entry encoding="base64">XDxqZW5raW5zSm9iQnVpbGRlclJlcG9OYW1lXD4=</entry>
         <entry>asldjf</entry>
         <entry encoding="base64">XDxqb2JCdWlsZGVyQnJhbmNoXD4=</entry>
+        <entry>1.4.1</entry>
+        <entry>maven</entry>
+        <entry>fire</entry>
+        <entry>asljf</entry>
+        <entry>gradle</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
