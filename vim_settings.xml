@@ -3275,12 +3275,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1476219256556">
-        <mark key="'" line="69" column="8" />
-        <mark key="[" line="63" column="83" />
-        <mark key="]" line="63" column="85" />
-        <mark key="^" line="63" column="85" />
-        <mark key="." line="63" column="85" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1476297476569">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="68" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_design_in_scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1466952366503">
         <mark key="[" line="147" column="0" />
@@ -3766,7 +3765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="41" column="48" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="42" column="50" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3851,7 +3849,6 @@
       <jump line="18" column="70" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="153" column="45" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="162" column="7" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="164" column="9" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="166" column="30" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="169" column="34" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="174" column="21" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -3866,6 +3863,8 @@
       <jump line="350" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/src/main/res/raw/acknowledgements.html" />
       <jump line="347" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/src/main/res/raw/acknowledgements.html" />
       <jump line="277" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/src/main/res/raw/acknowledgements.html" />
+      <jump line="164" column="18" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14476,7 +14475,7 @@
         <text encoding="base64">QmluYXJ5IA==</text>
       </register>
       <register name="/" type="4">
-        <text>asdljf</text>
+        <text>tools</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pgo8L2Rpdj4K</text>
@@ -15816,9 +15815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdljf</last-search>
+      <last-search>tools</last-search>
       <last-offset />
-      <last-pattern>asdljf</last-pattern>
+      <last-pattern>tools</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -15826,7 +15825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCenterOfCountry</entry>
         <entry>group</entry>
         <entry>api</entry>
         <entry>dom</entry>
@@ -15838,7 +15836,6 @@
         <entry>header</entry>
         <entry>hero</entry>
         <entry>commerce</entry>
-        <entry>gradle</entry>
         <entry>maven</entry>
         <entry>adobe</entry>
         <entry>realm</entry>
@@ -15846,6 +15843,8 @@
         <entry>threshold</entry>
         <entry encoding="base64">XDxSZWFsbVw+</entry>
         <entry>asdljf</entry>
+        <entry>gradle</entry>
+        <entry>tools</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
