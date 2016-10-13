@@ -925,12 +925,12 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1476294087363">
-        <mark key="'" line="105" column="20" />
-        <mark key="[" line="164" column="39" />
-        <mark key="]" line="164" column="58" />
-        <mark key="." line="164" column="58" />
-        <mark key="^" line="164" column="58" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" timestamp="1476372028346">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="104" column="57" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
@@ -1076,11 +1076,11 @@
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1476126353269">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="5" />
-        <mark key="^" line="6" column="5" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" timestamp="1476371255066">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="81" column="9" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/model/UnixTime.java" timestamp="1464568934765">
         <mark key="[" line="25" column="15" />
@@ -2428,6 +2428,10 @@
         <mark key="." line="43" column="12" />
         <mark key="^" line="43" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/OmnibusBuildJobConfig.groovy" timestamp="1476116495411">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -2445,6 +2449,10 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/omnibusBuildProperties.groovy" timestamp="1476369360768">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_3/analysis.py" timestamp="1428074738794">
         <mark key="[" line="65" column="46" />
@@ -2940,12 +2948,6 @@
         <mark key="]" line="32" column="64" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/add_branch_jenkinsfile.groovy" timestamp="1476190412130">
-        <mark key="'" line="42" column="65" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
@@ -3860,46 +3862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="201" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="285" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="243" column="28" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="254" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="271" column="49" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="272" column="78" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="276" column="96" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="25" column="75" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="26" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="32" column="37" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="41" column="48" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="42" column="50" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="44" column="58" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="47" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="51" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="60" column="51" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="85" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="88" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="89" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="93" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="94" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="101" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="103" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="104" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="111" column="42" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="113" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="114" column="14" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="141" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="149" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="150" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="261" column="6" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="121" column="11" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="124" column="78" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="9" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="36" column="11" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="46" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="52" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="59" column="27" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="61" column="27" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -3955,18 +3917,58 @@
       <jump line="58" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="65" column="24" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="98" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
-      <jump line="105" column="20" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="32" column="38" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="24" column="80" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="38" column="78" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="39" column="53" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
+      <jump line="16" column="34" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" />
+      <jump line="159" column="43" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="160" column="43" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="161" column="43" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="162" column="43" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="163" column="43" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="46" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="52" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="53" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="54" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="55" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="56" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="57" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="81" column="50" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="97" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="27" column="2" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="41" column="46" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="198" column="58" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="104" column="57" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="105" column="52" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="121" column="40" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="185" column="45" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="186" column="45" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="187" column="45" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="188" column="45" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="189" column="45" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="6" column="2" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="42" column="49" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="61" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="64" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="76" column="37" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="11" column="13" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="191" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="195" column="43" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="9" column="30" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="10" column="98" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="13" column="28" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="101" column="99" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="113" column="78" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
+      <jump line="142" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCA1OTUwM2UwZTcyMTM0MDgwNTE2ZWU1ZjJjMzg5ZTA2OTY0YjBmZjU2Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PiA=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14567,19 +14569,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">PiA=</text>
       </register>
       <register name="/" type="4">
-        <text>gradle</text>
+        <text>asldfjk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RyZWFtLnJlYWRVbnNpZ25lZEJ5dGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidBbGwgcmVwb3MnIGluY2x1ZGVzOlxuJHtidWlsZFByb3BlcnRpZXMuQUxMX1JFUE9TLmpvaW4oJyxcbicpfVxuIiArCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCA1OTUwM2UwZTcyMTM0MDgwNTE2ZWU1ZjJjMzg5ZTA2OTY0YjBmZjU2Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14597,19 +14599,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQojIFRoZSBKZW5raW5zZmlsZSByZXF1aXJlcyB0aGF0IHRoZSB2ZXJzaW9uIG1hdGNoIHJlZ2V4IG9mIHRoZSBmb3JtCiMgKFx3Ki0/XGQrXC5cZCtcLlxkKyksIGkuZS4gTWVzc2VuZ2VyLTEuMC4xMiBvciAzLjEuMiBhcmUgYm90aCBwcm9wZXIsCiMgYnV0IE15LUJ1aWxkLTEuMC4xMiB3b3VsZCBub3QgYmUgcHJvcGVyIGR1ZSB0byB0aGUgZXh0cmEgZGFzaC4KPj4+Pj4+PiBSRU1PVkUgVEhJUyBDT01NSVQgLSBmYWtlIHBsdWdpbiB2ZXJzaW9uCg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtClsKICAgIHsKICAgICAgICAiYnJhbmNoTmFtZSI6ICJtYXN0ZXIiLAogICAgICAgICJyZXBvcyI6IFsKICAgICAgICAgICAgImdyYWRsZS1wbHVnaW5zIgogICAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICAgImJyYW5jaE5hbWUiOiAiZ3JhZGxlX3BsdWdpbiIsCiAgICAgICAgInJlcG9zIjogWwogICAgICAgICAgICAiZ3JhZGxlLXBsdWdpbnMiLAogICAgICAgICAgICAiZ2VtaW5pLXNlY3VyaXR5IiwKICAgICAgICAgICAgImdlbWluaS1jb3JlLXNkayIsCiAgICAgICAgICAgICJwbHVnaW4tYXNzaXN0IiwKICAgICAgICAgICAgInBsdWdpbi1hdHlvdXJzZXJ2aWNlIiwKICAgICAgICAgICAgInBsdWdpbi1ibGUiLAogICAgICAgICAgICAicGx1Z2luLWRlYWxlci1sb2NhdGUiLAogICAgICAgICAgICAicGx1Z2luLWhmYyIsCiAgICAgICAgICAgICJwbHVnaW4ta2V5LWZvYiIsCiAgICAgICAgICAgICJwbHVnaW4tbmF2IiwKICAgICAgICAgICAgInBsdWdpbi1vd25lci1tYW51YWwiLAogICAgICAgICAgICAicGx1Z2luLXBhcmtpbmciLAogICAgICAgICAgICAicGx1Z2luLXByZWZlcnJlZC1kZWFsZXIiLAogICAgICAgICAgICAicGx1Z2luLXJlY2FsbCIsCiAgICAgICAgICAgICJwbHVnaW4tcm9hZHNpZGUtYXNzaXN0YW5jZSIsCiAgICAgICAgICAgICJwbHVnaW4tc2NoZWR1bGUtc2VydmljZSIsCiAgICAgICAgICAgICJwbHVnaW4tdmVoaWNsZS1zZXJ2aWNlIiwKICAgICAgICAgICAgInBsdWdpbi12ZWhpY2xlLXN0YXR1cyIsCiAgICAgICAgICAgICJwbHVnaW4td2lmaSIsCiAgICAgICAgICAgICJnZW1pbmkiCiAgICAgICAgXQogICAgfSwKICAgIHsKICAgICAgICAiYnJhbmNoTmFtZSI6ICJncmFkbGVfcGx1Z2luX2NvcHk0IiwKICAgICAgICAicmVwb3MiOiBbCiAgICAgICAgICAgICJncmFkbGUtcGx1Z2lucyIsCiAgICAgICAgICAgICJnZW1pbmktc2VjdXJpdHkiLAogICAgICAgICAgICAiZ2VtaW5pLWNvcmUtc2RrIiwKICAgICAgICAgICAgInBsdWdpbi1hc3Npc3QiLAogICAgICAgICAgICAicGx1Z2luLWF0eW91cnNlcnZpY2UiLAogICAgICAgICAgICAicGx1Z2luLWJsZSIsCiAgICAgICAgICAgICJwbHVnaW4tZGVhbGVyLWxvY2F0ZSIsCiAgICAgICAgICAgICJwbHVnaW4taGZjIiwKICAgICAgICAgICAgInBsdWdpbi1rZXktZm9iIiwKICAgICAgICAgICAgInBsdWdpbi1uYXYiLAogICAgICAgICAgICAicGx1Z2luLW93bmVyLW1hbnVhbCIsCiAgICAgICAgICAgICJwbHVnaW4tcGFya2luZyIsCiAgICAgICAgICAgICJwbHVnaW4tcHJlZmVycmVkLWRlYWxlciIsCiAgICAgICAgICAgICJwbHVnaW4tcmVjYWxsIiwKICAgICAgICAgICAgInBsdWdpbi1yb2Fkc2lkZS1hc3Npc3RhbmNlIiwKICAgICAgICAgICAgInBsdWdpbi1zY2hlZHVsZS1zZXJ2aWNlIiwKICAgICAgICAgICAgInBsdWdpbi12ZWhpY2xlLXNlcnZpY2UiLAogICAgICAgICAgICAicGx1Z2luLXZlaGljbGUtc3RhdHVzIiwKICAgICAgICAgICAgInBsdWdpbi13aWZpIiwKICAgICAgICAgICAgImdlbWluaSIKICAgICAgICBdCiAgICB9Cl0KPT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxSZXBvcy4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmVyc2lvbj1PbW5pYnVzUGx1Z2luVGVzdEIuMAo9PT09PT09CiMgVGhlIEplbmtpbnNmaWxlIHJlcXVpcmVzIHRoYXQgdGhlIHZlcnNpb24gbWF0Y2ggcmVnZXggb2YgdGhlIGZvcm0gKC4qXC5cZCspLgojIEZvciBleGFtcGxlLCBNZXNzZW5nZXItMSwgTWVzc2VuZ2VyLTEuMC4zLCBhbmQgMy4xLjIuMSBhcmUgYWxsIHByb3Blci4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZTg0ZTk4Li4uIEplbmtpbnMgfCBidW1waW5nIHZlcnNpb24gZnJvbSBPbW5pYnVzUGx1Z2luVGVzdEIuMCB0byBPbW5pYnVzUGx1Z2luVGVzdEIuMQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15897,35 +15899,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmVyc2lvbj1HcmFkbGVQbHVnaW4tMS4wLjUKPT09PT09PQojIFRoZSBKZW5raW5zZmlsZSByZXF1aXJlcyB0aGF0IHRoZSB2ZXJzaW9uIG1hdGNoIHJlZ2V4IG9mIHRoZSBmb3JtICguKlwuXGQrKS4KIyBGb3IgZXhhbXBsZSwgTWVzc2VuZ2VyLTEsIE1lc3Nlbmdlci0xLjAuMywgYW5kIDMuMS4yLjEgYXJlIGFsbCBwcm9wZXIuCg==</text>
+        <text encoding="base64">U3RyaW5nIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2MjA4OGU3Li4uIEplbmtpbnMgfCBhZGQtYnJhbmNoIGpvYiB1cGRhdGVzIHRvIGdyYWRsZS5wcm9wZXJ0aWVzIGFuZCB2ZXJzaW9ucy5ncmFkbGUK</text>
+        <text encoding="base64">ICAgICAgICAiZ2VtaW5pIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSRU1PVkUgVEhJUyBDT01NSVQgLSBmYWtlIHBsdWdpbiB2ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAiZ3JhZGxlIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>97</text>
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>gradle</last-search>
+      <last-search>asldfjk</last-search>
       <last-offset />
-      <last-pattern>gradle</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>asldfjk</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>from</entry>
-        <entry encoding="base64">XDxncmFkbGVQcm9wc1w+</entry>
-        <entry encoding="base64">XDxqZW5raW5zSm9iQnJhbmNoXD4=</entry>
-        <entry>ALL_PLUGIN</entry>
-        <entry>JOB_BUILDER</entry>
-        <entry encoding="base64">XDxBTExfUExVR0lOX1JFUE9TXD4=</entry>
         <entry encoding="base64">XDxqb2JOYW1lc1w+</entry>
         <entry>NEW_VERSION</entry>
         <entry>owner</entry>
@@ -15940,6 +15936,12 @@
         <entry>fire</entry>
         <entry>asljf</entry>
         <entry>gradle</entry>
+        <entry>'</entry>
+        <entry>asdklfj</entry>
+        <entry encoding="base64">XDxidWlsZFByb3BlcnRpZXNcPg==</entry>
+        <entry>allPluginRepos</entry>
+        <entry encoding="base64">XDxidWlsZEpvYnNcPg==</entry>
+        <entry>asldfjk</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
@@ -15960,8 +15962,8 @@
         <entry encoding="base64">JzwsJz5zL3tyZXBvTmFtZX0vcmVwb05hbWUvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyRyZXBvTmFtZS8ke21vZHVsZX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>97</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
