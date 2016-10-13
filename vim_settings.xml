@@ -2796,11 +2796,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/build.sbt" timestamp="1476387220817">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="21" column="92" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/build.sbt" timestamp="1476395520427">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1476387316372">
         <mark key="[" line="0" column="0" />
@@ -3168,11 +3168,11 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/Main.scala" timestamp="1476386651797">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="22" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/Main.scala" timestamp="1476395886071">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/dev/bodyworks_website/app/static/compass_notes.txt" timestamp="1429825724800">
         <mark key="[" line="0" column="0" />
@@ -4006,7 +4006,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>o</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14607,19 +14607,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>sbt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bmFtZSA6PSAibW5pc3Qtc2NhbGEiCgp2ZXJzaW9uIDo9ICIxLjAiCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuOCIK</text>
+      <register name="0" type="4">
+        <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14637,19 +14637,19 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9ICJTb25hdHlwZSBSZWxlYXNlcyIgYXQgImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy8iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAiIgo=</text>
+        <text encoding="base64">ICAvLyBvdGhlciByZXNvbHZlcnMgaGVyZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15937,13 +15937,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gIml0OiAkYnVpbGRKbyIK</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhbmxwIiAlJSAiYnJlZXplIiAlICIwLjEyIgovL2xpYnJhcnlEZXBlbmRlbmNpZXMgKys9IFNlcSgKLy8gIC8vIExhc3Qgc3RhYmxlIHJlbGVhc2UKLy8gICJvcmcuc2NhbGFubHAiICUlICJicmVlemUiICUgIjAuMTIiLAovLwovLyAgIC8vIE5hdGl2ZSBsaWJyYXJpZXMgYXJlIG5vdCBpbmNsdWRlZCBieSBkZWZhdWx0LiBhZGQgdGhpcyBpZiB5b3Ugd2FudCB0aGVtIChhcyBvZiAwLjcpCi8vICAgLy8gTmF0aXZlIGxpYnJhcmllcyBncmVhdGx5IGltcHJvdmUgcGVyZm9ybWFuY2UsIGJ1dCBpbmNyZWFzZSBqYXIgc2l6ZXMuCi8vICAgLy8gSXQgYWxzbyBwYWNrYWdlcyB2YXJpb3VzIGJsYXMgaW1wbGVtZW50YXRpb25zLCB3aGljaCBoYXZlIGxpY2Vuc2VzIHRoYXQgbWF5IG9yIG1heSBub3QKLy8gICAvLyBiZSBjb21wYXRpYmxlIHdpdGggdGhlIEFwYWNoZSBMaWNlbnNlLiBObyBHUEwgY29kZSwgYXMgYmVzdCBJIGtub3cuCi8vICAgIm9yZy5zY2FsYW5scCIgJSUgImJyZWV6ZS1uYXRpdmVzIiAlICIwLjEyIiwKLy8KLy8gICAvLyBUaGUgdmlzdWFsaXphdGlvbiBsaWJyYXJ5IGlzIGRpc3RyaWJ1dGVkIHNlcGFyYXRlbHkgYXMgd2VsbC4KLy8gICAvLyBJdCBkZXBlbmRzIG9uIExHUEwgY29kZQovLyAgICJvcmcuc2NhbGFubHAiICUlICJicmVlemUtdml6IiAlICIwLjEyIgovLykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIE9tbmlidXNCdWlsZEpvYkNvbmZpZyB7CiAgICBTdHJpbmcgYnJhbmNoTmFtZQogICAgTGlzdDxTdHJpbmc+IHJlcG9zCn0K</text>
+        <text encoding="base64">aW1wb3J0IGJyZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">aW1wb3J0IGJyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>143</text>
