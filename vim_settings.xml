@@ -1937,10 +1937,11 @@
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/app/build.gradle" timestamp="1475877714100">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/app/build.gradle" timestamp="1476377661718">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/dev/haskell/NICTA-course/src/Course/FileIO.hs" timestamp="1456067452521">
         <mark key="[" line="103" column="46" />
@@ -3016,6 +3017,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-key-fob/plugin-key-fob/build.gradle" timestamp="1476377674113">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/server/handler/ServerFileReadWriteHandler.scala" timestamp="1466599322412">
         <mark key="[" line="50" column="51" />
         <mark key="]" line="50" column="51" />
@@ -3951,8 +3958,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14553,7 +14560,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@integer/default_animation_duration</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text>power</text>
