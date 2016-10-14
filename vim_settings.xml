@@ -2058,11 +2058,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/pipeline_jenkinsfile.groovy" timestamp="1476442365541">
-        <mark key="'" line="73" column="45" />
-        <mark key="[" line="91" column="20" />
-        <mark key="]" line="91" column="21" />
-        <mark key="." line="91" column="21" />
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/pipeline_jenkinsfile.groovy" timestamp="1476444453532">
+        <mark key="'" line="85" column="45" />
+        <mark key="[" line="129" column="11" />
+        <mark key="]" line="129" column="16" />
+        <mark key="." line="129" column="16" />
+        <mark key="^" line="129" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/response/CommandResponse.java" timestamp="1464279088504">
         <mark key="[" line="19" column="28" />
@@ -4006,8 +4007,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVudnMoWyAnQUxMX1JFUE9TJyAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5BTExfUkVQT1Muam9pbignLCcpLAovLyAgICAgICAgICAgICAgICdBTExfUExVR0lOX1JFUE9TJyAgIDogYnVpbGRQcm9wZXJ0aWVzLkFMTF9QTFVHSU5fUkVQT1Muam9pbignLCcpLAovLyAgICAgICAgICAgICAgICdHRU1JTklfQ09SRV9TREsnICAgIDogYnVpbGRQcm9wZXJ0aWVzLkdFTUlOSV9DT1JFX1NESywKLy8gICAgICAgICAgICAgICAnR0VNSU5JX1NFQ1VSSVRZJyAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTklfU0VDVVJJVFksCi8vICAgICAgICAgICAgICAgJ0dSQURMRV9QTFVHSU4nICAgICAgOiBidWlsZFByb3BlcnRpZXMuR1JBRExFX1BMVUdJTiwKLy8gICAgICAgICAgICAgICAnR0VNSU5JJyAgICAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTkksCi8vICAgICAgICAgICAgICAgJ0pPQl9CVUlMREVSX0JSQU5DSCcgOiBqb2JCdWlsZGVyQnJhbmNoIF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>jobHandle?.result ?: &quot;&quot;</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14608,7 +14609,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/dev/machine-learning/mnist/&quot;</text>
+        <text>jobHandle?.result ?: &quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>asldkfj</text>
@@ -14620,7 +14621,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVudnMoWyAnQUxMX1JFUE9TJyAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5BTExfUkVQT1Muam9pbignLCcpLAovLyAgICAgICAgICAgICAgICdBTExfUExVR0lOX1JFUE9TJyAgIDogYnVpbGRQcm9wZXJ0aWVzLkFMTF9QTFVHSU5fUkVQT1Muam9pbignLCcpLAovLyAgICAgICAgICAgICAgICdHRU1JTklfQ09SRV9TREsnICAgIDogYnVpbGRQcm9wZXJ0aWVzLkdFTUlOSV9DT1JFX1NESywKLy8gICAgICAgICAgICAgICAnR0VNSU5JX1NFQ1VSSVRZJyAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTklfU0VDVVJJVFksCi8vICAgICAgICAgICAgICAgJ0dSQURMRV9QTFVHSU4nICAgICAgOiBidWlsZFByb3BlcnRpZXMuR1JBRExFX1BMVUdJTiwKLy8gICAgICAgICAgICAgICAnR0VNSU5JJyAgICAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTkksCi8vICAgICAgICAgICAgICAgJ0pPQl9CVUlMREVSX0JSQU5DSCcgOiBqb2JCdWlsZGVyQnJhbmNoIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRIYW5kbGUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14638,19 +14639,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ1aWxkUHJvcGVydGllcy5BTExfUkVQT1MuZWFjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJidWlsZEhhbmRsZSB0eXBlOiAke2J1aWxkSGFuZGxlLmdldENsYXNzKCl9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAiYSBuZXcgYnJhbmNoIG9mIHRoZSAke2J1aWxkUHJvcGVydGllcy5HUkFETEVfUExVR0lOfSByZXBvIHdpbGwgYmUgIiArCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGVudnMoWyAnQUxMX1JFUE9TJyAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5BTExfUkVQT1Muam9pbignLCcpLAovLyAgICAgICAgICAgICAgICdBTExfUExVR0lOX1JFUE9TJyAgIDogYnVpbGRQcm9wZXJ0aWVzLkFMTF9QTFVHSU5fUkVQT1Muam9pbignLCcpLAovLyAgICAgICAgICAgICAgICdHRU1JTklfQ09SRV9TREsnICAgIDogYnVpbGRQcm9wZXJ0aWVzLkdFTUlOSV9DT1JFX1NESywKLy8gICAgICAgICAgICAgICAnR0VNSU5JX1NFQ1VSSVRZJyAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTklfU0VDVVJJVFksCi8vICAgICAgICAgICAgICAgJ0dSQURMRV9QTFVHSU4nICAgICAgOiBidWlsZFByb3BlcnRpZXMuR1JBRExFX1BMVUdJTiwKLy8gICAgICAgICAgICAgICAnR0VNSU5JJyAgICAgICAgICAgICA6IGJ1aWxkUHJvcGVydGllcy5HRU1JTkksCi8vICAgICAgICAgICAgICAgJ0pPQl9CVUlMREVSX0JSQU5DSCcgOiBqb2JCdWlsZGVyQnJhbmNoIF0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ1aWxkUHJvcGVydGllcy5BTExfUkVQT1MuZWFjaCB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAiYSBuZXcgYnJhbmNoIG9mIHRoZSAke2J1aWxkUHJvcGVydGllcy5HUkFETEVfUExVR0lOfSByZXBvIHdpbGwgYmUgIiArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnRsbiAiYnVpbGRKb2JzIC0tPiAke2J1aWxkSm9icy5nZXRDbGFzcygpfSAtLT4gJGJ1aWxkSm9icyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15938,13 +15939,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9MaXN0PE9tbmlidXNCdWlsZEpvYkNvbmZpZz4gYnVpbGRKb2JzID0gcmF3QnVpbGRKb2JzLmNvbGxlY3QgeyBuZXcgT21uaWJ1c0J1aWxkSm9iQ29uZmlnKGl0KSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9MaXN0PE1hcDxTdHJpbmcsT2JqZWN0Pj4gcmF3QnVpbGRKb2JzID0gbmV3IGdyb292eS5qc29uLkpzb25TbHVycGVyKCkucGFyc2VUZXh0IHJlYWRGaWxlRnJvbVdvcmtzcGFjZSgnYnVpbGRKb2JzLmpzb24nKQo=</text>
+        <text encoding="base64">cHJpbnRsbiAiYnVpbGRKb2JzIC0tPiAke2J1aWxkSm9icy5nZXRDbGFzcygpfSAtLT4gJGJ1aWxkSm9icyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9MaXN0PE9tbmlidXNCdWlsZEpvYkNvbmZpZz4gYnVpbGRKb2JzID0gcmF3QnVpbGRKb2JzLmNvbGxlY3QgeyBuZXcgT21uaWJ1c0J1aWxkSm9iQ29uZmlnKGl0KSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>143</text>
