@@ -1850,11 +1850,12 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/main/res/raw/acknowledgements.html" timestamp="1476376880068">
-        <mark key="[" line="385" column="6" />
-        <mark key="]" line="386" column="0" />
-        <mark key="." line="386" column="0" />
-        <mark key="^" line="386" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/src/main/res/raw/acknowledgements.html" timestamp="1476463162070">
+        <mark key="'" line="263" column="28" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="300" column="0" />
+        <mark key="^" line="374" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/plugin.gradle" timestamp="1473612431491">
         <mark key="[" line="0" column="0" />
@@ -3921,7 +3922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="57" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="57" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="45" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -4021,13 +4021,14 @@
       <jump line="53" column="48" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="89" column="43" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="205" column="66" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
+      <jump line="263" column="28" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/src/main/res/raw/acknowledgements.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJjaXJjbGVfY29sb3IiIGZvcm1hdD0iY29sb3IiIC8+Cg==</text>
+        <text encoding="base64">CjxkaXYgY2xhc3M9ImFja25vd2xlZGdlbWVudCI+CiAgICA8ZGl2IGNsYXNzPSJwcm9qZWN0LXRpdGxlIj4KICAgICAgICBiYXJjb2Rlc2Nhbm5lcgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJjb3B5cmlnaHQtaW5mbyI+CiAgICAgICAgQ29weXJpZ2h0ICYjMTY5OyAyMDE0IER1c2h5YW50aCBNYWd1bHVydQogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJsaWNlbnNlLXJlZiI+CiAgICAgICAgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wLCBKYW51YXJ5IDIwMDQKICAgIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14640,7 +14641,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJjaXJjbGVfY29sb3IiIGZvcm1hdD0iY29sb3IiIC8+Cg==</text>
+        <text encoding="base64">CjxkaXYgY2xhc3M9ImFja25vd2xlZGdlbWVudCI+CiAgICA8ZGl2IGNsYXNzPSJwcm9qZWN0LXRpdGxlIj4KICAgICAgICBiYXJjb2Rlc2Nhbm5lcgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJjb3B5cmlnaHQtaW5mbyI+CiAgICAgICAgQ29weXJpZ2h0ICYjMTY5OyAyMDE0IER1c2h5YW50aCBNYWd1bHVydQogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJsaWNlbnNlLXJlZiI+CiAgICAgICAgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wLCBKYW51YXJ5IDIwMDQKICAgIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14657,20 +14658,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJjaXJjbGVfY29sb3IiIGZvcm1hdD0iY29sb3IiIC8+Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15958,13 +15959,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gIml0OiAkYnVpbGRKbyIK</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIE9tbmlidXNCdWlsZEpvYkNvbmZpZyB7CiAgICBTdHJpbmcgYnJhbmNoTmFtZQogICAgTGlzdDxTdHJpbmc+IHJlcG9zCn0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIml0OiAkYnVpbGRKbyIK</text>
       </register>
       <register name=":" type="4">
         <text>143</text>
@@ -15981,7 +15982,6 @@
     </search>
     <history>
       <history-search>
-        <entry>header</entry>
         <entry>hero</entry>
         <entry>commerce</entry>
         <entry>maven</entry>
@@ -16000,6 +16000,7 @@
         <entry>pluginProvider</entry>
         <entry>powermo</entry>
         <entry>power</entry>
+        <entry>linker</entry>
         <entry>circle</entry>
       </history-search>
       <history-cmd>
