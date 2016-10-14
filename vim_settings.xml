@@ -374,6 +374,11 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/res/values/attrs.xml" timestamp="1476461247758">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/test/java/com/gm/gemini/core_plugins/garage/ui/fullscreen/EditVehicleFragmentPresenterTest.java" timestamp="1471531768456">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -4021,8 +4026,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJjaXJjbGVfY29sb3IiIGZvcm1hdD0iY29sb3IiIC8+Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14626,7 +14631,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>sbt</text>
+        <text>circle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuaW8ue0RhdGFJbnB1dFN0cmVhbSwgRmlsZUlucHV0U3RyZWFtfQppbXBvcnQgamF2YS51dGlsLnppcC5HWklQSW5wdXRTdHJlYW0KCmltcG9ydCBicmVlemUubGluYWxnLkRlbnNlVmVjdG9yCgp2YWwgdGVzdEltYWdlc0ZpbGVuYW1lID0gInQxMGstaW1hZ2VzLWlkeDMtdWJ5dGUuZ3oiCnZhbCB0ZXN0TGFiZWxzRmlsZW5hbWUgPSAidDEway1sYWJlbHMtaWR4MS11Ynl0ZS5neiIKdmFsIHRyYWluSW1hZ2VzRmlsZW5hbWUgPSAidHJhaW4taW1hZ2VzLWlkeDMtdWJ5dGUuZ3oiCnZhbCB0cmFpbkxhYmVsc0ZpbGVuYW1lID0gInRyYWluLWxhYmVscy1pZHgxLXVieXRlLmd6Igp2YWwgZmlsZVBhdGggPSAiL1VzZXJzL21hdHQvZGV2L21hY2hpbmUtbGVhcm5pbmcvbW5pc3QvIgp2YWwgc3RyZWFtID0gbmV3IERhdGFJbnB1dFN0cmVhbShuZXcgR1pJUElucHV0U3RyZWFtKG5ldyBGaWxlSW5wdXRTdHJlYW0oZmlsZVBhdGgrdGVzdExhYmVsc0ZpbGVuYW1lKSkpCgp2YWwgbWFnaWNOdW1iZXIgPSBzdHJlYW0ucmVhZEludCgpCnZhbCBudW1iZXJPZlJvd3MgPSBzdHJlYW0ucmVhZEludCgpCgp2YWwgbGFiZWxzQXNJbnRzID0gcmVhZExhYmVscygwKQp2YWwgbGFiZWxzQXNWZWN0b3JzID0gbGFiZWxzQXNJbnRzLm1hcCB7IGxhYmVsID0+CiAgRGVuc2VWZWN0b3IudGFidWxhdGUoMTApIHsgaSA9PiBpZiAoaSA9PSBsYWJlbCkgMS4wIGVsc2UgMC4wIH0KfQoKbGFiZWxzQXNWZWN0b3JzLnRha2UoMTApCgpkZWYgcmVhZExhYmVscyhpbmQ6IEludCk6IFN0cmVhbVtJbnRdID0KICBpZiAoaW5kID49IG51bWJlck9mUm93cykgewogICAgU3RyZWFtLmVtcHR5CiAgfSBlbHNlIHsKICAgIFN0cmVhbS5jb25zKHN0cmVhbS5yZWFkQnl0ZSgpLCByZWFkTGFiZWxzKGluZCsxKSkKICB9Cg==</text>
@@ -14634,8 +14639,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8YXR0ciBuYW1lPSJjaXJjbGVfY29sb3IiIGZvcm1hdD0iY29sb3IiIC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14652,20 +14657,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15953,30 +15958,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gIml0OiAkYnVpbGRKbyIK</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIE9tbmlidXNCdWlsZEpvYkNvbmZpZyB7CiAgICBTdHJpbmcgYnJhbmNoTmFtZQogICAgTGlzdDxTdHJpbmc+IHJlcG9zCn0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIml0OiAkYnVpbGRKbyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">CmNsYXNzIE9tbmlidXNCdWlsZEpvYkNvbmZpZyB7CiAgICBTdHJpbmcgYnJhbmNoTmFtZQogICAgTGlzdDxTdHJpbmc+IHJlcG9zCn0K</text>
       </register>
       <register name=":" type="4">
         <text>143</text>
       </register>
     </registers>
     <search>
-      <last-search>sbt</last-search>
+      <last-search>circle</last-search>
       <last-offset />
-      <last-pattern>sbt</last-pattern>
+      <last-pattern>circle</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>smrf</entry>
         <entry>header</entry>
         <entry>hero</entry>
         <entry>commerce</entry>
@@ -15996,6 +16000,7 @@
         <entry>pluginProvider</entry>
         <entry>powermo</entry>
         <entry>power</entry>
+        <entry>circle</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
