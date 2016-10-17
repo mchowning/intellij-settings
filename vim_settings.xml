@@ -1118,11 +1118,9 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/build.gradle" timestamp="1462890210695">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-assist/build.gradle" timestamp="1476715112772">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/calls/RefreshOAuthCall.java" timestamp="1466733060640">
         <mark key="[" line="15" column="47" />
@@ -4028,7 +4026,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9ImFja25vd2xlZGdlbWVudCI+CiAgICA8ZGl2IGNsYXNzPSJwcm9qZWN0LXRpdGxlIj4KICAgICAgICBiYXJjb2Rlc2Nhbm5lcgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJjb3B5cmlnaHQtaW5mbyI+CiAgICAgICAgQ29weXJpZ2h0ICYjMTY5OyAyMDE0IER1c2h5YW50aCBNYWd1bHVydQogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJsaWNlbnNlLXJlZiI+CiAgICAgICAgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wLCBKYW51YXJ5IDIwMDQKICAgIDwvZGl2Pgo8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3NwYXRoICdjb20uZ20uZ2VtaW5pLmdyYWRsZTpvbW5pYnVzLXBsdWdpbjoxLjAuKycKICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjEuMycKICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjQnCiAgICAgICAgY2xhc3NwYXRoICdjb20uZ2l0aHViLmRjZW5kZW50czphbmRyb2lkLW1hdmVuLWdyYWRsZS1wbHVnaW46MS40LjEnCiAgICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14635,7 +14633,7 @@
         <text>circle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8ue0RhdGFJbnB1dFN0cmVhbSwgRmlsZUlucHV0U3RyZWFtfQppbXBvcnQgamF2YS51dGlsLnppcC5HWklQSW5wdXRTdHJlYW0KCmltcG9ydCBicmVlemUubGluYWxnLkRlbnNlVmVjdG9yCgp2YWwgdGVzdEltYWdlc0ZpbGVuYW1lID0gInQxMGstaW1hZ2VzLWlkeDMtdWJ5dGUuZ3oiCnZhbCB0ZXN0TGFiZWxzRmlsZW5hbWUgPSAidDEway1sYWJlbHMtaWR4MS11Ynl0ZS5neiIKdmFsIHRyYWluSW1hZ2VzRmlsZW5hbWUgPSAidHJhaW4taW1hZ2VzLWlkeDMtdWJ5dGUuZ3oiCnZhbCB0cmFpbkxhYmVsc0ZpbGVuYW1lID0gInRyYWluLWxhYmVscy1pZHgxLXVieXRlLmd6Igp2YWwgZmlsZVBhdGggPSAiL1VzZXJzL21hdHQvZGV2L21hY2hpbmUtbGVhcm5pbmcvbW5pc3QvIgp2YWwgc3RyZWFtID0gbmV3IERhdGFJbnB1dFN0cmVhbShuZXcgR1pJUElucHV0U3RyZWFtKG5ldyBGaWxlSW5wdXRTdHJlYW0oZmlsZVBhdGgrdGVzdExhYmVsc0ZpbGVuYW1lKSkpCgp2YWwgbWFnaWNOdW1iZXIgPSBzdHJlYW0ucmVhZEludCgpCnZhbCBudW1iZXJPZlJvd3MgPSBzdHJlYW0ucmVhZEludCgpCgp2YWwgbGFiZWxzQXNJbnRzID0gcmVhZExhYmVscygwKQp2YWwgbGFiZWxzQXNWZWN0b3JzID0gbGFiZWxzQXNJbnRzLm1hcCB7IGxhYmVsID0+CiAgRGVuc2VWZWN0b3IudGFidWxhdGUoMTApIHsgaSA9PiBpZiAoaSA9PSBsYWJlbCkgMS4wIGVsc2UgMC4wIH0KfQoKbGFiZWxzQXNWZWN0b3JzLnRha2UoMTApCgpkZWYgcmVhZExhYmVscyhpbmQ6IEludCk6IFN0cmVhbVtJbnRdID0KICBpZiAoaW5kID49IG51bWJlck9mUm93cykgewogICAgU3RyZWFtLmVtcHR5CiAgfSBlbHNlIHsKICAgIFN0cmVhbS5jb25zKHN0cmVhbS5yZWFkQnl0ZSgpLCByZWFkTGFiZWxzKGluZCsxKSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3NwYXRoICdjb20uZ20uZ2VtaW5pLmdyYWRsZTpvbW5pYnVzLXBsdWdpbjoxLjAuKycKICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjEuMycKICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjQnCiAgICAgICAgY2xhc3NwYXRoICdjb20uZ2l0aHViLmRjZW5kZW50czphbmRyb2lkLW1hdmVuLWdyYWRsZS1wbHVnaW46MS40LjEnCiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
