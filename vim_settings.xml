@@ -1731,6 +1731,9 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" timestamp="1476819343175">
+        <mark key="'" line="90" column="102" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-roadside-assistance/build.gradle" timestamp="1475880293777">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="33" />
@@ -2228,6 +2231,12 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" timestamp="1476819441530">
+        <mark key="'" line="594" column="0" />
+        <mark key="[" line="594" column="0" />
+        <mark key="]" line="594" column="0" />
+        <mark key="." line="594" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scripts/haskell-scripts/src/nexus-emu.hs" timestamp="1454773488136">
         <mark key="[" line="32" column="81" />
@@ -3903,11 +3912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="45" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="12" column="4" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="29" column="11" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="21" column="31" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="135" column="33" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="144" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -4003,13 +4007,18 @@
       <jump line="89" column="43" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="205" column="66" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="470" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
+      <jump line="49" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
+      <jump line="51" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
+      <jump line="90" column="102" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
+      <jump line="594" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14613,7 +14622,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</text>
+        <text>asldfj</text>
       </register>
       <register name="0" type="4">
         <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
@@ -14622,7 +14631,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14640,19 +14649,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzICs9ICJTb25hdHlwZSBSZWxlYXNlcyIgYXQgImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy8iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBvdGhlciByZXNvbHZlcnMgaGVyZQo=</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9ICJTb25hdHlwZSBSZWxlYXNlcyIgYXQgImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy8iCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15940,10 +15949,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhbmxwIiAlJSAiYnJlZXplIiAlICIwLjEyIgovL2xpYnJhcnlEZXBlbmRlbmNpZXMgKys9IFNlcSgKLy8gIC8vIExhc3Qgc3RhYmxlIHJlbGVhc2UKLy8gICJvcmcuc2NhbGFubHAiICUlICJicmVlemUiICUgIjAuMTIiLAovLwovLyAgIC8vIE5hdGl2ZSBsaWJyYXJpZXMgYXJlIG5vdCBpbmNsdWRlZCBieSBkZWZhdWx0LiBhZGQgdGhpcyBpZiB5b3Ugd2FudCB0aGVtIChhcyBvZiAwLjcpCi8vICAgLy8gTmF0aXZlIGxpYnJhcmllcyBncmVhdGx5IGltcHJvdmUgcGVyZm9ybWFuY2UsIGJ1dCBpbmNyZWFzZSBqYXIgc2l6ZXMuCi8vICAgLy8gSXQgYWxzbyBwYWNrYWdlcyB2YXJpb3VzIGJsYXMgaW1wbGVtZW50YXRpb25zLCB3aGljaCBoYXZlIGxpY2Vuc2VzIHRoYXQgbWF5IG9yIG1heSBub3QKLy8gICAvLyBiZSBjb21wYXRpYmxlIHdpdGggdGhlIEFwYWNoZSBMaWNlbnNlLiBObyBHUEwgY29kZSwgYXMgYmVzdCBJIGtub3cuCi8vICAgIm9yZy5zY2FsYW5scCIgJSUgImJyZWV6ZS1uYXRpdmVzIiAlICIwLjEyIiwKLy8KLy8gICAvLyBUaGUgdmlzdWFsaXphdGlvbiBsaWJyYXJ5IGlzIGRpc3RyaWJ1dGVkIHNlcGFyYXRlbHkgYXMgd2VsbC4KLy8gICAvLyBJdCBkZXBlbmRzIG9uIExHUEwgY29kZQovLyAgICJvcmcuc2NhbGFubHAiICUlICJicmVlemUtdml6IiAlICIwLjEyIgovLykK</text>
+        <text encoding="base64">ICAvLyBvdGhlciByZXNvbHZlcnMgaGVyZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJyZQo=</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhbmxwIiAlJSAiYnJlZXplIiAlICIwLjEyIgovL2xpYnJhcnlEZXBlbmRlbmNpZXMgKys9IFNlcSgKLy8gIC8vIExhc3Qgc3RhYmxlIHJlbGVhc2UKLy8gICJvcmcuc2NhbGFubHAiICUlICJicmVlemUiICUgIjAuMTIiLAovLwovLyAgIC8vIE5hdGl2ZSBsaWJyYXJpZXMgYXJlIG5vdCBpbmNsdWRlZCBieSBkZWZhdWx0LiBhZGQgdGhpcyBpZiB5b3Ugd2FudCB0aGVtIChhcyBvZiAwLjcpCi8vICAgLy8gTmF0aXZlIGxpYnJhcmllcyBncmVhdGx5IGltcHJvdmUgcGVyZm9ybWFuY2UsIGJ1dCBpbmNyZWFzZSBqYXIgc2l6ZXMuCi8vICAgLy8gSXQgYWxzbyBwYWNrYWdlcyB2YXJpb3VzIGJsYXMgaW1wbGVtZW50YXRpb25zLCB3aGljaCBoYXZlIGxpY2Vuc2VzIHRoYXQgbWF5IG9yIG1heSBub3QKLy8gICAvLyBiZSBjb21wYXRpYmxlIHdpdGggdGhlIEFwYWNoZSBMaWNlbnNlLiBObyBHUEwgY29kZSwgYXMgYmVzdCBJIGtub3cuCi8vICAgIm9yZy5zY2FsYW5scCIgJSUgImJyZWV6ZS1uYXRpdmVzIiAlICIwLjEyIiwKLy8KLy8gICAvLyBUaGUgdmlzdWFsaXphdGlvbiBsaWJyYXJ5IGlzIGRpc3RyaWJ1dGVkIHNlcGFyYXRlbHkgYXMgd2VsbC4KLy8gICAvLyBJdCBkZXBlbmRzIG9uIExHUEwgY29kZQovLyAgICJvcmcuc2NhbGFubHAiICUlICJicmVlemUtdml6IiAlICIwLjEyIgovLykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGJyZQo=</text>
@@ -15953,9 +15962,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</last-search>
+      <last-search>asldfj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</last-pattern>
+      <last-pattern>asldfj</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15963,9 +15972,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqZW5raW5zSm9iQnVpbGRlclJlcG9OYW1lXD4=</entry>
-        <entry>asldjf</entry>
-        <entry encoding="base64">XDxqb2JCdWlsZGVyQnJhbmNoXD4=</entry>
         <entry>1.4.1</entry>
         <entry>maven</entry>
         <entry>fire</entry>
@@ -15983,6 +15989,9 @@
         <entry>asdflj</entry>
         <entry>sbt</entry>
         <entry encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</entry>
+        <entry>isAUth</entry>
+        <entry encoding="base64">JiY=</entry>
+        <entry>asldfj</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
