@@ -266,6 +266,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" timestamp="1476818380455">
+        <mark key="'" line="470" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="3" />
@@ -1466,6 +1469,12 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="67" />
+        <mark key="^" line="275" column="1" />
+        <mark key="." line="275" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/NaDealerLocateFragmentPresenter.java" timestamp="1473775589573">
         <mark key="[" line="57" column="38" />
         <mark key="]" line="58" column="13" />
@@ -2255,12 +2264,6 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="67" />
-        <mark key="^" line="275" column="1" />
-        <mark key="." line="275" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -2987,6 +2990,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="12" />
+        <mark key="^" line="261" column="1" />
+        <mark key="." line="161" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="4" />
@@ -3374,12 +3383,6 @@
         <mark key="]" line="29" column="3" />
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="12" />
-        <mark key="^" line="261" column="1" />
-        <mark key="." line="161" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/git-add-remotes" timestamp="1471528905094">
         <mark key="[" line="14" column="0" />
@@ -3900,7 +3903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="57" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="57" column="12" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
       <jump line="45" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
@@ -4000,6 +4002,7 @@
       <jump line="53" column="48" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="89" column="43" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="205" column="66" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
+      <jump line="470" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14610,7 +14613,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>sbt</text>
+        <text encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</text>
       </register>
       <register name="0" type="4">
         <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
@@ -15950,17 +15953,16 @@
       </register>
     </registers>
     <search>
-      <last-search>sbt</last-search>
+      <last-search encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</last-search>
       <last-offset />
-      <last-pattern>sbt</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>asldfj</entry>
         <entry encoding="base64">XDxqZW5raW5zSm9iQnVpbGRlclJlcG9OYW1lXD4=</entry>
         <entry>asldjf</entry>
         <entry encoding="base64">XDxqb2JCdWlsZGVyQnJhbmNoXD4=</entry>
@@ -15980,6 +15982,7 @@
         <entry>call</entry>
         <entry>asdflj</entry>
         <entry>sbt</entry>
+        <entry encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
