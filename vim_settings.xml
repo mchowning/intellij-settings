@@ -2460,10 +2460,6 @@
         <mark key="." line="43" column="12" />
         <mark key="^" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/OmnibusBuildJobConfig.groovy" timestamp="1476116495411">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week5/DjikstraTest.java" timestamp="1424097597270">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -2481,10 +2477,6 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/omnibusBuildProperties.groovy" timestamp="1476369360768">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/dev/courses/artificial_intelligence_berkeley/proj_3/analysis.py" timestamp="1428074738794">
         <mark key="[" line="65" column="46" />
@@ -2726,7 +2718,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1476195395123">
+      <file name="/a.regexp" timestamp="1476891875668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3550,6 +3542,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" timestamp="1476892003316">
+        <mark key="'" line="124" column="121" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/res/values/colors.xml" timestamp="1468614965020">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="46" />
@@ -3900,19 +3895,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="31" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="135" column="33" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="144" column="18" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="146" column="15" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="147" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="77" column="21" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/shared_jenkinsfile.groovy" />
-      <jump line="55" column="19" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
-      <jump line="5" column="108" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
-      <jump line="6" column="48" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
-      <jump line="17" column="10" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
-      <jump line="20" column="5" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
-      <jump line="25" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
-      <jump line="26" column="26" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
       <jump line="31" column="45" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
       <jump line="77" column="40" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
       <jump line="1" column="46" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.groovy" />
@@ -4000,6 +3982,19 @@
       <jump line="51" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
       <jump line="90" column="102" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
       <jump line="594" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
+      <jump line="47" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="58" column="79" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="59" column="63" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="60" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="79" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="80" column="54" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="81" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="85" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="89" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="94" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="97" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="116" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
+      <jump line="124" column="121" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14610,7 +14605,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>asldfj</text>
+        <text>vehicle</text>
       </register>
       <register name="0" type="4">
         <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
@@ -15950,9 +15945,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asldfj</last-search>
+      <last-search>vehicle</last-search>
       <last-offset />
-      <last-pattern>asldfj</last-pattern>
+      <last-pattern>vehicle</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15960,7 +15955,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1.4.1</entry>
         <entry>maven</entry>
         <entry>fire</entry>
         <entry>asljf</entry>
@@ -15980,6 +15974,7 @@
         <entry>isAUth</entry>
         <entry encoding="base64">JiY=</entry>
         <entry>asldfj</entry>
+        <entry>vehicle</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
