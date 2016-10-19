@@ -1716,8 +1716,8 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" timestamp="1476902351772">
-        <mark key="'" line="87" column="20" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" timestamp="1476905915560">
+        <mark key="'" line="119" column="30" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/app/src/main/java/google-services.json" timestamp="1469799397230">
         <mark key="[" line="38" column="2" />
@@ -3893,22 +3893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
-      <jump line="83" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
-      <jump line="68" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
-      <jump line="728" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/res/values/values.xml" />
-      <jump line="27" column="70" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="58" column="42" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="125" column="30" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="20" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/base_jenkinsfile.groovy" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/base_jenkinsfile.groovy" />
-      <jump line="19" column="74" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/base_jenkinsfile.groovy" />
-      <jump line="58" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
-      <jump line="65" column="24" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
-      <jump line="98" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
-      <jump line="32" column="38" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="24" column="80" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
-      <jump line="38" column="78" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="39" column="53" filename="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/dependencies.gradle" />
       <jump line="16" column="34" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/buildJobs.json" />
       <jump line="159" column="43" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
@@ -3986,13 +3970,29 @@
       <jump line="35" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="72" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="61" column="2" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
-      <jump line="76" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="170" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
-      <jump line="88" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="87" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="60" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="66" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="102" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="177" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="178" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="208" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
-      <jump line="87" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="88" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="195" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="36" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="76" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="194" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="189" column="25" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="226" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="99" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="113" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="196" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="89" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
+      <jump line="119" column="30" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14603,7 +14603,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</text>
+        <text>locationmanager</text>
       </register>
       <register name="0" type="4">
         <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
@@ -15943,9 +15943,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</last-search>
+      <last-search>locationmanager</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</last-pattern>
+      <last-pattern>locationmanager</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15953,11 +15953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdklfj</entry>
-        <entry encoding="base64">XDxidWlsZFByb3BlcnRpZXNcPg==</entry>
-        <entry>allPluginRepos</entry>
-        <entry>asldfjk</entry>
-        <entry encoding="base64">XDxidWlsZEpvYnNcPg==</entry>
         <entry>()</entry>
         <entry>asdlfj</entry>
         <entry>call</entry>
@@ -15969,10 +15964,15 @@
         <entry>asldfj</entry>
         <entry>vehicle</entry>
         <entry encoding="base64">XDxsb2NhdGlvbkNhbmNlbFJ1bm5hYmxlXD4=</entry>
-        <entry>cancelLocation</entry>
         <entry>onLocationChanged</entry>
         <entry>cancelLoc</entry>
+        <entry>timeout</entry>
+        <entry encoding="base64">XDxzaG91bGRLZWVwUmVjZWl2aW5nTG9jYXRpb25VcGRhdGVzXD4=</entry>
+        <entry encoding="base64">XDxjYW5jZWxVcGRhdGVzSWZOb3RMaXN0ZW5pbmdcPg==</entry>
+        <entry>requestNewLocation</entry>
+        <entry>cancelLocation</entry>
         <entry encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</entry>
+        <entry>locationmanager</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
