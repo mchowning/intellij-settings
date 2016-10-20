@@ -2611,6 +2611,12 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/res/layout/fragment_nav.xml" timestamp="1476975142675">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="16" />
+        <mark key="^" line="97" column="15" />
+        <mark key="." line="97" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466265957051">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="25" column="18" />
@@ -3990,7 +3996,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoaW50IG1heFByZWZlcnJlZERlYWxlckFsbG93ZWQsIERlYWxlcltdIGRlYWxlcnMpIHsKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14594,7 +14600,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>can't convert to dimension</text>
       </register>
       <register name="0" type="4">
         <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
@@ -14603,7 +14609,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoaW50IG1heFByZWZlcnJlZERlYWxlckFsbG93ZWQsIERlYWxlcltdIGRlYWxlcnMpIHsKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14621,19 +14627,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoaW50IG1heFByZWZlcnJlZERlYWxlckFsbG93ZWQsIERlYWxlcltdIGRlYWxlcnMpIHsKPT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15921,22 +15927,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzICs9ICJTb25hdHlwZSBSZWxlYXNlcyIgYXQgImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy8iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBvdGhlciByZXNvbHZlcnMgaGVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>can't convert to dimension</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>can't convert to dimension</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15944,7 +15950,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdflj</entry>
         <entry>sbt</entry>
         <entry encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</entry>
         <entry>isAUth</entry>
@@ -15964,6 +15969,7 @@
         <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
         <entry>removeUpdates</entry>
         <entry>owner</entry>
+        <entry>can't convert to dimension</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
