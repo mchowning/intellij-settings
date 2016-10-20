@@ -27,7 +27,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1476977125779">
+      <file name="/a.dummy" timestamp="1476979476526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/fragment_pin.xml" timestamp="1471544246144">
@@ -2699,6 +2699,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1476979526801">
+        <mark key="'" line="83" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="22" />
@@ -3902,9 +3905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini/buildscript.gradle" />
-      <jump line="71" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
-      <jump line="51" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="31" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="83" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="68" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
@@ -4002,6 +4002,9 @@
       <jump line="57" column="4" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/pipeline_jenkinsfile.groovy" />
       <jump line="71" column="5" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/pipeline_jenkinsfile.groovy" />
       <jump line="100" column="8" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/pipeline_jenkinsfile.groovy" />
+      <jump line="84" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
+      <jump line="25" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
+      <jump line="83" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14612,7 +14615,7 @@
         <text>bs&quot;: [</text>
       </register>
       <register name="/" type="4">
-        <text>second</text>
+        <text encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJqb2JzIjogWwogICAgICAgIHsKICAgICAgICAgICAgImJyYW5jaE5hbWUiOiAibWFzdGVyIiwKICAgICAgICAgICAgInJlcG9zIjogWwogICAgICAgICAgICAgICAgImdyYWRsZS1wbHVnaW5zIgogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJicmFuY2hOYW1lIjogImdyYWRsZV9wbHVnaW4iLAogICAgICAgICAgICAicmVwb3MiOiBbCiAgICAgICAgICAgICAgICAiZ3JhZGxlLXBsdWdpbnMiLAogICAgICAgICAgICAgICAgImdlbWluaS1zZWN1cml0eSIsCiAgICAgICAgICAgICAgICAiZ2VtaW5pLWNvcmUtc2RrIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tYXNzaXN0IiwKICAgICAgICAgICAgICAgICJwbHVnaW4tYXR5b3Vyc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLWJsZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLWRlYWxlci1sb2NhdGUiLAogICAgICAgICAgICAgICAgInBsdWdpbi1oZmMiLAogICAgICAgICAgICAgICAgInBsdWdpbi1rZXktZm9iIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tbmF2IiwKICAgICAgICAgICAgICAgICJwbHVnaW4tb3duZXItbWFudWFsIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tcGFya2luZyIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXByZWZlcnJlZC1kZWFsZXIiLAogICAgICAgICAgICAgICAgInBsdWdpbi1yZWNhbGwiLAogICAgICAgICAgICAgICAgInBsdWdpbi1yb2Fkc2lkZS1hc3Npc3RhbmNlIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tc2NoZWR1bGUtc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXZlaGljbGUtc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXZlaGljbGUtc3RhdHVzIiwKICAgICAgICAgICAgICAgICJwbHVnaW4td2lmaSIsCiAgICAgICAgICAgICAgICAiZ2VtaW5pIgogICAgICAgICAgICBdCiAgICAgICAgfSwK</text>
@@ -15952,9 +15955,9 @@
       </register>
     </registers>
     <search>
-      <last-search>second</last-search>
+      <last-search encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>second</last-pattern>
+      <last-pattern encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15962,8 +15965,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdklfj</entry>
-        <entry encoding="base64">XDxidWlsZFByb3BlcnRpZXNcPg==</entry>
         <entry>allPluginRepos</entry>
         <entry>asldfjk</entry>
         <entry encoding="base64">XDxidWlsZEpvYnNcPg==</entry>
@@ -15982,6 +15983,8 @@
         <entry>aasdfljk</entry>
         <entry>poll</entry>
         <entry>second</entry>
+        <entry encoding="base64">XDxSZXRyeUhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
