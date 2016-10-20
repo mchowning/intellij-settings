@@ -27,7 +27,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1476396333449">
+      <file name="/a.dummy" timestamp="1476977125779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/fragment_pin.xml" timestamp="1471544246144">
@@ -14612,7 +14612,7 @@
         <text>bs&quot;: [</text>
       </register>
       <register name="/" type="4">
-        <text>aasdfljk</text>
+        <text>second</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJqb2JzIjogWwogICAgICAgIHsKICAgICAgICAgICAgImJyYW5jaE5hbWUiOiAibWFzdGVyIiwKICAgICAgICAgICAgInJlcG9zIjogWwogICAgICAgICAgICAgICAgImdyYWRsZS1wbHVnaW5zIgogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJicmFuY2hOYW1lIjogImdyYWRsZV9wbHVnaW4iLAogICAgICAgICAgICAicmVwb3MiOiBbCiAgICAgICAgICAgICAgICAiZ3JhZGxlLXBsdWdpbnMiLAogICAgICAgICAgICAgICAgImdlbWluaS1zZWN1cml0eSIsCiAgICAgICAgICAgICAgICAiZ2VtaW5pLWNvcmUtc2RrIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tYXNzaXN0IiwKICAgICAgICAgICAgICAgICJwbHVnaW4tYXR5b3Vyc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLWJsZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLWRlYWxlci1sb2NhdGUiLAogICAgICAgICAgICAgICAgInBsdWdpbi1oZmMiLAogICAgICAgICAgICAgICAgInBsdWdpbi1rZXktZm9iIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tbmF2IiwKICAgICAgICAgICAgICAgICJwbHVnaW4tb3duZXItbWFudWFsIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tcGFya2luZyIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXByZWZlcnJlZC1kZWFsZXIiLAogICAgICAgICAgICAgICAgInBsdWdpbi1yZWNhbGwiLAogICAgICAgICAgICAgICAgInBsdWdpbi1yb2Fkc2lkZS1hc3Npc3RhbmNlIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tc2NoZWR1bGUtc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXZlaGljbGUtc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXZlaGljbGUtc3RhdHVzIiwKICAgICAgICAgICAgICAgICJwbHVnaW4td2lmaSIsCiAgICAgICAgICAgICAgICAiZ2VtaW5pIgogICAgICAgICAgICBdCiAgICAgICAgfSwK</text>
@@ -15952,9 +15952,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aasdfljk</last-search>
+      <last-search>second</last-search>
       <last-offset />
-      <last-pattern>aasdfljk</last-pattern>
+      <last-pattern>second</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15962,8 +15962,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gradle</entry>
-        <entry>'</entry>
         <entry>asdklfj</entry>
         <entry encoding="base64">XDxidWlsZFByb3BlcnRpZXNcPg==</entry>
         <entry>allPluginRepos</entry>
@@ -15982,6 +15980,8 @@
         <entry encoding="base64">XDxzdGFydFBsdWdpbkpvYnNJblBhcmFsbGVsXD4=</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>aasdfljk</entry>
+        <entry>poll</entry>
+        <entry>second</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
