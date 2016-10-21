@@ -261,6 +261,11 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1477070481116">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobs/OmnibusBuildJobConfig.groovy" timestamp="1475429745936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2699,8 +2704,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1476979526801">
-        <mark key="'" line="83" column="27" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477069866658">
+        <mark key="'" line="110" column="53" />
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="76" column="100" />
+        <mark key="^" line="76" column="100" />
+        <mark key="." line="76" column="100" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
@@ -3905,7 +3914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="83" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="68" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/build.gradle" />
       <jump line="728" column="17" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/res/values/values.xml" />
@@ -4005,6 +4013,7 @@
       <jump line="84" column="31" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
       <jump line="25" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
       <jump line="83" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
+      <jump line="117" column="53" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14615,7 +14624,7 @@
         <text>bs&quot;: [</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</text>
+        <text>retryWhen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJqb2JzIjogWwogICAgICAgIHsKICAgICAgICAgICAgImJyYW5jaE5hbWUiOiAibWFzdGVyIiwKICAgICAgICAgICAgInJlcG9zIjogWwogICAgICAgICAgICAgICAgImdyYWRsZS1wbHVnaW5zIgogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJicmFuY2hOYW1lIjogImdyYWRsZV9wbHVnaW4iLAogICAgICAgICAgICAicmVwb3MiOiBbCiAgICAgICAgICAgICAgICAiZ3JhZGxlLXBsdWdpbnMiLAogICAgICAgICAgICAgICAgImdlbWluaS1zZWN1cml0eSIsCiAgICAgICAgICAgICAgICAiZ2VtaW5pLWNvcmUtc2RrIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tYXNzaXN0IiwKICAgICAgICAgICAgICAgICJwbHVnaW4tYXR5b3Vyc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLWJsZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLWRlYWxlci1sb2NhdGUiLAogICAgICAgICAgICAgICAgInBsdWdpbi1oZmMiLAogICAgICAgICAgICAgICAgInBsdWdpbi1rZXktZm9iIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tbmF2IiwKICAgICAgICAgICAgICAgICJwbHVnaW4tb3duZXItbWFudWFsIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tcGFya2luZyIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXByZWZlcnJlZC1kZWFsZXIiLAogICAgICAgICAgICAgICAgInBsdWdpbi1yZWNhbGwiLAogICAgICAgICAgICAgICAgInBsdWdpbi1yb2Fkc2lkZS1hc3Npc3RhbmNlIiwKICAgICAgICAgICAgICAgICJwbHVnaW4tc2NoZWR1bGUtc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXZlaGljbGUtc2VydmljZSIsCiAgICAgICAgICAgICAgICAicGx1Z2luLXZlaGljbGUtc3RhdHVzIiwKICAgICAgICAgICAgICAgICJwbHVnaW4td2lmaSIsCiAgICAgICAgICAgICAgICAiZ2VtaW5pIgogICAgICAgICAgICBdCiAgICAgICAgfSwK</text>
@@ -15955,9 +15964,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</last-search>
+      <last-search>retryWhen</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</last-pattern>
+      <last-pattern>retryWhen</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15965,7 +15974,6 @@
     </search>
     <history>
       <history-search>
-        <entry>allPluginRepos</entry>
         <entry>asldfjk</entry>
         <entry encoding="base64">XDxidWlsZEpvYnNcPg==</entry>
         <entry>()</entry>
@@ -15985,6 +15993,7 @@
         <entry>second</entry>
         <entry encoding="base64">XDxSZXRyeUhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</entry>
+        <entry>retryWhen</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
