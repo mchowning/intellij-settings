@@ -187,6 +187,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="15" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMFirebaseInstanceIDService.java" timestamp="1477178075613">
+        <mark key="'" line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/calls/GetFileCall.java" timestamp="1466733116919">
         <mark key="[" line="20" column="24" />
         <mark key="]" line="20" column="24" />
@@ -2226,7 +2229,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1477067384937">
+      <file name="/a.regexp" timestamp="1477178327040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3102,7 +3105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="27" column="2" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="41" column="46" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="198" column="58" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
@@ -3202,6 +3204,7 @@
       <jump line="50" column="13" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="124" column="27" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="151" column="52" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMFirebaseInstanceIDService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13812,7 +13815,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>poll</text>
+        <text>regist</text>
       </register>
       <register name="0" type="4">
         <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
@@ -15152,17 +15155,16 @@
       </register>
     </registers>
     <search>
-      <last-search>poll</last-search>
+      <last-search>regist</last-search>
       <last-offset />
-      <last-pattern>poll</last-pattern>
+      <last-pattern>regist</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</entry>
         <entry>isAUth</entry>
         <entry encoding="base64">JiY=</entry>
         <entry>asldfj</entry>
@@ -15182,6 +15184,7 @@
         <entry>owner</entry>
         <entry>can't convert to dimension</entry>
         <entry>poll</entry>
+        <entry>regist</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
