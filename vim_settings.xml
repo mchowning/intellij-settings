@@ -224,7 +224,8 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1475512348404">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" timestamp="1477186549173">
+        <mark key="'" line="388" column="14" />
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
@@ -3109,7 +3110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="41" column="46" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="198" column="58" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
@@ -3209,6 +3209,7 @@
       <jump line="124" column="27" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="151" column="52" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="11" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMFirebaseInstanceIDService.java" />
+      <jump line="388" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13819,7 +13820,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>asdlfj</text>
+        <text>asldkjf</text>
       </register>
       <register name="0" type="4">
         <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
@@ -15159,9 +15160,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdlfj</last-search>
+      <last-search>asldkjf</last-search>
       <last-offset />
-      <last-pattern>asdlfj</last-pattern>
+      <last-pattern>asldkjf</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15169,8 +15170,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">JiY=</entry>
-        <entry>asldfj</entry>
         <entry>vehicle</entry>
         <entry encoding="base64">XDxsb2NhdGlvbkNhbmNlbFJ1bm5hYmxlXD4=</entry>
         <entry>onLocationChanged</entry>
@@ -15189,6 +15188,8 @@
         <entry>poll</entry>
         <entry>regist</entry>
         <entry>asdlfj</entry>
+        <entry>registerDe</entry>
+        <entry>asldkjf</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
