@@ -838,6 +838,12 @@
         <mark key="." line="57" column="71" />
         <mark key="^" line="57" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/app/src/main/AndroidManifest.xml" timestamp="1477324591129">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="58" />
+        <mark key="^" line="16" column="58" />
+        <mark key="." line="16" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij/cabal.config" timestamp="1418945387277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -1116,7 +1122,7 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1472144130438">
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" timestamp="1477324142039">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="14" />
         <mark key="." line="19" column="14" />
@@ -3220,8 +3226,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgbGlicmFyaWVzLmNvbW1lcmNlc2RrCg==</text>
+      <register name="&quot;" type="4">
+        <text>plugin</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13822,7 +13828,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>plugin</text>
       </register>
       <register name="/" type="4">
         <text>commerce</text>
