@@ -211,6 +211,12 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1477326379783">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="3" />
@@ -2210,6 +2216,13 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477327462259">
+        <mark key="'" line="19" column="44" />
+        <mark key="[" line="85" column="52" />
+        <mark key="]" line="85" column="85" />
+        <mark key="." line="85" column="85" />
+        <mark key="^" line="85" column="85" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="22" />
@@ -3110,8 +3123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="38" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
-      <jump line="27" column="2" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="41" column="46" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="198" column="58" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
@@ -3210,13 +3221,15 @@
       <jump line="50" column="13" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="124" column="27" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="151" column="52" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
+      <jump line="94" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
+      <jump line="19" column="44" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1.0.2-SNAPSHOT</text>
+        <text>null</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13817,19 +13830,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.0.2-SNAPSHOT</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>poll</text>
+        <text>asdlfj</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmVycm9yKG5ldyBFeGNlcHRpb24oImNhbGwgbnVtOiAiICsgbikpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmp1c3Qobik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13847,19 +13860,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoaW50IG1heFByZWZlcnJlZERlYWxlckFsbG93ZWQsIERlYWxlcltdIGRlYWxlcnMpIHsKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY291bnQgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RbXSByZXNwb25zZXMgPSBuZXcgT2JqZWN0W10gewogICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICBuZXcgT2JqZWN0KCkKICAgICAgICB9Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15147,31 +15160,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIAo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>poll</last-search>
+      <last-search>asdlfj</last-search>
       <last-offset />
-      <last-pattern>poll</last-pattern>
+      <last-pattern>asdlfj</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kQ2hhcmdlU3RhdGlvbk9uTG9jYXRpb25SZWNlaXZlZFw+</entry>
-        <entry>isAUth</entry>
         <entry encoding="base64">JiY=</entry>
         <entry>asldfj</entry>
         <entry>vehicle</entry>
@@ -15190,6 +15201,8 @@
         <entry>owner</entry>
         <entry>can't convert to dimension</entry>
         <entry>poll</entry>
+        <entry>RetryHandler</entry>
+        <entry>asdlfj</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
