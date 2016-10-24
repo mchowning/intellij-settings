@@ -639,12 +639,12 @@
         <mark key="." line="99" column="31" />
         <mark key="^" line="99" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" timestamp="1475530988984">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build.gradle" timestamp="1477322129083">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="29" column="15" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="64" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-services/src/test/java/com/gm/gemini/sdk/util/OnsErrorUtilTest.java" timestamp="1464786910179">
         <mark key="[" line="48" column="0" />
@@ -1251,6 +1251,12 @@
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="67" />
+        <mark key="^" line="275" column="1" />
+        <mark key="." line="275" column="1" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/NaDealerLocateFragmentPresenter.java" timestamp="1473775589573">
         <mark key="[" line="57" column="38" />
@@ -1867,12 +1873,6 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="67" />
-        <mark key="^" line="275" column="1" />
-        <mark key="." line="275" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -2429,6 +2429,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="12" />
+        <mark key="^" line="261" column="1" />
+        <mark key="." line="161" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="4" />
@@ -2731,22 +2737,16 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="12" />
-        <mark key="^" line="261" column="1" />
-        <mark key="." line="161" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/BowlingGameKata/build.gradle" timestamp="1411218350542">
         <mark key="[" line="10" column="59" />
         <mark key="]" line="10" column="59" />
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1476972301771">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="48" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1477322112481">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="72" />
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
@@ -3115,7 +3115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="57" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="105" column="52" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="121" column="40" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
       <jump line="185" column="45" filename="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jobDefinitions.groovy" />
@@ -3215,13 +3214,14 @@
       <jump line="52" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.3.0/f6e0363f5b51744cd5cc23d9135e4eed0765e69c/gemini-app-shell-3.3.0-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>core</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgbGlicmFyaWVzLmNvbW1lcmNlc2RrCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13825,16 +13825,16 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>asdflj</text>
+        <text>commerce</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;org.scalanlp&quot; %% &quot;breeze&quot; % &quot;0.12&quot;,</text>
+        <text>com.gm.onstar.remote.offers:commerce-sdk:</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2RiCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgbGlicmFyaWVzLmNvbW1lcmNlc2RrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13852,19 +13852,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
+        <text encoding="base64">c2RiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoaW50IG1heFByZWZlcnJlZERlYWxlckFsbG93ZWQsIERlYWxlcltdIGRlYWxlcnMpIHsKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoaW50IG1heFByZWZlcnJlZERlYWxlckFsbG93ZWQsIERlYWxlcltdIGRlYWxlcnMpIHsKPT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15152,30 +15152,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>asdflj</last-search>
+      <last-search>commerce</last-search>
       <last-offset />
-      <last-pattern>asdflj</last-pattern>
+      <last-pattern>commerce</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cancelLoc</entry>
         <entry>timeout</entry>
         <entry encoding="base64">XDxzaG91bGRLZWVwUmVjZWl2aW5nTG9jYXRpb25VcGRhdGVzXD4=</entry>
         <entry encoding="base64">XDxjYW5jZWxVcGRhdGVzSWZOb3RMaXN0ZW5pbmdcPg==</entry>
@@ -15195,6 +15194,7 @@
         <entry>push</entry>
         <entry>core</entry>
         <entry>asdflj</entry>
+        <entry>commerce</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
