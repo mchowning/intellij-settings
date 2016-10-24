@@ -793,7 +793,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="337" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/build.gradle" timestamp="1468855707841">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/build.gradle" timestamp="1477321437273">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
@@ -3214,8 +3214,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text>1.0.2-SNAPSHOT</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13816,7 +13816,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>1.0.2-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>poll</text>
