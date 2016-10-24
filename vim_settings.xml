@@ -2541,8 +2541,8 @@
         <mark key="." line="39" column="81" />
         <mark key="^" line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1477331822539">
-        <mark key="'" line="284" column="24" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1477336751967">
+        <mark key="'" line="182" column="8" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/unitselection/UnitOfMeasureSettingsEntitlement.java" timestamp="1472763545977">
         <mark key="[" line="20" column="100" />
@@ -3126,7 +3126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/test_worksheet.sc" />
       <jump line="22" column="8" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="28" column="16" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="52" column="34" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
@@ -3226,6 +3225,7 @@
       <jump line="112" column="55" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="115" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="284" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="182" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13836,7 +13836,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>onpause</text>
+        <text>onDestroy</text>
       </register>
       <register name="0" type="4">
         <text>&quot;com.gm.gemini.plugin&quot;</text>
@@ -15176,9 +15176,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onpause</last-search>
+      <last-search>onDestroy</last-search>
       <last-offset />
-      <last-pattern>onpause</last-pattern>
+      <last-pattern>onDestroy</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15186,7 +15186,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cancelLocation</entry>
         <entry encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</entry>
         <entry>locationmanager</entry>
         <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
@@ -15206,6 +15205,7 @@
         <entry encoding="base64">XDxBeXNTZGtIZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxheXNTZGtIZWxwZXJcPg==</entry>
         <entry>onpause</entry>
+        <entry>onDestroy</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
