@@ -2769,8 +2769,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1477334682939">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1477427789297">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="37" />
         <mark key="^" line="15" column="48" />
@@ -3141,7 +3141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="16" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="52" column="34" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="53" column="48" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="89" column="43" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
@@ -3241,6 +3240,7 @@
       <jump line="284" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="182" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="19" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13851,7 +13851,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>onDestroy</text>
+        <text>gradle_plugin</text>
       </register>
       <register name="0" type="4">
         <text>&quot;com.gm.gemini.plugin&quot;</text>
@@ -15191,17 +15191,16 @@
       </register>
     </registers>
     <search>
-      <last-search>onDestroy</last-search>
+      <last-search>gradle_plugin</last-search>
       <last-offset />
-      <last-pattern>onDestroy</last-pattern>
+      <last-pattern>gradle_plugin</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cancelLoc</entry>
         <entry>timeout</entry>
         <entry encoding="base64">XDxzaG91bGRLZWVwUmVjZWl2aW5nTG9jYXRpb25VcGRhdGVzXD4=</entry>
         <entry encoding="base64">XDxjYW5jZWxVcGRhdGVzSWZOb3RMaXN0ZW5pbmdcPg==</entry>
@@ -15221,6 +15220,7 @@
         <entry>push</entry>
         <entry>core</entry>
         <entry>asdflj</entry>
+        <entry>gradle_plugin</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
