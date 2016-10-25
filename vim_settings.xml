@@ -61,7 +61,6 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1477189860250" />
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1258,12 +1257,6 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="67" />
-        <mark key="^" line="275" column="1" />
-        <mark key="." line="275" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/NaDealerLocateFragmentPresenter.java" timestamp="1473775589573">
         <mark key="[" line="57" column="38" />
         <mark key="]" line="58" column="13" />
@@ -1879,6 +1872,12 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="67" />
+        <mark key="^" line="275" column="1" />
+        <mark key="." line="275" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -2438,12 +2437,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="12" />
-        <mark key="^" line="261" column="1" />
-        <mark key="." line="161" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="4" />
@@ -2749,6 +2742,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="12" />
+        <mark key="^" line="261" column="1" />
+        <mark key="." line="161" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/BowlingGameKata/build.gradle" timestamp="1411218350542">
         <mark key="[" line="10" column="59" />
         <mark key="]" line="10" column="59" />
@@ -2836,10 +2835,11 @@
         <mark key="." line="118" column="84" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1477334901119">
+        <mark key="'" line="144" column="15" />
         <mark key="[" line="147" column="40" />
         <mark key="]" line="147" column="41" />
-        <mark key="^" line="147" column="65" />
         <mark key="." line="147" column="41" />
+        <mark key="^" line="147" column="65" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
@@ -15182,10 +15182,16 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>cancelLoc</entry>
+        <entry>timeout</entry>
+        <entry encoding="base64">XDxzaG91bGRLZWVwUmVjZWl2aW5nTG9jYXRpb25VcGRhdGVzXD4=</entry>
+        <entry encoding="base64">XDxjYW5jZWxVcGRhdGVzSWZOb3RMaXN0ZW5pbmdcPg==</entry>
+        <entry>requestNewLocation</entry>
+        <entry>cancelLocation</entry>
         <entry encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</entry>
         <entry>locationmanager</entry>
         <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
@@ -15200,12 +15206,6 @@
         <entry>push</entry>
         <entry>core</entry>
         <entry>asdflj</entry>
-        <entry>commerce</entry>
-        <entry encoding="base64">XDxheXNTZXJ2aWNlSGVscGVyXD4=</entry>
-        <entry encoding="base64">XDxBeXNTZGtIZWxwZXJcPg==</entry>
-        <entry encoding="base64">XDxheXNTZGtIZWxwZXJcPg==</entry>
-        <entry>onpause</entry>
-        <entry>onDestroy</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
