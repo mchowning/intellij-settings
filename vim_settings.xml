@@ -1897,7 +1897,8 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragment.java" timestamp="1466508014273">
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragment.java" timestamp="1477582389129">
+        <mark key="'" line="374" column="20" />
         <mark key="[" line="148" column="55" />
         <mark key="]" line="148" column="55" />
         <mark key="." line="148" column="55" />
@@ -3147,9 +3148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="58" column="79" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="59" column="63" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="60" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="79" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="80" column="54" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
@@ -3247,6 +3245,9 @@
       <jump line="31" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="104" column="61" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
       <jump line="142" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="369" column="11" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragment.java" />
+      <jump line="353" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragment.java" />
+      <jump line="374" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13857,7 +13858,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>DisplayDashb</text>
+        <text>track</text>
       </register>
       <register name="0" type="4">
         <text>&quot;com.gm.gemini.plugin&quot;</text>
@@ -15197,9 +15198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DisplayDashb</last-search>
+      <last-search>track</last-search>
       <last-offset />
-      <last-pattern>DisplayDashb</last-pattern>
+      <last-pattern>track</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15207,8 +15208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>requestNewLocation</entry>
-        <entry>cancelLocation</entry>
         <entry encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</entry>
         <entry>locationmanager</entry>
         <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
@@ -15224,9 +15223,11 @@
         <entry>core</entry>
         <entry>asdflj</entry>
         <entry>gradle_plugin</entry>
-        <entry>tracking</entry>
         <entry>dashboard</entry>
         <entry>DisplayDashb</entry>
+        <entry>\/\/</entry>
+        <entry>tracking</entry>
+        <entry>track</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
