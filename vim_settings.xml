@@ -771,6 +771,9 @@
         <mark key="." line="23" column="69" />
         <mark key="^" line="23" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" timestamp="1477581621268">
+        <mark key="'" line="104" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/injection/FrankenModule.java" timestamp="1469458808752">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="6" column="48" />
@@ -1885,6 +1888,9 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1477581664342">
+        <mark key="'" line="142" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -2250,7 +2256,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1477178965242">
+      <file name="/a.regexp" timestamp="1477581652912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2551,8 +2557,8 @@
         <mark key="." line="39" column="81" />
         <mark key="^" line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1477427037564">
-        <mark key="'" line="182" column="8" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1477581158830">
+        <mark key="'" line="125" column="28" />
         <mark key="[" line="288" column="25" />
         <mark key="]" line="288" column="28" />
         <mark key="^" line="288" column="28" />
@@ -3141,16 +3147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="34" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="53" column="48" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="89" column="43" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="205" column="66" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="470" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
-      <jump line="49" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
-      <jump line="51" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
-      <jump line="90" column="102" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
-      <jump line="594" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
       <jump line="47" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="58" column="79" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="59" column="63" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
@@ -3234,13 +3230,23 @@
       <jump line="412" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="29" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="85" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
-      <jump line="111" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="112" column="55" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="115" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="284" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="182" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="19" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="298" column="22" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="393" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="480" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="485" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="30" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="95" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="111" column="55" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="125" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="31" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
+      <jump line="104" column="61" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/SequenceFactory.java" />
+      <jump line="142" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13851,7 +13857,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>gradle_plugin</text>
+        <text>DisplayDashb</text>
       </register>
       <register name="0" type="4">
         <text>&quot;com.gm.gemini.plugin&quot;</text>
@@ -15191,9 +15197,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gradle_plugin</last-search>
+      <last-search>DisplayDashb</last-search>
       <last-offset />
-      <last-pattern>gradle_plugin</last-pattern>
+      <last-pattern>DisplayDashb</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15201,9 +15207,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timeout</entry>
-        <entry encoding="base64">XDxzaG91bGRLZWVwUmVjZWl2aW5nTG9jYXRpb25VcGRhdGVzXD4=</entry>
-        <entry encoding="base64">XDxjYW5jZWxVcGRhdGVzSWZOb3RMaXN0ZW5pbmdcPg==</entry>
         <entry>requestNewLocation</entry>
         <entry>cancelLocation</entry>
         <entry encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</entry>
@@ -15221,6 +15224,9 @@
         <entry>core</entry>
         <entry>asdflj</entry>
         <entry>gradle_plugin</entry>
+        <entry>tracking</entry>
+        <entry>dashboard</entry>
+        <entry>DisplayDashb</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
