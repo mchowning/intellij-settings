@@ -2338,8 +2338,8 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" timestamp="1477594112788">
-        <mark key="'" line="39" column="15" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" timestamp="1477596188524">
+        <mark key="'" line="82" column="41" />
         <mark key="[" line="162" column="15" />
         <mark key="]" line="162" column="15" />
         <mark key="^" line="162" column="15" />
@@ -3148,13 +3148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="80" column="54" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="81" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="85" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="89" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="94" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="97" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="116" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="124" column="121" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="35" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
@@ -3205,9 +3198,6 @@
       <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="54" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
-      <jump line="66" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
-      <jump line="83" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
-      <jump line="94" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="114" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="124" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
@@ -3221,7 +3211,6 @@
       <jump line="29" column="35" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="33" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="35" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
-      <jump line="39" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="363" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="397" column="54" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="412" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
@@ -3248,6 +3237,17 @@
       <jump line="353" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragment.java" />
       <jump line="374" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragment.java" />
       <jump line="156" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="83" column="35" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="88" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="94" column="38" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="38" column="38" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="39" column="35" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="43" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="65" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="66" column="35" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="71" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="82" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13858,7 +13858,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>\/\/</text>
+        <text>featured</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nbS5vbnN0YXIucmVtb3RlLm9mZmVyczpjb21tZXJjZS1zZGs6MTIzLjQ1Ni43ODknCg==</text>
@@ -15198,9 +15198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/\/</last-search>
+      <last-search>featured</last-search>
       <last-offset />
-      <last-pattern>\/\/</last-pattern>
+      <last-pattern>featured</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15208,8 +15208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>locationmanager</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
         <entry>removeUpdates</entry>
         <entry>owner</entry>
         <entry>can't convert to dimension</entry>
@@ -15220,7 +15218,6 @@
         <entry>asldkjf</entry>
         <entry>push</entry>
         <entry>core</entry>
-        <entry>asdflj</entry>
         <entry>gradle_plugin</entry>
         <entry>dashboard</entry>
         <entry>DisplayDashb</entry>
@@ -15228,6 +15225,9 @@
         <entry>track</entry>
         <entry>\/\</entry>
         <entry>\/\/</entry>
+        <entry>featuredMer</entry>
+        <entry>asdflj</entry>
+        <entry>featured</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
