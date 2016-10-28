@@ -1052,10 +1052,11 @@
         <mark key="^" line="92" column="60" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477661245494">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477667971976">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -3233,8 +3234,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUVycm9yUmVzcG9uc2Ugc2VydmljZUVycm9yUmVzcG9uc2UgPSBuZXcgU2VydmljZUVycm9yUmVzcG9uc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3JUeXBlID0gRXJyb3JUeXBlLm5ldHdvcmtFcnJvcjsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3IgPSAiZmFrZSBlcnJvciI7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmh0dHBTdGF0dXNDb2RlID0gOTk5OwogICAgICAgICAgICAgICAgICAgICAgICBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uIGV4Y2VwdGlvbiA9IG5ldyBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKHNlcnZpY2VFcnJvclJlc3BvbnNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZXJyb3IoZXhjZXB0aW9uKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13835,13 +13836,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KV0g</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUVycm9yUmVzcG9uc2Ugc2VydmljZUVycm9yUmVzcG9uc2UgPSBuZXcgU2VydmljZUVycm9yUmVzcG9uc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3JUeXBlID0gRXJyb3JUeXBlLm5ldHdvcmtFcnJvcjsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3IgPSAiZmFrZSBlcnJvciI7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmh0dHBTdGF0dXNDb2RlID0gOTk5OwogICAgICAgICAgICAgICAgICAgICAgICBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uIGV4Y2VwdGlvbiA9IG5ldyBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKHNlcnZpY2VFcnJvclJlc3BvbnNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZXJyb3IoZXhjZXB0aW9uKTsK</text>
+        <text encoding="base64">ZGVmIG5uID0gbmV3IE5ldXJhbE5ldChMaXN0KDIsMiwxKSwgbnVsbCkK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
