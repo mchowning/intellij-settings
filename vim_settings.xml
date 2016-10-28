@@ -2780,8 +2780,8 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1477427789297">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" timestamp="1477669323055">
+        <mark key="'" line="28" column="58" />
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="37" />
         <mark key="^" line="15" column="48" />
@@ -3157,8 +3157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="124" column="121" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="35" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="72" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="61" column="2" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
@@ -3257,6 +3255,8 @@
       <jump line="66" column="35" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="71" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
       <jump line="82" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/data/AysSdkHelper.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
+      <jump line="28" column="58" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13867,7 +13867,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>featured</text>
+        <text>support-v4</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nbS5vbnN0YXIucmVtb3RlLm9mZmVyczpjb21tZXJjZS1zZGs6MTIzLjQ1Ni43ODknCg==</text>
@@ -15207,9 +15207,9 @@
       </register>
     </registers>
     <search>
-      <last-search>featured</last-search>
+      <last-search>support-v4</last-search>
       <last-offset />
-      <last-pattern>featured</last-pattern>
+      <last-pattern>support-v4</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15217,7 +15217,6 @@
     </search>
     <history>
       <history-search>
-        <entry>removeUpdates</entry>
         <entry>owner</entry>
         <entry>can't convert to dimension</entry>
         <entry>poll</entry>
@@ -15237,6 +15236,7 @@
         <entry>featuredMer</entry>
         <entry>asdflj</entry>
         <entry>featured</entry>
+        <entry>support-v4</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
