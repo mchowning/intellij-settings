@@ -215,11 +215,11 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1477597375265">
-        <mark key="[" line="28" column="57" />
-        <mark key="]" line="28" column="56" />
-        <mark key="^" line="28" column="56" />
-        <mark key="." line="28" column="56" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1477683930636">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
@@ -2214,11 +2214,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477661858032">
-        <mark key="'" line="282" column="15" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="291" column="51" />
-        <mark key="." line="286" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477683444089">
+        <mark key="'" line="270" column="15" />
+        <mark key="[" line="276" column="62" />
+        <mark key="]" line="276" column="70" />
+        <mark key="." line="276" column="70" />
+        <mark key="^" line="276" column="70" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
@@ -3235,7 +3236,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13836,19 +13837,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIG5uID0gbmV3IE5ldXJhbE5ldChMaXN0KDIsMiwxKSwgbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmVycm9yVHlwZSA9IEVycm9yVHlwZS50b2tlblJlcXVpcmVkOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IEZ1bmMxPE9uc3RhckFZU1Jlc3RTZXJ2aWNlLCBPYnNlcnZhYmxlPD8gZXh0ZW5kcyBUeXBlPj4oKSB7Ci8vICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPD8gZXh0ZW5kcyBUeXBlPiBjYWxsKE9uc3RhckFZU1Jlc3RTZXJ2aWNlIG9uc3RhckFZU1Jlc3RTZXJ2aWNlKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUVycm9yUmVzcG9uc2Ugc2VydmljZUVycm9yUmVzcG9uc2UgPSBuZXcgU2VydmljZUVycm9yUmVzcG9uc2UoKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlRXJyb3JSZXNwb25zZS5lcnJvclR5cGUgPSBFcnJvclR5cGUubmV0d29ya0Vycm9yOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmVycm9yID0gImZha2UgZXJyb3IiOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmh0dHBTdGF0dXNDb2RlID0gOTk5OwovLyAgICAgICAgICAgICAgICAgICAgICAgIFJlbW90ZUFQSVNlcnZpY2VFeGNlcHRpb24gZXhjZXB0aW9uID0gbmV3IFJlbW90ZUFQSVNlcnZpY2VFeGNlcHRpb24oc2VydmljZUVycm9yUmVzcG9uc2UpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmVycm9yKGV4Y2VwdGlvbik7Ci8vLy8gICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewovLy8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmdW5jMS5jYWxsKG9uc3RhckFZU1Jlc3RTZXJ2aWNlKTsKLy8vLyAgICAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13866,16 +13867,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGRtID0gRGVuc2VNYXRyaXgucmFuZCgxLDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG0udG9TdHJpbmcKZG0udG9TdHJpbmcK</text>
+        <text encoding="base64">dmFsIGRtID0gRGVuc2VNYXRyaXgucmFuZCgxLDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
+        <text encoding="base64">ZG0udG9TdHJpbmcKZG0udG9TdHJpbmcK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
@@ -15169,13 +15170,13 @@
         <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgciA9IHNjYWxhLnV0aWwuUmFuZG9tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>90</text>
+        <text>221</text>
       </register>
     </registers>
     <search>
@@ -15211,7 +15212,6 @@
         <entry encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>393</entry>
         <entry>104</entry>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
         <entry>46</entry>
@@ -15231,6 +15231,7 @@
         <entry>143</entry>
         <entry>90</entry>
         <entry>NERDTreeToggle</entry>
+        <entry>221</entry>
       </history-cmd>
       <history-expr />
       <history-input />
