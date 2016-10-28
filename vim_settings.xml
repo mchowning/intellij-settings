@@ -2213,11 +2213,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477597226076">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="43" column="70" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477661858032">
+        <mark key="'" line="282" column="15" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="291" column="51" />
+        <mark key="." line="286" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
@@ -3128,7 +3128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="48" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="89" column="43" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="205" column="66" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="470" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
@@ -3228,13 +3227,14 @@
       <jump line="19" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" />
+      <jump line="282" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUVycm9yUmVzcG9uc2Ugc2VydmljZUVycm9yUmVzcG9uc2UgPSBuZXcgU2VydmljZUVycm9yUmVzcG9uc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3JUeXBlID0gRXJyb3JUeXBlLm5ldHdvcmtFcnJvcjsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3IgPSAiZmFrZSBlcnJvciI7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmh0dHBTdGF0dXNDb2RlID0gOTk5OwogICAgICAgICAgICAgICAgICAgICAgICBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uIGV4Y2VwdGlvbiA9IG5ldyBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKHNlcnZpY2VFcnJvclJlc3BvbnNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZXJyb3IoZXhjZXB0aW9uKTsK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13838,16 +13838,16 @@
         <text encoding="base64">KV0g</text>
       </register>
       <register name="/" type="4">
-        <text>gradle_plugin</text>
+        <text encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZG0udG9TdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUVycm9yUmVzcG9uc2Ugc2VydmljZUVycm9yUmVzcG9uc2UgPSBuZXcgU2VydmljZUVycm9yUmVzcG9uc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3JUeXBlID0gRXJyb3JUeXBlLm5ldHdvcmtFcnJvcjsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUVycm9yUmVzcG9uc2UuZXJyb3IgPSAiZmFrZSBlcnJvciI7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmh0dHBTdGF0dXNDb2RlID0gOTk5OwogICAgICAgICAgICAgICAgICAgICAgICBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uIGV4Y2VwdGlvbiA9IG5ldyBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKHNlcnZpY2VFcnJvclJlc3BvbnNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZXJyb3IoZXhjZXB0aW9uKTsK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13865,13 +13865,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIGRtID0gRGVuc2VNYXRyaXgucmFuZCgxLDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG0udG9TdHJpbmcKZG0udG9TdHJpbmcK</text>
+        <text encoding="base64">dmFsIGRtID0gRGVuc2VNYXRyaXgucmFuZCgxLDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
+        <text encoding="base64">ZG0udG9TdHJpbmcKZG0udG9TdHJpbmcK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
@@ -15165,30 +15165,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgciA9IHNjYWxhLnV0aWwuUmFuZG9tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm4uaW5wdXQoTGlzdCgxLDEpKQo=</text>
+        <text encoding="base64">ICB2YWwgciA9IHNjYWxhLnV0aWwuUmFuZG9tCg==</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>gradle_plugin</last-search>
+      <last-search encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern>gradle_plugin</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>timeout</entry>
         <entry encoding="base64">XDxzaG91bGRLZWVwUmVjZWl2aW5nTG9jYXRpb25VcGRhdGVzXD4=</entry>
         <entry encoding="base64">XDxjYW5jZWxVcGRhdGVzSWZOb3RMaXN0ZW5pbmdcPg==</entry>
         <entry>requestNewLocation</entry>
@@ -15208,6 +15207,7 @@
         <entry>core</entry>
         <entry>asdflj</entry>
         <entry>gradle_plugin</entry>
+        <entry encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
