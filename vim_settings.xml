@@ -786,11 +786,11 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1477661255399">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1477688279965">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -1052,11 +1052,11 @@
         <mark key="^" line="92" column="60" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477667971976">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477688110363">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -2214,12 +2214,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477685652507">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1477687189584">
         <mark key="'" line="272" column="15" />
         <mark key="[" line="275" column="53" />
-        <mark key="]" line="271" column="58" />
-        <mark key="." line="271" column="58" />
-        <mark key="^" line="271" column="58" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
@@ -3236,7 +3236,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>Double</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13837,19 +13837,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Double</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmVycm9yVHlwZSA9IEVycm9yVHlwZS50b2tlblJlcXVpcmVkOwo=</text>
+        <text encoding="base64">ICB2YWwgd2VpZ2h0czogTGlzdFtEZW5zZU1hdHJpeFtEb3VibGVdXSA9IHRyYW5zaXRpb25zLm1hcCB7IGNhc2UgKGksaikgPT4K</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IEZ1bmMxPE9uc3RhckFZU1Jlc3RTZXJ2aWNlLCBPYnNlcnZhYmxlPD8gZXh0ZW5kcyBUeXBlPj4oKSB7Ci8vICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPD8gZXh0ZW5kcyBUeXBlPiBjYWxsKE9uc3RhckFZU1Jlc3RTZXJ2aWNlIG9uc3RhckFZU1Jlc3RTZXJ2aWNlKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUVycm9yUmVzcG9uc2Ugc2VydmljZUVycm9yUmVzcG9uc2UgPSBuZXcgU2VydmljZUVycm9yUmVzcG9uc2UoKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlRXJyb3JSZXNwb25zZS5lcnJvclR5cGUgPSBFcnJvclR5cGUubmV0d29ya0Vycm9yOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmVycm9yID0gImZha2UgZXJyb3IiOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmh0dHBTdGF0dXNDb2RlID0gOTk5OwovLyAgICAgICAgICAgICAgICAgICAgICAgIFJlbW90ZUFQSVNlcnZpY2VFeGNlcHRpb24gZXhjZXB0aW9uID0gbmV3IFJlbW90ZUFQSVNlcnZpY2VFeGNlcHRpb24oc2VydmljZUVycm9yUmVzcG9uc2UpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmVycm9yKGV4Y2VwdGlvbik7Ci8vLy8gICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewovLy8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmdW5jMS5jYWxsKG9uc3RhckFZU1Jlc3RTZXJ2aWNlKTsKLy8vLyAgICAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAvLyBUT0RPIHN3aXRjaCB0aGlzIHRvIGEgc2luZ2xlIG91dHB1dAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13867,19 +13867,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcgo=</text>
+        <text encoding="base64">bm4uaW5wdXQoTGlzdCgxLDEpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeSB0aW1lIGZvcndhcmQgcHJvcCBpcyBydW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIGRtID0gRGVuc2VNYXRyaXgucmFuZCgxLDEpCg==</text>
+        <text encoding="base64">Ly8gIHZhbCB3ZWlnaHRzID0gdHJhbnNpdGlvbnMubWFwIHsgY2FzZSAoaSxqKSA9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG0udG9TdHJpbmcKZG0udG9TdHJpbmcK</text>
+        <text encoding="base64">Ly8gIHZhbCB3ZWlnaHRzOiBMaXN0W0RlbnNlTWF0cml4W0RvdWJsZV1dID0gdHJhbnNpdGlvbnMubWFwIHsgY2FzZSAoaSxqKSA9Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15167,16 +15167,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSB3ZWlnaHRzIGFyZSByZWdlbmVyYXRlZCBldmVyeXRpbWUgZm9yd2FyZCBwcm9wIGlzIHJ1bgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bmV3IE5ldXJhbE5ldChMaXN0KDIsMiwxKSwgbnVsbCkK</text>
+      </register>
       <register name=":" type="4">
-        <text>221</text>
+        <text>276</text>
       </register>
     </registers>
     <search>
@@ -15212,7 +15212,6 @@
         <entry encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>104</entry>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
         <entry>46</entry>
         <entry>wq</entry>
@@ -15232,6 +15231,7 @@
         <entry>90</entry>
         <entry>NERDTreeToggle</entry>
         <entry>221</entry>
+        <entry>276</entry>
       </history-cmd>
       <history-expr />
       <history-input />
