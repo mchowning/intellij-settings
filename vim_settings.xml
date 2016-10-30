@@ -166,6 +166,12 @@
         <mark key="^" line="136" column="108" />
         <mark key="." line="136" column="108" />
       </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/ActivationFunction.scala" timestamp="1477861894160">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/client/FileReadWriteClientCLI.scala" timestamp="1466545249301">
         <mark key="[" line="27" column="47" />
         <mark key="]" line="28" column="23" />
@@ -786,11 +792,12 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1477830678849">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="9" column="43" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1477864504312">
+        <mark key="'" line="26" column="22" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="17" column="74" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -2476,6 +2483,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/CostFunction.scala" timestamp="1477862319015">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/detail/offer/MoreInfoButton.java" timestamp="1469036792943">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="30" />
@@ -3145,9 +3157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="66" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="470" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
       <jump line="49" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
       <jump line="51" column="48" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
       <jump line="90" column="102" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
@@ -3245,13 +3254,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" />
       <jump line="282" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
       <jump line="233" column="56" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/Matrix.scala" />
+      <jump line="73" column="12" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
+      <jump line="11" column="16" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
+      <jump line="24" column="22" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgY2hlY2tJbnB1dHMoaW5wdXRzOiBMaXN0W0RvdWJsZV0pOiBVbml0ID0gewogICAgdmFsIG51bUlucHV0V2VpZ2h0c1dpdGhvdXRCaWFzID0gd2VpZ2h0cy5oZWFkLnJvd3MgLSAxCiAgICBpZiAobnVtSW5wdXRXZWlnaHRzV2l0aG91dEJpYXMgIT0gaW5wdXRzLnNpemUpIHsKICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihzIkludmFsaWROZXR3b3JrSW5wdXRzOiBUaGlzIG5ldXJhbCBuZXR3b3JrIHJlcXVpcmVzICRudW1JbnB1dFdlaWdodHNXaXRob3V0QmlhcyBpbnB1dHMiKQogICAgfQogIH0K</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13855,19 +13867,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>ActivationFunc</text>
+        <text>Sigmoid</text>
       </register>
       <register name="/" type="4">
-        <text>uniform</text>
+        <text encoding="base64">XDxudW1MYXllck5vZGVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLy8gVE9ETyBleHRyYWN0IG91dCBBY3RpdmF0aW9uRnVuYyAK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bnVtTGF5ZXJOb2Rlcy56aXAobnVtTGF5ZXJOb2Rlcy50YWlsKQogICAgICAubWFwIHsgdCA9PiBEZW5zZU1hdHJpeC5yYW5kKHQuXzEgKyAxLCB0Ll8yKSB9</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgY2hlY2tJbnB1dHMoaW5wdXRzOiBMaXN0W0RvdWJsZV0pOiBVbml0ID0gewogICAgdmFsIG51bUlucHV0V2VpZ2h0c1dpdGhvdXRCaWFzID0gd2VpZ2h0cy5oZWFkLnJvd3MgLSAxCiAgICBpZiAobnVtSW5wdXRXZWlnaHRzV2l0aG91dEJpYXMgIT0gaW5wdXRzLnNpemUpIHsKICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihzIkludmFsaWROZXR3b3JrSW5wdXRzOiBUaGlzIG5ldXJhbCBuZXR3b3JrIHJlcXVpcmVzICRudW1JbnB1dFdlaWdodHNXaXRob3V0QmlhcyBpbnB1dHMiKQogICAgfQogIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13885,19 +13897,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3QoKSB7CgogIHByaW50bG4oImluaXRpYWxpemVkIikKCiAgZGVmIGZvbygpID0gewogICAgcHJpbnRsbigiZXhlY3V0aW5nIGZvbyIpCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGJpYXNlcwo=</text>
+        <text encoding="base64">ICAgIGNoZWNrSW5wdXRzKGlucHV0cykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIHsKLy8gICAgcHJpbnRsbigiSW5pdGlhbGl6aW5nIHdpdGggcmFuZG9tIHdlaWdodHMuLi4iKQovLyAgICAvLyBMaXN0IG9mIHR1cGxlcyB3aGVyZSBlYWNoIHR1cGxlIHJlcHJlc2VudHMgKCMgaW5wdXQgbm9kZXMsICMgb3V0cHV0IG5vZGVzKSBmcm9tIG9uZSBsYXllciB0byB0aGUgbmV4dAovLyAgICB2YWwgdHJhbnNpdGlvbnMgPSBsYXllckNvbmZpZyB6aXAgbGF5ZXJDb25maWcudGFpbAovLyAgICAvLyBUT0RPIHVzZSAzZCBtYXRyaXg/Ci8vICAgIHRyYW5zaXRpb25zLm1hcCB7IGNhc2UgKGksIGopID0+Ci8vICAgICAgLy8gYWRkaW5nIG9uZSBub2RlIHRvIHRoZSBpIGxheWVyIHRvIGFjY291bnQgZm9yIHRoZSBiaWFzIG5vZGUKLy8gICAgICAvLyAobm90IGFkZGluZyB0byB0aGUgaiBsYXllciBiZWNhdXNlIG5vIHdlaWdodHMgZ28gaW50byB0aGUgYmlhcykKLy8gICAgICBEZW5zZU1hdHJpeC5yYW5kKGksIGosIG5ldyBSYW5kQmFzaXMobmV3IFRocmVhZExvY2FsUmFuZG9tR2VuZXJhdG9yKG5ldyBNZXJzZW5uZVR3aXN0ZXIoMCkpKS51bmlmb3JtKQovLyAgICAgIERlbnNlTWF0cml4LnJhbmQoaSsxLCBqLCBuZXcgUmFuZEJhc2lzKG5ldyBUaHJlYWRMb2NhbFJhbmRvbUdlbmVyYXRvcihuZXcgTWVyc2VubmVUd2lzdGVyKDApKSkudW5pZm9ybSkKLy8gICAgICAvLyAgICBEZW5zZU1hdHJpeC5yYW5kKGkrMSwgaikKLy8gICAgICAvLyAgICBEZW5zZU1hdHJpeC5yYW5kKGksIGopCi8vICAgIH0KLy8gIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gIHZhbCB3ZWlnaHRzID0gaWYgKHVzZXJXZWlnaHRzICE9IE5pbCkgdXNlcldlaWdodHMKLy8gICAgICAgICAgICAgICAgZWxzZSByYW5kb21XZWlnaHRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGZpbmQgYmV0dGVyIHdheSB0byBoYW5kbGUgdGhpcyBvcHRpb25hbCBwYXJhbWV0ZXIK</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIGNvc3RGdW5jCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15185,22 +15197,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWN0aXZhdGlvbkY6IERvdWJsZSA9PiBEb3VibGUgPSBpZGVudGl0eSwKLy8gICAgICAgICAgICAgICAgZEFjdGl2YXRpb25GOiBEb3VibGUgPT4gRG91YmxlID0geyBpZ25vcmVkID0+IDEgfSwK</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIGFjdGl2YXRpb25GdW5jCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAoYWN0dWFsLCBleHBlY3RlZCkgPT4gLTEK</text>
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAoZXhwZWN0ZWQsIGFjdHVhbCkgPT4gMC41ICogc3VtKGV4cGVjdGVkKSAtIHN1bShhY3R1YWwpCg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>276</text>
       </register>
     </registers>
     <search>
-      <last-search>uniform</last-search>
+      <last-search encoding="base64">XDxudW1MYXllck5vZGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>uniform</last-pattern>
+      <last-pattern encoding="base64">XDxudW1MYXllck5vZGVzXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15208,7 +15220,6 @@
     </search>
     <history>
       <history-search>
-        <entry>requestNewLocation</entry>
         <entry>cancelLocation</entry>
         <entry encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</entry>
         <entry>locationmanager</entry>
@@ -15228,6 +15239,7 @@
         <entry encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</entry>
         <entry>withBasis</entry>
         <entry>uniform</entry>
+        <entry encoding="base64">XDxudW1MYXllck5vZGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
