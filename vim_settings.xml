@@ -786,10 +786,11 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1477795099629">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1477796585482">
+        <mark key="[" line="75" column="33" />
+        <mark key="]" line="75" column="36" />
+        <mark key="." line="75" column="36" />
+        <mark key="^" line="75" column="36" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -1051,10 +1052,11 @@
         <mark key="^" line="92" column="60" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477779154423">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477796388906">
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="65" />
+        <mark key="^" line="4" column="65" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -3240,8 +3242,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERlbnNlVmVjdG9yKCkuYXJyYQo=</text>
+      <register name="&quot;" type="4">
+        <text>rows</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13845,13 +13847,13 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>rows</text>
       </register>
       <register name="/" type="4">
         <text>uniform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGFjdHVhbCwgZXhwZWN0ZWQpID0+IC0xIC8vIEZJWE1FCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgRGVuc2VNYXRyaXgucmFuZChpKzEsIGopCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
