@@ -625,10 +625,10 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" timestamp="1477869447157">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" timestamp="1477916754938">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1475159271572">
         <mark key="[" line="20" column="18" />
@@ -3119,7 +3119,6 @@
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/ExampleSpec/scala.scala" timestamp="1477866247849" />
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/minCut.hs" timestamp="1423172430172">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="19" column="10" />
@@ -3294,7 +3293,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKHdWYWxzLnQgKiBpbnB1dFZhbHNXaXRoQmlhcykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwogICAgICAgIC5tYXAoYWN0aXZhdGlvbkZ1bmMuYXBwbHkpICAgLy8gcnVuIHJlc3VsdHMgdGhyb3VnaCBhY3RpdmF0aW9uIGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG91dHB1dHMgPSBubi5mb3J3YXJkUHJvcGFnYXRlKExpc3QoMC41NSwgMC4xMCkpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13904,13 +13903,13 @@
         <text>asldfkj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKHdWYWxzLnQgKiBpbnB1dFZhbHNXaXRoQmlhcykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwogICAgICAgIC5tYXAoYWN0aXZhdGlvbkZ1bmMuYXBwbHkpICAgLy8gcnVuIHJlc3VsdHMgdGhyb3VnaCBhY3RpdmF0aW9uIGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG91dHB1dHMgPSBubi5mb3J3YXJkUHJvcGFnYXRlKExpc3QoMC4wNSwgMC4xMCkpCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG91dHB1dHMgPSBubi5mb3J3YXJkUHJvcGFnYXRlKExpc3QoMC41NSwgMC4xMCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13928,19 +13927,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRlc3Q6IE5vdGhpbmcgPSAod1ZhbHMudCAqIGlucHV0VmFsc1dpdGhCaWFzKSAgLy8gbXVsdGlwbHkgd2VpZ2h0cyBhbmQgaW5wdXRzCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHRlc3Q6IE5vdGhpbmcgPSAod1ZhbHMudCAqIGlucHV0VmFsc1dpdGhCaWFzKSAgLy8gbXVsdGlwbHkgd2VpZ2h0cyBhbmQgaW5wdXRzCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgdmFsIHRlc3QxOiBOb3RoaW5nID0gKGlucHV0VmFsc1dpdGhCaWFzLnQgKiB3VmFscykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAKICAgICAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzaG91bGQiIC0gewogICAgICAiZm9yd2FyZCBwcm9wYWdhdGUiIGluIHsKICAgICAgICB2YWwgb3V0cHV0cyA9IG5uLmZvcndhcmRQcm9wYWdhdGUoTGlzdCgwLjA1LCAwLjEwKSkKICAgICAgICBvdXRwdXRzIHNob3VsZEVxdWFsIERlbnNlVmVjdG9yKDAuNzUxMzY1MDY5NTUyMzE1NywgMC43NzI5Mjg0NjUzMjE0NjI1KQogICAgICB9CgogICAgICAiY2FsY3VsYXRlIHRvdGFsIGVycm9yIiBpbiB7CiAgICAgICAgdmFsIGVycm9yID0gbm4udG90YWxFcnJvcihMaXN0KDAuMDUsIDAuMTApLCBEZW5zZVZlY3RvcigwLjAxLCAwLjk5KSkKICAgICAgICBlcnJvciBzaG91bGRFcXVhbCAwLjI5ODM3MTEwODc2MDAwMjcKICAgICAgfQogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15228,13 +15227,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzaG91bGQiIC0gewogICAgICAiZm9yd2FyZCBwcm9wYWdhdGUiIGluIHsKICAgICAgICB2YWwgb3V0cHV0cyA9IG5uLmZvcndhcmRQcm9wYWdhdGUoTGlzdCgwLjA1LCAwLjEwKSkKICAgICAgICBvdXRwdXRzIHNob3VsZEVxdWFsIERlbnNlVmVjdG9yKDAuNzUxMzY1MDY5NTUyMzE1NywgMC43NzI5Mjg0NjUzMjE0NjI1KQogICAgICB9CgogICAgICAiY2FsY3VsYXRlIHRvdGFsIGVycm9yIiBpbiB7CiAgICAgICAgdmFsIGVycm9yID0gbm4udG90YWxFcnJvcihMaXN0KDAuMDUsIDAuMTApLCBEZW5zZVZlY3RvcigwLjAxLCAwLjk5KSkKICAgICAgICBlcnJvciBzaG91bGRFcXVhbCAwLjI5ODM3MTEwODc2MDAwMjcKICAgICAgfQogICAgICAKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBpbXBsaWNpdCB2YWwgZG91YmxlRXF1YWxpdHkgPSBUb2xlcmFudE51bWVyaWNzLnRvbGVyYW50RG91YmxlRXF1YWxpdHkoMWUtNikKICAvLyBUT0RPIG1ha2UgZXF1YWxpdHkgdG9sZXJhbnQgZm9yIERlbnNlVmVjdG9ycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3V0cHV0cyBzaG91bGRFcXVhbCBEZW5zZVZlY3RvcigwLjc1MTM2NTA2OTU1MjQxNTcsIDAuNzcyOTI4NDY1MzIxNDYyNSkK</text>
+        <text encoding="base64">ICAvLyBpbXBsaWNpdCB2YWwgZG91YmxlRXF1YWxpdHkgPSBUb2xlcmFudE51bWVyaWNzLnRvbGVyYW50RG91YmxlRXF1YWxpdHkoMWUtNikKICAvLyBUT0RPIG1ha2UgZXF1YWxpdHkgdG9sZXJhbnQgZm9yIERlbnNlVmVjdG9ycwo=</text>
       </register>
       <register name=":" type="4">
         <text>276</text>
@@ -15247,7 +15246,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
