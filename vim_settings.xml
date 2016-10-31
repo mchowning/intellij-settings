@@ -58,6 +58,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/environment_local.gradle" timestamp="1477926931789" />
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw4a.hs" timestamp="1449110223075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -214,6 +215,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/orchestration/BleLogMetricsHelper.java" timestamp="1477926903590">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/machine-learning/mnist/scala/build.gradle" timestamp="1476327661863">
         <mark key="[" line="11" column="25" />
@@ -1275,6 +1281,12 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="67" />
+        <mark key="^" line="275" column="1" />
+        <mark key="." line="275" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-dealer-locate/plugin-dealer-locate/src/main/java/com/gm/plugin/dealer_locate/ui/fullscreen/NaDealerLocateFragmentPresenter.java" timestamp="1473775589573">
         <mark key="[" line="57" column="38" />
         <mark key="]" line="58" column="13" />
@@ -1902,6 +1914,9 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" timestamp="1477926797372">
+        <mark key="'" line="43" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/hw7/StringBuffer.hs" timestamp="1421898123921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="41" />
@@ -2466,6 +2481,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="12" />
+        <mark key="^" line="261" column="1" />
+        <mark key="." line="161" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/handler/EchoServerHandler.java" timestamp="1464540940081">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="4" />
@@ -2954,12 +2975,6 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="12" />
-        <mark key="^" line="261" column="1" />
-        <mark key="." line="161" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/gradle.properties" timestamp="1465235727552">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="23" />
@@ -3119,7 +3134,6 @@
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/ExampleSpec/scala.scala" timestamp="1477866247849" />
       <file name="$USER_HOME$/dev/courses/algorithms1/week3/minCut.hs" timestamp="1423172430172">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="19" column="10" />
@@ -3168,12 +3182,6 @@
         <mark key="." line="101" column="64" />
         <mark key="^" line="101" column="64" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" timestamp="1475268803819">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="67" />
-        <mark key="^" line="275" column="1" />
-        <mark key="." line="275" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/matasano-challenges/src/Test.hs" timestamp="1453901184567">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="5" column="13" />
@@ -3188,11 +3196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="102" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
-      <jump line="594" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragment.java" />
-      <jump line="47" column="33" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="58" column="79" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="59" column="63" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="60" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="79" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="80" column="54" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
@@ -3288,13 +3291,18 @@
       <jump line="24" column="22" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
       <jump line="7" column="38" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" />
       <jump line="245" column="7" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseVector.scala" />
+      <jump line="42" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="141" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="204" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="43" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKHdWYWxzLnQgKiBpbnB1dFZhbHNXaXRoQmlhcykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwogICAgICAgIC5tYXAoYWN0aXZhdGlvbkZ1bmMuYXBwbHkpICAgLy8gcnVuIHJlc3VsdHMgdGhyb3VnaCBhY3RpdmF0aW9uIGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nbS5vbnN0YXIuc21yZi5zZGsuZGF0YXNvdXJjZS5CbGVEYXRhc291cmNlOwppbXBvcnQgY29tLmdtLm9uc3Rhci5zbXJmLnNkay5kYXRhc291cmNlLkJsZU1ldHJpYzsKaW1wb3J0IGNvbS5nbS5vbnN0YXIuc21yZi5zZGsuZXZlbnRzLkJsZUxvZ01ldHJpY0V2ZW50Owo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13901,7 +13909,7 @@
         <text encoding="base64">KiA=</text>
       </register>
       <register name="/" type="4">
-        <text>asldfkj</text>
+        <text>blelogmetrics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgKHdWYWxzLnQgKiBpbnB1dFZhbHNXaXRoQmlhcykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwogICAgICAgIC5tYXAoYWN0aXZhdGlvbkZ1bmMuYXBwbHkpICAgLy8gcnVuIHJlc3VsdHMgdGhyb3VnaCBhY3RpdmF0aW9uIGZ1bmN0aW9uCg==</text>
@@ -13910,7 +13918,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nbS5vbnN0YXIuc21yZi5zZGsuZGF0YXNvdXJjZS5CbGVEYXRhc291cmNlOwppbXBvcnQgY29tLmdtLm9uc3Rhci5zbXJmLnNkay5kYXRhc291cmNlLkJsZU1ldHJpYzsKaW1wb3J0IGNvbS5nbS5vbnN0YXIuc21yZi5zZGsuZXZlbnRzLkJsZUxvZ01ldHJpY0V2ZW50Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13928,19 +13936,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRlc3Q6IE5vdGhpbmcgPSAod1ZhbHMudCAqIGlucHV0VmFsc1dpdGhCaWFzKSAgLy8gbXVsdGlwbHkgd2VpZ2h0cyBhbmQgaW5wdXRzCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHRlc3Q6IE5vdGhpbmcgPSAod1ZhbHMudCAqIGlucHV0VmFsc1dpdGhCaWFzKSAgLy8gbXVsdGlwbHkgd2VpZ2h0cyBhbmQgaW5wdXRzCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgdmFsIHRlc3QxOiBOb3RoaW5nID0gKGlucHV0VmFsc1dpdGhCaWFzLnQgKiB3VmFscykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAKICAgICAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzaG91bGQiIC0gewogICAgICAiZm9yd2FyZCBwcm9wYWdhdGUiIGluIHsKICAgICAgICB2YWwgb3V0cHV0cyA9IG5uLmZvcndhcmRQcm9wYWdhdGUoTGlzdCgwLjA1LCAwLjEwKSkKICAgICAgICBvdXRwdXRzIHNob3VsZEVxdWFsIERlbnNlVmVjdG9yKDAuNzUxMzY1MDY5NTUyMzE1NywgMC43NzI5Mjg0NjUzMjE0NjI1KQogICAgICB9CgogICAgICAiY2FsY3VsYXRlIHRvdGFsIGVycm9yIiBpbiB7CiAgICAgICAgdmFsIGVycm9yID0gbm4udG90YWxFcnJvcihMaXN0KDAuMDUsIDAuMTApLCBEZW5zZVZlY3RvcigwLjAxLCAwLjk5KSkKICAgICAgICBlcnJvciBzaG91bGRFcXVhbCAwLjI5ODM3MTEwODc2MDAwMjcKICAgICAgfQogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15228,22 +15236,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzaG91bGQiIC0gewogICAgICAiZm9yd2FyZCBwcm9wYWdhdGUiIGluIHsKICAgICAgICB2YWwgb3V0cHV0cyA9IG5uLmZvcndhcmRQcm9wYWdhdGUoTGlzdCgwLjA1LCAwLjEwKSkKICAgICAgICBvdXRwdXRzIHNob3VsZEVxdWFsIERlbnNlVmVjdG9yKDAuNzUxMzY1MDY5NTUyMzE1NywgMC43NzI5Mjg0NjUzMjE0NjI1KQogICAgICB9CgogICAgICAiY2FsY3VsYXRlIHRvdGFsIGVycm9yIiBpbiB7CiAgICAgICAgdmFsIGVycm9yID0gbm4udG90YWxFcnJvcihMaXN0KDAuMDUsIDAuMTApLCBEZW5zZVZlY3RvcigwLjAxLCAwLjk5KSkKICAgICAgICBlcnJvciBzaG91bGRFcXVhbCAwLjI5ODM3MTEwODc2MDAwMjcKICAgICAgfQogICAgICAKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBpbXBsaWNpdCB2YWwgZG91YmxlRXF1YWxpdHkgPSBUb2xlcmFudE51bWVyaWNzLnRvbGVyYW50RG91YmxlRXF1YWxpdHkoMWUtNikKICAvLyBUT0RPIG1ha2UgZXF1YWxpdHkgdG9sZXJhbnQgZm9yIERlbnNlVmVjdG9ycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3V0cHV0cyBzaG91bGRFcXVhbCBEZW5zZVZlY3RvcigwLjc1MTM2NTA2OTU1MjQxNTcsIDAuNzcyOTI4NDY1MzIxNDYyNSkK</text>
+        <text encoding="base64">ICAvLyBpbXBsaWNpdCB2YWwgZG91YmxlRXF1YWxpdHkgPSBUb2xlcmFudE51bWVyaWNzLnRvbGVyYW50RG91YmxlRXF1YWxpdHkoMWUtNikKICAvLyBUT0RPIG1ha2UgZXF1YWxpdHkgdG9sZXJhbnQgZm9yIERlbnNlVmVjdG9ycwo=</text>
       </register>
       <register name=":" type="4">
         <text>276</text>
       </register>
     </registers>
     <search>
-      <last-search>asldfkj</last-search>
+      <last-search>blelogmetrics</last-search>
       <last-offset />
-      <last-pattern>asldfkj</last-pattern>
+      <last-pattern>blelogmetrics</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15251,7 +15259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>locationmanager</entry>
         <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
         <entry>removeUpdates</entry>
         <entry>owner</entry>
@@ -15271,6 +15278,7 @@
         <entry encoding="base64">XDxudW1MYXllck5vZGVzXD4=</entry>
         <entry>equal</entry>
         <entry>asldfkj</entry>
+        <entry>blelogmetrics</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
