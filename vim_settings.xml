@@ -632,6 +632,9 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" timestamp="1477935491057">
+        <mark key="'" line="104" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/test/java/com/gm/gemini/data/model/HotspotDataTest.java" timestamp="1474998886598">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -2934,9 +2937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="79" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="80" column="54" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="81" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="85" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="89" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
@@ -3034,6 +3034,9 @@
       <jump line="141" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="204" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="43" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
+      <jump line="62" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="101" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13647,7 +13650,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>blelogmetrics</text>
+        <text>updatePlugin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgKHdWYWxzLnQgKiBpbnB1dFZhbHNXaXRoQmlhcykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwogICAgICAgIC5tYXAoYWN0aXZhdGlvbkZ1bmMuYXBwbHkpICAgLy8gcnVuIHJlc3VsdHMgdGhyb3VnaCBhY3RpdmF0aW9uIGZ1bmN0aW9uCg==</text>
@@ -14987,9 +14990,9 @@
       </register>
     </registers>
     <search>
-      <last-search>blelogmetrics</last-search>
+      <last-search>updatePlugin</last-search>
       <last-offset />
-      <last-pattern>blelogmetrics</last-pattern>
+      <last-pattern>updatePlugin</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -14997,7 +15000,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
         <entry>removeUpdates</entry>
         <entry>owner</entry>
         <entry>can't convert to dimension</entry>
@@ -15017,6 +15019,7 @@
         <entry>equal</entry>
         <entry>asldfkj</entry>
         <entry>blelogmetrics</entry>
+        <entry>updatePlugin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
