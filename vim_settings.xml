@@ -219,10 +219,11 @@
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1477937404313">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1478011888205">
+        <mark key="'" line="257" column="27" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="." line="322" column="0" />
       </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
@@ -2947,13 +2948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="47" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="85" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="89" column="36" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="94" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="97" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="116" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
-      <jump line="124" column="121" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-garage/src/main/java/com/gm/plugin/garage/ui/fullscreen/GarageFragment.java" />
       <jump line="35" column="21" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="72" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="61" column="2" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
@@ -3047,6 +3041,13 @@
       <jump line="62" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="101" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="248" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="249" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="251" column="77" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="285" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="227" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
+      <jump line="257" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13660,7 +13661,7 @@
         <text>@integer/default_animation_duration</text>
       </register>
       <register name="/" type="4">
-        <text>updatePlugin</text>
+        <text encoding="base64">XDxyZXRyeUJ1aWxkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgKHdWYWxzLnQgKiBpbnB1dFZhbHNXaXRoQmlhcykgIC8vIG11bHRpcGx5IHdlaWdodHMgYW5kIGlucHV0cwogICAgICAgIC5tYXAoYWN0aXZhdGlvbkZ1bmMuYXBwbHkpICAgLy8gcnVuIHJlc3VsdHMgdGhyb3VnaCBhY3RpdmF0aW9uIGZ1bmN0aW9uCg==</text>
@@ -15000,21 +15001,16 @@
       </register>
     </registers>
     <search>
-      <last-search>updatePlugin</last-search>
+      <last-search encoding="base64">XDxyZXRyeUJ1aWxkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>updatePlugin</last-pattern>
+      <last-pattern encoding="base64">XDxyZXRyeUJ1aWxkZXJcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>removeUpdates</entry>
-        <entry>owner</entry>
-        <entry>can't convert to dimension</entry>
-        <entry>poll</entry>
-        <entry>regist</entry>
         <entry>asdlfj</entry>
         <entry>registerDe</entry>
         <entry>asldkjf</entry>
@@ -15030,6 +15026,11 @@
         <entry>asldfkj</entry>
         <entry>blelogmetrics</entry>
         <entry>updatePlugin</entry>
+        <entry>retry</entry>
+        <entry>retryBuild</entry>
+        <entry>asdlfkj</entry>
+        <entry encoding="base64">XDxSZXRyeUJ1aWxkZXJcPg==</entry>
+        <entry encoding="base64">XDxyZXRyeUJ1aWxkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
