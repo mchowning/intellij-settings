@@ -1494,6 +1494,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/plugin-owner-manual/build.gradle" timestamp="1478094559253">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/build.gradle" timestamp="1469798883664">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="14" column="42" />
@@ -3097,8 +3103,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly89PT09PT09Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13702,7 +13708,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>REQUEST_LOCATION_FROM_LAUNCH</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>\/\/</text>
