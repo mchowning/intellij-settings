@@ -513,6 +513,12 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/build.gradle" timestamp="1478097703763">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/Jenkinsfile.groovy" timestamp="1475594922675">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="32" />
@@ -709,6 +715,11 @@
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/test/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenterTest.java" timestamp="1478097682349">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ggp-base/src/main/java/org/ggp/base/player/gamer/statemachine/mygamers/MonteCarloTreeSearchTwoPlayer/Helper.java" timestamp="1430584320183">
         <mark key="[" line="7" column="26" />
@@ -2039,10 +2050,10 @@
         <mark key="^" line="66" column="22" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build.gradle" timestamp="1478096191312">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProviderAAAAAA.java" timestamp="1461768120180">
         <mark key="[" line="16" column="0" />
@@ -2347,6 +2358,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" timestamp="1478097663522">
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
+        <mark key="^" line="296" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1475249532207">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="12" />
@@ -2613,6 +2630,12 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/app/build.gradle" timestamp="1478097719979">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/dev/haskell/class/src/downoader.hs" timestamp="1419260811881">
         <mark key="[" line="4" column="86" />
@@ -3131,7 +3154,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>core</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13735,10 +13758,10 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">Pj4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX0xPQ0FUSU9OX0ZST01fTEFVTkNIID0gMDsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX0xPQ0FUSU9OX0ZST01fTE9DQVRFX01FX0JVVFRPTiA9IDE7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUVTVF9MT0NBVElPTl9GUk9NX0xPQ0FURV9WRUhJQ0xFX0JVVFRPTiA9IDI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUVTVF9DT05UQUNUUyA9IDM7Cg==</text>
@@ -13747,7 +13770,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13765,19 +13788,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly89PT09PT09Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly89PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15065,10 +15088,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly89PT09PT09Ci8vICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnJlcXVlc3RMb2NhdGlvblBlcm1pc3Npb24oUkVRVUVTVF9MT0NBVElPTl9DT0RFX0xBVU5DSCk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgb25SZXF1ZXN0UGVybWlzc2lvbnNSZXN1bHRfc2hvdWxkX3N0YXJ0X2xvY2F0aW9uX3VwZGF0ZXNfaWZfcGVybWlzc2lvbl9pc19ncmFudGVkX2FuZF9yZXF1ZXN0X2NvZGVfaXNfYnV0dG9uKCkgewovLyAgICAgICAgc3ViamVjdC5vblJlcXVlc3RQZXJtaXNzaW9uc1Jlc3VsdChSRVFVRVNUX0xPQ0FUSU9OX0NPREVfQlVUVE9OLCBuZXcgU3RyaW5nW117ImFuZHJvaWQucGVybWlzc2lvbi5BQ0NFU1NfRklORV9MT0NBVElPTiJ9LCBuZXcgaW50W117UGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEfSk7Ci8vPj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">Ly89PT09PT09Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
@@ -15078,9 +15101,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">Pj4=</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">Pj4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15088,7 +15111,6 @@
     </search>
     <history>
       <history-search>
-        <entry>equal</entry>
         <entry>asldfkj</entry>
         <entry>blelogmetrics</entry>
         <entry>retry</entry>
@@ -15108,6 +15130,7 @@
         <entry encoding="base64">XDxvblJlcXVlc3RQZXJtaXNzaW9uc1Jlc3VsdEZyb21Mb2NhdGVWZWhpY2xlQnV0dG9uXD4=</entry>
         <entry>\/\/</entry>
         <entry>create</entry>
+        <entry encoding="base64">Pj4=</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
