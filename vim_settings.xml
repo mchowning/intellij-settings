@@ -33,6 +33,12 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" timestamp="1478100283723">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
+        <mark key="^" line="228" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2.hs" timestamp="1420568091269">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -88,11 +94,11 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build.gradle" timestamp="1461343602544">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="14" column="54" />
-        <mark key="^" line="14" column="54" />
-        <mark key="." line="14" column="54" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/build.gradle" timestamp="1478100101000">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/server/ServerUtil.java" timestamp="1466155902205">
         <mark key="[" line="21" column="10" />
@@ -1115,6 +1121,12 @@
         <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/app/build.gradle" timestamp="1478100110136">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/gradle/wrapper/gradle-wrapper.properties" timestamp="1474998127057">
         <mark key="[" line="6" column="0" />
@@ -2762,11 +2774,6 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1478089895810">
-        <mark key="]" line="141" column="18" />
-        <mark key="." line="141" column="18" />
-        <mark key="^" line="141" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/card/VehicleStatusQuickView.java" timestamp="1464887919113">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="106" />
@@ -3048,13 +3055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="70" column="8" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="50" column="13" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
-      <jump line="124" column="27" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
-      <jump line="151" column="52" filename="$USER_HOME$/dev/android-tools/android-sdk-macosx/sources/android-24/java/util/concurrent/LinkedBlockingQueue.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/service/MyGMFirebaseInstanceIDService.java" />
-      <jump line="388" column="14" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/auth/GateKeeperImpl.java" />
       <jump line="52" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.3.0/f6e0363f5b51744cd5cc23d9135e4eed0765e69c/gemini-app-shell-3.3.0-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
@@ -3148,13 +3148,20 @@
       <jump line="660" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="659" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/jars/classes.jar!/com/gm/gemini/service/web/gmoc/GetOwnerCenterVehiclesHelper_Factory.class" />
+      <jump line="9" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
+      <jump line="58" column="63" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
+      <jump line="69" column="60" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
+      <jump line="225" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
+      <jump line="226" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
+      <jump line="227" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
+      <jump line="228" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>core</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13761,16 +13768,16 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4=</text>
+        <text encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX0xPQ0FUSU9OX0ZST01fTEFVTkNIID0gMDsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX0xPQ0FUSU9OX0ZST01fTE9DQVRFX01FX0JVVFRPTiA9IDE7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUVTVF9MT0NBVElPTl9GUk9NX0xPQ0FURV9WRUhJQ0xFX0JVVFRPTiA9IDI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUVTVF9DT05UQUNUUyA9IDM7Cg==</text>
+        <text encoding="base64">ICAgIC8vVEVTVElORwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13788,19 +13795,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIHJldHVybiBwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmhhc1ByZWZlcnJlZERlYWxlcigpCiAgICAgICAgICAgICAgICAmJiBwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmhhc0JhYygpCiAgICAgICAgICAgICAgICAmJiBwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmdldFByZWZlcnJlZERlYWxlcigpICE9IG51bGwKICAgICAgICAgICAgICAgICYmICFwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmdldFByZWZlcnJlZERlYWxlcigpLmdldENvdW50cnlDb2RlKCkuaXNFbXB0eSgpOwo+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgcmV0dXJuIHByZWZlcnJlZERlYWxlckZhY2FkZS5oYXNQcmVmZXJyZWREZWFsZXIoKQogICAgICAgICAgICAgICAgJiYgcHJlZmVycmVkRGVhbGVyRmFjYWRlLmhhc0JhYygpCiAgICAgICAgICAgICAgICAmJiBwcmVmZXJyZWREZWFsZXJGYWNhZGUuZ2V0UHJlZmVycmVkRGVhbGVyKCkgIT0gbnVsbCAmJiAhcHJlZmVycmVkRGVhbGVyRmFjYWRlLmdldFByZWZlcnJlZERlYWxlcigpLmdldENvdW50cnlDb2RlKCkuaXNFbXB0eSgpOwo9PT09PT09Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAgIC8vVEVTVElORwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15088,22 +15095,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly89PT09PT09Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4=</last-search>
+      <last-search encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15111,7 +15118,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asldfkj</entry>
         <entry>blelogmetrics</entry>
         <entry>retry</entry>
         <entry>retryBuild</entry>
@@ -15131,6 +15137,7 @@
         <entry>\/\/</entry>
         <entry>create</entry>
         <entry encoding="base64">Pj4=</entry>
+        <entry encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
