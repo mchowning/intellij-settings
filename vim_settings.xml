@@ -225,13 +225,6 @@
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" timestamp="1478094229539">
-        <mark key="'" line="659" column="8" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="185" column="49" />
-        <mark key="." line="181" column="0" />
-        <mark key="^" line="386" column="80" />
-      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="3" />
@@ -309,6 +302,9 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/card/PreferredDealerQuickViewPresenter.java" timestamp="1478102363401">
+        <mark key="'" line="40" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/values/strings.xml" timestamp="1471538434645">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="89" />
@@ -338,13 +334,6 @@
         <mark key="]" line="11" column="66" />
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
-      </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" timestamp="1478094220806">
-        <mark key="'" line="1373" column="4" />
-        <mark key="[" line="1517" column="0" />
-        <mark key="]" line="1517" column="0" />
-        <mark key="^" line="1542" column="58" />
-        <mark key="." line="1517" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/app/build.gradle" timestamp="1475776280256">
         <mark key="[" line="26" column="12" />
@@ -2250,7 +2239,7 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1477189242450">
+      <file name="/fragment.java" timestamp="1478102392918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="65" />
@@ -3061,7 +3050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gm.gemini.sdk/gemini-app-shell/3.3.0/f6e0363f5b51744cd5cc23d9135e4eed0765e69c/gemini-app-shell-3.3.0-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="142" column="16" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="144" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
@@ -3161,6 +3149,7 @@
       <jump line="226" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="227" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="228" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
+      <jump line="40" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/card/PreferredDealerQuickViewPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13774,7 +13763,7 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</text>
+        <text>isQuickView</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vVEVTVElORwo=</text>
@@ -15114,9 +15103,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</last-search>
+      <last-search>isQuickView</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</last-pattern>
+      <last-pattern>isQuickView</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15124,7 +15113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blelogmetrics</entry>
         <entry>retry</entry>
         <entry>retryBuild</entry>
         <entry>asdlfkj</entry>
@@ -15144,6 +15132,7 @@
         <entry>create</entry>
         <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</entry>
+        <entry>isQuickView</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
