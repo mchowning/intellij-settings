@@ -973,10 +973,11 @@
         <mark key="^" line="92" column="60" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/build.gradle" timestamp="1478095829614">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/build.gradle" timestamp="1478096179430">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477866714965">
         <mark key="[" line="2" column="0" />
@@ -1495,10 +1496,10 @@
         <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/plugin-owner-manual/build.gradle" timestamp="1478094559253">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus-repo/plugin-key-fob/build.gradle" timestamp="1469798883664">
         <mark key="[" line="13" column="40" />
@@ -2036,6 +2037,12 @@
         <mark key="]" line="66" column="22" />
         <mark key="." line="66" column="22" />
         <mark key="^" line="66" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build.gradle" timestamp="1478096191312">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/DiagnosticViewProviderAAAAAA.java" timestamp="1461768120180">
         <mark key="[" line="16" column="0" />
@@ -2820,11 +2827,10 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/app/build.gradle" timestamp="1478095849525">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/app/build.gradle" timestamp="1478096091802">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/Jenkinsfile_shared" timestamp="1472593088027">
         <mark key="[" line="5" column="0" />
@@ -3125,7 +3131,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>core</text>
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13729,7 +13735,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -13741,7 +13747,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13759,19 +13765,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly89PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Ly89PT09PT09Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly89PT09PT09Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15059,13 +15065,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly89PT09PT09Ci8vICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnJlcXVlc3RMb2NhdGlvblBlcm1pc3Npb24oUkVRVUVTVF9MT0NBVElPTl9DT0RFX0xBVU5DSCk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgb25SZXF1ZXN0UGVybWlzc2lvbnNSZXN1bHRfc2hvdWxkX3N0YXJ0X2xvY2F0aW9uX3VwZGF0ZXNfaWZfcGVybWlzc2lvbl9pc19ncmFudGVkX2FuZF9yZXF1ZXN0X2NvZGVfaXNfYnV0dG9uKCkgewovLyAgICAgICAgc3ViamVjdC5vblJlcXVlc3RQZXJtaXNzaW9uc1Jlc3VsdChSRVFVRVNUX0xPQ0FUSU9OX0NPREVfQlVUVE9OLCBuZXcgU3RyaW5nW117ImFuZHJvaWQucGVybWlzc2lvbi5BQ0NFU1NfRklORV9MT0NBVElPTiJ9LCBuZXcgaW50W117UGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEfSk7Ci8vPj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly89PT09PT09Ci8vICAgICAgICB2ZXJpZnkobW9ja1ZpZXcpLnJlcXVlc3RMb2NhdGlvblBlcm1pc3Npb24oUkVRVUVTVF9MT0NBVElPTl9DT0RFX0xBVU5DSCk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgb25SZXF1ZXN0UGVybWlzc2lvbnNSZXN1bHRfc2hvdWxkX3N0YXJ0X2xvY2F0aW9uX3VwZGF0ZXNfaWZfcGVybWlzc2lvbl9pc19ncmFudGVkX2FuZF9yZXF1ZXN0X2NvZGVfaXNfYnV0dG9uKCkgewovLyAgICAgICAgc3ViamVjdC5vblJlcXVlc3RQZXJtaXNzaW9uc1Jlc3VsdChSRVFVRVNUX0xPQ0FUSU9OX0NPREVfQlVUVE9OLCBuZXcgU3RyaW5nW117ImFuZHJvaWQucGVybWlzc2lvbi5BQ0NFU1NfRklORV9MT0NBVElPTiJ9LCBuZXcgaW50W117UGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEfSk7Ci8vPj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQKLy8gICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IFJFUVVFU1RfRlJPTV9MQVVOQ0ggPSAwOwovLyAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUVTVF9GUk9NX0xPQ0FURV9NRV9CVVRUT04gPSAxOwovLyAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUVTVF9GUk9NX0xPQ0FURV9WRUhJQ0xFX0JVVFRPTiA9IDI7Ci8vPT09PT09PQovLwovLyAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUVTVF9MT0NBVElPTl9DT0RFX0xBVU5DSCA9IDA7Ci8vICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX0xPQ0FUSU9OX0NPREVfQlVUVE9OID0gMTsKLy8gICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IFJFUVVFU1RfQ09OVEFDVFNfQ09ERSA9IDI7Ci8vPj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
