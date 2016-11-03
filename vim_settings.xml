@@ -841,12 +841,12 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478139484608">
-        <mark key="'" line="21" column="22" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="36" column="51" />
-        <mark key="^" line="36" column="51" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478144951345">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="67" column="91" />
+        <mark key="]" line="67" column="96" />
+        <mark key="." line="67" column="96" />
+        <mark key="^" line="67" column="96" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -1016,10 +1016,11 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/CostFunc.scala" timestamp="1478139447321">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/CostFunc.scala" timestamp="1478140796014">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="105" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/client/handler/TimeClientHandler.java" timestamp="1464570142126">
         <mark key="[" line="14" column="0" />
@@ -1124,11 +1125,10 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1477866714965">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="77" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="38" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1478143322786">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -3444,8 +3444,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14049,19 +14049,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vVEVTVElORwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChwYWlycyB6aXAgd2VpZ2h0cykuZm9sZFJpZ2h0KGRjZGEpIHsgY2FzZSAoKChhSGlnaCwgYUxvdyksIHdNYXRyaXgpLCBhY2MpID0+CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14078,20 +14078,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Zm9sZFJpZ2h0CiAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHNob3VsZCB0aGlzIGJlIHVzaW5nIHZlY3RvcnM/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZW1wV2VpZ2h0czogTGlzdFtEZW5zZU1hdHJpeFtEb3VibGVdXSA9IAo=</text>
+        <text encoding="base64">YSgwIHVudGlsIChhLnJvd3MgLSAxKSwgOjopCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">dmFsIGEgPSBEZW5zZU1hdHJpeCgoMSwyLDMpLCg0LDUsNiksKDcsOCw5KSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15379,13 +15379,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">YSgwIHRvIChhLnJvd3MgLSAxKSwgOjopCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJhY3RpdmF0aW9uczogJGFjdGl2YXRpb25zIikK</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
