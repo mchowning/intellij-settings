@@ -841,11 +841,12 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478134318445">
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478139484608">
         <mark key="'" line="21" column="22" />
         <mark key="[" line="35" column="20" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="]" line="36" column="51" />
+        <mark key="." line="36" column="51" />
+        <mark key="^" line="36" column="51" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -1014,6 +1015,11 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/CostFunc.scala" timestamp="1478139447321">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/client/handler/TimeClientHandler.java" timestamp="1464570142126">
         <mark key="[" line="14" column="0" />
@@ -3439,7 +3445,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZW1wV2VpZ2h0czogTGlzdFtEZW5zZU1hdHJpeFtEb3VibGVdXSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14055,7 +14061,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZW1wV2VpZ2h0czogTGlzdFtEZW5zZU1hdHJpeFtEb3VibGVdXSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14073,19 +14079,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIHNob3VsZCB0aGlzIGJlIHVzaW5nIHZlY3RvcnM/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHZhbCB0ZW1wV2VpZ2h0czogTGlzdFtEZW5zZU1hdHJpeFtEb3VibGVdXSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15376,10 +15382,10 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIHJldHVybiBwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmhhc1ByZWZlcnJlZERlYWxlcigpCiAgICAgICAgICAgICAgICAmJiBwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmhhc0JhYygpCiAgICAgICAgICAgICAgICAmJiBwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmdldFByZWZlcnJlZERlYWxlcigpICE9IG51bGwKICAgICAgICAgICAgICAgICYmICFwcmVmZXJyZWREZWFsZXJEYXRhRmFjYWRlLmdldFByZWZlcnJlZERlYWxlcigpLmdldENvdW50cnlDb2RlKCkuaXNFbXB0eSgpOwo+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9kZXZlbG9wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
