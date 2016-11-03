@@ -224,6 +224,9 @@
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-accident-report/plugin-accident-report/src/main/java/com/gm/plugin/accident_report/ui/fullscreen/AccidentReportFragmentPresenter.java" timestamp="1478178550613">
+        <mark key="'" line="239" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/courses/algorithms1/week6/testcases/5" timestamp="1425324270997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="3" />
@@ -3069,11 +3072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
-      <jump line="397" column="54" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
-      <jump line="412" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
-      <jump line="29" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
-      <jump line="85" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="111" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="112" column="55" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="115" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
@@ -3169,6 +3167,11 @@
       <jump line="165" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/test/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockPresenterTest.java" />
       <jump line="167" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/test/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockPresenterTest.java" />
       <jump line="168" column="38" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/test/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockPresenterTest.java" />
+      <jump line="58" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-accident-report/plugin-accident-report/src/main/java/com/gm/plugin/accident_report/ui/fullscreen/AccidentReportFragmentPresenter.java" />
+      <jump line="229" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-accident-report/plugin-accident-report/src/main/java/com/gm/plugin/accident_report/ui/fullscreen/AccidentReportFragmentPresenter.java" />
+      <jump line="235" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-accident-report/plugin-accident-report/src/main/java/com/gm/plugin/accident_report/ui/fullscreen/AccidentReportFragmentPresenter.java" />
+      <jump line="237" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-accident-report/plugin-accident-report/src/main/java/com/gm/plugin/accident_report/ui/fullscreen/AccidentReportFragmentPresenter.java" />
+      <jump line="239" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-accident-report/plugin-accident-report/src/main/java/com/gm/plugin/accident_report/ui/fullscreen/AccidentReportFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13782,7 +13785,7 @@
         <text>when</text>
       </register>
       <register name="/" type="4">
-        <text>Joiner</text>
+        <text encoding="base64">XDxoYXNSZXF1ZXN0ZWRQaW5QYWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
@@ -15122,9 +15125,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Joiner</last-search>
+      <last-search encoding="base64">XDxoYXNSZXF1ZXN0ZWRQaW5QYWRcPg==</last-search>
       <last-offset />
-      <last-pattern>Joiner</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNSZXF1ZXN0ZWRQaW5QYWRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15132,7 +15135,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXRyeUJ1aWxkZXJcPg==</entry>
         <entry>showFooter</entry>
         <entry>updateView</entry>
         <entry>updatePlugin</entry>
@@ -15152,6 +15154,7 @@
         <entry>order</entry>
         <entry>call</entry>
         <entry>Joiner</entry>
+        <entry encoding="base64">XDxoYXNSZXF1ZXN0ZWRQaW5QYWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
