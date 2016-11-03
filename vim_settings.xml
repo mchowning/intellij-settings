@@ -22,6 +22,9 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1478199510830">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/fragment_pin.xml" timestamp="1471544246144">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -232,11 +235,12 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478196582973">
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="54" column="51" />
-        <mark key="." line="54" column="51" />
-        <mark key="^" line="54" column="51" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478200209064">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="92" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1477937404313">
         <mark key="[" line="277" column="0" />
@@ -793,6 +797,13 @@
         <mark key="]" line="10" column="2" />
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/README.md" timestamp="1478015467500">
+        <mark key="'" line="68" column="75" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/settings.gradle" timestamp="1473785958775">
         <mark key="[" line="1" column="32" />
@@ -2386,6 +2397,13 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1478025286280">
+        <mark key="'" line="272" column="15" />
+        <mark key="[" line="275" column="53" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="22" />
@@ -3366,8 +3384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="27" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
-      <jump line="397" column="54" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="412" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="29" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="85" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
@@ -3466,13 +3482,15 @@
       <jump line="165" column="42" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/test/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockPresenterTest.java" />
       <jump line="167" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/test/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockPresenterTest.java" />
       <jump line="168" column="38" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/test/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlockPresenterTest.java" />
+      <jump line="39" column="52" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" />
+      <jump line="18" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14076,10 +14094,10 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Joiner</text>
+        <text encoding="base64">XDxSRVRSWV9JTkRFWFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
@@ -14088,7 +14106,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14106,19 +14124,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzaG91bGRSZXRyeShUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURVNUSU5HOiBDaGVja2luZyBpZiBzaG91bGQgcmV0cnkgd2l0aCB0aHJvd2FibGU6ICIgKyB0aHJvd2FibGUpOwogICAgICAgIGlmICh0aHJvd2FibGUgaW5zdGFuY2VvZiBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIFNlcnZpY2VFcnJvclJlc3BvbnNlIHJlc3BvbnNlID0gKChSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB0aHJvd2FibGUpLmdldFJlc3BvbnNlKCk7CiAgICAgICAgICAgIEVycm9yVHlwZSBlcnJvclR5cGUgPSByZXNwb25zZS5lcnJvclR5cGU7CiAgICAgICAgICAgIGlmIChlcnJvclR5cGUgPT0gRXJyb3JUeXBlLnRva2VuUmVxdWlyZWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzaG91bGRSZXRyeShUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURVNUSU5HOiBDaGVja2luZyBpZiBzaG91bGQgcmV0cnkgd2l0aCB0aHJvd2FibGU6ICIgKyB0aHJvd2FibGUpOwogICAgICAgIGlmICh0aHJvd2FibGUgaW5zdGFuY2VvZiBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIFNlcnZpY2VFcnJvclJlc3BvbnNlIHJlc3BvbnNlID0gKChSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB0aHJvd2FibGUpLmdldFJlc3BvbnNlKCk7CiAgICAgICAgICAgIEVycm9yVHlwZSBlcnJvclR5cGUgPSByZXNwb25zZS5lcnJvclR5cGU7CiAgICAgICAgICAgIGlmIChlcnJvclR5cGUgPT0gRXJyb3JUeXBlLnRva2VuUmVxdWlyZWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15406,30 +15424,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLio7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
       </register>
     </registers>
     <search>
-      <last-search>Joiner</last-search>
+      <last-search encoding="base64">XDxSRVRSWV9JTkRFWFw+</last-search>
       <last-offset />
-      <last-pattern>Joiner</last-pattern>
+      <last-pattern encoding="base64">XDxSRVRSWV9JTkRFWFw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>locationmanager</entry>
         <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
         <entry>removeUpdates</entry>
         <entry>owner</entry>
@@ -15449,6 +15466,7 @@
         <entry encoding="base64">XDxudW1MYXllck5vZGVzXD4=</entry>
         <entry>equal</entry>
         <entry>asldfkj</entry>
+        <entry encoding="base64">XDxSRVRSWV9JTkRFWFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
