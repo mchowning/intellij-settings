@@ -862,12 +862,12 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478224885925">
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478226399878">
         <mark key="'" line="21" column="22" />
-        <mark key="[" line="52" column="62" />
-        <mark key="]" line="53" column="62" />
-        <mark key="." line="53" column="62" />
-        <mark key="^" line="53" column="62" />
+        <mark key="[" line="90" column="47" />
+        <mark key="]" line="91" column="52" />
+        <mark key="." line="91" column="52" />
+        <mark key="^" line="91" column="52" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -3490,7 +3490,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>modifiedWeights</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14094,19 +14094,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>modifiedWeights</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRVRSWV9JTkRFWFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB0dXBsZXM6IExpc3RbKERlbnNlTWF0cml4W0RvdWJsZV0sIERlbnNlVmVjdG9yW0RvdWJsZV0pXSA9IG1vZGlmaWVkV2VpZ2h0cy5yZXZlcnNlIHppcCBhY3RpdmF0aW9ucy5yZXZlcnNlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBvbmVzOiBEZW5zZU1hdHJpeFtEb3VibGVdID0gRGVuc2VNYXRyaXgub25lcygxLCB3ZWlnaHRzLmxhc3QuY29scykK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14124,13 +14124,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -15424,10 +15424,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzaG91bGRSZXRyeShUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURVNUSU5HOiBDaGVja2luZyBpZiBzaG91bGQgcmV0cnkgd2l0aCB0aHJvd2FibGU6ICIgKyB0aHJvd2FibGUpOwogICAgICAgIGlmICh0aHJvd2FibGUgaW5zdGFuY2VvZiBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIFNlcnZpY2VFcnJvclJlc3BvbnNlIHJlc3BvbnNlID0gKChSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB0aHJvd2FibGUpLmdldFJlc3BvbnNlKCk7CiAgICAgICAgICAgIEVycm9yVHlwZSBlcnJvclR5cGUgPSByZXNwb25zZS5lcnJvclR5cGU7CiAgICAgICAgICAgIGlmIChlcnJvclR5cGUgPT0gRXJyb3JUeXBlLnRva2VuUmVxdWlyZWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzaG91bGRSZXRyeShUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURVNUSU5HOiBDaGVja2luZyBpZiBzaG91bGQgcmV0cnkgd2l0aCB0aHJvd2FibGU6ICIgKyB0aHJvd2FibGUpOwogICAgICAgIGlmICh0aHJvd2FibGUgaW5zdGFuY2VvZiBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIFNlcnZpY2VFcnJvclJlc3BvbnNlIHJlc3BvbnNlID0gKChSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB0aHJvd2FibGUpLmdldFJlc3BvbnNlKCk7CiAgICAgICAgICAgIEVycm9yVHlwZSBlcnJvclR5cGUgPSByZXNwb25zZS5lcnJvclR5cGU7CiAgICAgICAgICAgIGlmIChlcnJvclR5cGUgPT0gRXJyb3JUeXBlLnRva2VuUmVxdWlyZWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGRlLmdyZWVucm9ib3QuZXZlbnQuRXZlbnRCdXM7Cg==</text>
