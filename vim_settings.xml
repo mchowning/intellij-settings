@@ -862,12 +862,12 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478149433075">
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478224885925">
         <mark key="'" line="21" column="22" />
-        <mark key="[" line="84" column="20" />
-        <mark key="]" line="85" column="47" />
-        <mark key="." line="85" column="47" />
-        <mark key="^" line="85" column="47" />
+        <mark key="[" line="52" column="62" />
+        <mark key="]" line="53" column="62" />
+        <mark key="." line="53" column="62" />
+        <mark key="^" line="53" column="62" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -3489,8 +3489,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcml2YXRlIGZpbmFsIGxvbmcgaW5pdGlhbFJlcXVlc3RTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>modifiedWeights</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14094,13 +14094,13 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>modifiedWeights</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRVRSWV9JTkRFWFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0dXBsZXM6IExpc3RbKERlbnNlTWF0cml4W0RvdWJsZV0sIERlbnNlVmVjdG9yW0RvdWJsZV0pXSA9IG1vZGlmaWVkV2VpZ2h0cy5yZXZlcnNlIHppcCBhY3RpdmF0aW9ucy5yZXZlcnNlCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
