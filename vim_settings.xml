@@ -862,12 +862,12 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478229746035">
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478284958755">
         <mark key="'" line="21" column="22" />
-        <mark key="[" line="3" column="64" />
-        <mark key="]" line="3" column="64" />
-        <mark key="^" line="3" column="64" />
-        <mark key="." line="3" column="64" />
+        <mark key="[" line="45" column="128" />
+        <mark key="]" line="45" column="105" />
+        <mark key="^" line="45" column="105" />
+        <mark key="." line="45" column="105" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -2313,6 +2313,7 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseMatrix.scala" timestamp="1478284684993" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" timestamp="1478272775544" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/res/layout/fragment_nav.xml" timestamp="1476975142675">
         <mark key="[" line="97" column="0" />
@@ -3491,7 +3492,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14095,7 +14096,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRVRSWV9JTkRFWFw+</text>
