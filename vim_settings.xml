@@ -919,6 +919,9 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/BluetoothConnectionTrayPresenter.java" timestamp="1478276861682">
+        <mark key="'" line="15" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-security/Jenkinsfile" timestamp="1475158328363">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
@@ -3082,9 +3085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="248" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="249" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="251" column="77" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
@@ -3182,6 +3182,9 @@
       <jump line="330" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="350" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="52" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="33" column="30" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/BluetoothConnectionTrayPresenter.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/BluetoothConnectionTrayPresenter.java" />
+      <jump line="15" column="7" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/ui/view/BluetoothConnectionTrayPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13795,7 +13798,7 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>asldjf</text>
+        <text>abstract</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
@@ -15135,9 +15138,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asldjf</last-search>
+      <last-search>abstract</last-search>
       <last-offset />
-      <last-pattern>asldjf</last-pattern>
+      <last-pattern>abstract</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15145,7 +15148,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updatePlugin</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0ZST01fTE9DQVRFX1ZFSElDTEVfQlVUVE9OXD4=</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0xPQ0FUSU9OX0ZST01fQlVUVE9OXD4=</entry>
         <entry>onMapCreated</entry>
@@ -15165,6 +15167,7 @@
         <entry>ble</entry>
         <entry encoding="base64">XDxoaWRlUHJvZ3Jlc3NEaWFsb2dcPg==</entry>
         <entry>asldjf</entry>
+        <entry>abstract</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
