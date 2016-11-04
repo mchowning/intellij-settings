@@ -2204,7 +2204,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1478260287259">
+      <file name="/a.regexp" timestamp="1478270957679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -2493,6 +2493,9 @@
         <mark key="]" line="39" column="81" />
         <mark key="." line="39" column="81" />
         <mark key="^" line="39" column="81" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" timestamp="1478271000968">
+        <mark key="'" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/ui/appinfo/unitselection/UnitOfMeasureSettingsEntitlement.java" timestamp="1472763545977">
         <mark key="[" line="20" column="100" />
@@ -3078,11 +3081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="141" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="204" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="43" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="62" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="101" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="74" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
@@ -3178,6 +3176,11 @@
       <jump line="53" column="22" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="145" column="56" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/GeminiApplication.java" />
       <jump line="175" column="8" filename="$MAVEN_REPOSITORY$/com/gm/gemini/sdk/gemini-app-shell/123.456.789/gemini-app-shell-123.456.789-sources.jar!/com/gm/gemini/GeminiApplication.java" />
+      <jump line="262" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="324" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="330" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="350" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="52" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -13791,7 +13794,7 @@
         <text>core</text>
       </register>
       <register name="/" type="4">
-        <text>ble</text>
+        <text>asldjf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
@@ -15131,9 +15134,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ble</last-search>
+      <last-search>asldjf</last-search>
       <last-offset />
-      <last-pattern>ble</last-pattern>
+      <last-pattern>asldjf</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15141,13 +15144,11 @@
     </search>
     <history>
       <history-search>
-        <entry>updateView</entry>
         <entry>updatePlugin</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0ZST01fTE9DQVRFX1ZFSElDTEVfQlVUVE9OXD4=</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0xPQ0FUSU9OX0ZST01fQlVUVE9OXD4=</entry>
         <entry>onMapCreated</entry>
         <entry encoding="base64">XDxzdGFydExvY2F0aW9uVXBkYXRlc0ZvclVzZXJMb2NhdGlvblw+</entry>
-        <entry>asldjf</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0xPQ0FUSU9OX0ZST01fTE9DQVRFX01FX0JVVFRPTlw+</entry>
         <entry encoding="base64">XDxvblJlcXVlc3RQZXJtaXNzaW9uc1Jlc3VsdEZyb21Mb2NhdGVWZWhpY2xlQnV0dG9uXD4=</entry>
         <entry>\/\/</entry>
@@ -15161,6 +15162,8 @@
         <entry>Joiner</entry>
         <entry encoding="base64">XDxoYXNSZXF1ZXN0ZWRQaW5QYWRcPg==</entry>
         <entry>ble</entry>
+        <entry encoding="base64">XDxoaWRlUHJvZ3Jlc3NEaWFsb2dcPg==</entry>
+        <entry>asldjf</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
