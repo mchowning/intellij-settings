@@ -676,12 +676,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" timestamp="1478355360204">
-        <mark key="'" line="29" column="45" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="33" column="86" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" timestamp="1478368639913">
+        <mark key="'" line="28" column="45" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1475159271572">
         <mark key="[" line="20" column="18" />
@@ -864,11 +864,11 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478365232728">
-        <mark key="[" line="100" column="5" />
-        <mark key="]" line="101" column="1" />
-        <mark key="." line="101" column="1" />
-        <mark key="^" line="101" column="1" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478368677909">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -1147,11 +1147,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1478313834573">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="10" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1478379454287">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="54" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="11" column="54" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -3491,7 +3491,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14095,19 +14095,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWR6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgd2l0aExheWVycyhudW1Ob2Rlc1BlckxheWVyOiBMaXN0W0ludF0sCiAgICAgICAgICAgICAgICB1c2VyV2VpZ2h0czogTGlzdFtEZW5zZU1hdHJpeFtEb3VibGVdXSA9IE5pbCwKICAgICAgICAgICAgICAgIGFjdGl2YXRpb25GdW5jOiBBY3RpdmF0aW9uRnVuYyA9IFNpZ21vaWQsCiAgICAgICAgICAgICAgICBjb3N0RnVuYzogQ29zdEZ1bmMgPSBSZXNpZHVhbFN1bU9mU3F1YXJlcywKICAgICAgICAgICAgICAgIGxlYXJuaW5nUmF0ZTogRG91YmxlID0gMC41KTogTmV1cmFsTmV0ID0gewogICAgbmV3IE5ldXJhbE5ldCgpCiAgfQo=</text>
+        <text encoding="base64">ICBkZWYgcmFuZG9tV2VpZ2h0cygpID0gewogICAgcHJpbnRsbigiSW5pdGlhbGl6aW5nIHdpdGggcmFuZG9tIHdlaWdodHMuLi4iKQogICAgLy8gTGlzdCBvZiB0dXBsZXMgd2hlcmUgZWFjaCB0dXBsZSByZXByZXNlbnRzICgjIGlucHV0IG5vZGVzLCAjIG91dHB1dCBub2RlcykgZnJvbSBvbmUgbGF5ZXIgdG8gdGhlIG5leHQKICAgIC8vIGFkZGluZyBvbmUgbm9kZSB0byBmaXJzdCBsYXllciB0byBnZXQgd2VpZ2h0cyBmb3IgYmlhcyBub2RlIChub3QgYWRkaW5nIHRvIGxheWVyMiBiZWNhdXNlIGJpYXMgbm9kZXMgdGFrZSBubyBpbnB1dCkKICAgIG51bU5vZGVzUGVyTGF5ZXIuemlwKG51bU5vZGVzUGVyTGF5ZXIudGFpbCkKICAgICAgLm1hcCB7IHQgPT4gRGVuc2VNYXRyaXgucmFuZCh0Ll8xICsgMSwgdC5fMik6IERlbnNlTWF0cml4W0RvdWJsZV0gfQogICAgICAvLyAubWFwIHsgdCA9PiBEZW5zZU1hdHJpeC5yYW5kKHQuXzEsIHQuXzIsIG5ldyBSYW5kQmFzaXMobmV3IFRocmVhZExvY2FsUmFuZG9tR2VuZXJhdG9yKG5ldyBNZXJzZW5uZVR3aXN0ZXIoMCkpKS51bmlmb3JtKSB9CiAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldmVyc2VkV2VpZ2h0cy5yZXZlcnNlCg==</text>
+        <text encoding="base64">dmFsIG1hdHJpeCA9IERlbnNlTWF0cml4KCgxLDIsMyksICgxMCwgMjAsIDMwKSwgKDEwMCwgMjAwLCAzMDApKQoKdmFsIGFzOiBEZW5zZVZlY3RvcltEb3VibGVdID0gRGVuc2VWZWN0b3IoMC43NTEzNjUwNywgMC43NzI5Mjg0NjUpCnZhbCB5czogRGVuc2VWZWN0b3JbRG91YmxlXSA9IERlbnNlVmVjdG9yKDAuMDEsIDAuOTkpCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14124,22 +14124,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly92YWwgbm5SZXN1bHQgPSBubi5mb3J3YXJkUHJvcGFnYXRlKExpc3QoMC4wNSwgMC4xMCkpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>DenseMatrix((0.35891647971788465, 0.5113701211079891),
-                                              (0.40891647971788464, 0.5613701211079891),
-                                              (0.5589164797178846, 0.611370121107989))</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly92YWwgbm5FcnJvciA9IG5uLnRvdGFsRXJyb3IoaW5wdXRzLCBleHBlY3RlZCkgLy8gMC4yOTgzNzExMDkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGV4cGVjdGVkOiBEZW5zZVZlY3RvcltEb3VibGVdID0gRGVuc2VWZWN0b3IoMC4wMSwgMC45OSkK</text>
+        <text encoding="base64">Ly8gVE9ETyBmaXggdGhpcyBjb25zdHJ1Y3RvciwgZG9uJ3QgbmVlZCBib3RoIG51bU5vZGVzUGVyTGF5ZXIgYW5kIHVzZXJXZWlnaHRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHZhbCB3ZWlnaHRzOiBMaXN0W0RlbnNlTWF0cml4W0RvdWJsZV1dID0gaWYgKHVzZXJXZWlnaHRzICE9IE5pbCkgdXNlcldlaWdodHMgZWxzZSByYW5kb21XZWlnaHRzKCkKLy8KLy8gIGRlZiByYW5kb21XZWlnaHRzKCkgPSB7Ci8vICAgIHByaW50bG4oIkluaXRpYWxpemluZyB3aXRoIHJhbmRvbSB3ZWlnaHRzLi4uIikKLy8gICAgLy8gTGlzdCBvZiB0dXBsZXMgd2hlcmUgZWFjaCB0dXBsZSByZXByZXNlbnRzICgjIGlucHV0IG5vZGVzLCAjIG91dHB1dCBub2RlcykgZnJvbSBvbmUgbGF5ZXIgdG8gdGhlIG5leHQKLy8gICAgLy8gYWRkaW5nIG9uZSBub2RlIHRvIGZpcnN0IGxheWVyIHRvIGdldCB3ZWlnaHRzIGZvciBiaWFzIG5vZGUgKG5vdCBhZGRpbmcgdG8gbGF5ZXIyIGJlY2F1c2UgYmlhcyBub2RlcyB0YWtlIG5vIGlucHV0KQovLyAgICBudW1Ob2Rlc1BlckxheWVyLnppcChudW1Ob2Rlc1BlckxheWVyLnRhaWwpCi8vICAgICAgLm1hcCB7IHQgPT4gRGVuc2VNYXRyaXgucmFuZCh0Ll8xICsgMSwgdC5fMik6IERlbnNlTWF0cml4W0RvdWJsZV0gfQovLyAgICAgIC8vIC5tYXAgeyB0ID0+IERlbnNlTWF0cml4LnJhbmQodC5fMSwgdC5fMiwgbmV3IFJhbmRCYXNpcyhuZXcgVGhyZWFkTG9jYWxSYW5kb21HZW5lcmF0b3IobmV3IE1lcnNlbm5lVHdpc3RlcigwKSkpLnVuaWZvcm0pIH0KLy8gIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnB1dHMgPSBMaXN0KDAuMCkK</text>
+        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZDogRGVuc2VWZWN0b3JbRG91YmxlXSA9IERlbnNlVmVjdG9yKDAuMDEsIDAuOTkpCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15426,14 +15424,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmV3V2UK</text>
+      <register name="7" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="8" type="4">
+        <text>numNodesPerLayer = List(2,2,2),
+                            userW</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="9" type="4">
+        <text>numNodesPerLayer = List(2,2,2),
+                       userW</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
