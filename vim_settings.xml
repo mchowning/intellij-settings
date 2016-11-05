@@ -676,10 +676,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" timestamp="1477869447157">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" timestamp="1478355360204">
+        <mark key="'" line="29" column="45" />
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="33" column="86" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/OmnibusPlugin.groovy" timestamp="1475159271572">
         <mark key="[" line="20" column="18" />
@@ -862,11 +864,11 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478345419307">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="75" column="3" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478355445784">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="12" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -2312,8 +2314,6 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseMatrix.scala" timestamp="1478284684993" />
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" timestamp="1478272775544" />
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/res/layout/fragment_nav.xml" timestamp="1476975142675">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="16" />
@@ -3385,8 +3385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
-      <jump line="85" column="31" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="111" column="21" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="112" column="55" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="115" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
@@ -3485,13 +3483,15 @@
       <jump line="39" column="52" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" />
       <jump line="18" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" />
       <jump line="40" column="8" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
+      <jump line="26" column="44" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" />
+      <jump line="28" column="45" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJhY3RpdmF0aW9uczogJGFjdGl2YXRpb25zIikK</text>
+        <text encoding="base64">ICAgIHJldmVyc2VkV2VpZ2h0cy5yZXZlcnNlCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14095,19 +14095,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWR6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cyAtIChkcyAqIGxlYXJuaW5nUmF0ZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBsZWFybmluZ1JhdGU6IERvdWJsZSA9IDAuNQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJhY3RpdmF0aW9uczogJGFjdGl2YXRpb25zIikK</text>
+        <text encoding="base64">ICAgIHJldmVyc2VkV2VpZ2h0cy5yZXZlcnNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14124,20 +14124,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCi8vICAgIHZhbCBkYWR6ID0gb3V0cHV0Lm1hcChhY3RpdmF0aW9uRnVuYy5kZXJpdmF0aXZlKQovLyAgICBwcmludGxuKHMiZGFkejogJGRhZHoiKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImRhZHo6ICRkYWR6IikK</text>
+      <register name="3" type="4">
+        <text>DenseMatrix((0.35891647971788465, 0.5113701211079891),
+                                              (0.40891647971788464, 0.5613701211079891),
+                                              (0.5589164797178846, 0.611370121107989))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImRlZGE6ICRkZWRhIikK</text>
+        <text encoding="base64">ICAgICAgdmFsIGV4cGVjdGVkOiBEZW5zZVZlY3RvcltEb3VibGVdID0gRGVuc2VWZWN0b3IoMC4wMSwgMC45OSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKHMidXBwZXJOb2RlRXJyb3I6ICR1cHBlck5vZGVFcnJvciIpCi8vICAgICAgICAgICAgcHJpbnRsbihzIndlaWdodE1hdHJpeDogJHdlaWdodE1hdHJpeCIpCi8vICAgICAgICAgICAgcHJpbnRsbihzImFjdGl2YXRpb25zQmVsb3c6ICRhY3RpdmF0aW9uc0JlbG93IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbnB1dHMgPSBMaXN0KDAuMCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15425,13 +15427,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3V2UK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAog</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIG5ld1dlaWdodHMgPSB3ZWlnaHRzIC0gKGRlZHcgOiogbGVhcm5pbmdSYXRlKQovLyAgICBwcmludGxuKHMibmV3V2VpZ2h0czogJG5ld1dlaWdodHMiKQo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
@@ -15444,7 +15446,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
