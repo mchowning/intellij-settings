@@ -864,11 +864,11 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478361335817">
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="24" column="8" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" timestamp="1478365232728">
+        <mark key="[" line="100" column="5" />
+        <mark key="]" line="101" column="1" />
+        <mark key="." line="101" column="1" />
+        <mark key="^" line="101" column="1" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.java" timestamp="1473519468439">
         <mark key="[" line="6" column="0" />
@@ -3490,8 +3490,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldmVyc2VkV2VpZ2h0cy5yZXZlcnNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14095,13 +14095,13 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWR6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBsZWFybmluZ1JhdGU6IERvdWJsZSA9IDAuNQo=</text>
+        <text encoding="base64">ICBkZWYgd2l0aExheWVycyhudW1Ob2Rlc1BlckxheWVyOiBMaXN0W0ludF0sCiAgICAgICAgICAgICAgICB1c2VyV2VpZ2h0czogTGlzdFtEZW5zZU1hdHJpeFtEb3VibGVdXSA9IE5pbCwKICAgICAgICAgICAgICAgIGFjdGl2YXRpb25GdW5jOiBBY3RpdmF0aW9uRnVuYyA9IFNpZ21vaWQsCiAgICAgICAgICAgICAgICBjb3N0RnVuYzogQ29zdEZ1bmMgPSBSZXNpZHVhbFN1bU9mU3F1YXJlcywKICAgICAgICAgICAgICAgIGxlYXJuaW5nUmF0ZTogRG91YmxlID0gMC41KTogTmV1cmFsTmV0ID0gewogICAgbmV3IE5ldXJhbE5ldCgpCiAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
