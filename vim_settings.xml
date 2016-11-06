@@ -744,11 +744,12 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" timestamp="1478401225980">
-        <mark key="[" line="86" column="2" />
-        <mark key="]" line="86" column="10" />
-        <mark key="^" line="86" column="10" />
-        <mark key="." line="86" column="10" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" timestamp="1478434143125">
+        <mark key="'" line="45" column="61" />
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+        <mark key="^" line="47" column="5" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/logon_full_screen.xml" timestamp="1471543458613">
         <mark key="'" line="68" column="48" />
@@ -1148,11 +1149,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1478381601411">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="58" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="3" column="55" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" timestamp="1478435334349">
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="67" />
+        <mark key="^" line="29" column="67" />
+        <mark key="." line="29" column="67" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/api/MoreInformationDeserializerTest.java" timestamp="1469017176028">
         <mark key="[" line="31" column="27" />
@@ -1390,7 +1391,7 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/NeuralNet.scala" timestamp="1478400265850">
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/NeuralNet.scala" timestamp="1478433156408">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1584,11 +1585,10 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478401200653">
-        <mark key="[" line="85" column="2" />
-        <mark key="]" line="85" column="10" />
-        <mark key="^" line="85" column="10" />
-        <mark key="." line="85" column="10" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478435642309">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/ServerUtil.java" timestamp="1464539642247">
         <mark key="[" line="2" column="4" />
@@ -3410,12 +3410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
-      <jump line="233" column="56" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/Matrix.scala" />
-      <jump line="73" column="12" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
-      <jump line="11" column="16" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
-      <jump line="24" column="22" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
-      <jump line="7" column="38" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" />
       <jump line="245" column="7" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseVector.scala" />
       <jump line="42" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
@@ -3510,13 +3504,19 @@
       <jump line="30" column="18" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
       <jump line="33" column="28" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/NeuralNet.scala" />
+      <jump line="86" column="27" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
+      <jump line="73" column="49" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
+      <jump line="70" column="4" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
+      <jump line="63" column="4" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
+      <jump line="44" column="45" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
+      <jump line="45" column="61" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14120,19 +14120,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>init</text>
       </register>
       <register name="/" type="4">
-        <text>asldjf</text>
+        <text encoding="base64">XDx3ZWlnaHRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ3aXRoIHdlaWdodHMgYmFzZWQgb24gaHR0cHM6Ly9tYXR0bWF6dXIuY29tLzIwMTUvMDMvMTcvYS1zdGVwLWJ5LXN0ZXAtYmFja3Byb3BhZ2F0aW9uLWV4YW1wbGUvIiAtIHsKICAgICAgdmFsIG5uID0gTXV0YWJsZU5ldXJhbE5ldC53aXRoV2VpZ2h0cyh3ZWlnaHRzID0gTGlzdChEZW5zZU1hdHJpeCgoMC4xNSwgMC4yNSksICgwLjIwLCAwLjMwKSwgKDAuMzUsIDAuMzUpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGVuc2VNYXRyaXgoKDAuNDAsIDAuNTApLCAoMC40NSwgMC41NSksICgwLjYsIDAuNikpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZhdGlvbkZ1bmMgPSBTaWdtb2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3N0RnVuYyA9IFJlc2lkdWFsU3VtT2ZTcXVhcmVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZWFybmluZ1JhdGUgPSAwLjUpCiAgICAgIHZhbCBpbnB1dHM6IExpc3RbRG91YmxlXSA9IExpc3QoMC4wNSwgMC4xMCkKICAgICAgdmFsIGV4cGVjdGVkT3V0cHV0OiBEZW5zZVZlY3RvcltEb3VibGVdID0gRGVuc2VWZWN0b3IoMC4wMSwgMC45OSkKCiAgICAgICJzaG91bGQgZm9yd2FyZCBwcm9wYWdhdGUiIGluIHsKICAgICAgICB2YWwgb3V0cHV0cyA9IG5uLmZvcndhcmRQcm9wYWdhdGUoaW5wdXRzKQogICAgICAgIG91dHB1dHMgc2hvdWxkRXF1YWwgRGVuc2VWZWN0b3IoMC43NTEzNjUwNjk1NTIzMTU3LCAwLjc3MjkyODQ2NTMyMTQ2MjUpCiAgICAgIH0KCiAgICAgICJzaG91bGQgY2FsY3VsYXRlIHRvdGFsIGVycm9yIiBpbiB7CiAgICAgICAgdmFsIGVycm9yID0gbm4udG90YWxFcnJvcihpbnB1dHMsIGV4cGVjdGVkT3V0cHV0KQogICAgICAgIGVycm9yIHNob3VsZEVxdWFsIDAuMjk4MzcxMTA4NzYwMDAyNwogICAgICB9CgogICAgICAic2hvdWxkIGJhY2twcm9wYWdhdGUgdGhlIHdlaWdodHMiIGluIHsKICAgICAgICB2YWwgbmV3V2VpZ2h0cyA9IG5uLnRyYWluKGlucHV0cywgZXhwZWN0ZWRPdXRwdXQpCiAgICAgICAgbmV3V2VpZ2h0cyBzaG91bGRFcXVhbCBMaXN0KERlbnNlTWF0cml4KCgwLjE0OTc4MDcxNjEzMjc2MjgsIDAuMjQ5NTAyMjg3MjY0NzM5MTQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDAuMTk5NzgwNzE2MTMyNzYyODMsIDAuMjk5NTAyMjg3MjY0NzM5MTUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDAuMzQ5NzgwNzE2MTMyNzYyOCwgMC4zNDk1MDIyODcyNjQ3MzkxNCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGVuc2VNYXRyaXgoKDAuMzU4OTE2NDc5NzE3ODg0NjUsIDAuNTExMzcwMTIxMTA3OTg5MSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoMC40MDg5MTY0Nzk3MTc4ODQ2NCwgMC41NjEzNzAxMjExMDc5ODkxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgwLjU1ODkxNjQ3OTcxNzg4NDYsIDAuNjExMzcwMTIxMTA3OTg5KSkpCiAgICAgIH0KCiAgICAgIC8vICAgICJzaG91bGQgaGF2ZSBlcnJvciB0aGF0IGdvZXMgZG93biIgaW4gewogICAgICAvLwogICAgICAvLyAgICB9CiAgICB9CgogICAgIndpdGggdmFsaWQgd2VpZ2h0cyBzaG91bGQgbm90IHRocm93IGFuIGV4Y2VwdGlvbiIgaW4gewogICAgICBub0V4Y2VwdGlvbiBzaG91bGQgYmUgdGhyb3duQnkgTXV0YWJsZU5ldXJhbE5ldC53aXRoV2VpZ2h0cyhMaXN0KERlbnNlTWF0cml4Lm9uZXMoMSwgMiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGVuc2VNYXRyaXgub25lcygzLCAzKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZW5zZU1hdHJpeC5vbmVzKDQsIDEpKSkKICAgIH0KCiAgICAid2l0aCBpbnZhbGlkIHdlaWdodHMgc2hvdWxkIHRocm93IGFuIGV4Y2VwdGlvbiIgaW4gewogICAgICBhbltFeGNlcHRpb25dIHNob3VsZCBiZSB0aHJvd25CeSBNdXRhYmxlTmV1cmFsTmV0LndpdGhXZWlnaHRzKExpc3QoRGVuc2VNYXRyaXgub25lcygxLCAyKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlbnNlTWF0cml4Lm9uZXMoMiwgMSkpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0uaW5pdCAvLyBkcm9wIHRoZSAnbGFzdCcgdGVybSB3aGljaCBvbmx5IHJlbGF0ZXMgdG8gdGhlIGNvc3QgZnVuY3Rpb24gbGV2ZWwK</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRSBkbyBJIG5lZWQgdG8gaW5jbHVkZSBkZWZhdWx0IHBhcmFtcyBoZXJlPwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14150,19 +14150,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICBwcml2YXRlIHZhbCBEZWZhdWx0QWN0aXZhdGlvbkZ1bmMgPSBTaWdtb2lkCi8vICBwcml2YXRlIHZhbCBEZWZhdWx0Q29zdEZ1bmMgPSBSZXNpZHVhbFN1bU9mU3F1YXJlcwovLyAgcHJpdmF0ZSB2YWwgRGVmYXVsdExlYXJuaW5nUmF0ZTogRG91YmxlID0gMC41Ci8vCi8vICBkZWYgd2l0aExheWVycyhudW1Ob2Rlc1BlckxheWVyOiAgTGlzdFtJbnRdLAovLyAgICAgICAgICAgICAgICAgYWN0aXZhdGlvbkZ1bmM6ICAgIEFjdGl2YXRpb25GdW5jICA9IERlZmF1bHRBY3RpdmF0aW9uRnVuYywKLy8gICAgICAgICAgICAgICAgIGNvc3RGdW5jOiAgICAgICAgICBDb3N0RnVuYyAgICAgICAgPSBEZWZhdWx0Q29zdEZ1bmMsCi8vICAgICAgICAgICAgICAgICBsZWFybmluZ1JhdGU6ICAgICAgRG91YmxlICAgICAgICAgID0gRGVmYXVsdExlYXJuaW5nUmF0ZSkgPSB7Ci8vCi8vICAgIHByaW50bG4oIkluaXRpYWxpemluZyB3aXRoIHJhbmRvbSB3ZWlnaHRzLi4uIikKLy8gICAgLy8gQWRkaW5nIDEgdG8gZWFjaCAnaW5wdXQnIGxheWVyIHRvIGdldCB3ZWlnaHRzIGZvciBiaWFzIG5vZGUgKG5vdCBhZGRpbmcgdG8gJ291dHB1dCcgbGF5ZXIgYmVjYXVzZQovLyAgICAvLyBiaWFzIG5vZGVzIHRha2Ugbm8gaW5wdXQpCi8vICAgIHZhbCByYW5kb21XZWlnaHRzID0gKG51bU5vZGVzUGVyTGF5ZXIgemlwIG51bU5vZGVzUGVyTGF5ZXIudGFpbCkgbWFwIHsKLy8gICAgICB0ID0+IERlbnNlTWF0cml4LnJhbmRbRG91YmxlXSh0Ll8xICsgMSwgdC5fMikKLy8gICAgICAvLyB0ID0+IERlbnNlTWF0cml4LnJhbmRbRG91YmxlXSh0Ll8xLCB0Ll8yLCBuZXcgUmFuZEJhc2lzKG5ldyBUaHJlYWRMb2NhbFJhbmRvbUdlbmVyYXRvcihuZXcgTWVyc2VubmVUd2lzdGVyKDApKSkudW5pZm9ybSkKLy8gICAgfQovLwovLyAgICB3aXRoV2VpZ2h0cyhyYW5kb21XZWlnaHRzLCBhY3RpdmF0aW9uRnVuYywgY29zdEZ1bmMsIGxlYXJuaW5nUmF0ZSkKLy8gIH0K</text>
+        <text encoding="base64">Ly8gICAgfS5yZXZlcnNlLnRhaWwgLy8gZHJvcCB0aGUgJ2xhc3QnIHRlcm0gd2hpY2ggb25seSByZWxhdGVzIHRvIHRoZSBjb3N0IGZ1bmN0aW9uIGxldmVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJub2RlRXJyb3JzOiAkbm9kZUVycm9ycyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50bG4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gbm8gZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15450,22 +15450,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIExpc3QoRGVuc2VNYXRyaXgoKDFkKSkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cmV2ZXJzZQogICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJub2RlRXJyb3JzOiAkbm9kZUVycm9ycyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
       </register>
     </registers>
     <search>
-      <last-search>asldjf</last-search>
+      <last-search encoding="base64">XDx3ZWlnaHRzXD4=</last-search>
       <last-offset />
-      <last-pattern>asldjf</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWlnaHRzXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15473,7 +15473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>poll</entry>
         <entry>regist</entry>
         <entry>asdlfj</entry>
         <entry>registerDe</entry>
@@ -15493,6 +15492,7 @@
         <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
         <entry>asldjf</entry>
+        <entry encoding="base64">XDx3ZWlnaHRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
