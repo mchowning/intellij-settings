@@ -349,6 +349,11 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/neuralnet/NeuralNet.scala" timestamp="1478393982690">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/README.md" timestamp="1473456931283">
         <mark key="[" line="62" column="80" />
         <mark key="]" line="63" column="0" />
@@ -1388,6 +1393,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/NeuralNet.scala" timestamp="1478394551111">
+        <mark key="[" line="85" column="38" />
+        <mark key="]" line="85" column="44" />
+        <mark key="." line="85" column="44" />
+        <mark key="^" line="85" column="44" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/scripts/plugin_app.gradle" timestamp="1473612444147">
         <mark key="[" line="0" column="0" />
@@ -2486,7 +2497,7 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1478393813098">
+      <file name="/fragment.java" timestamp="1478394487599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="65" />
@@ -3491,7 +3502,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Sigmoid</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14095,7 +14106,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Sigmoid</text>
       </register>
       <register name="/" type="4">
         <text>asldjf</text>
@@ -14107,7 +14118,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIExpc3Qgb2YgdHVwbGVzIHdoZXJlIGVhY2ggdHVwbGUgcmVwcmVzZW50cyAoIyBpbnB1dCBub2RlcywgIyBvdXRwdXQgbm9kZXMpIGZyb20gb25lIGxheWVyIHRvIHRoZSBuZXh0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXR0Y2hvd25pbmcue0FjdGl2YXRpb25GdW5jLCBDb3N0RnVuY30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14124,20 +14135,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5tYXRoMy5hbmFseXNpcy5mdW5jdGlvbi5TaWdtb2lkCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IEFjdGl2YXRpb25GdQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBEZWZhdWx0TGVhcm5pbmdSYXRlOiBEb3VibGUgPSAwLjUK</text>
+        <text encoding="base64">ICAgIC8vIExpc3Qgb2YgdHVwbGVzIHdoZXJlIGVhY2ggdHVwbGUgcmVwcmVzZW50cyAoIyBpbnB1dCBub2RlcywgIyBvdXRwdXQgbm9kZXMpIGZyb20gb25lIGxheWVyIHRvIHRoZSBuZXh0Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15425,13 +15436,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBEZWZhdWx0TGVhcm5pbmdSYXRlOiBEb3VibGUgPSAwLjUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAgKiBAcmV0dXJuIHRoZSBuZXcgd2VpZ2h0IHZhbHVlcyB0aGF0IHJlc3VsdCBmcm9tIHRoZSBiYWNrcHJvcGFnYXRpb24KICAgICAgKi8KICAgIGRlZiBiYWNrcHJvcGFnYXRlKGV4cGVjdGVkOiBEZW5zZVZlY3RvcltEb3VibGVdLAogICAgICAgICAgICAgICAgICAgICAgYWN0aXZhdGlvbnM6IExpc3RbRGVuc2VWZWN0b3JbRG91YmxlXV0pOiBMaXN0W0RlbnNlTWF0cml4W0RvdWJsZV1dID0gewogICAgICB2YWwgb3V0cHV0OiBEZW5zZVZlY3RvcltEb3VibGVdID0gYWN0aXZhdGlvbnMubGFzdAogICAgICB2YWwgZGNkYTogRGVuc2VWZWN0b3JbRG91YmxlXSA9IGNvc3RGdW5jLmRlcml2YXRpdmUoZXhwZWN0ZWQsIG91dHB1dCkKCiAgICAgIC8vIEFkZGluZyBtYXRyaXggb2YgaWRlbnRpdHlXZWlnaHRzIGZvciAid2VpZ2h0cyIgYmV0d2VlbiBmaW5hbCBub2RlKHMpIGFuZCBlcnJvciBjYWxjcwogICAgICB2YWwgbW9kaWZpZWRXZWlnaHRzOiBMaXN0W0RlbnNlTWF0cml4W0RvdWJsZV1dID0gd2VpZ2h0cyA6KyBEZW5zZU1hdHJpeC5leWVbRG91YmxlXSh3ZWlnaHRzLmxhc3QuY29scykKCiAgICAgIHZhbCB3ZWlnaHRBY3RpdmF0aW9uUGFpcnM6IExpc3RbKERlbnNlTWF0cml4W0RvdWJsZV0sIERlbnNlVmVjdG9yW0RvdWJsZV0pXSA9IG1vZGlmaWVkV2VpZ2h0cwogICAgICAgIC5yZXZlcnNlIHppcCBhY3RpdmF0aW9ucy5yZXZlcnNlCgogICAgICAvLyBUT0RPIHRyeSBzY2FuUmlnaHQgd2l0aG91dCByZXZlcnNpbmc/CiAgICAgIC8vIGRlcml2YXRpdmUgb2YgdG90YWwgZXJyb3Igd2l0aCByZXNwZWN0IHRvIHByZS1uZXVyb25hbCBhY3RpdmF0aW9uCiAgICAgIHZhbCBub2RlRXJyb3JzOiBMaXN0W0RlbnNlVmVjdG9yW0RvdWJsZV1dID0gd2VpZ2h0QWN0aXZhdGlvblBhaXJzLnNjYW5MZWZ0KGRjZGEpIHsKICAgICAgICBjYXNlICh1cHBlck5vZGVFcnJvcjogRGVuc2VWZWN0b3JbRG91YmxlXSwgKHdlaWdodE1hdHJpeCwgYWN0aXZhdGlvbnNCZWxvdykpID0+IHsKICAgICAgICAgIHsKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbCBkZWRhOiBEZW5zZVZlY3RvcltEb3VibGVdID0gd2VpZ2h0TWF0cml4ICogdXBwZXJOb2RlRXJyb3IKICAgICAgICAgICAgICB2YWwgZGFkejogRGVuc2VWZWN0b3JbRG91YmxlXSA9IGFjdGl2YXRpb25zQmVsb3cubWFwKGFjdGl2YXRpb25GdW5jLmRlcml2YXRpdmUpCiAgICAgICAgICAgICAgZGFkeiA6KiBkZWRhCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0udGFpbCAvLyBkcm9wIHRoZSBpbml0aWFsIChyZXZlcnNlZCkgdGVybSB3aGljaCBvbmx5IHJlbGF0ZXMgdG8gdGhlIGNvc3QgZnVuY3Rpb24gbGV2ZWwKCiAgICAgIHZhbCBkZWR3OiBMaXN0W0RlbnNlVmVjdG9yW0RvdWJsZV1dID0gbm9kZUVycm9ycy5pbml0IHppcCBhY3RpdmF0aW9ucy5pbml0LnJldmVyc2UgbWFwIHsgY2FzZSAoZXJyb3JzLCBhY3RzKSA9PgogICAgICAgIGVycm9ycyA6KiBhY3RzCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY3RpdmF0aW9uczogTGlzdFtEZW5zZVZlY3RvcltEb3VibGVdXSA9IGZvcndhcmRQcm9wQWN0aXZhdGlvbnMoaW5wdXRzKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
