@@ -1585,11 +1585,12 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478435699309">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="56" column="56" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478448637288">
+        <mark key="'" line="42" column="45" />
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/ServerUtil.java" timestamp="1464539642247">
         <mark key="[" line="2" column="4" />
@@ -3411,12 +3412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="7" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="42" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="141" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="204" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="43" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="62" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="101" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
@@ -3511,13 +3506,19 @@
       <jump line="63" column="4" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
       <jump line="44" column="45" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
       <jump line="45" column="61" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" />
+      <jump line="57" column="35" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
+      <jump line="27" column="8" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
+      <jump line="28" column="23" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
+      <jump line="41" column="8" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
+      <jump line="21" column="114" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
+      <jump line="42" column="45" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>acts</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14121,10 +14122,10 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>acts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWlnaHRzXD4=</text>
+        <text encoding="base64">XDxvdXRwdXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0uaW5pdCAvLyBkcm9wIHRoZSAnbGFzdCcgdGVybSB3aGljaCBvbmx5IHJlbGF0ZXMgdG8gdGhlIGNvc3QgZnVuY3Rpb24gbGV2ZWwK</text>
@@ -14133,7 +14134,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCg==</text>
+        <text encoding="base64">ICAgICAgdgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14151,19 +14152,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRFU1RJTkcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMicmVzdWx0OiAkcmVzdWx0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJub2RlRXJyb3JzOiAkbm9kZUVycm9ycyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMicmVzdWx0OiAkcmVzdWx0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJkZWR3MTogJGRlZHcxIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyBURVNUSU5HCgovLyAgICB2YWwgd2VpZ2h0QWN0aXZhdGlvblBhaXJzID0gbW9kaWZpZWRXZWlnaHRzLnJldmVyc2UgemlwIGFjdGl2YXRpb25zLnJldmVyc2UKLy8KLy8gICAgLy8gVE9ETyB0cnkgc2NhblJpZ2h0IHdpdGhvdXQgcmV2ZXJzaW5nPwovLyAgICAvLyBkZXJpdmF0aXZlIG9mIHRvdGFsIGVycm9yIHdpdGggcmVzcGVjdCB0byBwcmUtbmV1cm9uYWwgYWN0aXZhdGlvbgovLyAgICB2YWwgbm9kZUVycm9ycyA9IHdlaWdodEFjdGl2YXRpb25QYWlycy5zY2FuTGVmdChkY2RhKSB7Ci8vICAgICAgY2FzZSAodXBwZXJOb2RlRXJyb3IsICh3ZWlnaHRNYXRyaXgsIGFjdGl2YXRpb25zQmVsb3cpKSA9PgovLyAgICAgICAgdmFsIGRlZGEgPSB3ZWlnaHRNYXRyaXggKiB1cHBlck5vZGVFcnJvcgovLyAgICAgICAgdmFsIGRhZHogPSBhY3RpdmF0aW9uc0JlbG93Lm1hcChhY3RpdmF0aW9uRnVuYy5kZXJpdmF0aXZlKQovLyAgICAgICAgZGFkeiA6KiBkZWRhCi8vICAgIH0udGFpbCAvLyBkcm9wIHRoZSBpbml0aWFsIChyZXZlcnNlZCkgdGVybSB3aGljaCBvbmx5IHJlbGF0ZXMgdG8gdGhlIGNvc3QgZnVuY3Rpb24gbGV2ZWwKLy8KLy8gICAgdmFsIGRlZHcgPSBub2RlRXJyb3JzLmluaXQgemlwIGFjdGl2YXRpb25zLmluaXQucmV2ZXJzZSBtYXAgewovLyAgICAgIGNhc2UgKGVycm9ycywgYWN0cykgPT4gZXJyb3JzIDoqIGFjdHMKLy8gICAgfQovLyAgICBwcmludGxuKHMiZGVkdzogJGRlZHciKQovLwovLyAgICAod2VpZ2h0cy5yZXZlcnNlIHppcCBkZWR3KS5tYXAgeyBjYXNlICh3cywgZHMpID0+Ci8vICAgICAgd3MoKiwgOjopIC0gKGRzICogbGVhcm5pbmdSYXRlKQovLyAgICB9LnJldmVyc2UK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15451,22 +15452,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgfS5yZXZlcnNlLnRhaWwgLy8gZHJvcCB0aGUgJ2xhc3QnIHRlcm0gd2hpY2ggb25seSByZWxhdGVzIHRvIHRoZSBjb3N0IGZ1bmN0aW9uIGxldmVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRFU1RJTkcK</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWlnaHRzXD4=</last-search>
+      <last-search encoding="base64">XDxvdXRwdXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWlnaHRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvdXRwdXRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15474,7 +15475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>regist</entry>
         <entry>asdlfj</entry>
         <entry>registerDe</entry>
         <entry>asldkjf</entry>
@@ -15490,10 +15490,11 @@
         <entry>asldfkj</entry>
         <entry encoding="base64">XDxSRVRSWV9JTkRFWFw+</entry>
         <entry encoding="base64">XDxkYWR6XD4=</entry>
-        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
         <entry>asldjf</entry>
         <entry encoding="base64">XDx3ZWlnaHRzXD4=</entry>
+        <entry encoding="base64">XDxhY3RpdmF0aW9uc1w+</entry>
+        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
