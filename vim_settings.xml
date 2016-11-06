@@ -1585,10 +1585,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478435642309">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478435699309">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="56" column="56" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/ServerUtil.java" timestamp="1464539642247">
         <mark key="[" line="2" column="4" />
@@ -3516,7 +3517,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14120,7 +14121,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>init</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWlnaHRzXD4=</text>
@@ -14132,7 +14133,7 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14150,19 +14151,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgfS5yZXZlcnNlLnRhaWwgLy8gZHJvcCB0aGUgJ2xhc3QnIHRlcm0gd2hpY2ggb25seSByZWxhdGVzIHRvIHRoZSBjb3N0IGZ1bmN0aW9uIGxldmVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRFU1RJTkcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50bG4ocyJub2RlRXJyb3JzOiAkbm9kZUVycm9ycyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4K</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJkZWR3MTogJGRlZHcxIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvLyBURVNUSU5HCgovLyAgICB2YWwgd2VpZ2h0QWN0aXZhdGlvblBhaXJzID0gbW9kaWZpZWRXZWlnaHRzLnJldmVyc2UgemlwIGFjdGl2YXRpb25zLnJldmVyc2UKLy8KLy8gICAgLy8gVE9ETyB0cnkgc2NhblJpZ2h0IHdpdGhvdXQgcmV2ZXJzaW5nPwovLyAgICAvLyBkZXJpdmF0aXZlIG9mIHRvdGFsIGVycm9yIHdpdGggcmVzcGVjdCB0byBwcmUtbmV1cm9uYWwgYWN0aXZhdGlvbgovLyAgICB2YWwgbm9kZUVycm9ycyA9IHdlaWdodEFjdGl2YXRpb25QYWlycy5zY2FuTGVmdChkY2RhKSB7Ci8vICAgICAgY2FzZSAodXBwZXJOb2RlRXJyb3IsICh3ZWlnaHRNYXRyaXgsIGFjdGl2YXRpb25zQmVsb3cpKSA9PgovLyAgICAgICAgdmFsIGRlZGEgPSB3ZWlnaHRNYXRyaXggKiB1cHBlck5vZGVFcnJvcgovLyAgICAgICAgdmFsIGRhZHogPSBhY3RpdmF0aW9uc0JlbG93Lm1hcChhY3RpdmF0aW9uRnVuYy5kZXJpdmF0aXZlKQovLyAgICAgICAgZGFkeiA6KiBkZWRhCi8vICAgIH0udGFpbCAvLyBkcm9wIHRoZSBpbml0aWFsIChyZXZlcnNlZCkgdGVybSB3aGljaCBvbmx5IHJlbGF0ZXMgdG8gdGhlIGNvc3QgZnVuY3Rpb24gbGV2ZWwKLy8KLy8gICAgdmFsIGRlZHcgPSBub2RlRXJyb3JzLmluaXQgemlwIGFjdGl2YXRpb25zLmluaXQucmV2ZXJzZSBtYXAgewovLyAgICAgIGNhc2UgKGVycm9ycywgYWN0cykgPT4gZXJyb3JzIDoqIGFjdHMKLy8gICAgfQovLyAgICBwcmludGxuKHMiZGVkdzogJGRlZHciKQovLwovLyAgICAod2VpZ2h0cy5yZXZlcnNlIHppcCBkZWR3KS5tYXAgeyBjYXNlICh3cywgZHMpID0+Ci8vICAgICAgd3MoKiwgOjopIC0gKGRzICogbGVhcm5pbmdSYXRlKQovLyAgICB9LnJldmVyc2UK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15450,13 +15451,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3QoRGVuc2VNYXRyaXgoKDFkKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmV2ZXJzZQogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgfS5yZXZlcnNlLnRhaWwgLy8gZHJvcCB0aGUgJ2xhc3QnIHRlcm0gd2hpY2ggb25seSByZWxhdGVzIHRvIHRoZSBjb3N0IGZ1bmN0aW9uIGxldmVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJub2RlRXJyb3JzOiAkbm9kZUVycm9ycyIpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
