@@ -235,13 +235,7 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478283820460">
-        <mark key="'" line="18" column="23" />
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="53" />
-        <mark key="." line="47" column="53" />
-        <mark key="^" line="47" column="53" />
-      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478543142123" />
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1477937404313">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="277" column="0" />
@@ -2427,8 +2421,8 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1478274381142">
-        <mark key="'" line="272" column="15" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1478542743522">
+        <mark key="'" line="83" column="27" />
         <mark key="[" line="275" column="53" />
         <mark key="]" line="56" column="27" />
         <mark key="." line="56" column="27" />
@@ -3423,7 +3417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="249" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="251" column="77" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="285" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
@@ -3523,6 +3516,7 @@
       <jump line="21" column="114" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
       <jump line="59" column="30" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
       <jump line="43" column="10" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
+      <jump line="83" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14136,7 +14130,7 @@
         <text>weights</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkY2RhXD4=</text>
+        <text encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">b2JqZWN0IEluaXRpYWxOZXVyYWxOZXQgZXh0ZW5kcyBOZXVyYWxOZXRGYWN0b3J5IHsKCiAgb3ZlcnJpZGUgZGVmIHdpdGhXZWlnaHRzKHdlaWdodHM6ICAgICAgICBMaXN0W0RlbnNlTWF0cml4W0RvdWJsZV1dLAogICAgICAgICAgICAgICAgICBhY3RpdmF0aW9uRnVuYzogQWN0aXZhdGlvbkZ1bmMgID0gRGVmYXVsdEFjdGl2YXRpb25GdW5jLAogICAgICAgICAgICAgICAgICBjb3N0RnVuYzogICAgICAgQ29zdEZ1bmMgICAgICAgID0gRGVmYXVsdENvc3RGdW5jLAogICAgICAgICAgICAgICAgICBsZWFybmluZ1JhdGU6ICAgRG91YmxlICAgICAgICAgID0gRGVmYXVsdExlYXJuaW5nUmF0ZSkgPSB7CiAgICBuZXcgSW5pdGlhbE5ldXJhbE5ldCh3ZWlnaHRzLCBhY3RpdmF0aW9uRnVuYywgY29zdEZ1bmMsIGxlYXJuaW5nUmF0ZSkKICB9Cg==</text>
@@ -15476,9 +15470,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkY2RhXD4=</last-search>
+      <last-search encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkY2RhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15486,7 +15480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asldkjf</entry>
         <entry>push</entry>
         <entry>core</entry>
         <entry>asdflj</entry>
@@ -15506,6 +15499,7 @@
         <entry encoding="base64">XDxtb2RpZmllZFdlaWdodHNcPg==</entry>
         <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDxkY2RhXD4=</entry>
+        <entry encoding="base64">XDxnbG9iYWxOZXR3b3JrRXJyb3JIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
