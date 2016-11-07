@@ -744,12 +744,12 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" timestamp="1478434143125">
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/MutableNeuralNet.scala" timestamp="1478479384946">
         <mark key="'" line="45" column="61" />
-        <mark key="[" line="47" column="47" />
-        <mark key="]" line="47" column="47" />
-        <mark key="." line="47" column="47" />
-        <mark key="^" line="47" column="5" />
+        <mark key="[" line="78" column="2" />
+        <mark key="]" line="78" column="10" />
+        <mark key="." line="78" column="10" />
+        <mark key="^" line="78" column="10" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/layout/logon_full_screen.xml" timestamp="1471543458613">
         <mark key="'" line="68" column="48" />
@@ -1572,6 +1572,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="41" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/ListyNeuralNet.scala" timestamp="1478479452837">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/main/java/com/gm/plugin/wifi/PluginWifi.java" timestamp="1464207821259">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -1585,10 +1591,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478450437114">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" timestamp="1478479362332">
+        <mark key="[" line="79" column="2" />
+        <mark key="]" line="79" column="10" />
+        <mark key="." line="79" column="10" />
+        <mark key="^" line="79" column="10" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/ServerUtil.java" timestamp="1464539642247">
         <mark key="[" line="2" column="4" />
@@ -2222,6 +2229,12 @@
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="72" />
         <mark key="^" line="9" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/WeightMatrix.scala" timestamp="1478479048831">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1462551669525">
         <mark key="[" line="5" column="69" />
@@ -3515,8 +3528,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>with</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14120,7 +14133,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>with</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkY2RhXD4=</text>
