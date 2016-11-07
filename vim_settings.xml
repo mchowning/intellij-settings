@@ -1784,8 +1784,8 @@
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1478524316766">
-        <mark key="'" line="39" column="20" />
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1478525588093">
+        <mark key="'" line="116" column="13" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474465203147">
         <mark key="'" line="85" column="4" />
@@ -3483,12 +3483,12 @@
       <jump line="18" column="23" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" />
       <jump line="40" column="8" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
       <jump line="93" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
-      <jump line="97" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
-      <jump line="116" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="95" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="91" column="12" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="96" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="39" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="97" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="116" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14102,7 +14102,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</text>
+        <text encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cyAtIChkcyAqIGxlYXJuaW5nUmF0ZSkK</text>
@@ -15442,9 +15442,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15470,8 +15470,8 @@
         <entry>asldfkj</entry>
         <entry encoding="base64">XDxSRVRSWV9JTkRFWFw+</entry>
         <entry encoding="base64">XDxkYWR6XD4=</entry>
-        <entry encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</entry>
         <entry encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</entry>
+        <entry encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
