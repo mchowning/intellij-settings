@@ -2216,12 +2216,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1478631819195">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1478640028816">
         <mark key="'" line="56" column="20" />
-        <mark key="[" line="104" column="55" />
-        <mark key="]" line="104" column="55" />
-        <mark key="." line="104" column="55" />
-        <mark key="^" line="104" column="55" />
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="105" column="38" />
+        <mark key="." line="105" column="38" />
+        <mark key="^" line="105" column="38" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/settings.gradle" timestamp="1457403790723">
         <mark key="[" line="2" column="24" />
@@ -3227,7 +3227,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>new RetryHandler(false)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13831,13 +13831,13 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>new RetryHandler(false)</text>
       </register>
       <register name="/" type="4">
         <text>retry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNob3VsZFJldHJ5KHRocm93YWJsZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4obmV3IFJldHJ5SGFuZGxlcih0cnVlKSwgc2VydmljZVByb3ZpZGVyLmdldFJldHJ5U2NoZWR1bGVyKCkpCiAgICAgICAgICAgICAgICAucmV0cnlXaGVuKG5ldyBSZXRyeUhhbmRsZXIodHJ1ZSksIHNlcnZpY2VQcm92aWRlci5nZXRSZXRyeVNjaGVkdWxlcigpKQogICAgICAgICAgICAgICAgLnJldHJ5V2hlbihuZXcgUmV0cnlIYW5kbGVyKGZhbHNlKSwgc2VydmljZVByb3ZpZGVyLmdldFJldHJ5U2NoZWR1bGVyKCkpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
