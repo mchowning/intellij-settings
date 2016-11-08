@@ -221,11 +221,11 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478641417486">
-        <mark key="[" line="48" column="84" />
-        <mark key="]" line="48" column="91" />
-        <mark key="^" line="48" column="91" />
-        <mark key="." line="48" column="91" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478642272602">
+        <mark key="[" line="71" column="93" />
+        <mark key="]" line="71" column="108" />
+        <mark key="." line="71" column="108" />
+        <mark key="^" line="71" column="108" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1477937404313">
         <mark key="[" line="277" column="0" />
@@ -3227,7 +3227,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>numCalls</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13831,19 +13831,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>numCalls</text>
       </register>
       <register name="/" type="4">
         <text>retry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4obmV3IFJldHJ5SGFuZGxlcih0cnVlKSwgc2VydmljZVByb3ZpZGVyLmdldFJldHJ5U2NoZWR1bGVyKCkpCiAgICAgICAgICAgICAgICAucmV0cnlXaGVuKG5ldyBSZXRyeUhhbmRsZXIodHJ1ZSksIHNlcnZpY2VQcm92aWRlci5nZXRSZXRyeVNjaGVkdWxlcigpKQogICAgICAgICAgICAgICAgLnJldHJ5V2hlbihuZXcgUmV0cnlIYW5kbGVyKGZhbHNlKSwgc2VydmljZVByb3ZpZGVyLmdldFJldHJ5U2NoZWR1bGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURVNUSU5HIG51bSBjYWxscyBmb3IgIiArIG5hbWUgKyAiOiAiICsgbnVtQ2FsbHMpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRFU1RJTkcgdGhyb3dhYmxlOiAiICsgdGhyb3dhYmxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13861,19 +13861,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9ic2VydmFibGUucmFuZ2UoLTUwLDIpOyAvLyAtNTAsIC00OQogICAgICAgICAgICAgICAgICAgICAgICAgICAgT2JzZXJ2YWJsZS5yYW5nZSgwLDEpOyAvLyAwCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRFU1RJTkcgdGhyb3dhYmxlOiAiICsgdGhyb3dhYmxlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIExpc3QuZnJvbUFycmF5KHYudG9BcnJheSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYoKikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9ic2VydmFibGUucmFuZ2UoLTUwLDIpOyAvLyAtNTAsIC00OQogICAgICAgICAgICAgICAgICAgICAgICAgICAgT2JzZXJ2YWJsZS5yYW5nZSgwLDEpOyAvLyAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIExpc3QuZnJvbUFycmF5KHYudG9BcnJheSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15161,13 +15161,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHYoKikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB3cygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdwo=</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
