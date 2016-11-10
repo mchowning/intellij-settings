@@ -1387,6 +1387,9 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" timestamp="1478793948385">
+        <mark key="'" line="97" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning/client/FileReadWriteClientCLI.scala" timestamp="1466473517587">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -2432,7 +2435,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1478618100287">
+      <file name="/a.regexp" timestamp="1478793977688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3389,15 +3392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" />
-      <jump line="282" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
-      <jump line="233" column="56" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/Matrix.scala" />
-      <jump line="73" column="12" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
-      <jump line="11" column="16" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
-      <jump line="24" column="22" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
-      <jump line="7" column="38" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" />
       <jump line="245" column="7" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseVector.scala" />
       <jump line="42" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
       <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
@@ -3489,6 +3483,15 @@
       <jump line="39" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="97" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="116" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="34" column="28" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="40" column="57" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="43" column="37" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="44" column="36" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="45" column="15" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="46" column="48" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="47" column="52" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="95" column="29" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="97" column="39" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14102,7 +14105,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cyAtIChkcyAqIGxlYXJuaW5nUmF0ZSkK</text>
@@ -15442,17 +15445,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>can't convert to dimension</entry>
         <entry>poll</entry>
         <entry>regist</entry>
         <entry>asdlfj</entry>
@@ -15472,6 +15474,7 @@
         <entry encoding="base64">XDxkYWR6XD4=</entry>
         <entry encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</entry>
         <entry encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
