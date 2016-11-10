@@ -232,10 +232,6 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478797223404">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="90" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1477937404313">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="277" column="0" />
@@ -334,6 +330,9 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/card/PreferredDealerQuickViewPresenter.java" timestamp="1478102363401">
+        <mark key="'" line="40" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/res/values/strings.xml" timestamp="1471538434645">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="89" />
@@ -413,6 +412,9 @@
         <mark key="]" line="18" column="22" />
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerFragment.java" timestamp="1478122345186">
+        <mark key="'" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/ad-mygm-sdk/remote-sdk/src/main/java/com/gm/onstar/sdk/response/BaseResponse.java" timestamp="1464279060830">
         <mark key="[" line="18" column="52" />
@@ -1183,11 +1185,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" timestamp="1478817359154">
-        <mark key="'" line="295" column="15" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
-        <mark key="." line="317" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" timestamp="1478818400471">
+        <mark key="'" line="299" column="15" />
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="33" />
+        <mark key="." line="63" column="33" />
+        <mark key="^" line="63" column="33" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/calls/GetOAuthCall.java" timestamp="1466733134044">
         <mark key="[" line="15" column="56" />
@@ -1220,10 +1223,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidDevicePage.java" timestamp="1478817143452">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidDevicePage.java" timestamp="1478818076724">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/servers/src/main/java/handler/EchoServerHandler.java" timestamp="1464539271303">
         <mark key="[" line="2" column="31" />
@@ -1448,6 +1452,12 @@
         <mark key="]" line="67" column="0" />
         <mark key="^" line="79" column="66" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/EndToEndTC.java" timestamp="1478818510891">
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/courses/algorithms1/mergeSort.hs" timestamp="1422304349845">
         <mark key="[" line="9" column="0" />
@@ -1782,10 +1792,13 @@
         <mark key="." line="103" column="46" />
         <mark key="^" line="103" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/DashboardTC.java" timestamp="1478817173690">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/DashboardTC.java" timestamp="1478818305283">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" timestamp="1478525588093">
+        <mark key="'" line="116" column="13" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/shellScripts/crashlytics" timestamp="1474465203147">
         <mark key="'" line="85" column="4" />
@@ -1841,6 +1854,9 @@
         <mark key="]" line="36" column="77" />
         <mark key="." line="36" column="77" />
         <mark key="^" line="36" column="77" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/fullscreen/PreferredDealerInfoBlock.java" timestamp="1478122382615">
+        <mark key="'" line="35" column="45" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/file_read_write/server/model/OAuthTokenMap.scala" timestamp="1466592041078">
         <mark key="[" line="2" column="21" />
@@ -2338,6 +2354,9 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/util/TestRunner.java" timestamp="1478818701099">
+        <mark key="'" line="220" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.groovy" timestamp="1473519505371">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="7" column="14" />
@@ -2356,11 +2375,11 @@
         <mark key="^" line="97" column="15" />
         <mark key="." line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/LoginPage.java" timestamp="1478815384836">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="66" />
-        <mark key="^" line="12" column="66" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/LoginPage.java" timestamp="1478818135653">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/dev/courses/coursera_functional_programming_in_scala/patmat/src/main/scala/worksheet.sc" timestamp="1466265957051">
         <mark key="[" line="24" column="29" />
@@ -2641,11 +2660,11 @@
         <mark key="^" line="64" column="69" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/AndroidDevicePageInterface.java" timestamp="1478815129992">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="72" />
-        <mark key="^" line="4" column="72" />
-        <mark key="." line="4" column="72" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/AndroidDevicePageInterface.java" timestamp="1478818060079">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/jenkins-job-builder/jenkinsfiles/base_jenkinsfile.groovy" timestamp="1477429663804">
         <mark key="'" line="19" column="74" />
@@ -2920,6 +2939,9 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/jars/classes.jar!/com/gm/gemini/service/web/gmoc/GetOwnerCenterVehiclesHelper_Factory.class" timestamp="1478095350831">
+        <mark key="'" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/rxjavasample/src/main/java/TestClass.java" timestamp="1467143059658">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="53" />
@@ -2968,6 +2990,9 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseVector.scala" timestamp="1477869035740">
+        <mark key="'" line="245" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/flask-mega-tutorial/db_downgrade.py" timestamp="1409685434687">
         <mark key="[" line="6" column="70" />
         <mark key="]" line="7" column="103" />
@@ -3003,6 +3028,9 @@
         <mark key="]" line="10" column="59" />
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/Matrix.scala" timestamp="1477691507478">
+        <mark key="'" line="233" column="56" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/ios/AccountPage.java" timestamp="1478813212179">
         <mark key="[" line="33" column="8" />
@@ -3095,12 +3123,12 @@
         <mark key="^" line="118" column="84" />
         <mark key="." line="118" column="84" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/BasePageInterface.java" timestamp="1478817311556">
-        <mark key="'" line="15" column="9" />
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/BasePageInterface.java" timestamp="1478818394130">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini/app/build.gradle" timestamp="1478101673189">
         <mark key="'" line="144" column="15" />
@@ -3211,11 +3239,11 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/LegalTermTC.java" timestamp="1478813387595">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="43" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/LegalTermTC.java" timestamp="1478818235870">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="34" column="59" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/app/build.gradle" timestamp="1478096091802">
         <mark key="[" line="6" column="0" />
@@ -3409,6 +3437,11 @@
         <mark key="." line="33" column="51" />
         <mark key="^" line="33" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/UpgradeTC.java" timestamp="1478818275032">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-legal/src/main/res/values/colors.xml" timestamp="1466769064469">
         <mark key="[" line="2" column="53" />
         <mark key="]" line="2" column="71" />
@@ -3452,11 +3485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="101" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
-      <jump line="248" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="249" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="251" column="77" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="285" column="26" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
@@ -3552,13 +3580,18 @@
       <jump line="15" column="9" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/BasePageInterface.java" />
       <jump line="310" column="12" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
       <jump line="294" column="15" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
+      <jump line="11" column="6" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/BasePageInterface.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/util/TestRunner.java" />
+      <jump line="216" column="12" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/util/TestRunner.java" />
+      <jump line="219" column="12" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/util/TestRunner.java" />
+      <jump line="220" column="54" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/util/TestRunner.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getOnLoginPage()</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14162,10 +14195,10 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>getOnLoginPage()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YWl0RWxlbWVudFw+</text>
+        <text encoding="base64">XDxhbmREcml2ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW1wbGVtZW50cyBGdW5jMTxPYnNlcnZhYmxlPD8gZXh0ZW5kcyBUaHJvd2FibGU+LCBPYnNlcnZhYmxlPD8+PiA=</text>
@@ -14173,8 +14206,9 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>;
+        getOnBasePage()</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14192,7 +14226,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -14204,7 +14238,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15492,22 +15526,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YWl0RWxlbWVudFw+</last-search>
+      <last-search encoding="base64">XDxhbmREcml2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YWl0RWxlbWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhbmREcml2ZXJcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15515,8 +15549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gradle_plugin</entry>
-        <entry encoding="base64">XDxnZXRWYWxpZFJlc3RTZXJ2aWNlXD4=</entry>
         <entry>withBasis</entry>
         <entry>uniform</entry>
         <entry encoding="base64">XDxudW1MYXllck5vZGVzXD4=</entry>
@@ -15535,6 +15567,8 @@
         <entry>setPin</entry>
         <entry>scroll</entry>
         <entry encoding="base64">XDx3YWl0RWxlbWVudFw+</entry>
+        <entry>install</entry>
+        <entry encoding="base64">XDxhbmREcml2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
