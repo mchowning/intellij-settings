@@ -1478,11 +1478,11 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/VehicleStatusTC.java" timestamp="1478819545534">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="42" column="118" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/VehicleStatusTC.java" timestamp="1478819579014">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/gradle/wrapper/gradle-wrapper.properties" timestamp="1462469079181">
         <mark key="[" line="5" column="69" />
@@ -2845,11 +2845,11 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/WiFiHotspot.java" timestamp="1478819393685">
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="54" column="8" />
-        <mark key="." line="54" column="8" />
-        <mark key="^" line="54" column="8" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/WiFiHotspot.java" timestamp="1478819626372">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-ble/plugin-ble/build.gradle" timestamp="1475893420483">
         <mark key="[" line="13" column="12" />
@@ -3534,7 +3534,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14138,7 +14138,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmREcml2ZXJcPg==</text>
@@ -14149,11 +14149,8 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="8">
-        <text>getOnBasePage()
-getOnBasePage()
-getOnBasePage()
-getOnBasePage()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gKioqKioqKiBUZXN0IENhc2VzICoqKioqKioqKiogLy8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -14170,10 +14167,8 @@ getOnBasePage()</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>getOnBasePage()
-getOnBasePage()
-getOnBasePage()</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -14181,12 +14176,16 @@ getOnBasePage()</text>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>getOnBasePage()
+getOnBasePage()
+getOnBasePage()
+getOnBasePage()</text>
       </register>
-      <register name="6" type="4">
-        <text>;
-        getOnBasePage()</text>
+      <register name="6" type="8">
+        <text>getOnBasePage()
+getOnBasePage()
+getOnBasePage()</text>
       </register>
       <register name="w" type="4">
         <keys>
