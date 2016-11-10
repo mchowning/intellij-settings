@@ -1887,6 +1887,12 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/response/ErrorType.java" timestamp="1478796624412">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij/src/Main.hs" timestamp="1418958346104">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="25" />
@@ -2099,6 +2105,13 @@
         <mark key="]" line="7" column="14" />
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" timestamp="1478796603428">
+        <mark key="'" line="208" column="40" />
+        <mark key="[" line="230" column="52" />
+        <mark key="]" line="230" column="66" />
+        <mark key="." line="230" column="66" />
+        <mark key="^" line="230" column="66" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/res/layout/fragment_nav.xml" timestamp="1476975142675">
         <mark key="[" line="97" column="0" />
@@ -3080,12 +3093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="19" filename="$USER_HOME$/dev/gm/omnibus/project-settings/publish_artifact.gradle" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/gm/omnibus/project-settings/dependencies.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/machine-learning/mnist/scala/worksheets/neural-net.sc" />
-      <jump line="282" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" />
-      <jump line="233" column="56" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/Matrix.scala" />
-      <jump line="73" column="12" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
       <jump line="11" column="16" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
       <jump line="24" column="22" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/NeuralNet.scala" />
       <jump line="7" column="38" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/NeuralNetSpec.scala" />
@@ -3180,13 +3187,19 @@
       <jump line="39" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="97" column="17" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
       <jump line="116" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentPresenter.java" />
+      <jump line="171" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" />
+      <jump line="186" column="27" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" />
+      <jump line="187" column="43" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" />
+      <jump line="194" column="34" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" />
+      <jump line="195" column="45" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" />
+      <jump line="204" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4odGhpcmRIYW5kbGVyLCBzZXJ2aWNlUHJvdmlkZXIuZ2V0UmV0cnlTY2hlZHVsZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13790,19 +13803,19 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>nterruptIoError</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</text>
+        <text>alskdjf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cyAtIChkcyAqIGxlYXJuaW5nUmF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlRXJyb3JSZXNwb25zZSBzZXJ2aWNlRXJyb3JSZXNwb25zZSA9IGNyZWF0ZU5ldHdvcmtTZXJ2aWNlUmVzcG9uc2UoY2F1c2UpOyAgIAogICAgICAgIHNlcnZpY2VFcnJvclJlc3BvbnNlLmVycm9yVHlwZSA9IEVycm9yVHlwZS5pbnRlcnJ1cHRJb0Vycm9yOwogICAgICAgIHJldHVybiBuZXcgUmVtb3RlQVBJU2VydmljZUV4Y2VwdGlvbihzZXJ2aWNlRXJyb3JSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4odGhpcmRIYW5kbGVyLCBzZXJ2aWNlUHJvdmlkZXIuZ2V0UmV0cnlTY2hlZHVsZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13820,19 +13833,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEaXZpZGVyTGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJhY3RpdmF0aW9uczogJGFjdGl2YXRpb25zIikK</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBzdGF0aWMgVGhyb3dhYmxlIGV4Y2VwdGlvbkZvclVua25vd25Ib3N0KFJldHJvZml0RXJyb3IgY2F1c2UpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCi8vICAgIHZhbCBkYWR6ID0gb3V0cHV0Lm1hcChhY3RpdmF0aW9uRnVuYy5kZXJpdmF0aXZlKQovLyAgICBwcmludGxuKHMiZGFkejogJGRhZHoiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4odGhpcmRIYW5kbGVyLCBzZXJ2aWNlUHJvdmlkZXIuZ2V0UmV0cnlTY2hlZHVsZXIoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImRhZHo6ICRkYWR6IikK</text>
+        <text encoding="base64">ICAgICAgICBEaXZpZGVyTGluZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImRlZGE6ICRkZWRhIikK</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJhY3RpdmF0aW9uczogJGFjdGl2YXRpb25zIikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15120,32 +15133,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKHMidXBwZXJOb2RlRXJyb3I6ICR1cHBlck5vZGVFcnJvciIpCi8vICAgICAgICAgICAgcHJpbnRsbihzIndlaWdodE1hdHJpeDogJHdlaWdodE1hdHJpeCIpCi8vICAgICAgICAgICAgcHJpbnRsbihzImFjdGl2YXRpb25zQmVsb3c6ICRhY3RpdmF0aW9uc0JlbG93IikK</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJkY2RhOiAkZGNkYSIpCi8vICAgIHZhbCBkYWR6ID0gb3V0cHV0Lm1hcChhY3RpdmF0aW9uRnVuYy5kZXJpdmF0aXZlKQovLyAgICBwcmludGxuKHMiZGFkejogJGRhZHoiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImRhZHo6ICRkYWR6IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImRlZGE6ICRkZWRhIikK</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</last-search>
+      <last-search>alskdjf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</last-pattern>
+      <last-pattern>alskdjf</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>can't convert to dimension</entry>
-        <entry>poll</entry>
-        <entry>regist</entry>
         <entry>asdlfj</entry>
         <entry>registerDe</entry>
         <entry>asldkjf</entry>
@@ -15163,6 +15173,9 @@
         <entry encoding="base64">XDxkYWR6XD4=</entry>
         <entry encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</entry>
         <entry encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</entry>
+        <entry>connection</entry>
+        <entry>connect</entry>
+        <entry>alskdjf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
