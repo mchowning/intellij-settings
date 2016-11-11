@@ -244,6 +244,10 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryHandler.java" timestamp="1478889620115">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="79" column="68" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" timestamp="1477937404313">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="277" column="0" />
@@ -848,6 +852,12 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
         <mark key="^" line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenRequiredRetryHandler.java" timestamp="1478889882298">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/settings.gradle" timestamp="1473785958775">
         <mark key="[" line="1" column="32" />
@@ -1804,11 +1814,11 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenErrorRetryHandler.java" timestamp="1478888465067">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="64" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenErrorRetryHandler.java" timestamp="1478888844774">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradle.properties" timestamp="1471018761485">
         <mark key="[" line="37" column="22" />
@@ -2021,10 +2031,9 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/AbstractRetryHandler.java" timestamp="1478797240676">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/AbstractRetryHandler.java" timestamp="1478888904387">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="107" />
         <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/scala/com/mattchowning_scala/client/FileReadWriteClient.scala" timestamp="1466473855338">
@@ -2279,11 +2288,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/response/ErrorType.java" timestamp="1478796624412">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/response/ErrorType.java" timestamp="1478889913369">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij/src/Main.hs" timestamp="1418958346104">
         <mark key="[" line="5" column="25" />
@@ -2543,13 +2552,6 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" timestamp="1478796603428">
-        <mark key="'" line="208" column="40" />
-        <mark key="[" line="230" column="52" />
-        <mark key="]" line="230" column="66" />
-        <mark key="." line="230" column="66" />
-        <mark key="^" line="230" column="66" />
-      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/res/layout/fragment_nav.xml" timestamp="1476975142675">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="16" />
@@ -2640,12 +2642,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1478881264702">
-        <mark key="'" line="254" column="15" />
-        <mark key="[" line="91" column="93" />
-        <mark key="]" line="91" column="93" />
-        <mark key="." line="91" column="93" />
-        <mark key="^" line="91" column="93" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/live/LiveAysSdk.java" timestamp="1478890151308">
+        <mark key="'" line="262" column="15" />
+        <mark key="[" line="99" column="94" />
+        <mark key="]" line="99" column="94" />
+        <mark key="." line="99" column="94" />
+        <mark key="^" line="99" column="94" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/AppInfoPageInterface.java" timestamp="1478864882667">
         <mark key="[" line="2" column="64" />
@@ -2785,6 +2787,12 @@
         <mark key="]" line="16" column="52" />
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenRetryHandler.java" timestamp="1478889747262">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/DiscardServerHandler.java" timestamp="1464531929527">
         <mark key="[" line="17" column="12" />
@@ -3532,6 +3540,12 @@
         <mark key="^" line="126" column="60" />
         <mark key="." line="126" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ReadTimeoutRetryHandler.java" timestamp="1478890018688">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-data/src/main/java/com/gm/gemini/data/util/EVChargeState.java" timestamp="1461069515167">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="26" />
@@ -3685,6 +3699,12 @@
         <mark key="]" line="46" column="26" />
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/RetryNumberOfTimesHandler.java" timestamp="1478889071387">
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="41" column="46" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/efficiency/FuelEfficiencyInfoBlock.java" timestamp="1462452771342">
         <mark key="[" line="25" column="25" />
@@ -3865,7 +3885,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5qdXN0KDApOyAvLyBUT0RPIHdoYXQgdG8gcmV0dXJuPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4obmV3IFJlYWRUaW1lb3V0UmV0cnlIYW5kbGVyKCksIHNlcnZpY2VQcm92aWRlci5nZXRSZXRyeVNjaGVkdWxlcigpKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14469,37 +14489,37 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>TokenRequiredRetryHandler</text>
       </register>
       <register name="/" type="4">
         <text>infinite</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRFU1RJTkc6IHJldHVybmluZyBvbiBuZXh0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4obmV3IFRva2VuUmVxdWlyZWRSZXRyeUhhbmRsZXIoKSwgc2VydmljZVByb3ZpZGVyLmdldFJldHJ5U2NoZWR1bGVyKCkpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5qdXN0KDApOyAvLyBUT0RPIHdoYXQgdG8gcmV0dXJuPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4obmV3IFJlYWRUaW1lb3V0UmV0cnlIYW5kbGVyKCksIHNlcnZpY2VQcm92aWRlci5nZXRSZXRyeVNjaGVkdWxlcigpKQo=</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludGVycnVwdElvRXJyb3IsCiAgICB1bmtub3duSG9zdEVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludGVycnVwdElvRXJyb3IsCiAgICB1bmtub3duSG9zdEVycm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRFU1RJTkc6IHdvcmtpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmVycm9yVHlwZSA9PSBFcnJvclR5cGUudG9rZW5SZXF1aXJlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9ic2VydmFibGUuemlwV2l0aChPYnNlcnZhYmxlLnJhbmdlKDAsIDEwMDApLCBuZXcgRnVuYzI8VGhyb3dhYmxlLCBJbnRlZ2VyLCBPYmplY3Q+KCkgewovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHB1YmxpYyBPYmplY3QgY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlLCBJbnRlZ2VyIGludGVnZXIpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyKHRocm93YWJsZSwgaW50ZWdlcik7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfSk7CgovLyAgICAgICAgb2JzZXJ2YWJsZS5mbGF0TWFwKG5ldyBGdW5jMTxUaHJvd2FibGUsIE9ic2VydmFibGU8Pz4+KCkgewovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPD8+IGNhbGwoVGhyb3dhYmxlIHRocm93YWJsZSkgewovLyAgICAgICAgICAgICAgICBpZiAoc2hvdWxkUmV0cnkoKSkgewovLwovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZXJyb3IodGhyb3dhYmxlKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15787,13 +15807,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KS5tYXAobmV3IEZ1bmMxPFRocm93YWJsZSwgUmV0cnlDb3VudGVyPigpIHsKICAgICAgICAgICAgcHJpdmF0ZSBpbnQgcmV0cnlOdW0gPSAwOwogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIFJldHJ5Q291bnRlciBjYWxsKFRocm93YWJsZSB0aHJvd2FibGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUmV0cnlDb3VudGVyKCsrcmV0cnlOdW0sIHRocm93YWJsZSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhyb3dhYmxlIGluc3RhbmNlb2YgUmVtb3RlQVBJU2VydmljZUV4Y2VwdGlvbiAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1BhaXI8VGhyb3dhYmxlLCBJbnRlZ2VyPi9SZXRyeUNvdW50ZXIvZw==</text>
@@ -15850,8 +15870,8 @@
         <entry>90</entry>
         <entry>221</entry>
         <entry>276</entry>
-        <entry>NERDTreeToggle</entry>
         <entry encoding="base64">JzwsJz5zL1BhaXI8VGhyb3dhYmxlLCBJbnRlZ2VyPi9SZXRyeUNvdW50ZXIvZw==</entry>
+        <entry>NERDTreeToggle</entry>
       </history-cmd>
       <history-expr />
       <history-input />
