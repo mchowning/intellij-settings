@@ -1525,11 +1525,11 @@
         <mark key="^" line="79" column="66" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/EndToEndTC.java" timestamp="1478818869669">
-        <mark key="[" line="64" column="48" />
-        <mark key="]" line="65" column="7" />
-        <mark key="." line="65" column="7" />
-        <mark key="^" line="65" column="7" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/testsuite/EndToEndTC.java" timestamp="1478880165297">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/courses/algorithms1/mergeSort.hs" timestamp="1422304349845">
         <mark key="[" line="9" column="0" />
@@ -1798,11 +1798,12 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenErrorRetryHandler.java" timestamp="1478799126416">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="22" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenErrorRetryHandler.java" timestamp="1478880057408">
+        <mark key="'" line="53" column="78" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="10" />
+        <mark key="." line="61" column="10" />
+        <mark key="^" line="61" column="10" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gradle.properties" timestamp="1471018761485">
         <mark key="[" line="37" column="22" />
@@ -2506,6 +2507,13 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/util/TestRunner.java" timestamp="1478865279563">
+        <mark key="'" line="219" column="54" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="432" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/tasks/AddBranches.groovy" timestamp="1473519505371">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="7" column="14" />
@@ -2523,6 +2531,13 @@
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.java" timestamp="1478796603428">
+        <mark key="'" line="208" column="40" />
+        <mark key="[" line="230" column="52" />
+        <mark key="]" line="230" column="66" />
+        <mark key="." line="230" column="66" />
+        <mark key="^" line="230" column="66" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/res/layout/fragment_nav.xml" timestamp="1476975142675">
         <mark key="[" line="97" column="0" />
@@ -3721,7 +3736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1574" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
       <jump line="1585" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
       <jump line="1624" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
       <jump line="82" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
@@ -3821,13 +3835,15 @@
       <jump line="231" column="20" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
       <jump line="109" column="16" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
       <jump line="184" column="0" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
+      <jump line="53" column="78" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenErrorRetryHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldFJlcG9ydGl1bUNsaWVudCgpLnRlc3RTdGVwKCJTZXQgYmFja0VuZCAtIEVudmlyb25tZW50Iik7Ci8vICAgICAgICBjbGlja09uSG9tZUJ1dHRvbigpOwovLyAgICAgICAgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKTsKLy8gICAgICAgIGxhdW5jaEdNQ1NldHRpbmdzQXBwKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;
+        getOnBasePage()</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14431,10 +14447,10 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>Environment</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>setBack</text>
+        <text encoding="base64">UGFpcjxUaHJvd2FibGUsIEludGVnZXI+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbGF1bmNoR01DU2V0dGluZ3NBcHAoKXsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXJhbXMucHV0KCJjb250ZW50IiwgIlBSSVZBVEU6c2NyaXB0XFxHb29nbGVfTmV4dXMgNlBfMTYwOTEzXzEzNTE1MS5wbmciKTsKICAgICAgICBhbmREcml2ZXIuZXhlY3V0ZVNjcmlwdCgibW9iaWxlOmltYWdlOnNlbGVjdCIsIHBhcmFtcyk7CiAgICB9Cg==</text>
@@ -14442,26 +14458,27 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldFJlcG9ydGl1bUNsaWVudCgpLnRlc3RTdGVwKCJTZXQgYmFja0VuZCAtIEVudmlyb25tZW50Iik7Ci8vICAgICAgICBjbGlja09uSG9tZUJ1dHRvbigpOwovLyAgICAgICAgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKTsKLy8gICAgICAgIGxhdW5jaEdNQ1NldHRpbmdzQXBwKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>;
+        getOnBasePage()</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFuZERyaXZlci5jbG9zZUFwcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRPbkxvZ2luUGFnZSgpLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbGF1bmNoR01DU2V0dGluZ3NBcHAoKXsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXJhbXMucHV0KCJjb250ZW50IiwgIlBSSVZBVEU6c2NyaXB0XFxHb29nbGVfTmV4dXMgNlBfMTYwOTEzXzEzNTE1MS5wbmciKTsKICAgICAgICBhbmREcml2ZXIuZXhlY3V0ZVNjcmlwdCgibW9iaWxlOmltYWdlOnNlbGVjdCIsIHBhcmFtcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEJ5IGRldmljZUFwcEJ1dHRvbiA9IEJ5LnhwYXRoKCIvLypbQGNvbnRlbnQtZGVzYz1cIkFwcHNcIl0iKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuamF2YWMudXRpbC5QYWlyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzaG91bGRSZXRyeSgpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15749,30 +15766,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNsaWNrT25BbmRyb2lkRGV2aWNlQXBwQnV0dG9uKCl7CiAgICAgICAgYW5kRHJpdmVyLmZpbmRFbGVtZW50KGRldmljZUFwcEJ1dHRvbikuY2xpY2soKTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC51dGlsLlBhaXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKXsKICAgICAgICBhbmREcml2ZXIuZmluZEVsZW1lbnQoZGV2aWNlQXBwQnV0dG9uKS5jbGljaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8Jdm9pZCBzZXRCYWNrZW5kRW52aXJvbm1lbnQoQmFja2VuZEVudmlyb25tZW50IGJhY2tlbmRFbnZpcm9ubWVudCk7Ci8vCXZvaWQgc2V0UGluQXV0aEVkaXRUZXh0KFN0cmluZyBwaW4pOwovLwl2b2lkIHB1bGxHbG9iYWxSZWZyZXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>1568</text>
+        <text encoding="base64">JzwsJz5zL1BhaXI8VGhyb3dhYmxlLCBJbnRlZ2VyPi9SZXRyeUNvdW50ZXIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>setBack</last-search>
+      <last-search encoding="base64">UGFpcjxUaHJvd2FibGUsIEludGVnZXI+</last-search>
       <last-offset />
-      <last-pattern>setBack</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern encoding="base64">UGFpcjxUaHJvd2FibGUsIEludGVnZXI+</last-pattern>
+      <last-replace>RetryCounter</last-replace>
+      <last-substitute encoding="base64">UGFpcjxUaHJvd2FibGUsIEludGVnZXI+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>verify</entry>
         <entry>explicity</entry>
         <entry>explici</entry>
         <entry>setPin</entry>
@@ -15792,9 +15808,9 @@
         <entry>return</entry>
         <entry>pin</entry>
         <entry>setBack</entry>
+        <entry encoding="base64">UGFpcjxUaHJvd2FibGUsIEludGVnZXI+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
         <entry>46</entry>
         <entry>wq</entry>
         <entry>q</entry>
@@ -15814,6 +15830,7 @@
         <entry>221</entry>
         <entry>276</entry>
         <entry>NERDTreeToggle</entry>
+        <entry encoding="base64">JzwsJz5zL1BhaXI8VGhyb3dhYmxlLCBJbnRlZ2VyPi9SZXRyeUNvdW50ZXIvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
