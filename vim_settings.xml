@@ -46,11 +46,11 @@
         <mark key="." line="225" column="0" />
         <mark key="^" line="228" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/DashboardPage.java" timestamp="1478834246240">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="35" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/DashboardPage.java" timestamp="1478871260132">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="248" column="5" />
+        <mark key="." line="239" column="0" />
+        <mark key="^" line="250" column="10" />
       </file>
       <file name="$USER_HOME$/dev/haskell/intellij_playground/src/cis194/Hw2.hs" timestamp="1420568091269">
         <mark key="[" line="121" column="0" />
@@ -1239,12 +1239,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" timestamp="1478870970782">
-        <mark key="'" line="88" column="8" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" timestamp="1478871620895">
+        <mark key="'" line="208" column="32" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="234" column="11" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/file_read_write/client/calls/GetOAuthCall.java" timestamp="1466733134044">
         <mark key="[" line="15" column="56" />
@@ -3707,7 +3707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="849" column="4" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="661" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="184" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
@@ -3807,13 +3806,14 @@
       <jump line="70" column="10" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
       <jump line="75" column="10" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
       <jump line="88" column="8" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
+      <jump line="236" column="32" filename="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidBasePage.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyB2b2lkIG5hdlRvQXBwU3RvcmUoKSB7Ci8vICAgICAgICBhbmREcml2ZXIuZmluZEVsZW1lbnQoYXBwU3RvcmUpLmNsaWNrKCk7Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14417,10 +14417,10 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">IC8vIGVuZCBvZiBjbGFzcw==</text>
       </register>
       <register name="/" type="4">
-        <text>asldfj</text>
+        <text>aslfj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBCeSBQaG9uZUFwcE51bWJlciA9IEJ5LnhwYXRoKCIvLypbQHJlc291cmNlLWlkPVwiY29tLmdvb2dsZS5hbmRyb2lkLmRpYWxlcjppZC9kaWdpdHNcIl0iKTsK</text>
@@ -14429,25 +14429,25 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyB2b2lkIG5hdlRvQXBwU3RvcmUoKSB7Ci8vICAgICAgICBhbmREcml2ZXIuZmluZEVsZW1lbnQoYXBwU3RvcmUpLmNsaWNrKCk7Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIENvbW1vbiBPYmplY3QK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIEJ5IFBob25lQXBwTnVtYmVyID0gQnkueHBhdGgoIi8vKltAcmVzb3VyY2UtaWQ9XCJjb20uZ29vZ2xlLmFuZHJvaWQuZGlhbGVyOmlkL2RpZ2l0c1wiXSIpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgQnkgYXBwU3RvcmUgPSBCeS54cGF0aCgiLy8qW0BsYWJlbD1cIkFwcCBTdG9yZVwiXSIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15735,7 +15735,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICoqKioqKioqKioqKiBBcHAgTWV0aG9kcwkqKioqKioqKioqKiogLy8KLy8gKioqKioqKioqKioqIEFwcCBNZXRob2RzCSoqKioqKioqKioqKiAvLwovLyAgICBwdWJsaWMgdm9pZCBpbnN0YWxsQXBwKFN0cmluZyBhcHBQYXRoVG9JbnN0YWxsKSB7Ci8vICAgICAgICBhbmREcml2ZXIuaW5zdGFsbEFwcChhcHBQYXRoVG9JbnN0YWxsKTsKLy8gICAgfQovLwovLyAgICBwdWJsaWMgdm9pZCBsYXVuY2hBcHAoKSB7Ci8vICAgICAgICBhbmREcml2ZXIubGF1bmNoQXBwKCk7Ci8vICAgICAgICBnZXRSZXBvcnRpdW1DbGllbnQoKS50ZXN0U3RlcCgibGF1bmNoIGFwcCIpOwovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIGNsb3NlQXBwKCkgewovLyAgICAgICAgZ2V0UmVwb3J0aXVtQ2xpZW50KCkudGVzdFN0ZXAoImNsb3NlIGFwcCIpOwovLyAgICAgICAgYW5kRHJpdmVyLmNsb3NlQXBwKCk7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgcmVtb3ZlQXBwKFN0cmluZyBhcHBJZCkgewovLyAgICAgICAgZ2V0UmVwb3J0aXVtQ2xpZW50KCkudGVzdFN0ZXAoImRlbGV0ZSBhcHAiKTsKLy8gICAgICAgIGFuZERyaXZlci5yZW1vdmVBcHAoYXBwSWQpOwovLyAgICB9CgogICAgLy8gKioqKioqKioqKioqIEdlbmVyaWMgTWV0aG9kcwkqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiogLy8K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -15748,9 +15748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asldfj</last-search>
+      <last-search>aslfj</last-search>
       <last-offset />
-      <last-pattern>asldfj</last-pattern>
+      <last-pattern>aslfj</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15758,8 +15758,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</entry>
-        <entry encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</entry>
         <entry>connection</entry>
         <entry>connect</entry>
         <entry>alskdjf</entry>
@@ -15778,6 +15776,8 @@
         <entry>navTo</entry>
         <entry>andDriver</entry>
         <entry>asldfj</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
+        <entry>aslfj</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
