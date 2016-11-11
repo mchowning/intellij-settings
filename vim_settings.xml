@@ -1925,6 +1925,12 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/commoninterfaces/SystemInterface.java" timestamp="1478875000615">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/NettySample/src/main/java/com/mattchowning/netty_examples/http/file/file.txt" timestamp="1464746598329">
         <mark key="[" line="3" column="85" />
         <mark key="]" line="3" column="85" />
@@ -2870,11 +2876,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="45" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidSystem.java" timestamp="1478872973135">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="50" />
-        <mark key="^" line="8" column="53" />
-        <mark key="." line="8" column="50" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AndroidSystem.java" timestamp="1478875050207">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="71" column="5" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-parking/plugin-parking/src/main/java/com/gm/plugin/parking/ui/fullscreen/ParkingFragmentPresenter.java" timestamp="1478097663522">
         <mark key="[" line="296" column="0" />
@@ -3231,11 +3237,11 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AppBasePage.java" timestamp="1478872772633">
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
+      <file name="$USER_HOME$/dev/gm/omnibusautomationperfecto/src/test/java/pages/android/AppBasePage.java" timestamp="1478875598297">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="$USER_HOME$/dev/BowlingGameKata/build.gradle" timestamp="1411218350542">
         <mark key="[" line="10" column="59" />
@@ -3820,8 +3826,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGdldFJlcG9ydGl1bUNsaWVudCgpLnRlc3RTdGVwKCJTZXQgYmFja0VuZCAtIEVudmlyb25tZW50Iik7Ci8vICAgICAgICBjbGlja09uSG9tZUJ1dHRvbigpOwovLyAgICAgICAgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKTsKLy8gICAgICAgIGxhdW5jaEdNQ1NldHRpbmdzQXBwKCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14425,37 +14431,37 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Environment</text>
       </register>
       <register name="/" type="4">
         <text>setBack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNsaWNrT25BbmRyb2lkRGV2aWNlQXBwQnV0dG9uKCl7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbGF1bmNoR01DU2V0dGluZ3NBcHAoKXsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXJhbXMucHV0KCJjb250ZW50IiwgIlBSSVZBVEU6c2NyaXB0XFxHb29nbGVfTmV4dXMgNlBfMTYwOTEzXzEzNTE1MS5wbmciKTsKICAgICAgICBhbmREcml2ZXIuZXhlY3V0ZVNjcmlwdCgibW9iaWxlOmltYWdlOnNlbGVjdCIsIHBhcmFtcyk7CiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEJ5IGRldmljZUFwcEJ1dHRvbiA9IEJ5LnhwYXRoKCIvLypbQGNvbnRlbnQtZGVzYz1cIkFwcHNcIl0iKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldFJlcG9ydGl1bUNsaWVudCgpLnRlc3RTdGVwKCJTZXQgYmFja0VuZCAtIEVudmlyb25tZW50Iik7Ci8vICAgICAgICBjbGlja09uSG9tZUJ1dHRvbigpOwovLyAgICAgICAgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKTsKLy8gICAgICAgIGxhdW5jaEdNQ1NldHRpbmdzQXBwKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFuZERyaXZlci5jbG9zZUFwcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNsaWNrT25BbmRyb2lkRGV2aWNlQXBwQnV0dG9uKCl7CiAgICAgICAgYW5kRHJpdmVyLmZpbmRFbGVtZW50KGRldmljZUFwcEJ1dHRvbikuY2xpY2soKTsKICAgIH0K</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbGF1bmNoR01DU2V0dGluZ3NBcHAoKXsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXJhbXMucHV0KCJjb250ZW50IiwgIlBSSVZBVEU6c2NyaXB0XFxHb29nbGVfTmV4dXMgNlBfMTYwOTEzXzEzNTE1MS5wbmciKTsKICAgICAgICBhbmREcml2ZXIuZXhlY3V0ZVNjcmlwdCgibW9iaWxlOmltYWdlOnNlbGVjdCIsIHBhcmFtcyk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKXsKICAgICAgICBhbmREcml2ZXIuZmluZEVsZW1lbnQoZGV2aWNlQXBwQnV0dG9uKS5jbGljaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8Jdm9pZCBzZXRCYWNrZW5kRW52aXJvbm1lbnQoQmFja2VuZEVudmlyb25tZW50IGJhY2tlbmRFbnZpcm9ubWVudCk7Ci8vCXZvaWQgc2V0UGluQXV0aEVkaXRUZXh0KFN0cmluZyBwaW4pOwovLwl2b2lkIHB1bGxHbG9iYWxSZWZyZXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEJ5IGRldmljZUFwcEJ1dHRvbiA9IEJ5LnhwYXRoKCIvLypbQGNvbnRlbnQtZGVzYz1cIkFwcHNcIl0iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZvaWQgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15743,13 +15749,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEJ5IGRldmljZUFwcEJ1dHRvbiA9IEJ5LnhwYXRoKCIvLypbQGNvbnRlbnQtZGVzYz1cIkFwcHNcIl0iKTsK</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNsaWNrT25BbmRyb2lkRGV2aWNlQXBwQnV0dG9uKCl7CiAgICAgICAgYW5kRHJpdmVyLmZpbmRFbGVtZW50KGRldmljZUFwcEJ1dHRvbikuY2xpY2soKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKXsKICAgICAgICBhbmREcml2ZXIuZmluZEVsZW1lbnQoZGV2aWNlQXBwQnV0dG9uKS5jbGljaygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgY2xpY2tPbkFuZHJvaWREZXZpY2VBcHBCdXR0b24oKXsKICAgICAgICBhbmREcml2ZXIuZmluZEVsZW1lbnQoZGV2aWNlQXBwQnV0dG9uKS5jbGljaygpOwogICAgfQo=</text>
+        <text encoding="base64">Ly8Jdm9pZCBzZXRCYWNrZW5kRW52aXJvbm1lbnQoQmFja2VuZEVudmlyb25tZW50IGJhY2tlbmRFbnZpcm9ubWVudCk7Ci8vCXZvaWQgc2V0UGluQXV0aEVkaXRUZXh0KFN0cmluZyBwaW4pOwovLwl2b2lkIHB1bGxHbG9iYWxSZWZyZXNoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1568</text>
