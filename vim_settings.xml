@@ -1849,9 +1849,10 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="271" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/feedforward/mnist/MLPMnistSingleLayerExample.java" timestamp="1478950225545">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="50" column="57" />
+      <file name="$USER_HOME$/dev/machine-learning/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/feedforward/mnist/MLPMnistSingleLayerExample.java" timestamp="1478950518523">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="90" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/app/src/main/AndroidManifest.xml" timestamp="1474565264836">
         <mark key="[" line="18" column="40" />
@@ -2195,6 +2196,12 @@
         <mark key="^" line="66" column="23" />
         <mark key="." line="66" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/deeplearning4j/Mnist.scala" timestamp="1478951595651">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="55" column="32" />
+        <mark key="." line="55" column="32" />
+        <mark key="^" line="55" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-wifi/plugin-wifi/src/test/java/com/gm/plugin/wifi/HotspotDataTest.java" timestamp="1475014547422">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="91" column="5" />
@@ -2485,11 +2492,11 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/build.sbt" timestamp="1478949570535">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="1" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="1" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/build.sbt" timestamp="1478951398667">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1478870247426">
         <mark key="[" line="0" column="0" />
@@ -3399,11 +3406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
-      <jump line="1325" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
-      <jump line="1331" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
-      <jump line="1337" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
-      <jump line="1357" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
       <jump line="1365" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
       <jump line="1417" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
       <jump line="1517" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/test/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenterTest.java" />
@@ -3499,13 +3501,18 @@
       <jump line="53" column="78" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/TokenErrorRetryHandler.java" />
       <jump line="2488" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/Observable.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/neuralnet/InitialNeuralNet.scala" />
+      <jump line="9" column="17" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/deeplearning4j/Mnist.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/machine-learning/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/feedforward/mnist/MLPMnistSingleLayerExample.java" />
+      <jump line="18" column="17" filename="$USER_HOME$/dev/machine-learning/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/feedforward/mnist/MLPMnistSingleLayerExample.java" />
+      <jump line="19" column="17" filename="$USER_HOME$/dev/machine-learning/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/feedforward/mnist/MLPMnistSingleLayerExample.java" />
+      <jump line="70" column="24" filename="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/deeplearning4j/Mnist.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgbnVtUm93cyA9IDI4OwogICAgICAgIGZpbmFsIGludCBudW1Db2x1bW5zID0gMjg7CiAgICAgICAgaW50IG91dHB1dE51bSA9IDEwOyAvLyBudW1iZXIgb2Ygb3V0cHV0IGNsYXNzZXMKICAgICAgICBpbnQgYmF0Y2hTaXplID0gMTI4OyAvLyBiYXRjaCBzaXplIGZvciBlYWNoIGVwb2NoCiAgICAgICAgaW50IHJuZ1NlZWQgPSAxMjM7IC8vIHJhbmRvbSBudW1iZXIgc2VlZCBmb3IgcmVwcm9kdWNpYmlsaXR5CiAgICAgICAgaW50IG51bUVwb2NocyA9IDE1OyAvLyBudW1iZXIgb2YgZXBvY2hzIHRvIHBlcmZvcm0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14109,37 +14116,37 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>MutableNeuralNet</text>
+        <text>INDArray</text>
       </register>
       <register name="/" type="4">
-        <text>infinite</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgbnVtUm93cyA9IDI4OwogICAgICAgIGZpbmFsIGludCBudW1Db2x1bW5zID0gMjg7CiAgICAgICAgaW50IG91dHB1dE51bSA9IDEwOyAvLyBudW1iZXIgb2Ygb3V0cHV0IGNsYXNzZXMKICAgICAgICBpbnQgYmF0Y2hTaXplID0gMTI4OyAvLyBiYXRjaCBzaXplIGZvciBlYWNoIGVwb2NoCiAgICAgICAgaW50IHJuZ1NlZWQgPSAxMjM7IC8vIHJhbmRvbSBudW1iZXIgc2VlZCBmb3IgcmVwcm9kdWNpYmlsaXR5CiAgICAgICAgaW50IG51bUVwb2NocyA9IDE1OyAvLyBudW1iZXIgb2YgZXBvY2hzIHRvIHBlcmZvcm0K</text>
+        <text encoding="base64">ICAgIG1vZGVsLmZpdChtbmlzdFRyYWluKQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyB1c2UgU3RyZWFtcwovLyBUT0RPIHVzZSAzZCBtYXRyaXggaW5zdGVhZCBvZiBsaXN0IG9mIDJkIG1hdHJpY2VzIGZvciB3ZWlnaHRzPwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnB1dFZhbHMgPSBEZW5zZVZlY3RvcihpbnB1dHMudG9BcnJheSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnB1dFZhbHMgPSBEZW5zZVZlY3RvcihpbnB1dHMudG9BcnJheSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnB1dFZhbHMgPSBEZW5zZVZlY3RvcihpbnB1dHMudG9BcnJheSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBsb2cuaW5mbyhldmFsLnN0YXRzKCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsb2cuaW5mbygiRXZhbHVhdGUgbW9kZWwuLi4uIikK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubWF0dGNob3duaW5nLm5ldXJhbG5ldAoKY2xhc3MgVmVjdG9yaXplZE5ldXJhbE5ldCB7Cgp9Cg==</text>
+        <text encoding="base64">ICBmb3IoIGludCBpPTA7IGk8bnVtRXBvY2hzOyBpKysgKXsKICAgIG1vZGVsLmZpdChtbmlzdFRyYWluKQogIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15427,31 +15434,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2VpZ2h0cy5tYXAge2RlbnNlTWF0cml4ID0+IAogICAgICAgIGRlbnNlTWF0cml4LnRvCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXRyeVdoZW4obmV3IFJlYWRUaW1lb3V0UmV0cnlIYW5kbGVyKCksIHNlcnZpY2VQcm92aWRlci5nZXRSZXRyeVNjaGVkdWxlcigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludGVycnVwdElvRXJyb3IsCiAgICB1bmtub3duSG9zdEVycm9yCg==</text>
+        <text encoding="base64">ICBsb2cuaW5mbygiKioqKioqKioqKioqKioqKkV4YW1wbGUgZmluaXNoZWQqKioqKioqKioqKioqKioqKioqKiIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1BhaXI8VGhyb3dhYmxlLCBJbnRlZ2VyPi9SZXRyeUNvdW50ZXIvZw==</text>
+        <text encoding="base64">JzwsJz5zLzsvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>infinite</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>infinite</last-pattern>
-      <last-replace>RetryCounter</last-replace>
-      <last-substitute encoding="base64">UGFpcjxUaHJvd2FibGUsIEludGVnZXI+</last-substitute>
+      <last-pattern>;</last-pattern>
+      <last-replace />
+      <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>explici</entry>
-        <entry>setPin</entry>
         <entry>scroll</entry>
         <entry encoding="base64">XDxhbmREcml2ZXJcPg==</entry>
         <entry encoding="base64">XDxzc2lkXD4=</entry>
@@ -15470,9 +15475,10 @@
         <entry>setBack</entry>
         <entry encoding="base64">UGFpcjxUaHJvd2FibGUsIEludGVnZXI+</entry>
         <entry>infinite</entry>
+        <entry>log</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2l0L2RlcGVuZGVuY3kvZw==</entry>
@@ -15492,6 +15498,7 @@
         <entry>276</entry>
         <entry encoding="base64">JzwsJz5zL1BhaXI8VGhyb3dhYmxlLCBJbnRlZ2VyPi9SZXRyeUNvdW50ZXIvZw==</entry>
         <entry>NERDTreeToggle</entry>
+        <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
