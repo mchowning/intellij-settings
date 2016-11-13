@@ -3250,11 +3250,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="22" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/deeplearning4j/Xor.scala" timestamp="1479039472575">
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/main/scala/com/mattchowning/deeplearning4j/Xor.scala" timestamp="1479040726973">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/dev/BowlingGameKata/build.gradle" timestamp="1411218350542">
         <mark key="[" line="10" column="59" />
@@ -3839,8 +3839,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14444,7 +14444,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlc1w+</text>
@@ -14456,16 +14456,16 @@
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmNsYXNzIFhvcklucHV0KGlucHV0MTogSW50LCBpbnB1dDI6IEludCwgb3V0cHV0OiBJbnQpIHsKCn0K</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgbnVtRXBvY2hzID0gMiAvLyBudW1iZXIgb2YgZXBvY2hzIHRvIHBlcmZvcm0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgbnVtRXBvY2hzID0gMiAvLyBudW1iZXIgb2YgZXBvY2hzIHRvIHBlcmZvcm0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -14474,7 +14474,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbyhldmFsLnN0YXRzKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15762,13 +15762,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbygiRXZhbHVhdGUgbW9kZWwuLi4uIikK</text>
+        <text encoding="base64">ICBsb2cuaW5mbyhldmFsLnN0YXRzKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb3IoIGludCBpPTA7IGk8bnVtRXBvY2hzOyBpKysgKXsKICAgIG1vZGVsLmZpdChtbmlzdFRyYWluKQogIH0K</text>
+        <text encoding="base64">ICBsb2cuaW5mbygiRXZhbHVhdGUgbW9kZWwuLi4uIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3IoIGludCBpPTA7IGk8bnVtRXBvY2hzOyBpKysgKXsKICAgIG1vZGVsLmZpdChtbmlzdFRyYWluKQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzsvL2c=</text>
