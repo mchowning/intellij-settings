@@ -905,11 +905,11 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandlerTest.java" timestamp="1479325501104">
-        <mark key="[" line="38" column="42" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="21" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandlerTest.java" timestamp="1479326299865">
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="38" />
+        <mark key="^" line="53" column="45" />
+        <mark key="." line="60" column="38" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/annotation/LoomRes.java" timestamp="1467738713280">
         <mark key="[" line="13" column="0" />
@@ -2150,11 +2150,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479325293229">
-        <mark key="[" line="61" column="85" />
-        <mark key="]" line="61" column="95" />
-        <mark key="." line="61" column="95" />
-        <mark key="^" line="61" column="95" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479326225266">
+        <mark key="'" line="31" column="12" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="71" column="70" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
@@ -3548,10 +3549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
-      <jump line="58" column="63" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
-      <jump line="69" column="60" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
-      <jump line="225" column="15" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="226" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="227" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="228" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
@@ -3648,13 +3645,17 @@
       <jump line="46" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/LiveAllFeaturedOffersTest.java" />
       <jump line="27" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/Scheduler.java" />
       <jump line="151" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/Scheduler.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
+      <jump line="59" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
+      <jump line="62" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
+      <jump line="31" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrU2NoZWR1bGVyLmFkdmFuY2VUaW1lQnkoMjAsIFRpbWVVbml0LlNFQ09ORFMpOwo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14258,37 +14259,37 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>errorName</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</text>
+        <text>asdlfkj</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;UnknownHostException&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrU2NoZWR1bGVyLmFkdmFuY2VUaW1lQnkoMjAsIFRpbWVVbml0LlNFQ09ORFMpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRpbWVPZkluaXRpYWxDYWxsID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRpbWVPZkluaXRpYWxDYWxsID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIHNob3VsZF9ub3RfcmV0cnlfbGVzc190aGFuXzVfc2Vjb25kcygpIHsKLy8gICAgICAgIFRPRE8KLy8gICAgfQoKLy8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgc2hvdWxkX25vdF9yZXRyeV9hZnRlcl9tb3JlX3RoYW5fMzBfc2Vjb25kcygpIHsKLy8gICAgICAgIFRPRE8KLy8gICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb25uZWN0aW9uRXJyb3JSZXRyeUhhbmRsZXIoU2NoZWR1bGVyKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgUkVUUllfRFVSQVRJT05fU0VDT05EUyA9IDMwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnRWYWx1ZUNvdW50KDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrU2NoZWR1bGVyLmFkdmFuY2VUaW1lQnkoMSwgVGltZVVuaXQuU0VDT05EUyk7CiAgICAgICAgdGVzdFN1YnNjcmliZXIuYXNzZXJ0VmFsdWVDb3VudCgxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZVV0aWxzLnNldEN1cnJlbnRNaWxsaXNGaXhlZChUaW1lVW5pdC5TRUNPTkRTLnRvTWlsbGlzKDYpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15576,22 +15577,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZVV0aWxzLnNldEN1cnJlbnRNaWxsaXNGaXhlZCgwKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIERhdGVUaW1lVXRpbHMuc2V0Q3VycmVudE1pbGxpc0ZpeGVkKDApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVsZXZhbnRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICBEYXRlVGltZVV0aWxzLnNldEN1cnJlbnRNaWxsaXNGaXhlZChUaW1lVW5pdC5TRUNPTkRTLnRvTWlsbGlzKDYpKTsKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lVW5pdC5TRUNPTkRTLnRvTWlsbGlzKDUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Rva2VuUmVxdWlyZWQvUmVhZFRpbWVvdXQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</last-search>
+      <last-search>asdlfkj</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</last-pattern>
+      <last-pattern>asdlfkj</last-pattern>
       <last-replace>ReadTimeout</last-replace>
       <last-substitute>TokenRequired</last-substitute>
       <last-dir>1</last-dir>
@@ -15599,8 +15600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>navTo</entry>
-        <entry>andDriver</entry>
         <entry>asldfj</entry>
         <entry encoding="base64">XDxpXD4=</entry>
         <entry>aslfj</entry>
@@ -15619,6 +15618,8 @@
         <entry>TokenRequired</entry>
         <entry>asdljf</entry>
         <entry encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</entry>
+        <entry>System.</entry>
+        <entry>asdlfkj</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
