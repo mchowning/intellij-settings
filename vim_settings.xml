@@ -1775,10 +1775,10 @@
         <mark key="^" line="11" column="108" />
         <mark key="." line="11" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/com/mattchowning/neuralnet/StackBehaviors.scala" timestamp="1478918758513">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
+      <file name="$USER_HOME$/dev/machine-learning/mnist/scala/src/test/scala/com/mattchowning/neuralnet/StackBehaviors.scala" timestamp="1479260605649">
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="46" />
+        <mark key="." line="36" column="46" />
         <mark key="^" line="16" column="50" />
       </file>
       <file name="$USER_HOME$/dev/haskell/scripts-cabal/scripts-cabal.cabal" timestamp="1448644119981">
@@ -3626,8 +3626,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRfcmV0cnlfZm9yXzQwMSgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIE1vY2tXZWJTZXJ2ZXIgc2VydmVyID0gbmV3IE1vY2tXZWJTZXJ2ZXIoKTsKCiAgICAgICAgc2VydmVyLmVucXVldWUoc2V0dXBFcnJvck1vY2tSZXNwb25zZSg0MDEpKTsKICAgICAgICBzZXJ2ZXIuZW5xdWV1ZShzZXR1cFN1Y2Nlc3NmdWxNb2NrUmVzcG9uc2VGcm9tRmlsZShQQVRIX1RPX1JFU1BPTlNFXzEpKTsKICAgICAgICBzZXJ2ZXIucGxheSgwKTsKCiAgICAgICAgVVJMIHVybCA9IHNlcnZlci5nZXRVcmwoU0VSVklDRV9CQVNFVVJMKTsKCiAgICAgICAgU2VydmljZVByb3ZpZGVyIHNlcnZpY2VQcm92aWRlciA9IHNweShTdHViU2VydmljZVByb3ZpZGVyLkJ1aWxkZXIodXJsLnRvVVJJKCkudG9BU0NJSVN0cmluZygpKS5idWlsZCgpKTsKICAgICAgICBBY2NvdW50RGV0YWlsc1Byb3ZpZGVyIGFjY291bnREZXRhaWxzUHJvdmlkZXIgPSBTdHViQWNjb3VudERldGFpbHNQcm92aWRlci5CdWlsZGVyKCkuYnVpbGQoKTsKICAgICAgICBBeXNTZGsgYXlzU2RrID0gbmV3IExpdmVBeXNTZGsoc2VydmljZVByb3ZpZGVyLCBhY2NvdW50RGV0YWlsc1Byb3ZpZGVyKTsKCiAgICAgICAgVGVzdFN1YnNjcmliZXI8TGlzdDxPZmZlcj4+IHRlc3RTdWJzY3JpYmVyID0gbmV3IFRlc3RTdWJzY3JpYmVyPExpc3Q8T2ZmZXI+PigpOwoKICAgICAgICBheXNTZGsuZ2V0QWxsRmVhdHVyZWRPZmZlcnMobGF0aXR1ZGUsIGxvbmdpdHVkZSkuc3Vic2NyaWJlKHRlc3RTdWJzY3JpYmVyKTsKCiAgICAgICAgdmVyaWZ5KHNlcnZpY2VQcm92aWRlciwgdGltZXMoMSkpLm5vdGlmeUludmFsaWRUb2tlbigpOwoKCiAgICAgICAgTGlzdDxPZmZlcj4gb2ZmZXJzTGlzdCA9IHRlc3RTdWJzY3JpYmVyLmdldE9uTmV4dEV2ZW50cygpLmdldCgwKTsKICAgICAgICBhc3NlcnROb3ROdWxsKG9mZmVyc0xpc3QpOwogICAgICAgIGFzc2VydEVxdWFscyg0LCBvZmZlcnNMaXN0LnNpemUoKSk7CgogICAgICAgIGZpbmFsIE9mZmVyIG9mZmVyID0gb2ZmZXJzTGlzdC5nZXQoMCk7CiAgICAgICAgYXNzZXJ0VGhhdChvZmZlci5uYW1lLCBpcygiRklORCBBTkQgQk9PSyBBIEhPVEVMIFJPT00gT04tVEhFLUdPIikpOwoKICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnRDb21wbGV0ZWQoKTsKCiAgICAgICAgc2VydmVyLnNodXRkb3duKCk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14231,7 +14231,7 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>401</text>
