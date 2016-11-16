@@ -14103,7 +14103,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoTW9kdWxlXD4=</text>
+        <text>tbt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cyAtIChkcyAqIGxlYXJuaW5nUmF0ZSkK</text>
@@ -15443,9 +15443,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoTW9kdWxlXD4=</last-search>
+      <last-search>tbt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoTW9kdWxlXD4=</last-pattern>
+      <last-pattern>tbt</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15453,8 +15453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>regist</entry>
-        <entry>asdlfj</entry>
         <entry>registerDe</entry>
         <entry>asldkjf</entry>
         <entry>push</entry>
@@ -15473,6 +15471,8 @@
         <entry encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</entry>
         <entry>token</entry>
         <entry encoding="base64">XDxhdXRoTW9kdWxlXD4=</entry>
+        <entry>nav</entry>
+        <entry>tbt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
