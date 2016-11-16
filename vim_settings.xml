@@ -1013,7 +1013,8 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/LiveAllFeaturedOffersTest.java" timestamp="1479311251585">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/LiveAllFeaturedOffersTest.java" timestamp="1479320686803">
+        <mark key="'" line="46" column="24" />
         <mark key="[" line="46" column="64" />
         <mark key="]" line="46" column="64" />
         <mark key="^" line="46" column="64" />
@@ -2580,7 +2581,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1479318304390">
+      <file name="/fragment.java" timestamp="1479320276001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="65" />
@@ -3540,7 +3541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="660" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="659" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/gm/omnibus/plugin-owner-manual/app/build/intermediates/exploded-aar/com.gm.gemini.sdk/gemini-core/123.456.789/jars/classes.jar!/com/gm/gemini/service/web/gmoc/GetOwnerCenterVehiclesHelper_Factory.class" />
       <jump line="9" column="52" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
@@ -3640,6 +3640,7 @@
       <jump line="88" column="23" filename="$USER_HOME$/.ivy2/cache/org.nd4j/nd4j-api/srcs/nd4j-api-0.6.0-sources.jar!/org/nd4j/linalg/dataset/DataSet.java" />
       <jump line="90" column="42" filename="$USER_HOME$/.ivy2/cache/org.nd4j/nd4j-api/srcs/nd4j-api-0.6.0-sources.jar!/org/nd4j/linalg/dataset/DataSet.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/util/ReadTimeoutRetryHandlerTest.java" />
+      <jump line="46" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/live/LiveAllFeaturedOffersTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14253,7 +14254,7 @@
         <text>oneTooManyRelevantExceptions</text>
       </register>
       <register name="/" type="4">
-        <text>asdljf</text>
+        <text encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRfbm90X3JldHJ5X2Zvcl9ub25faW9fZXhjZXB0aW9uKCkgewogICAgICAgIGFzc2VydERvZXNOb3RSZXRyeUZvckV4Y2VwdGlvbihnZXRFeGNlcHRpb24oRXJyb3JUeXBlLmNvbm5lY3RUaW1lb3V0LCAiU29tZU90aGVyRXhjZXB0aW9uIikpOwogICAgfQo=</text>
@@ -15581,9 +15582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asdljf</last-search>
+      <last-search encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>asdljf</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</last-pattern>
       <last-replace>ReadTimeout</last-replace>
       <last-substitute>TokenRequired</last-substitute>
       <last-dir>1</last-dir>
@@ -15591,7 +15592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>install</entry>
         <entry>navTo</entry>
         <entry>andDriver</entry>
         <entry>asldfj</entry>
@@ -15611,6 +15611,7 @@
         <entry>401</entry>
         <entry>TokenRequired</entry>
         <entry>asdljf</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
