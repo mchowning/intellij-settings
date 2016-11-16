@@ -1791,6 +1791,9 @@
         <mark key="." line="117" column="23" />
         <mark key="^" line="117" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" timestamp="1479302871732">
+        <mark key="'" line="214" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/plugin_common_resources/util/RxUtil.java" timestamp="1462977697910">
         <mark key="[" line="11" column="108" />
         <mark key="]" line="11" column="108" />
@@ -2430,7 +2433,7 @@
         <mark key="." line="15" column="122" />
         <mark key="^" line="15" column="122" />
       </file>
-      <file name="/a.regexp" timestamp="1478793977688">
+      <file name="/a.regexp" timestamp="1479302832537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/NettySample/discard-server/src/main/java/Hello.java" timestamp="1464523592684">
@@ -3387,15 +3390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="7" filename="$USER_HOME$/.ivy2/cache/org.scalanlp/breeze_2.11/srcs/breeze_2.11-0.12-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="42" column="29" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="128" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="141" column="42" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="204" column="40" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="43" column="37" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/MainActivity.java" />
-      <jump line="62" column="46" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="101" column="13" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
-      <jump line="104" column="15" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-app-shell/src/main/java/com/gm/gemini/presenters/DashboardFragmentPresenter.java" />
       <jump line="74" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="248" column="39" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
       <jump line="249" column="57" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/sdk/tasks/vehicle/RemoteCommandHandler.java" />
@@ -3487,6 +3481,15 @@
       <jump line="47" column="52" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
       <jump line="95" column="29" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
       <jump line="97" column="39" filename="$MAVEN_REPOSITORY$/com/gm/onstar/remote/offers/commerce-sdk/123.456.789/commerce-sdk-123.456.789.jar!/com/gm/onstar/remote/offers/sdk/client/error/RemoteAPIServiceErrorHandler.class" />
+      <jump line="236" column="10" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="237" column="30" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="285" column="41" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="286" column="10" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="287" column="40" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="289" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="27" column="33" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="107" column="98" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
+      <jump line="214" column="23" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/build/generated/source/apt/debug/com/gm/plugin/atyourservice/DaggerAtYourServiceComponent.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -14100,7 +14103,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text encoding="base64">XDxhdXRoTW9kdWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cyAtIChkcyAqIGxlYXJuaW5nUmF0ZSkK</text>
@@ -15440,9 +15443,9 @@
       </register>
     </registers>
     <search>
-      <last-search>token</last-search>
+      <last-search encoding="base64">XDxhdXRoTW9kdWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoTW9kdWxlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -15450,7 +15453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>poll</entry>
         <entry>regist</entry>
         <entry>asdlfj</entry>
         <entry>registerDe</entry>
@@ -15470,6 +15472,7 @@
         <entry encoding="base64">XDxlbmFibGVQdWxsVG9SZWZyZXNoXD4=</entry>
         <entry encoding="base64">XDxzZXRSZWZyZXNoRW5hYmxlZFw+</entry>
         <entry>token</entry>
+        <entry encoding="base64">XDxhdXRoTW9kdWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ludC9Eb3VibGUvZw==</entry>
