@@ -2150,10 +2150,10 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479397493931">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="93" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479403230037">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="0" />
         <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
@@ -3548,7 +3548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="227" column="19" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="228" column="20" filename="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/OilLifeInfoBlockPresenter.java" />
       <jump line="40" column="32" filename="$USER_HOME$/dev/gm/omnibus/plugin-preferred-dealer/plugin-preferred-dealer/src/main/java/com/gm/plugin/preferred_dealer/ui/card/PreferredDealerQuickViewPresenter.java" />
@@ -3646,15 +3645,16 @@
       <jump line="151" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/2e5ded06594e14fc251f4c50cb10fe499d6f477e/rxjava-1.0.16-sources.jar!/rx/Scheduler.java" />
       <jump line="55" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
       <jump line="59" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
-      <jump line="62" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
       <jump line="31" column="12" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRlc3RTdWJzY3JpYmVyLmFzc2VydFZhbHVlQ291bnQoMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGFja2FnZSBjb20uZ20ub25zdGFyLnJlbW90ZS5vZmZlcnMuc2RrLnV0aWw7CgppbXBvcnQgY29tLmdtLm9uc3Rhci5yZW1vdGUub2ZmZXJzLnNkay5jbGllbnQuZXJyb3IuUmVtb3RlQVBJU2VydmljZUV4Y2VwdGlvbjsKaW1wb3J0IGNvbS5nbS5vbnN0YXIucmVtb3RlLm9mZmVycy5zZGsucmVzcG9uc2UuRXJyb3JUeXBlOwppbXBvcnQgY29tLmdtLm9uc3Rhci5yZW1vdGUub2ZmZXJzLnNkay5yZXNwb25zZS5TZXJ2aWNlRXJyb3JSZXNwb25zZTsKaW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWU7CmltcG9ydCByeC5PYnNlcnZhYmxlOwppbXBvcnQgcnguU2NoZWR1bGVyOwppbXBvcnQgcnguZnVuY3Rpb25zLkZ1bmMxOwoKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0OwoKcHVibGljIGNsYXNzIENvbm5lY3Rpb25FcnJvclJldHJ5SGFuZGxlciBleHRlbmRzIEJhc2VSZXRyeUhhbmRsZXIgewoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT05ORUNUSU9OX0VSUk9SID0gIlVua25vd25Ib3N0RXhjZXB0aW9uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgVU5JTklUSUFMSVpFRF9USU1FID0gLTE7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgU0VDT05EU19CRVRXRUVOX1JFVFJJRVMgPSA1OwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBSRVRSWV9EVVJBVElPTl9TRUNPTkRTID0gMzA7CgogICAgcHJpdmF0ZSBsb25nIHRpbWVPZkluaXRpYWxDYWxsID0gVU5JTklUSUFMSVpFRF9USU1FOwoKICAgIHByaXZhdGUgZmluYWwgU2NoZWR1bGVyIHNjaGVkdWxlcjsKCiAgICBwdWJsaWMgQ29ubmVjdGlvbkVycm9yUmV0cnlIYW5kbGVyKFNjaGVkdWxlciBzY2hlZHVsZXIpIHsKICAgICAgICB0aGlzLnNjaGVkdWxlciA9IHNjaGVkdWxlcjsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBib29sZWFuIGlzUmVsZXZhbnRUaHJvd2FibGUoVGhyb3dhYmxlIHRocm93YWJsZSkgewogICAgICAgIGlmICh0aHJvd2FibGUgaW5zdGFuY2VvZiBSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIFNlcnZpY2VFcnJvclJlc3BvbnNlIHJlc3BvbnNlID0gKChSZW1vdGVBUElTZXJ2aWNlRXhjZXB0aW9uKSB0aHJvd2FibGUpLmdldFJlc3BvbnNlKCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVEVTVElORzogQ2hlY2tpbmcgaWYgcmVsZXZhbnQgdG8gQ09OTkVDVElPTjogIiArIHJlc3BvbnNlLmVycm9yKTsKICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmVycm9yVHlwZSA9PSBFcnJvclR5cGUubmV0d29ya0Vycm9yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gQ09OTkVDVElPTl9FUlJPUi5lcXVhbHNJZ25vcmVDYXNlKHJlc3BvbnNlLmVycm9yKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT2JzZXJ2YWJsZTw/PiBjYWxsKE9ic2VydmFibGU8PyBleHRlbmRzIFRocm93YWJsZT4gb2JzZXJ2YWJsZSkgewogICAgICAgIHJldHVybiBvYnNlcnZhYmxlLmZsYXRNYXAobmV3IEZ1bmMxPFRocm93YWJsZSwgT2JzZXJ2YWJsZTxUaHJvd2FibGU+PigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPFRocm93YWJsZT4gY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICBpZiAoaXNSZWxldmFudFRocm93YWJsZSh0aHJvd2FibGUpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuanVzdCh0aHJvd2FibGUpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAvLyBOb3QgYSByZWxldmFudCB0aHJvd2FibGUsIGp1c3QgcGFzcyB0aGUgZXJyb3Igb24KICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5lcnJvcih0aHJvd2FibGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSkuZmxhdE1hcChuZXcgRnVuYzE8VGhyb3dhYmxlLCBPYnNlcnZhYmxlPD8+PigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPD8+IGNhbGwoVGhyb3dhYmxlIHRocm93YWJsZSkgewogICAgICAgICAgICAgICAgaWYgKHRpbWVPZkluaXRpYWxDYWxsID09IFVOSU5JVElBTElaRURfVElNRSkgewogICAgICAgICAgICAgICAgICAgIHRpbWVPZkluaXRpYWxDYWxsID0gbm93KCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKHNob3VsZFJldHJ5KCkpIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRFU1RJTkc6IHRyeWluZyBhZ2FpbiIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLnRpbWVyKFNFQ09ORFNfQkVUV0VFTl9SRVRSSUVTLCBUaW1lVW5pdC5TRUNPTkRTLCBzY2hlZHVsZXIpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRFU1RJTkc6IHRocm93aW5nIGVycm9yIik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZXJyb3IodGhyb3dhYmxlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBzaG91bGRSZXRyeSgpIHsKICAgICAgICBsb25nIHRpbWVTaW5jZUluaXRpYWxDYWxsID0gbm93KCkgLSB0aW1lT2ZJbml0aWFsQ2FsbDsKICAgICAgICBsb25nIHNlY29uZHNTaW5jZUluaXRpYWxDYWxsID0gVGltZVVuaXQuTUlMTElTRUNPTkRTLnRvU2Vjb25kcyh0aW1lU2luY2VJbml0aWFsQ2FsbCk7CiAgICAgICAgbG9uZyBtYXhpbXVtRHVyYXRpb25Gb3JOZXh0Q2FsbFRvQmVXaXRoaW5SZXRyeVRpbWVMaW1pdCA9IFJFVFJZX0RVUkFUSU9OX1NFQ09ORFMgLSBTRUNPTkRTX0JFVFdFRU5fUkVUUklFUzsKICAgICAgICByZXR1cm4gc2Vjb25kc1NpbmNlSW5pdGlhbENhbGwgPCBtYXhpbXVtRHVyYXRpb25Gb3JOZXh0Q2FsbFRvQmVXaXRoaW5SZXRyeVRpbWVMaW1pdDsKICAgIH0KCiAgICBwcml2YXRlIGxvbmcgbm93KCkgewogICAgICAgIHJldHVybiBuZXcgRGF0ZVRpbWUoKS5nZXRNaWxsaXMoKTsKICAgIH0KfQ==</text>
       </register>
       <register name="c" type="4">
         <keys>
