@@ -2150,12 +2150,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479412369946">
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479414412278">
         <mark key="'" line="139" column="24" />
-        <mark key="[" line="142" column="23" />
-        <mark key="]" line="142" column="33" />
-        <mark key="." line="142" column="33" />
-        <mark key="^" line="142" column="33" />
+        <mark key="[" line="142" column="77" />
+        <mark key="]" line="142" column="77" />
+        <mark key="." line="142" column="77" />
+        <mark key="^" line="142" column="77" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
@@ -3654,8 +3654,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>passedTimeLimit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaG91bGRSZXRyeSkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14270,29 +14270,29 @@
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaG91bGRSZXRyeSkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>j0f;x</text>
+      </register>
+      <register name="2" type="4">
         <text>;
 
 
         return relevantThrowables</text>
       </register>
-      <register name="q" type="4">
-        <text>j0f;x</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlPEJvb2xlYW4+IHRpbWVyT2JzZXJ2YWJsZSA9IE9ic2VydmFibGUuanVzdCh0cnVlKQogICAgICAgICAgICAgICAgLm1lcmdlV2l0aCgKICAgICAgICAgICAgICAgICAgICAgICAgT2JzZXJ2YWJsZS50aW1lcihSRVRSWV9EVVJBVElPTl9TRUNPTkRTLCBUaW1lVW5pdC5TRUNPTkRTLCBzY2hlZHVsZXIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZsYXRNYXAobmV3IEZ1bmMxPExvbmcsIE9ic2VydmFibGU8Qm9vbGVhbj4+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIE9ic2VydmFibGU8Qm9vbGVhbj4gY2FsbChMb25nIGFMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5qdXN0KGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPyBPYnNlcnZhYmxlLmVycm9yKHRocm93YWJsZSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5jb21iaW5lTGF0ZXN0KHJlbGV2YW50VGhyb3dhYmxlcywgdGltZXJPYnNlcnZhYmxlLCBuZXcgRnVuYzI8VGhyb3dhYmxlLCBCb29sZWFuLCBPYnNlcnZhYmxlPD8+PigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPD8+IGNhbGwoVGhyb3dhYmxlIHRocm93YWJsZSwgQm9vbGVhbiBwYXNzZWRUaW1lTGltaXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXNzZWRUaW1lTGltaXQKICAgICAgICAgICAgICAgICAgICAgICAgPyBPYnNlcnZhYmxlLmVycm9yKHRocm93YWJsZSkKICAgICAgICAgICAgICAgICAgICAgICAgOiBPYnNlcnZhYmxlLnRpbWVyKDUsIFRpbWVVbml0LlNFQ09ORFMpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLndpdGhMYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15580,13 +15580,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIK</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLndpdGhMYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KS5tZXJnZVdpdGgoT2JzZXJ2YWJsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Rva2VuUmVxdWlyZWQvUmVhZFRpbWVvdXQvZw==</text>
