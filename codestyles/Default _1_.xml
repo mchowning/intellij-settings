@@ -29,6 +29,9 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <ScalaCodeStyleSettings>
+    <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
+  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
