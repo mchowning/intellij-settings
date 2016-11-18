@@ -1031,11 +1031,11 @@
         <mark key="^" line="37" column="74" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandlerTest.java" timestamp="1479412688436">
-        <mark key="[" line="61" column="36" />
-        <mark key="]" line="61" column="37" />
-        <mark key="^" line="60" column="37" />
-        <mark key="." line="61" column="37" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/test/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandlerTest.java" timestamp="1479501499172">
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="60" column="41" />
+        <mark key="." line="60" column="41" />
+        <mark key="^" line="76" column="71" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/annotation/LoomRes.java" timestamp="1467738713280">
         <mark key="[" line="13" column="0" />
@@ -2374,12 +2374,12 @@
         <mark key="." line="48" column="123" />
         <mark key="^" line="48" column="123" />
       </file>
-      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479497989605">
-        <mark key="'" line="138" column="24" />
-        <mark key="[" line="161" column="60" />
-        <mark key="]" line="161" column="60" />
-        <mark key="." line="161" column="60" />
-        <mark key="^" line="161" column="63" />
+      <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/util/ConnectionErrorRetryHandler.java" timestamp="1479501220019">
+        <mark key="'" line="80" column="24" />
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="72" column="67" />
+        <mark key="." line="72" column="67" />
+        <mark key="^" line="72" column="67" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/stack.yaml" timestamp="1454468318311">
         <mark key="[" line="10" column="14" />
@@ -3993,7 +3993,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>puts us within retry delay (5 seconds) of total retry time (30 seconds)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -14597,37 +14597,37 @@
         <text>llllllll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>puts us within retry delay (5 seconds) of total retry time (30 seconds)</text>
       </register>
       <register name="/" type="4">
         <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURVNUSU5HOiBvYmplY3QgaWQgIiArIHRocm93YWJsZS5oYXNoQ29kZSgpKTsKLy8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJURVNUSU5HOiBzaG91bGQgcmV0cnkgLT4gIiArIHNob3VsZFJldHJ5KTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRfbm90X3JldHJ5X2ZpdmVfc2Vjb25kc19hZnRlcl9sYXN0X3RyeV9pZl9tb3JlX3RoYW5fMzBfc2Vjb25kc19zaW5jZV9pbml0aWFsX2NhbGwoKSB7CgogICAgICAgIFB1Ymxpc2hTdWJqZWN0PFRocm93YWJsZT4gc3ViamVjdCA9IFB1Ymxpc2hTdWJqZWN0LmNyZWF0ZSgpOwogICAgICAgIE9ic2VydmFibGUgcmVzdWx0ID0gcmV0cnlIYW5kbGVyLmNhbGwoc3ViamVjdCk7CiAgICAgICAgVGVzdFN1YnNjcmliZXIgdGVzdFN1YnNjcmliZXIgPSBuZXcgVGVzdFN1YnNjcmliZXIoKTsKICAgICAgICByZXN1bHQuc3Vic2NyaWJlKHRlc3RTdWJzY3JpYmVyKTsKICAgICAgICBUaHJvd2FibGUgcmVsZXZhbnRFeGNlcHRpb24gPSBnZXRSZWxldmFudEV4Y2VwdGlvbigpOwoKICAgICAgICBzdWJqZWN0Lm9uTmV4dChyZWxldmFudEV4Y2VwdGlvbik7IC8vIGVzdGFibGlzaGVzIHRpbWUgb2YgaW5pdGlhbCBjYWxsCiAgICAgICAgbW9ja1NjaGVkdWxlci5hZHZhbmNlVGltZUJ5KDUsIFRpbWVVbml0LlNFQ09ORFMpOwogICAgICAgIHRlc3RTdWJzY3JpYmVyLmFzc2VydFZhbHVlQ291bnQoMSk7CgogICAgICAgIG1vY2tTY2hlZHVsZXIuYWR2YW5jZVRpbWVCeSgyMCwgVGltZVVuaXQuU0VDT05EUyk7IC8vIHB1dHMgdXMgd2l0aGluIHJldHJ5IGRlbGF5ICg1IHNlY29uZHMpIG9mIHRvdGFsIHJldHJ5IHRpbWUgKDMwIHNlY29uZHMpCiAgICAgICAgc3ViamVjdC5vbk5leHQocmVsZXZhbnRFeGNlcHRpb24pOwogICAgICAgIG1vY2tTY2hlZHVsZXIuYWR2YW5jZVRpbWVCeSg1LCBUaW1lVW5pdC5TRUNPTkRTKTsgLy8gcHV0cyB1cyBhdCAzMCBzZWNvbmRzIHNpbmNlIGluaXRpYWwgY2FsbAogICAgICAgIHRlc3RTdWJzY3JpYmVyLmFzc2VydFZhbHVlQ291bnQoMSk7CiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gc2hvdWxkUmV0cnkgPSBob2xkZXIuOwo=</text>
+        <text encoding="base64">ICAgIAogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHNob3VsZF9yZXRyeV9maXZlX3NlY29uZHNfYWZ0ZXJfbGFzdF90cnlfaWZfbm90XzMwX3NlY29uZHNfc2luY2VfaW5pdGlhbF9jYWxsKCkgewoKICAgICAgICBQdWJsaXNoU3ViamVjdDxUaHJvd2FibGU+IHN1YmplY3QgPSBQdWJsaXNoU3ViamVjdC5jcmVhdGUoKTsKICAgICAgICBPYnNlcnZhYmxlIHJlc3VsdCA9IHJldHJ5SGFuZGxlci5jYWxsKHN1YmplY3QpOwogICAgICAgIFRlc3RTdWJzY3JpYmVyIHRlc3RTdWJzY3JpYmVyID0gbmV3IFRlc3RTdWJzY3JpYmVyKCk7CiAgICAgICAgcmVzdWx0LnN1YnNjcmliZSh0ZXN0U3Vic2NyaWJlcik7CgogICAgICAgIFRocm93YWJsZSByZWxldmFudEV4Y2VwdGlvbiA9IGdldFJlbGV2YW50RXhjZXB0aW9uKCk7CiAgICAgICAgc3ViamVjdC5vbk5leHQocmVsZXZhbnRFeGNlcHRpb24pOwogICAgICAgIHRlc3RTdWJzY3JpYmVyLmFzc2VydFZhbHVlQ291bnQoMCk7CgogICAgICAgIG1vY2tTY2hlZHVsZXIuYWR2YW5jZVRpbWVCeSg0LCBUaW1lVW5pdC5TRUNPTkRTKTsKICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnRWYWx1ZUNvdW50KDApOwoKICAgICAgICBtb2NrU2NoZWR1bGVyLmFkdmFuY2VUaW1lQnkoMSwgVGltZVVuaXQuU0VDT05EUyk7CiAgICAgICAgdGVzdFN1YnNjcmliZXIuYXNzZXJ0VmFsdWVDb3VudCgxKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>j0f;x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuamF2YWMudXRpbC5QYWlyOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBudWxsOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBudWxsOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIERhdGVUaW1lVXRpbHMuc2V0Q3VycmVudE1pbGxpc0ZpeGVkKDApOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIERhdGVUaW1lVXRpbHMuc2V0Q3VycmVudE1pbGxpc0ZpeGVkKFRpbWVVbml0LlNFQ09ORFMudG9NaWxsaXMoMjUpKTsKLy8gICAgICAgIG1vY2tTY2hlZHVsZXIuYWR2YW5jZVRpbWVCeSgyMCwgVGltZVVuaXQuU0VDT05EUyk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgVE9UQUxfUkVUUllfRFVSQVRJT04gPSAzMDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15915,13 +15915,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaG91bGRSZXRyeSkgewogICAgICAgICAgICAgICAgICAgIFN5c3QKICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS50aW1lcig1LCBUaW1lVW5pdC5TRUNPTkRTLCBzY2hlZHVsZXIpCiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmVycm9yKHRocm93YWJsZSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHNlY29uZHNVbnRpbExhc3RGYWlsdXJlVGhhdFNob3VsZEJlUmV0cmllZCA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYnNlcnZhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaG91bGRSZXRyeSkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Rva2VuUmVxdWlyZWQvUmVhZFRpbWVvdXQvZw==</text>
