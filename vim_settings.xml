@@ -843,6 +843,9 @@
         <mark key="^" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
+      <file name="/Dummy.scala" timestamp="1481025001182">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/haskell/intellij/cabal.config" timestamp="1418945387277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -1970,6 +1973,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/advent-of-code/2016-scala/src/test/scala/Day1Spec.scala" timestamp="1481026810247">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="92" column="59" />
+        <mark key="]" line="92" column="61" />
+        <mark key="." line="92" column="61" />
+        <mark key="^" line="92" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/gm/omnibus/plugin-vehicle-status/plugin-vehicle-status/src/main/java/com/gm/plugin/vehicle_status/ui/fullscreen/VehicleStatusFragmentComponent.java" timestamp="1464887707934">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="14" column="0" />
@@ -2110,6 +2120,12 @@
         <mark key="]" line="3" column="20" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/advent-of-code/2016-scala/worksheet.sc" timestamp="1481024883689">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="45" column="6" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/dev/haskell/mock-car-server/src/Server.hs" timestamp="1461192115623">
         <mark key="[" line="42" column="24" />
@@ -2509,6 +2525,12 @@
         <mark key="]" line="16" column="49" />
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day1.scala" timestamp="1481026651669">
+        <mark key="[" line="99" column="42" />
+        <mark key="]" line="99" column="42" />
+        <mark key="." line="99" column="42" />
+        <mark key="^" line="87" column="39" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-commerce-sdk/commerce-sdk/src/main/java/com/gm/onstar/remote/offers/sdk/api/model/MoreInformationList.java" timestamp="1469016940886">
         <mark key="[" line="14" column="8" />
@@ -3126,11 +3148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="8" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="28" column="16" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="52" column="34" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="53" column="48" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
-      <jump line="89" column="43" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="205" column="66" filename="$USER_HOME$/dev/machine-learning/mnist/scala/.idea/workspace.xml" />
       <jump line="470" column="29" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/plugin-nav/src/main/java/com/gm/plugin/nav/ui/fullscreen/NavFragmentPresenter.java" />
       <jump line="24" column="13" filename="$USER_HOME$/dev/gm/omnibus/plugin-nav/app/build/intermediates/exploded-aar/com.gm.onstar.smrf.sdk/smrf-sdk/1.0.0-SNAPSHOT/jars/classes.jar!/com/gm/onstar/smrf/sdk/helper/BleDataHelper.class" />
@@ -3226,13 +3243,18 @@
       <jump line="115" column="28" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="284" column="24" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
       <jump line="182" column="8" filename="$USER_HOME$/dev/gm/omnibus/plugin-atyourservice/plugin-atyourservice/src/main/java/com/gm/plugin/atyourservice/ui/fullscreen/AtYourServiceFragmentPresenter.java" />
+      <jump line="52" column="19" filename="$USER_HOME$/dev/advent-of-code/2016-scala/worksheet.sc" />
+      <jump line="91" column="13" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day1.scala" />
+      <jump line="80" column="29" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day1.scala" />
+      <jump line="98" column="42" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day1.scala" />
+      <jump line="85" column="8" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/test/scala/Day1Spec.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgIA==</text>
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13833,19 +13855,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>onDestroy</text>
+        <text>asldfj</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;com.gm.gemini.plugin&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHN0cmVhbTogSW5wdXRTdHJlYW0gPSBnZXRDbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCJpbnB1dF9kYXkxIikKICAgICAgdmFsIGlucHV0ID0gaW8uU291cmNlLmZyb21JbnB1dFN0cmVhbShzdHJlYW0pLm1rU3RyaW5nCg==</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13862,20 +13884,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgbGlicmFyaWVzLmNvbW1lcmNlc2RrCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2RiCg==</text>
+        <text encoding="base64">ICAgICAgImRldGVybWluZSB0aGUgZmlyc3QgcG9zaXRpb24gdmlzaXRlZCB0d2ljZSBpbiBhIHNlcmllcyBvZiBtb3ZlcyIgaW4gewogICAgICAgIHZhbCBmaXJzdFJlcGVhdFBvc2l0aW9uID0gRGF5MS5nZXRGaXJzdFJlcGVhdENvb3JkaW5hdGVzKHN0YXJ0aW5nUG9zaXRpb24sCjw8PDw8PDwgVXBkYXRlZCB1cHN0cmVhbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIC0tPgo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERheTEucGFyc2VNb3ZlcygiUjgsIFI0LCBSNCwgUjgiKSkKICAgICAgICBhc3NlcnQoZmlyc3RSZXBlYXRQb3NpdGlvbiA9PSg0LCAwKSkKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplbGV2YXRpb249IkBkaW1lbi9mYWJfZGVwdGgiIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgZGVmIGdldERpc3RhbmNlVG9GaXJzdFJlcGVhdENvb3JkaW5hdGVzKG1vdmVzOiBTdHJpbmcpOiBJbnQgPSB7CiAgICB2YWwgKHgseSkgPSBnZXRGaXJzdFJlcGVhdENvb3JkaW5hdGVzKHN0YXJ0aW5nUG9zaXRpb24sIHBhcnNlTW92ZXMobW92ZXMpKQogICAgTWF0aC5hYnMoeCkgKyBNYXRoLmFicyh5KQo9PT09PT09Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoaW50IG1heFByZWZlcnJlZERlYWxlckFsbG93ZWQsIERlYWxlcltdIGRlYWxlcnMpIHsKPT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBjMWQ0OWFhLi4uIGV4dHJhY3QgZGlzdGFuY2VUbyBmdW5jdGlvbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15162,34 +15184,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlICYmIGZhbHNlCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">c3RhcnRpbmdQb3NpdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>onDestroy</last-search>
+      <last-search>asldfj</last-search>
       <last-offset />
-      <last-pattern>onDestroy</last-pattern>
+      <last-pattern>asldfj</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cancelLoc</entry>
-        <entry>timeout</entry>
-        <entry encoding="base64">XDxzaG91bGRLZWVwUmVjZWl2aW5nTG9jYXRpb25VcGRhdGVzXD4=</entry>
-        <entry encoding="base64">XDxjYW5jZWxVcGRhdGVzSWZOb3RMaXN0ZW5pbmdcPg==</entry>
         <entry>requestNewLocation</entry>
         <entry>cancelLocation</entry>
         <entry encoding="base64">XDxjYW5jZWxMb2NhdGlvblVwZGF0ZXNcPg==</entry>
@@ -15206,6 +15224,10 @@
         <entry>push</entry>
         <entry>core</entry>
         <entry>asdflj</entry>
+        <entry>Math.abs</entry>
+        <entry>aslfj</entry>
+        <entry encoding="base64">XDxzdGFydFBvc1w+</entry>
+        <entry>asldfj</entry>
       </history-search>
       <history-cmd>
         <entry>393</entry>
