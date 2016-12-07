@@ -435,11 +435,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day2.scala" timestamp="1481112175460">
-        <mark key="[" line="72" column="81" />
-        <mark key="]" line="72" column="86" />
-        <mark key="." line="72" column="86" />
-        <mark key="^" line="72" column="86" />
+      <file name="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day2.scala" timestamp="1481113899588">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/plugin-logon/src/main/java/com/gm/gemini/pluginlogon/PluginLogonComponent.java" timestamp="1467041667100">
         <mark key="[" line="8" column="16" />
@@ -532,11 +532,11 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/advent-of-code/2016-scala/src/test/scala/Day2Spec.scala" timestamp="1481111659315">
-        <mark key="[" line="60" column="32" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="40" />
+      <file name="$USER_HOME$/dev/advent-of-code/2016-scala/src/test/scala/Day2Spec.scala" timestamp="1481113863782">
+        <mark key="[" line="109" column="5" />
+        <mark key="]" line="110" column="3" />
+        <mark key="." line="110" column="3" />
+        <mark key="^" line="110" column="3" />
       </file>
       <file name="$USER_HOME$/dev/gm/omnibus/gradle-plugins/omnibus-plugin/src/main/groovy/com/gm/gemini/gradle/DependencyValidator.groovy" timestamp="1473610589358">
         <mark key="'" line="67" column="20" />
@@ -3166,8 +3166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="32" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
-      <jump line="61" column="2" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="170" column="0" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="87" column="20" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
       <jump line="60" column="24" filename="$USER_HOME$/dev/gm/omnibus/gemini-core-sdk/gemini-core/src/main/java/com/gm/gemini/core/location/LocationFinder.java" />
@@ -3266,13 +3264,15 @@
       <jump line="76" column="6" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day1.scala" />
       <jump line="42" column="19" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day2.scala" />
       <jump line="41" column="59" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day2.scala" />
+      <jump line="96" column="18" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day2.scala" />
+      <jump line="122" column="40" filename="$USER_HOME$/dev/advent-of-code/2016-scala/src/main/scala/Day2.scala" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyaXRpY2FsRGlhZ25vc3RpY0V2ZW50LkNyaXRpY2FsRGlhZ25vc3RpY1R5cGUuQkFUVEVSWTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Multiple</text>
+        <text>key</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -13873,19 +13873,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Multiple</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>asldfj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldENvb3JkaW5hdGVGcm9tTXVsdGlwbGVNb3Zlcyhjb29yZGluYXRlLCBkaXJlY3Rpb25zLCBnZXRQYXJ0MUNvb3JkaW5hdGVGcm9tTXVsdGlwbGVNb3ZlcykK</text>
+        <text encoding="base64">ICAgICAgdmFsICh4LCB5KSA9IGNvb3JkaW5hdGUKICAgICAgdmFsIG5ld0Nvb3JkaW5hdGUgPSBkaXJlY3Rpb24gbWF0Y2ggewogICAgICAgIGNhc2UgJ1UnID0+ICh4LCB5IC0gMSkKICAgICAgICBjYXNlICdSJyA9PiAoeCArIDEsIHkpCiAgICAgICAgY2FzZSAnRCcgPT4gKHgsIHkgKyAxKQogICAgICAgIGNhc2UgJ0wnID0+ICh4IC0gMSwgeSkKICAgICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text>// TODO get recall button back in</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldENvb3JkaW5hdGVGcm9tTXVsdGlwbGVNb3Zlcyhjb29yZGluYXRlLCBkaXJlY3Rpb25zLCBnZXRQYXJ0MkNvb3JkaW5hdGVGcm9tTXVsdGlwbGVNb3ZlKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -13901,24 +13901,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChjb29yZCkK</text>
+        <text encoding="base64">ICAgICAgbmV3Q29vcmRpbmF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RyZWFtOiBJbnB1dFN0cmVhbSA9IGdldENsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oImlucHV0X2RheTIiKQogICAgICAgIHZhbCBpbnB1dCA9IGlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oc3RyZWFtKS5ta1N0cmluZwogICAgICAgIHZhbCBpbnB1dExpc3QgPSBpbnB1dC5saW5lcy50b0xpc3QK</text>
+        <text encoding="base64">ICAgICAgdmFsIG5ld0Nvb3JkaW5hdGUgPSAoY29vcmRpbmF0ZSwgZGlyZWN0aW9uKSBtYXRjaCB7CiAgICAgICAgY2FzZSAoKHgseSksICdVJykgPT4gKHgsIHkgLSAxKQogICAgICAgIGNhc2UgKCh4LHkpLCAnUicpID0+ICh4ICsgMSwgeSkKICAgICAgICBjYXNlICgoeCx5KSwgJ0QnKSA9PiAoeCwgeSArIDEpCiAgICAgICAgY2FzZSAoKHgseSksICdMJykgPT4gKHggLSAxLCB5KQogICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;part 1&quot; in {
-      val stream: InputStream = getClass.getResourceAsStream(&quot;input_day2&quot;)
-      val input = io.Source.fromInputStream(stream).mkString
-      val inputList = input.lines.toList
-      assert(Day2.getPart1Digits(inputList) == &quot;65556&quot;)
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">dmFsICh4LCB5KSA9IGNvb3JkaW5hdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzb2wiCg==</text>
+        <text encoding="base64">CiAgZGVmIGlzVmFsaWRQYXJ0MUNvb3JkKGNvb3JkaW5hdGU6IENvb3JkaW5hdGUpOiBCb29sZWFuID0gY29vcmRpbmF0ZSBtYXRjaCB7CiAgICBjYXNlICh4LHkpID0+IHggPj0gMCAmJgogICAgICAgICAgICAgICAgICB5ID49IDAgJiYKICAgICAgICAgICAgICAgICAgeCA8IHBhcnQxS2V5cGFkU2l6ZSAmJgogICAgICAgICAgICAgICAgICB5IDwgcGFydDFLZXlwYWRTaXplCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChnZXRQYXJ0MktleXMpCg==</text>
+        <text encoding="base64">CiAgZGVmIGdldFBhcnQxQ29vcmRpbmF0ZUZyb21TaW5nbGVNb3ZlKGNvb3JkaW5hdGU6IENvb3JkaW5hdGUsIGRpcmVjdGlvbjogQ2hhcik6IENvb3JkaW5hdGUgPQogICAgZ2V0Q29vcmRpbmF0ZUZyb21TaW5nbGVNb3ZlKGNvb3JkaW5hdGUsIGRpcmVjdGlvbiwgaXNWYWxpZFBhcnQxQ29vcmQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15206,31 +15201,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">CiAgZGVmIGdldFBhcnQyQ29vcmRpbmF0ZUZyb21TaW5nbGVNb3ZlKGNvb3JkaW5hdGU6IENvb3JkaW5hdGUsIGRpcmVjdGlvbjogQ2hhcik6IENvb3JkaW5hdGUgPQogICAgZ2V0Q29vcmRpbmF0ZUZyb21TaW5nbGVNb3ZlKGNvb3JkaW5hdGUsIGRpcmVjdGlvbiwgaXNWYWxpZFBhcnQyQ29vcmQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIGdldFBhcnQxQ29vcmRpbmF0ZUZyb21TaW5nbGVNb3ZlKGNvb3JkaW5hdGU6IENvb3JkaW5hdGUsIGRpcmVjdGlvbjogQ2hhcik6IENvb3JkaW5hdGUgPQogICAgZ2V0Q29vcmRpbmF0ZUZyb21TaW5nbGVNb3ZlKGNvb3JkaW5hdGUsIGRpcmVjdGlvbiwgaXNWYWxpZFBhcnQxQ29vcmQpCgogIGRlZiBnZXRQYXJ0MkNvb3JkaW5hdGVGcm9tU2luZ2xlTW92ZShjb29yZGluYXRlOiBDb29yZGluYXRlLCBkaXJlY3Rpb246IENoYXIpOiBDb29yZGluYXRlID0KICAgIGdldENvb3JkaW5hdGVGcm9tU2luZ2xlTW92ZShjb29yZGluYXRlLCBkaXJlY3Rpb24sIGlzVmFsaWRQYXJ0MkNvb3JkKQoKICBkZWYgaXNWYWxpZFBhcnQxQ29vcmQoY29vcmRpbmF0ZTogQ29vcmRpbmF0ZSk6IEJvb2xlYW4gPSBjb29yZGluYXRlIG1hdGNoIHsKICAgIGNhc2UgKHgseSkgPT4geCA+PSAwICYmCiAgICAgICAgICAgICAgICAgIHkgPj0gMCAmJgogICAgICAgICAgICAgICAgICB4IDwgcGFydDFLZXlwYWRTaXplICYmCiAgICAgICAgICAgICAgICAgIHkgPCBwYXJ0MUtleXBhZFNpemUKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgbW92ZXMuc2NhbkxlZnQoKDEsMSkpKG1vdmVUb1BhcnQxQ29vcmRpbmF0ZSkKLy8gICAgICAgICAudGFpbAo=</text>
+        <text encoding="base64">CiAgZGVmIGlzVmFsaWRQYXJ0MkNvb3JkKGNvb3JkaW5hdGU6IENvb3JkaW5hdGUpOiBCb29sZWFuID0gY29vcmRpbmF0ZSBtYXRjaCB7CiAgICBjYXNlICh4LDApID0+IHggPT0gMgogICAgY2FzZSAoeCwxKSA9PiB4ID4gMCAmJiB4IDwgNAogICAgY2FzZSAoeCwyKSA9PiB4ID49IDAgJiYgeCA8PSA0CiAgICBjYXNlICh4LDMpID0+IHggPiAwICYmIHggPCA0CiAgICBjYXNlICh4LDQpID0+IHggPT0gMgogICAgY2FzZSBfICAgICA9PiBmYWxzZQogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2MuXzIveS9n</text>
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
       <last-search>asldfj</last-search>
       <last-offset />
       <last-pattern>asldfj</last-pattern>
-      <last-replace>y</last-replace>
-      <last-substitute>c._2</last-substitute>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>locationmanager</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblJlY2VpdmVyXD4=</entry>
         <entry>removeUpdates</entry>
         <entry>owner</entry>
         <entry>can't convert to dimension</entry>
@@ -15248,6 +15241,8 @@
         <entry>c._1</entry>
         <entry>c._2</entry>
         <entry>case</entry>
+        <entry encoding="base64">XDxUcmF2ZXJzYVw+</entry>
+        <entry>'</entry>
         <entry>asldfj</entry>
       </history-search>
       <history-cmd>
@@ -15266,11 +15261,11 @@
         <entry encoding="base64">JzwsJz5zLyRyZXBvTmFtZS8ke21vZHVsZX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>97</entry>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>143</entry>
         <entry>90</entry>
         <entry encoding="base64">JzwsJz5zL2MuXzEveC9n</entry>
         <entry encoding="base64">JzwsJz5zL2MuXzIveS9n</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
